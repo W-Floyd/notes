@@ -13,22 +13,24 @@ $$
 
 a) What is $P\left(Y_{1}<3, Y_{2}>4\right) ?$ (Round your answer to four decimal places.)
 
+$$
 \begin{aligned}
 P\left(Y_{1}<3, Y_{2}>4\right) &=\int_{4}^{\infty} \int_{0}^{3} e^{-\left(y_{1}+y_{2}\right)} d y_{1} d y_{2} \\
 &=\left(e^{3}-1\right) e^{-7} \\
 P&=0.0174
 \end{aligned}
+$$
 
 b) What is $P\left(Y_{1}+Y_{2}<4\right) ?$ (Round your answer to four decimal places.)
 
-
+$$
 \begin{aligned}
 & 0<Y,<4-Y_{2} \\
 \int_{0}^{4} & \int_{0}^{4-Y_{2}} e^{-\left(y_{1}+y_{2}\right)} d y_{1} dy_{2} \\
 =&\left(e^{4}-5\right) e^{-4} \\
 =& 0.9084
 \end{aligned}
-
+$$
 
 ---
 
@@ -45,25 +47,30 @@ $$
 
 a) Find the value of $k$ that makes this a probability density function.
 
+$$
 \begin{aligned}
 \text { Solve for } k :\\
 1 &=\int_{0}^{1} \int_{0}^{y_{2}} k\left(1-y_{2}\right) d y_{1} d y_{2} \\
 \therefore  k&=6
 \end{aligned}
+$$
 
 b) Find $P\left(Y_{1} \leq \frac{7}{8}, Y_{2} \geq \frac{1}{2}\right)$ (Round your answer to four decimal places.)
 
+$$
 \begin{aligned}
 P\left(y_{1} \leq \frac{7}{8}, y_{2} \geq \frac{1}{2}\right) &=P\left(y_{1} \leq \frac{7}{8}, y_{1} \leq y_{2} \leq 1\right)-P\left(0 \leq y_{1} \leq y_{2} \leq 1, \frac{1}{2} \leq y_{2} \leq 1\right) \\
 &=\int_{0}^{\frac{7}{8}} \int_{y_{1}}^{1} 6\left(1-y_{2}\right) d y_{2} d y_{1}-\int_{\frac{1}{2}}^{1} \int_{0}^{y} 6\left(1-y_{2}\right) d y_{1} d y_{2} \\
 &= 0.4980
 \end{aligned}
+$$
 
 ---
 
 ## Problem 3
 
 We determined that
+
 $$
 f\left(y_{1}, y_{2}\right)=\left\{\begin{array}{ll}
 6\left(1-y_{2}\right), & 0 \leq y_{1} \leq y_{2} \leq 1 \\
@@ -75,38 +82,46 @@ is a valid joint probability density function.
 
 a) Find the marginal density function for $Y_{1}$.
 
+$$
 \begin{aligned}
 f_{1}\left(y_{1}\right)&=\int_{y_{1}}^{1} 6\left(1-y_{2}\right) d y_{2} &,
 \text { where } 0 \leq y_{1} \leq 1 \\
 f_{2}\left(y_{2}\right)&=\int_{0}^{y_{1}} 6\left(1-y_{2}\right) d y_{1} &,
 \text { where } 0 \leq y_{2} \leq 1
 \end{aligned}
+$$
 
 b) Find $P\left(Y_{2} \leq \frac{1}{2} \mid Y_{1} \leq \frac{7}{8}\right) .$ (Skip this problem)
 
 c) Find the conditional density function of $Y_{1}$ given $Y_{2}=y_{2}$.
 
+$$
 \begin{aligned}
 f\left(y_{1} \mid {y_{2}}\right) &=\frac{6\left(1-y_{2}\right)}{-6 \cdot y_{2}\left(y_{2}-1\right)} \\
 &=\frac{1}{y_{2}} &,
 \text { where }  0 \leq y_{1} \leq y_{2} \leq 1
 \end{aligned}
+$$
 
 d) Find the conditional density function of $Y_{2}$ given $Y_{1}=y_{1}$.
 
+$$
 \begin{aligned}
 f\left(y_{2} \mid y_{1}\right) &=\frac{6\left(1-y_{2}\right)}{3 \cdot\left(y_{1}^{2}-2 \cdot y_{1}+1\right)} \\
 &=\frac{2\left(1-y_{2}\right)}{ y_{1}^{2}-2 y_{1}+1} &, \text { where }  0 \leq y_{1} \leq y_{2} \leq 1
 \end{aligned}
+$$
 
 e) Find $P\left(Y_{2} \geq \frac{3}{4} \mid Y_{1}=\frac{1}{2}\right)$. (Enter your probability as a fraction.)
 
+$$
 \begin{aligned}
 P\left(Y_{2} \geq \frac{3}{4} \mid Y_{1}=\frac{1}{2}\right)&=\frac{f\left(y_{2}, \frac{1}{2}\right)}{3 \cdot\left(\left(\frac{1}{2}\right)^{2}-2 \cdot\left(\frac{1}{2}\right)+1\right)} \\
 &=\frac{6\left(1-y_{2}\right)}{3 \cdot \frac{1}{4}}=8\left(1-y_{2}\right) &, \frac{3}{4} \leq y_{2} \leq 1 \\
 &=\int_{\frac{3}{4}}^{1} 8\left(1-y_{2}\right) d y_{2} \\
 &=0.25=\frac{1}{4}
 \end{aligned}
+$$
 
 ---
 
@@ -114,6 +129,7 @@ P\left(Y_{2} \geq \frac{3}{4} \mid Y_{1}=\frac{1}{2}\right)&=\frac{f\left(y_{2},
 
 A service station has both self-service and full-service islands. On each island, there is a single regular unleaded pump with two hoses. Let $X$ denote the number of hoses being used on the self-service island at a particular time, and let $Y$ denote the number of hoses on the full-service island in use at that time. The joint pmf of $X$ and $Y$ appears in the accompanying tabulation
 
+$$
 \begin{array}{ll|lll}
 &&&y\\
 p(x, y) & & 0 & 1 & 2 \\
@@ -121,6 +137,7 @@ p(x, y) & & 0 & 1 & 2 \\
 x & 1 & 0.07 & 0.20 & 0.07 \\
 & 2 & 0.06 & 0.14 & 0.30
 \end{array}
+$$
 
 a) What is $P(X=1$ and $Y=1)$?
 
@@ -128,10 +145,12 @@ $$P(X=1 \text{ and } Y=1)=0.20$$
 
 b) Compute $P(X \leq 1$ and $Y \leq 1)$
 
+$$
 \begin{aligned}
 P(X \leq 1 \text { and } Y \leq 1) &=0.10+0.05+0.07+0.20 \\
 &=0.42
 \end{aligned}
+$$
 
 c) Give a word description of the event $\{X \neq 0$ and $Y \neq 0\}$.
 
@@ -142,14 +161,16 @@ c) Give a word description of the event $\{X \neq 0$ and $Y \neq 0\}$.
 
 Compute the probability of this event.
 
+$$
 \begin{aligned}
 P(X \neq 0 \text{ and } Y \neq 0)&=0.20 + 0.14 + 0.07 + 0.30 \\
 &=0.71
 \end{aligned}
+$$
 
 d) Compute the marginal pmf of $X$.
 
-
+$$
 \begin{aligned}
 p_{X}(0) &=0.10+0.05+0.01 \\
 &=0.16 \\
@@ -158,16 +179,19 @@ p_{X}(1) &=0.07+0.20+0.07 \\
 p_{X}(2) &=0.06+0.14+0.30 \\
 &=0.50
 \end{aligned}
+$$
 
+$$
 \begin{array}{c|lll}
 x & 0 & 1 & 2 \\
 \hline p_{X}(x) & 0.16 & 0.34 & 0.50
 \end{array}
+$$
 
 
 Compute the marginal pmf of $Y$.
 
-
+$$
 \begin{aligned}
 p_{Y}(0) &=0.10+0.07+0.06 \\
 &=0.23 \\
@@ -176,15 +200,18 @@ p_{Y}(1) &=0.05+0.20+0.14 \\
 p_{Y}(2) &=0.01+0.07+0.30 \\
 &=0.38
 \end{aligned}
+$$
 
+$$
 \begin{array}{c|lll}
 y & 0 & 1 & 2 \\
 \hline p_{Y}(y) & 0.23 & 0.39 & 0.38
 \end{array}
+$$
 
 Using $p_{X}(x)$, what is $P(X \leq 1)$?
 
-
+$$
 \begin{aligned}
 P(X \leq 1) &=0.16+0.34 \\
 &=0.50 \\
@@ -192,6 +219,7 @@ P(X \leq 1) &=0.16+0.34 \\
 &=1-0.50 \\
 &=0.50
 \end{aligned}
+$$
 
 
 e) Are $X$ and $Y$ independent rv's? Explain.
@@ -215,12 +243,14 @@ $$
 
 a)  Compute the covariance between $X$ and $Y$. (Round your answer to four decimal places.)
 
-
+$$
 \begin{aligned}
 \text { Solve for } K: 1&=\int_{22}^{32} \int_{22}^{32} K\left(x^{2}+y^{2}\right) d x  d y \\
  \therefore K&=\frac{3}{442400}\\
 \end{aligned}
+$$
 
+$$
 \begin{aligned}
 E[X Y]&=\int_{22}^{32} \int_{22}^{32} x y \cdot\left(K \cdot\left(x^{2}+y^{2}\right)\right) d x d y\\
 &= \frac{824499}{1106}\\
@@ -229,21 +259,27 @@ E[X]&=\mu_{x}=\int_{22}^{32} \int_{22}^{32} x\cdot\left(K \cdot\left(x^{2}+y^{2}
 E[Y]&=\mu_{y}=\int_{22}^{32} \int_{22}^{32} y\cdot\left(K \cdot\left(x^{2}+y^{2}\right)\right) d x d y\\
 &= \frac{60399}{2212}\\
 \end{aligned}
+$$
 
+$$
 \begin{aligned}
 \text{Given}: \sigma_{X Y}&=\operatorname{Cov}(X, Y)=E[X Y]-\mu_{x} \cdot \mu_{y}\\
 &= \frac{824499}{1106} - \left( \frac{60399}{2212}\right)^2\\
 &= -0.09312
 \end{aligned}
+$$
 
 b) Compute the correlation coefficient $\rho$ for this $X$ and $Y$. (Round your answer to four decimal places.)
 
+$$
 \begin{aligned}
 \text { Correlation coefficient:} \quad & \rho_{x y}=\frac{\sigma_{x y}}{\sigma_{x} \cdot \sigma_{y}}, \quad -1 \leq \rho_{x y} \leq 1\\
 \text{ Variance: } \quad & \sigma_x^2 = E[x^2]-\mu_x^2\\
 \text{ Standard Deviation: } \quad & \sigma_x = \sqrt{\sigma_x^2}\\
 \end{aligned}
+$$
 
+$$
 \begin{aligned}
 \sigma_{x}&=\sqrt{E\left[x^{2}\right]-{E[x]}^{2}} \\
 E\left[x^{2}\right]&=\int_{22}^{32} \int_{22}^{32} x^{2}\left(K\left(x^{2}+y^{2}\right)\right) d x d y \\
@@ -253,15 +289,18 @@ E\left[x^{2}\right]&=\int_{22}^{32} \int_{22}^{32} x^{2}\left(K\left(x^{2}+y^{2}
 &= \sqrt{8.27789}\\
 &= 2.87713\\
 \end{aligned}
+$$
 
 $$
 \text{In this case, }\sigma_x=\sigma_y
 $$
 
+$$
 \begin{aligned}
 \rho_{x y}&= \frac{-0.09312}{8.27789} \\
 &= -0.0112
 \end{aligned}
+$$
 
 ---
 
@@ -273,6 +312,7 @@ the number of contracts awarded to firm A, and
 $Y_2$,
 the number of contracts awarded to firm B, is given by the entries in the following table.
 
+$$
 \begin{array}{|c|c|c|c|}
 \hline & & y_{1}  \\
 \hline y_{2} & 0 & 1 & 2 \\
@@ -281,6 +321,7 @@ the number of contracts awarded to firm B, is given by the entries in the follow
 \hline 2 & \frac{1}{9} & 0 & 0 \\
 \hline
 \end{array}
+$$
 
 Find $\operatorname{Cov}\left(Y_{1}, Y_{2}\right)$. (Round your answer to three decimal places.)
 
@@ -316,41 +357,52 @@ Does the sign of $\operatorname{Cov}\left(Y_{1}, Y_{2}\right)$ surprise you? Why
 
 A shipping company handles containers in three different sizes: (1) $27 \mathrm{ft}^{3}(3 \times 3 \times 3)$, (2) $125 \mathrm{ft}^{3}$, and (3) $512 \mathrm{ft}^{3}$. Let $X_{i}(i=1,2,3)$ denote the number of type $i$ containers shipped during a given week. With $\mu_{i}=E\left(x_{i}\right)$ and $\sigma_{i}^{2}=V\left(X_{i}\right)$, suppose that the mean values and standard deviations are as follows:
 
+$$
 \begin{array}{lll}
 \mu_{1}=230 & \mu_{2}=240 & \mu_{3}=110 \\
 \sigma_{1}=10 & \sigma_{2}=12 & \sigma_{3}=8
 \end{array}
+$$
 
 a) Assuming that $X_{1}, X_{2}, X_{3}$ are independent, calculate the expected value and variance of the total volume shipped. [Hint: Volume $=27 X_{1}+125 X_{2}+512 X_{3}$. ]
 
-
+$$
 \begin{array}{l}
 E[a X+b Y+C]=a E[X]+b E[Y]+C \\
 V[a X+b Y+C]=a^{2} V[X]+b^{2} V[Y]+2 a b \operatorname{Cov}(X, Y]
 \end{array}
+$$
 
+$$
 \begin{aligned}
 \text { Expected Value } &=230\cdot27+240 \cdot 125+512 \cdot 110 \\
 &=92530 \mathrm{ft}^3
 \end{aligned}
+$$
 
+$$
 \begin{aligned}
 V[1+2+3]=& 27^{2} V_{1}+125^{2} V_{2}+512^{2} V_{3} \\
 + &2 \cdot 27 \cdot 125 \cdot 512 \cdot \operatorname{Cov}(x, y)\\
 \text{For independant, }\operatorname{Cov} =& 0\\
 \therefore V[1+2+3]=&27^{2} V_{1}+125^{2} V_{2}+512^{2} V_{3}\\
 \end{aligned}
+$$
 
+$$
 \begin{array}{l}
 V_{1}=\sigma_{1}^{2}=10^{2} \\
 V_{2}=\sigma_{2}^{2}=12^{2} \\
 V_{3}=\sigma_{3}^{2}=8^{2}
 \end{array}
+$$
 
+$$
 \begin{aligned}
 \therefore V[1+2+3] &=27^{2} \cdot 10^{2}+125^{2} \cdot 12^{2}+512^{2} \cdot 8^{2} \\
 &=19100116 \mathrm{ft}^{6}
 \end{aligned}
+$$
 
 b) Would your calculations necessarily be correct if the $X_{i}$ 's were not independent? Explain.
 - [ ] The expected value would not be correct, but the variance would be correct.
@@ -366,11 +418,13 @@ Young's modulus is a quantitative measure of stiffess of an elastic material. Su
 
 a) Calculate $P(84 \leq \bar{X} \leq 86)$ when $n=9$.
 
+$$
 \begin{aligned}
 \bar{X} \sim& N\left(\mu, \frac{\sigma}{\sqrt{n}}\right)\\
 P(84 \leq \bar{X} \leq 86) =& \int_{84}^{86} n\left(x ; 85, \frac{1.9}{\sqrt{9}}\right) d x \\
 =& 0.8857
 \end{aligned}
+$$
 
 b) How likely is it that the sample mean diameter exceeds 86 when $n=16$?
 
