@@ -14,6 +14,8 @@ toc: true
 
 !include ./Summary/Enthalpy.md
 
+!include ./Summary/Entropy.md
+
 !include ./Summary/Quality.md
 
 !include ./Summary/Specific Heat.md
