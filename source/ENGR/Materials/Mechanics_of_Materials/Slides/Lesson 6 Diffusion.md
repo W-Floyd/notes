@@ -506,11 +506,11 @@ Noncystalline Solids - amorphous
 
 Vacancy Diffusion:
 
-• Atoms exchange with vacancies
+* Atoms exchange with vacancies
 
-• Applies to substitutional impurity atoms
+* Applies to substitutional impurity atoms
 
-• Rate depends on:
+* Rate depends on:
 
 \-\- Activation energy (Qd) required to exchange atoms
 
@@ -634,7 +634,7 @@ Data:
 
 # Slide 18 - **Diffusion and Temperature**
 
-• Diffusion coefficient increases with increasing T
+* Diffusion coefficient increases with increasing T
 
 D
 
@@ -823,7 +823,7 @@ at t > 0, C = CS for x = 0 (constant surface conc.)
 
 C = Co for x = 
 
-• Copper diffuses into a bar of aluminum.
+* Copper diffuses into a bar of aluminum.
 
 pre-existing conc., Co of copper atoms
 
@@ -978,7 +978,7 @@ Adapted from chapter-opening photograph, Chapter 5, Callister & Rethwisch 8e. (C
 
 Surface Division, Midland-Ross.)
 
-• Case Hardening:
+* Case Hardening:
 
 \-\- Diffuse carbon atoms
 
@@ -992,14 +992,14 @@ diffusion is a case
 
 hardened gear
 
-• Result: The presence of C
+* Result: The presence of C
 atoms makes iron (steel) harder
 
 ![](./Lesson\ 6\ Diffusion/img32.png)
 
 # Slide 34
 
-• Ferritic Nitrocarburizing - AKA “Black Nitride”
+* Ferritic Nitrocarburizing - AKA “Black Nitride”
 
 \-\- Example of interstitial diffusion is a pistol slide
 
@@ -1015,7 +1015,7 @@ at the surface (done in ~550C liquid salt bath)
 
 # Slide 35
 
-• Doping silicon with phosphorus for n-type semiconductors:
+* Doping silicon with phosphorus for n-type semiconductors:
 
 3\. Result: Doped
 
@@ -1052,27 +1052,27 @@ Adapted from Figure 18.27, Callister & Rethwisch 8e.
 
 Diffusion **FASTER** for...
 
-• Open crystal structures
+* Open crystal structures
 
-• Materials w/secondary
+* Materials w/secondary
 
 bonding
 
-• Smaller diffusing atoms
+* Smaller diffusing atoms
 
-• Lower density materials
+* Lower density materials
 
 Diffusion **SLOWER** for...
 
-• Close-packed structures
+* Close-packed structures
 
-• Materials w/covalent
+* Materials w/covalent
 
 bonding
 
-• Larger diffusing atoms
+* Larger diffusing atoms
 
-• Higher density materials
+* Higher density materials
 
 ![](./Lesson\ 6\ Diffusion/img35.png)
 

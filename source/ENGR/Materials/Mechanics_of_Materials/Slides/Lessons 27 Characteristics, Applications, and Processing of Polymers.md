@@ -335,14 +335,14 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **Why it Matters...**
 
-• What are the tensile properties of polymers and how
+* What are the tensile properties of polymers and how
 are they affected by basic microstructural features?
 
-• How does the elevated temperature mechanical
+* How does the elevated temperature mechanical
 
 response of polymers compare to ceramics and metals?
 
-• What are the primary polymer processing methods?
+* What are the primary polymer processing methods?
 
 ![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img5.png)
 
@@ -364,9 +364,9 @@ response of polymers compare to ceramics and metals?
 
 <number>
 
-• Fracture strengths of polymers ~ 10% of those for metals
+* Fracture strengths of polymers ~ 10% of those for metals
 
-• Deformation strains for polymers > 1000%
+* Deformation strains for polymers > 1000%
 **–** for most metals, deformation strains < 10%
 
 brittle polymer
@@ -481,13 +481,13 @@ e
 
 <number>
 
-• Drawing…(ex: monofilament fishline)
+* Drawing…(ex: monofilament fishline)
 
 \-\- Stretches the polymer prior to use
 
 \-\- Aligns chains in the stretching direction
 
-• Results of drawing:
+* Results of drawing:
 
 \-\- Increases the elastic modulus ( _E_) in the
 
@@ -499,14 +499,14 @@ stretching direction
 
 \-\- Decreases ductility (% _EL_)
 
-• Annealing after drawing...
+* Annealing after drawing...
 
 \-\- Decreases chain alignment
 
 \-\- Reverses effects of drawing (reduces _E_ and
 _TS_, enhances %EL)
 
-• Similar to effects of cold working in metals
+* Similar to effects of cold working in metals
 
 Adapted from Fig. 15.13, _Callister & Rethwisch 8e_. (Fig. 15.13 is from J.M. Schultz, _Polymer Materials Science_, Prentice-Hall, Inc., 1974, pp. 500-501.)
 
@@ -517,7 +517,7 @@ Adapted from Fig. 15.13, _Callister & Rethwisch 8e_. (Fig. 15.13 is from J.M. Sc
 
 <number>
 
-• Thermoplastics:
+* Thermoplastics:
 
 \-\- Little crosslinking
 
@@ -533,7 +533,7 @@ Polycarbonate
 
 Polystyrene
 
-• Thermosets:
+* Thermosets:
 
 \-\- Significant crosslinking
 
@@ -592,7 +592,7 @@ solid
 
 <number>
 
-• Decreasing _T_...
+* Decreasing _T_...
 
 \-\- Increases _E_
 
@@ -600,7 +600,7 @@ solid
 
 \-\- Decreases % _EL_
 
-• Increasing
+* Increasing
 
 strain rate...
 
@@ -685,7 +685,7 @@ Craze formation prior to cracking
 
 <number>
 
-• Heavily kinked/coiled with cross-links to provide elasticity
+* Heavily kinked/coiled with cross-links to provide elasticity
 
 \-\- Contrasts with brittle behavior of aligned, crosslinked & network polymers
 
@@ -752,7 +752,7 @@ Adapted from Fig. 15.18, _Callister & Rethwisch 8e._
 
 # Slide 17 - **Time-Dependent Deformation**
 
-• Representative _Tg_ values (C):
+* Representative _Tg_ values (C):
 
 PE (low density)
 
@@ -778,7 +778,7 @@ Selected values from Table 15.2, _Callister & Rethwisch 8e_.
 
 <number>
 
-• Stress relaxation test:
+* Stress relaxation test:
 
 \-\- strain in tension to eo
 and hold.
@@ -787,7 +787,7 @@ and hold.
 
 stress with time.
 
-• Relaxation modulus:
+* Relaxation modulus:
 
 time
 
@@ -799,7 +799,7 @@ eo
 
 s( _t_)
 
-• There is a large decrease in _Er_
+* There is a large decrease in _Er_
 
 for _T_ \> _Tg_.
 
@@ -1107,13 +1107,13 @@ Fig. 15.21(a), _Callister & Rethwisch 8e._
 
 # Slide 31 - **Summary**
 
-• Limitations of polymers:
+* Limitations of polymers:
 
 \-\- _E_, s _y_, _Kc_, _T_ application are generally small.
 
 \-\- Deformation is often time and temperature dependent.
 
-• Thermoplastics (PE, PS, PP, PC):
+* Thermoplastics (PE, PS, PP, PC):
 
 \-\- Smaller _E_, s _y_, _T_ application
 
@@ -1121,11 +1121,11 @@ Fig. 15.21(a), _Callister & Rethwisch 8e._
 
 \-\- Easier to form and recycle
 
-• Elastomers (rubber):
+* Elastomers (rubber):
 
 \-\- Large reversible strains!
 
-• Thermosets (epoxies, polyesters):
+* Thermosets (epoxies, polyesters):
 
 \-\- Larger _E_, s _y_, _T_ application
 

@@ -798,11 +798,11 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **Why do they matter?**
 
-• When we combine two metal elements...
+* When we combine two metal elements...
 
 what is the resulting equilibrium state?
 
-• In particular, if we specify...
+* In particular, if we specify...
 
 \-\- the composition (e.g., wt% Cu - wt% Ni), and
 
@@ -849,7 +849,7 @@ syrup + sugar
 
 **65**
 
-• Solubility Limit:
+* Solubility Limit:
 
 Maximum concentration for
 
@@ -924,9 +924,9 @@ Adapted from Fig. 9.1,
 
 Callister & Rethwisch 8e.
 
-• Solution – solid, liquid, or gas solutions, single phase
+* Solution – solid, liquid, or gas solutions, single phase
 
-• Mixture – more than one phase
+* Mixture – more than one phase
 
 ![](./Lessons\ 17&18\ Phase\ Diagrams/img22.png)
 
@@ -985,7 +985,7 @@ S
 
 sugar)
 
-• Altering T can change # of phases:
+* Altering T can change # of phases:
 
 -  Altering C can change # of phases:
 
@@ -1020,13 +1020,13 @@ A (20ºC,C = 70)
 
 # Slide 25 - **Components and Phases**
 
-• Components:
+* Components:
 
 The elements or compounds which are present in the alloy
 
 (e.g., Al and Cu)
 
-• Phases:
+* Phases:
 
 The physically and chemically distinct material regions
 
@@ -1098,9 +1098,9 @@ Simple system (e.g., Ni-Cu solution)
 
 # Slide 27 - **Phase Diagrams**
 
-• Indicate phases as a function of T, C, and P.
+* Indicate phases as a function of T, C, and P.
 
-• For this course:
+* For this course:
 
 \- binary systems: just 2 components.
 
@@ -1108,7 +1108,7 @@ Simple system (e.g., Ni-Cu solution)
 
 Adapted from Fig. 9.3(a), Callister & Rethwisch 8e. (Fig. 9.3(a) is adapted from Phase Diagrams of Binary Nickel Alloys, P. Nash (Ed.), ASM International, Materials Park, OH (1991).
 
-• 2 phases:
+* 2 phases:
 
 L
 
@@ -1118,7 +1118,7 @@ a
 
 (solid solution)
 
-• 3 different phase fields:
+* 3 different phase fields:
 
 L
 
@@ -1187,11 +1187,11 @@ phase
 
 diagram
 
-• Phase diagram:
+* Phase diagram:
 
 Cu-Ni system.
 
-• System is:
+* System is:
 
 Adapted from Fig. 9.3(a), Callister & Rethwisch 8e. (Fig. 9.3(a) is adapted from Phase Diagrams of Binary Nickel Alloys, P. Nash (Ed.), ASM International, Materials Park, OH (1991).
 
@@ -1321,11 +1321,11 @@ phase
 
 diagram
 
-• Rule 1: If we know T and Co, then we know:
+* Rule 1: If we know T and Co, then we know:
 
 \-\- which phase(s) is (are) present.
 
-• Examples:
+* Examples:
 
 A(1100ºC, 60 wt% Ni):
 
@@ -1390,11 +1390,11 @@ a
 
 Cu-Ni system
 
-• Rule 2: If we know T and C0, then we can determine:
+* Rule 2: If we know T and C0, then we can determine:
 
 \-\- the composition of each phase.
 
-• Examples:
+* Examples:
 
 TA
 
@@ -1563,11 +1563,11 @@ Adapted from Fig. 9.3(b), Callister & Rethwisch 8e.
 
 # Slide 32 - **Phase Diagrams: Determination of phase weight fractions using Lever Rule**
 
-• Rule 3: If we know T and C0, then can determine:
+* Rule 3: If we know T and C0, then can determine:
 
 \-\- the weight fraction of each phase.
 
-• Examples:
+* Examples:
 
 At TA
 
@@ -1716,11 +1716,11 @@ Adapted from Fig. 9.3(a), Callister & Rethwisch 8e. (Fig. 9.3(a) is adapted from
 
 # Slide 33 - **Cored vs Equilibrium Structures**
 
-• Slow rate of cooling:
+* Slow rate of cooling:
 
 Equilibrium structure
 
-• Fast rate of cooling:
+* Fast rate of cooling:
 
 Cored structure
 
@@ -1732,9 +1732,9 @@ Last a to solidify:
 
 < 35 wt% Ni
 
-• Ca changes as we solidify.
+* Ca changes as we solidify.
 
-• Cu-Ni case:
+* Cu-Ni case:
 
 First a to solidify has Ca = 46 wt% Ni.
 
@@ -1809,13 +1809,13 @@ Cu-Ni
 
 system
 
-• Phase diagram:
+* Phase diagram:
 
 Cu-Ni system.
 
 Adapted from Fig. 9.4, Callister & Rethwisch 8e.
 
-• Consider
+* Consider
 
 microstuctural
 
@@ -1866,7 +1866,7 @@ a: 35 wt% Ni
 
 # Slide 35 - **Mechanical Properties: Cu-Ni System**
 
-• Effect of solid solution strengthening on:
+* Effect of solid solution strengthening on:
 
 \-\- Tensile strength (TS)
 
@@ -1961,17 +1961,17 @@ with a min. melting T.
 
 Adapted from Fig. 9.7, Callister & Rethwisch 8e.
 
-• 3 single phase regions
+* 3 single phase regions
 
 (L, a, b)
 
-• Limited solubility:
+* Limited solubility:
 
 a: mostly Cu
 
 b: mostly Ag
 
-• TE
+* TE
 
 : No liquid below TE
 
@@ -1979,7 +1979,7 @@ b: mostly Ag
 
 temperature TE
 
-• CE
+* CE
 
 Ex.: Cu-Ag system
 
@@ -2059,7 +2059,7 @@ cooling
 
 heating
 
-• **Eutectic reaction**
+* **Eutectic reaction**
 
 L(CE) (CE) + (CE)
 
@@ -2068,11 +2068,11 @@ L(CE) (CE) + (CE)
 
 # Slide 37 - **Microstructural Developments  in Eutectic Systems – Case 1**
 
-• For alloys for which
+* For alloys for which
 
 C0 < 2 wt% Sn
 
-• Result: at room temperature
+* Result: at room temperature
 
 \-\- polycrystalline with grains of
 
@@ -2147,11 +2147,11 @@ Adapted from Fig. 9.11, Callister & Rethwisch 8e.
 
 # Slide 38 - **Microstructural Developments  in Eutectic Systems – Case 2**
 
-• For alloys for which
+* For alloys for which
 
 2 wt% Sn < C0 < 18.3 wt% Sn
 
-• Result:
+* Result:
 
 at temperatures in a + b range
 
@@ -2234,9 +2234,9 @@ a: C0 wt% Sn
 
 # Slide 39 - **Microstructural Developments  in Eutectic Systems – Case 3**
 
-• For alloy of composition C0 = CE
+* For alloy of composition C0 = CE
 
-• Result: Eutectic microstructure (lamellar structure)
+* Result: Eutectic microstructure (lamellar structure)
 
 \-\- alternating layers (lamellae) of a and b phases (“pearlite”)
 
@@ -2325,9 +2325,9 @@ Adapted from Figs. 9.14 & 9.15, Callister & Rethwisch 8e.
 
 # Slide 41 - **Microstructural Developments  in Eutectic Systems – Case 4**
 
-• For alloys for which 18.3 wt% Sn < C0 < 61.9 wt% Sn
+* For alloys for which 18.3 wt% Sn < C0 < 61.9 wt% Sn
 
-• Result: a phase particles and a eutectic microconstituent
+* Result: a phase particles and a eutectic microconstituent
 
 18.3
 
@@ -2389,9 +2389,9 @@ Wa
 
 = 0.50
 
-• Just above TE :
+* Just above TE :
 
-• Just below TE :
+* Just below TE :
 
 C
 
@@ -2559,7 +2559,7 @@ Fig. 9.20, Callister & Rethwisch 8e.
 
 # Slide 45 - **Iron-Carbon (Fe-C) Phase Diagram (steel & cast iron)**
 
-• 2 important
+* 2 important
 
 points
 
@@ -3417,7 +3417,7 @@ Amount of pearlite in 100 g
 
 # Slide 53 - **Alloying with Other Elements**
 
-• Teutectoid changes:
+* Teutectoid changes:
 
 Adapted from Fig. 9.34,Callister & Rethwisch 8e. (Fig. 9.34 from Edgar C. Bain, Functions of the Alloying Elements in Steel, American Society for Metals, 1939, p. 127.)
 
@@ -3443,7 +3443,7 @@ Cr
 
 Mn
 
-• Ceutectoid changes (rel amt of
+* Ceutectoid changes (rel amt of
 
 pearlite/proeutectoid):
 
@@ -3491,7 +3491,7 @@ TLiquidus=217⁰C, TSolidus=220⁰C
 
 # Slide 55 - **Summary**
 
-• Phase diagrams are useful tools to determine:
+* Phase diagrams are useful tools to determine:
 
 \-\- Number and types of phases present,
 
@@ -3501,14 +3501,14 @@ TLiquidus=217⁰C, TSolidus=220⁰C
 
 given the temperature and composition of the system.
 
-• The microstructure of an alloy depends on
+* The microstructure of an alloy depends on
 
 \-\- Its composition
 
 \-\- Whether or not cooling rate allows for maintenance of
 equilibrium
 
-• Important phase diagram phase transformations include
+* Important phase diagram phase transformations include
 eutectic, eutectoid, and peritectic.
 
 ![](./Lessons\ 17&18\ Phase\ Diagrams/img54.png)
@@ -3584,7 +3584,7 @@ a
 
 b
 
-• For a 40 wt% Sn-60 wt% Pb alloy at 150ºC, determine:
+* For a 40 wt% Sn-60 wt% Pb alloy at 150ºC, determine:
 
 \-\- the phases present
 
@@ -3740,7 +3740,7 @@ a
 
 183ºC
 
-• For a 40 wt% Sn-60 wt% Pb alloy at 220ºC, determine:
+* For a 40 wt% Sn-60 wt% Pb alloy at 220ºC, determine:
 
 \-\- the phases present:
 

@@ -598,15 +598,15 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **ISSUES TO ADDRESS...**
 
-• Why are the number of dislocations present
+* Why are the number of dislocations present
 
 greatest in metals?
 
-• How are strength and dislocation motion related?
+* How are strength and dislocation motion related?
 
-• Why does heating alter strength and other properties?
+* Why does heating alter strength and other properties?
 
-• How can metals be strengthened?
+* How can metals be strengthened?
 
 Decrease grain size
 
@@ -622,7 +622,7 @@ Precipitation hardening
 
 **Big Picture**
 
-• Plastic deformation requires moving of dislocations (edge, screw or mixed) in crystal structure
+* Plastic deformation requires moving of dislocations (edge, screw or mixed) in crystal structure
 
 _**Anything that hinders dislocation movement through the crystal will increase the yield strength and hardness of a material**_
 
@@ -661,13 +661,13 @@ Adapted from Fig. 7.2, _Callister & Rethwisch 8e._
 
 # Slide 15 - **Dislocations & Material Types**
 
-• Covalent Ceramics
+* Covalent Ceramics
 
 (Si, diamond): Motion difficult
 
 \- directional (angular) bonding
 
-• Ionic Ceramics (NaCl):
+* Ionic Ceramics (NaCl):
 
 Motion difficult
 
@@ -716,7 +716,7 @@ neighbors of like sign (- and +)
 
 -
 
-• Metals (Cu, Al):
+* Metals (Cu, Al):
 
 Dislocation motion easiest
 
@@ -816,7 +816,7 @@ Adapted from Fig. 7.8, _Callister & Rethwisch 8e._
 
 # Slide 18 - **Stress and Dislocation Motion for Single Crystal**
 
-• Internal resolved shear stress, t _R_
+* Internal resolved shear stress, t _R_
 
 -  Results from applied tensile stresses
 
@@ -927,9 +927,9 @@ plane
 
 # Slide 19 - **Critical Resolved Shear Stress (Ƭcrss )**
 
-• Condition for dislocation motion:
+* Condition for dislocation motion:
 
-• Ease of dislocation motion depends
+* Ease of dislocation motion depends
 
 on crystallographic orientation ( vs )
 
@@ -1020,13 +1020,13 @@ s
 
 300 mm
 
-**• Polycrystals stronger than single**
+*** Polycrystals stronger than single**
 
 **crystals – grain boundaries are**
 
 **barriers to dislocation motion**
 
-**• Polycrystal means crystal**
+*** Polycrystal means crystal**
 
 **orientations change**
 
@@ -1034,13 +1034,13 @@ s
 
 **change from one grain to another**
 
-**• Internal resolved shear stress (t _R_) will vary from one grain to another**
+*** Internal resolved shear stress (t _R_) will vary from one grain to another**
 
-**• The grain with the largest t _R_**
+*** The grain with the largest t _R_**
 
 **yields first**
 
-**• Less favorably oriented**
+*** Less favorably oriented**
 
 **grains yield later (yield of material occurs when t _R_ exceeded for all grains)**
 
@@ -1051,11 +1051,11 @@ s
 
 # Slide 23 - **Four Strategies for Strengthening:  1: Reduce Grain Size**
 
-• Grain boundaries are
+* Grain boundaries are
 
 barriers to slip.
 
-• Barrier "strength"
+* Barrier "strength"
 
 increases with
 
@@ -1063,11 +1063,11 @@ Increasing angle of
 
 misorientation.
 
-• Smaller grain size:
+* Smaller grain size:
 
 more barriers to slip.
 
-• Hall-Petch Equation:
+* Hall-Petch Equation:
 
 Adapted from Fig. 7.14, _Callister & Rethwisch 8e._ (Fig. 7.14 is from _A Textbook of Materials Technology_, by Van Vlack, Pearson Education, Inc., Upper Saddle River, NJ.)
 
@@ -1093,7 +1093,7 @@ Avg Grain Diameter
 
 # Slide 26 - **Four Strategies for Strengthening:  2: Form Solid Solutions**
 
-• Smaller substitutional
+* Smaller substitutional
 
 impurity
 
@@ -1103,7 +1103,7 @@ Impurity generates local stress at **A** and **B** that opposes dislocation moti
 
 **B**
 
-• Larger substitutional
+* Larger substitutional
 
 impurity
 
@@ -1113,9 +1113,9 @@ Impurity generates local stress at **C** and **D** that opposes dislocation moti
 
 **D**
 
-• Impurity atoms distort the lattice & generate lattice strains.
+* Impurity atoms distort the lattice & generate lattice strains.
 
-• These strains can act as barriers to dislocation motion.
+* These strains can act as barriers to dislocation motion.
 
 ![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img25.png)
 
@@ -1147,11 +1147,11 @@ Adapted from Fig. 7.18, _Callister & Rethwisch 8e._
 
 # Slide 30 - **Example: Solid Solution Strengthening in Copper**
 
-• Yield strength & tensile strenght increase with wt% Ni.
+* Yield strength & tensile strenght increase with wt% Ni.
 
-• Empirical relation:
+* Empirical relation:
 
-• Alloying increases s _y_ and _TS_.
+* Alloying increases s _y_ and _TS_.
 
 Adapted from Fig. 7.16(a) and (b), _Callister & Rethwisch 8e._
 
@@ -1211,9 +1211,9 @@ wt.%Ni, (Concentration _C_)
 
 # Slide 32 - **Four Strategies for Strengthening:  3: Cold Work (Strain Hardening)**
 
-• Deformation at room temperature (for most metals).
+* Deformation at room temperature (for most metals).
 
-• Common forming operations reduce the cross-sectional area:
+* Common forming operations reduce the cross-sectional area:
 
 Adapted from Fig. 11.8, _Callister & Rethwisch 8e._
 
@@ -1298,11 +1298,11 @@ roll
 
 # Slide 33 - **Dislocation Structures Change During Cold Working**
 
-• Dislocation structure in Ti after cold working.
+* Dislocation structure in Ti after cold working.
 
-• Dislocations entangle with one another during cold work.
+* Dislocations entangle with one another during cold work.
 
-• Dislocation motion
+* Dislocation motion
 
 becomes more difficult.
 
@@ -1336,7 +1336,7 @@ Dislocation density =
 
  105-106 mm-2
 
-• Yield stress increases as r _d_ increases:
+* Yield stress increases as r _d_ increases:
 
 total dislocation length
 
@@ -1349,11 +1349,11 @@ unit volume
 
 Adapted from Fig. 7.20, _Callister & Rethwisch 8e._
 
-• Yield strength (s _**y**_) increases.
+* Yield strength (s _**y**_) increases.
 
-• Tensile strength ( _TS_) increases.
+* Tensile strength ( _TS_) increases.
 
-• Ductility (% _EL_ or % _AR_) decreases.
+* Ductility (% _EL_ or % _AR_) decreases.
 
 As cold work is increased
 
@@ -1364,7 +1364,7 @@ low carbon steel
 
 # Slide 37 - **Mechanical Property Alterations  Due to Cold Working – Example Problem**
 
-• What are the values of yield strength, tensile strength & ductility after cold working Cu?
+* What are the values of yield strength, tensile strength & ductility after cold working Cu?
 
 _D_ o= 15.2 mm
 
@@ -1455,7 +1455,7 @@ _TS_ = 340 MPa
 
 % _EL =_ 7%
 
-• What are the values of yield strength, tensile strength & ductility for Cu for %CW = 35.6%?
+* What are the values of yield strength, tensile strength & ductility for Cu for %CW = 35.6%?
 
 yield strength (MPa)
 
@@ -1472,11 +1472,11 @@ Adapted from Fig. 7.19, _Callister & Rethwisch 8e._(Fig. 7.19 is adapted from _M
 
 # Slide 39 - **Effect of Heat Treating After Cold Working**
 
-• 1 hour treatment at _Tanneal_...
+* 1 hour treatment at _Tanneal_...
 
 decreases _TS_ and increases % _EL_.
 
-• Effects of cold work are nullified!
+* Effects of cold work are nullified!
 
 Adapted from Fig. 7.22, _Callister & Rethwisch 8e._(Fig. 7.22 is adapted from G. Sachs and K.R. van Horn, _Practical Metallurgy, Applied Metallurgy, and the Industrial Processing of Ferrous and Nonferrous Metals and Alloys_, American Society for Metals, 1940, p. 139.)
 
@@ -1528,7 +1528,7 @@ annealing temperature (ºC)
 
 700
 
-• Three Annealing stages:
+* Three Annealing stages:
 
 - Recovery
 - Recrystallization
@@ -1546,9 +1546,9 @@ Adapted from Fig. 7.5, _Callister & Rethwisch 8e._
 
 # Slide 41 - **Three Stages During Heat Treatment: 1\. Recovery**
 
-• Scenario 1
+* Scenario 1
 
-• Scenario 2
+* Scenario 2
 
 4\. opposite dislocations
 
@@ -1629,7 +1629,7 @@ nucleate after
 
 0.6 mm
 
-• New grains are formed due to energy difference between strained and unstrained areas after recovery
+* New grains are formed due to energy difference between strained and unstrained areas after recovery
 
 \-\- Strain-free grains with lower dislocation densities
 
@@ -1642,7 +1642,7 @@ nucleate after
 
 # Slide 43 - **As Recrystallization Continues…**
 
-• All cold-worked grains are eventually consumed/replaced.
+* All cold-worked grains are eventually consumed/replaced.
 
 Adapted from Fig. 7.21(c),(d), _Callister & Rethwisch 8e._(Fig. 7.21(c),(d) are courtesy of J.E. Burke, General Electric Company.)
 
@@ -1665,7 +1665,7 @@ seconds
 
 Adapted from Fig. 7.21(d),(e), _Callister & Rethwisch 8e._(Fig. 7.21(d),(e) are courtesy of J.E. Burke, General Electric Company.)
 
-• With longer times at higher temp, average grain size increases.
+* With longer times at higher temp, average grain size increases.
 
 After 8 s,
 
@@ -1679,7 +1679,7 @@ After 15 min,
 
 0.6 mm
 
-• Empirical Relation:
+* Empirical Relation:
 
 elapsed time
 
@@ -1886,11 +1886,11 @@ Using Fig 7.19
 
 # Slide 56 - **Four Strategies for Strengthening:  4: Precipitation Hardening**
 
-• Hard precipitates form lattice strains which are difficult to shear.
+* Hard precipitates form lattice strains which are difficult to shear.
 
 Ex: Ceramics in metals (SiC in Iron or Aluminum).
 
-• Result: Increase in yield strength
+* Result: Increase in yield strength
 
 Large shear stress needed
 
@@ -1927,9 +1927,9 @@ spacing
 
 # Slide 57 - **Application: Precipitation Hardening**
 
-• Internal wing structure on Boeing 767
+* Internal wing structure on Boeing 767
 
-• Aluminum is strengthened with precipitates formed
+* Aluminum is strengthened with precipitates formed
 
 by alloying.
 

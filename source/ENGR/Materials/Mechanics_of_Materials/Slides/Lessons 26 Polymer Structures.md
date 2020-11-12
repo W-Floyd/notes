@@ -368,13 +368,13 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **Why It Matters...**
 
-• What are the general structural and chemical
+* What are the general structural and chemical
 characteristics of polymer molecules?
 
-• What are some of the common polymeric
+* What are some of the common polymeric
 materials, and how do they differ chemically?
 
-• How is the crystalline state in polymers different
+* How is the crystalline state in polymers different
 from that in metals and ceramics ?
 
 ![](./Lessons\ 26\ Polymer\ Structures/img9.png)
@@ -643,7 +643,7 @@ Note: polyethylene is a long-chain hydrocarbon
 
 # Slide 23 - **Molecular Weight**
 
-• Molecular weight, _M_ = Mass of a mole of chains
+* Molecular weight, _M_ = Mass of a mole of chains
 
 Low _M_
 
@@ -827,7 +827,7 @@ Adapted from Fig. 14.10, _Callister & Rethwisch 8e._
 
 - Difficult for all regions of all chains to become aligned
 
-• Degree of crystallinity
+* Degree of crystallinity
 expressed as % crystallinity.
 
 \-\- Some physical properties

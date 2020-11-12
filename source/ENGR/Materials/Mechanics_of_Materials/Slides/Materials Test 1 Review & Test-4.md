@@ -508,13 +508,13 @@ Identify required Processing
 
 ex: hardness vs structure of steel
 
-• Properties depend on structure
+* Properties depend on structure
 
 Data obtained from Figs. 10.31(a) and 10.32 with 4 wt% C composition, and from Fig. 11.15, _Callister & Rethwisch 9e_. Micrographs adapted from (a) Fig. 10.19; (b) Fig. 9.30; (c) Fig. 10.33; and (d) Fig. 10.21, _Callister & Rethwisch 9e_. (Figures 10.19, 10.21, & 10.33 copyright 1971 by United States Steel Corporation. Figure 9.30 courtesy of Republic Steel Corporation.)
 
 ex: structure vs cooling rate of steel
 
-• Processing can change structure
+* Processing can change structure
 
 Hardness (BHN)
 
@@ -886,7 +886,7 @@ Close-packed directions:
 
 3 _a_
 
-• APF for a body-centered cubic structure = 0.68
+* APF for a body-centered cubic structure = 0.68
 
 _a_
 
@@ -913,7 +913,7 @@ _a_
 
 # Slide 21 - **Atomic Packing Factor: FCC**
 
-• APF for a face-centered cubic structure = 0.74
+* APF for a face-centered cubic structure = 0.74
 
 _**Maximum Achievable APF**_
 
@@ -1102,7 +1102,7 @@ LD
 
 # Slide 24 - **Crystals as Building Blocks**
 
-• Single Crystals
+* Single Crystals
 
 -Properties vary with
 
@@ -1114,7 +1114,7 @@ of elasticity ( _E_) in BCC iron
 
 Data from Table 3.4, _Callister & Rethwisch 9e_. (Source of data is R.W. Hertzberg, _Deformation and Fracture Mechanics of Engineering Materials_, 3rd ed., John Wiley and Sons, 1989.)
 
-• Polycrystals (> 1 crystal)
+* Polycrystals (> 1 crystal)
 
 -Properties may/may not
 
@@ -1178,11 +1178,11 @@ B
 
 sites
 
-• ABCABC... Stacking Sequence
+* ABCABC... Stacking Sequence
 
-• 2D Projection
+* 2D Projection
 
-• 3D Projection
+* 3D Projection
 
 (FCC Unit Cell)
 
@@ -1345,9 +1345,9 @@ _A2 =_ atomic wt of component 2
 
 Two outcomes if impurity (B) added to host (A):
 
-• Solid solution of B in A (i.e., random dist. of point defects)
+* Solid solution of B in A (i.e., random dist. of point defects)
 
-• Solid solution of B in A as a new phase (usually for a larger amount of B)
+* Solid solution of B in A as a new phase (usually for a larger amount of B)
 
 OR
 
@@ -1434,7 +1434,7 @@ is a potential
 
 vacancy site
 
-**• Equilibrium concentration increases exponentially with temperature**
+*** Equilibrium concentration increases exponentially with temperature**
 
 ![](./Materials\ Test\ 1\ Review\ &\ Test-4/img30.png)
 
@@ -1488,9 +1488,9 @@ magnification
 
 # Slide 34 - **Imperfections Summary**
 
-• Point, Line, and Area defects exist in solids
+* Point, Line, and Area defects exist in solids
 
-• The number and type of defects can be varied
+* The number and type of defects can be varied
 
 and controlled (e.g., _T_ controls vacancy concentration)
 
@@ -1555,7 +1555,7 @@ Adapted from Fig. 5.5, Callister & Rethwisch 8e.
 
 # Slide 37 - **Diffusion and Temperature**
 
-• Diffusion coefficient increases with increasing T
+* Diffusion coefficient increases with increasing T
 
 D
 

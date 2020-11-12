@@ -313,12 +313,12 @@ Fig. 15.26, _Callister & Rethwisch 8e_. (Fig. 15.26 is from _Encyclopædia Brita
 
 **Why it Matters...**
 
-• What are the classes and types of composites?
+* What are the classes and types of composites?
 
-• What are the advantages of using composite
+* What are the advantages of using composite
 materials?
 
-• How do we predict the stiffness and strength of the
+* How do we predict the stiffness and strength of the
 various types of composites?
 
 ![](./Lessons\ 28\ Composites/img6.png)
@@ -361,11 +361,11 @@ various types of composites?
 
 # Slide 10 - **Terminology/Classification**
 
-• Composite:
+* Composite:
 
 \-\- Multiphase material that is artificially made.
 
-• Phase types:
+* Phase types:
 
 \-\- Matrix - is continuous
 
@@ -379,13 +379,13 @@ Adapted from Fig. 16.1(a), _Callister & Rethwisch 8e_.
 
 # Slide 11 - **Terminology/Classification**
 
-• Dispersed phase:
+* Dispersed phase:
 
 \-\- Purpose: carry the load
 
 \-\- Types: particle, fiber, structural
 
-• Matrix phase:
+* Matrix phase:
 
 \-\- Purposes are to:
 
@@ -430,7 +430,7 @@ mm
 
 # Slide 12 - **Composite Benefits**
 
-• PMCs: Increase _E_, s _y_, _TS_, creep resist
+* PMCs: Increase _E_, s _y_, _TS_, creep resist
 
 _E_(GPa)
 
@@ -476,7 +476,7 @@ ceramics
 
 Adapted from T.G. Nieh, "Creep rupture of a silicon-carbide reinforced aluminum composite", _Metall. Trans. A_ Vol. 15(1), pp. 139-146, 1984. Used with permission.
 
-• MMCs:
+* MMCs:
 
 Increase s _y_, T _S_,
 
@@ -526,7 +526,7 @@ ss
 
 (s-1)
 
-• CMCs: Increase _K_ I _c_
+* CMCs: Increase _K_ I _c_
 
 fiber-reinf
 
@@ -552,7 +552,7 @@ Adapted from Fig. 16.2, _Callister & Rethwisch 8e_.
 
 # Slide 14 - **Classification: Particle-Reinforced**
 
-• Examples:
+* Examples:
 
 Adapted from Fig. 10.19, _Callister & Rethwisch 8e_. (Fig. 10.19 is copyright United States Steel Corporation, 1971.)
 
@@ -676,11 +676,11 @@ Post-tensioning – tighten nuts to place concrete under compression
 
 # Slide 16 - **Classification: Particle-Reinforced (cont)**
 
-• Elastic modulus, _Ec_, of composites:
+* Elastic modulus, _Ec_, of composites:
 
 \-\- two “rule of mixture” extremes:
 
-• Application to other properties:
+* Application to other properties:
 
 \-\- Electrical conductivity, s _e_: Replace _E_’s in equations with s _e_’s.
 
@@ -879,9 +879,9 @@ Longitudinal direction
 
 # Slide 20 - **Classification: Fiber-Reinforced (cont)**
 
-• Aligned Continuous fibers
+* Aligned Continuous fibers
 
-• Examples:
+* Examples:
 
 From W. Funk and E. Blank, “Creep deformation of Ni3Al-Mo in-situ composites", _Metall. Trans. A_ Vol. 19(4), pp. 987-998, 1988. Used with permission.
 
@@ -932,9 +932,9 @@ Press, Boca Raton, FL.
 
 # Slide 21 - **Classification: Fiber-Reinforced (cont)**
 
-• Discontinuous fibers, random in 2 dimensions
+* Discontinuous fibers, random in 2 dimensions
 
-• Example: Carbon-Carbon
+* Example: Carbon-Carbon
 
 \-\- fabrication process:
 \- carbon fibers embedded
@@ -947,7 +947,7 @@ at up to 2500ºC.
 turbine exhaust flaps,
 missile nose cones.
 
-• Other possibilities:
+* Other possibilities:
 
 \-\- Discontinuous, random 3D
 
@@ -992,9 +992,9 @@ less strong
 
 # Slide 22 - **Classification: Fiber-Reinforced (cont)**
 
-• Critical fiber length for effective stiffening & strengthening:
+* Critical fiber length for effective stiffening & strengthening:
 
-• Ex: For fiberglass, common fiber length > 15 mm needed
+* Ex: For fiberglass, common fiber length > 15 mm needed
 
 Particle-reinforced
 
@@ -1010,7 +1010,7 @@ fiber-matrix interface
 
 fiber ultimate tensile strength
 
-• For longer fibers, stress transference from matrix is more efficient
+* For longer fibers, stress transference from matrix is more efficient
 
 Short, thick fibers:
 
@@ -1080,7 +1080,7 @@ Structural
 
 # Slide 25
 
-• Estimate of _Ecd_ for discontinuous fibers:
+* Estimate of _Ecd_ for discontinuous fibers:
 
 \-\- valid when fiber length <
 
@@ -1118,7 +1118,7 @@ Fiber-reinforced
 
 Structural
 
-• Estimate of for discontinuous fibers:
+* Estimate of for discontinuous fibers:
 
 2\. When _l_ < _l_ c
 
@@ -1137,7 +1137,7 @@ _l_
 
 # Slide 27 - **Classification: Structural**
 
-• Laminates -
+* Laminates -
 \-\- stacked and bonded fiber-reinforced sheets
 
 \- stacking sequence: e.g., 0º/90º
@@ -1152,7 +1152,7 @@ Fiber-reinforced
 
 Structural
 
-• Sandwich panels
+* Sandwich panels
 
 \-\- honeycomb core between two facing sheets
 

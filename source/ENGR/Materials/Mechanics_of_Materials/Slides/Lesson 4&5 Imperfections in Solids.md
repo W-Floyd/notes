@@ -717,18 +717,18 @@ Noncystalline Solids - amorphous
 
 # Slide 12 - **Types of Imperfections**
 
-• Vacancies
+* Vacancies
 
 - Substitutional atoms
 - Interstitial atoms
 
 Point defects
 
-• Dislocations
+* Dislocations
 
 Linear defects
 
-• Grain Boundaries
+* Grain Boundaries
 
 - Twin Boundaries
 
@@ -739,11 +739,11 @@ Area defects
 
 # Slide 13 - **Point Defects: Vacancies & Self-Interstitials**
 
-• Vacancies:
+* Vacancies:
 
 \- Vacant atomic sites in a structure
 
-• Self-Interstitials:
+* Self-Interstitials:
 
 \- “Extra" atoms positioned between atomic sites (very low probability)
 
@@ -832,14 +832,14 @@ is a potential
 
 vacancy site
 
-**• Equilibrium concentration increases exponentially with temperature**
+*** Equilibrium concentration increases exponentially with temperature**
 
 ![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img13.png)
 
 
 # Slide 15 - **Measuring Activation Energy**
 
-• We can get _Qv_ from
+* We can get _Qv_ from
 
 an experiment
 
@@ -877,7 +877,7 @@ _T_
 
 
 
-• Measure this...
+* Measure this...
 
 _N_
 
@@ -893,7 +893,7 @@ dependence!
 
 defect concentration
 
-• Replot it...
+* Replot it...
 
 1/
 
@@ -922,9 +922,9 @@ slope
 
 # Slide 16 - **Estimating Vacancies Example**
 
-• Find the equil. # of vacancies in 1 m3 of Cu at 1000C.
+* Find the equil. # of vacancies in 1 m3 of Cu at 1000C.
 
-• Given:
+* Given:
 
 _A_
 
@@ -1024,7 +1024,7 @@ _T_
 
 
 
-• Answer:
+* Answer:
 
 _N_
 
@@ -1045,18 +1045,18 @@ _v_
 
 # Slide 17 - **Observing Equilibrium Vacancy Concentration**
 
-• Low energy electron
+* Low energy electron
 
 microscope view of
 
 a (110) surface of NiAl.
 
-• Increasing temperature
+* Increasing temperature
 causes surface island of
 
 atoms to grow
 
-• Why? The equil. vacancy
+* Why? The equil. vacancy
 
 conc. increases via atom
 
@@ -1087,9 +1087,9 @@ equil. vancancy conc. in the bulk.
 
 Two outcomes if impurity (B) added to host (A):
 
-• Solid solution of B in A (i.e., random dist. of point defects)
+* Solid solution of B in A (i.e., random dist. of point defects)
 
-• Solid solution of B in A becomes a new phase (when amount of B is significant)
+* Solid solution of B in A becomes a new phase (when amount of B is significant)
 
 OR
 
@@ -1306,13 +1306,13 @@ VMSE Screen Shots
 
 # Slide 35 - **Dislocation Movement**
 
-**• Slip between crystal planes result when dislocations move under applied stresses**
+*** Slip between crystal planes result when dislocations move under applied stresses**
 
 Schematic of Zinc (HCP):
 
-• Before deformation
+* Before deformation
 
-• After tensile elongation
+* After tensile elongation
 
 slip steps
 
@@ -1323,7 +1323,7 @@ slip steps
 
 # Slide 36 - **Dislocations & Crystal Structures**
 
-• Structure: close-packed
+* Structure: close-packed
 
 planes & directions
 
@@ -1341,7 +1341,7 @@ close-packed plane (top)
 
 close-packed directions
 
-• Comparison among crystal structures:
+* Comparison among crystal structures:
 
 FCC: many close-packed planes/directions;
 
@@ -1349,7 +1349,7 @@ HCP: only one plane, 3 directions;
 
 BCC: none
 
-• Specimens that
+* Specimens that
 
 were tensile
 
@@ -1448,11 +1448,11 @@ Adapted from Fig. 4.9, _Callister & Rethwisch 8e._
 
 # Slide 41 - **Optical Microscopy**
 
-• Useful up to 2000X magnification. (1000-1500X typical)
+* Useful up to 2000X magnification. (1000-1500X typical)
 
-• Polishing removes surface features (e.g., scratches)
+* Polishing removes surface features (e.g., scratches)
 
-• Etching changes reflectance, depending on crystal
+* Etching changes reflectance, depending on crystal
 
 orientation
 
@@ -1502,7 +1502,7 @@ crystallographic planes
 
 # Slide 44 - **Scanning Probe Microscopy (SPM)**
 
-• Probes generate topographic map
+* Probes generate topographic map
 
 - 3-D images at nanometer scale (atoms can be arranged and imaged!)
 
@@ -1517,9 +1517,9 @@ Iron atoms arranged on a copper (111) surface. These Kanji characters represent 
 
 # Slide 45 - **Summary**
 
-• Point, Line, and Area defects exist in solids
+* Point, Line, and Area defects exist in solids
 
-• The number and type of defects can be varied
+* The number and type of defects can be varied
 
 and controlled (e.g., _T_ controls vacancy concentration)
 

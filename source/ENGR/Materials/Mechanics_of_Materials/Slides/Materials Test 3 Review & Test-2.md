@@ -693,17 +693,17 @@ with a min. melting T.
 
 Adapted from Fig. 9.7, Callister & Rethwisch 8e.
 
-• 3 single phase regions
+* 3 single phase regions
 
 (L, a, b)
 
-• Limited solubility:
+* Limited solubility:
 
 a: mostly Cu
 
 b: mostly Ag
 
-• TE
+* TE
 
 : No liquid below TE
 
@@ -711,7 +711,7 @@ b: mostly Ag
 
 temperature TE
 
-• CE
+* CE
 
 Ex.: Cu-Ag system
 
@@ -791,7 +791,7 @@ cooling
 
 heating
 
-• **Eutectic reaction**
+* **Eutectic reaction**
 
 L(CE) (CE) + (CE)
 
@@ -804,11 +804,11 @@ L(CE) (CE) + (CE)
 
 # Slide 14 - **Microstructural Developments  in Eutectic Systems – Case 1**
 
-• For alloys for which
+* For alloys for which
 
 C0 < 2 wt% Sn
 
-• Result: at room temperature
+* Result: at room temperature
 
 \-\- polycrystalline with grains of
 
@@ -883,11 +883,11 @@ Adapted from Fig. 9.11, Callister & Rethwisch 8e.
 
 # Slide 15 - **Microstructural Developments  in Eutectic Systems – Case 2**
 
-• For alloys for which
+* For alloys for which
 
 2 wt% Sn < C0 < 18.3 wt% Sn
 
-• Result:
+* Result:
 
 at temperatures in a + b range
 
@@ -970,9 +970,9 @@ a: C0 wt% Sn
 
 # Slide 16 - **Microstructural Developments  in Eutectic Systems – Case 3**
 
-• For alloy of eutectic composition C0 = CE
+* For alloy of eutectic composition C0 = CE
 
-• Result: Eutectic microstructure (lamellar structure)
+* Result: Eutectic microstructure (lamellar structure)
 
 \-\- Alternating layers (lamellae) of a and b phases (“pearlite”)
 
@@ -1054,9 +1054,9 @@ L: C0 wt% Sn
 
 # Slide 17 - **Microstructural Developments  in Eutectic Systems – Case 4**
 
-• For alloys for which 18.3 wt% Sn < C0 < 61.9 wt% Sn
+* For alloys for which 18.3 wt% Sn < C0 < 61.9 wt% Sn
 
-• Result: a phase particles and a eutectic microconstituent
+* Result: a phase particles and a eutectic microconstituent
 
 18.3
 
@@ -1118,9 +1118,9 @@ Wa
 
 = 0.50
 
-• Just above TE :
+* Just above TE :
 
-• Just below TE :
+* Just below TE :
 
 C
 

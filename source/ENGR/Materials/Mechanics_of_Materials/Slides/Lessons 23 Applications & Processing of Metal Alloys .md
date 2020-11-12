@@ -418,14 +418,14 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **Why Does it Matter...**
 
-• How are metal alloys classified and what are their
+* How are metal alloys classified and what are their
 common applications?
 
-• What are some of the common fabrication techniques
+* What are some of the common fabrication techniques
 
 for metals?
 
-• What heat treatment procedures are used to improve the
+* What heat treatment procedures are used to improve the
 
 mechanical properties of both ferrous and nonferrous alloys?
 
@@ -849,9 +849,9 @@ increasing strength, cost, decreasing ductility
 
 ## Stainless Steel >11% Cr
 
-• Steels
+* Steels
 
-• Cast Irons
+* Cast Irons
 
 ![](./Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img14.png)
 
@@ -1029,7 +1029,7 @@ NonFerrous
 
 Alloys
 
-• Al Alloys
+* Al Alloys
 
 -low r: 2.7 g/cm3
 
@@ -1043,7 +1043,7 @@ aircraft parts
 
 & packaging)
 
-• Mg Alloys
+* Mg Alloys
 
 -very low
 
@@ -1057,13 +1057,13 @@ r
 
 aircraft, missiles
 
-• Refractory metals
+* Refractory metals
 
 -high melting _T’s_
 
 -Nb, Mo, W, Ta
 
-• Noble metals
+* Noble metals
 
 -Ag, Au, Pt
 
@@ -1071,7 +1071,7 @@ aircraft, missiles
 
 oxid./corr. resistant
 
-• Ti Alloys
+* Ti Alloys
 
 -relatively low r: 4.5 g/cm3
 
@@ -1083,7 +1083,7 @@ vs 7.9 for steel
 
 space applic.
 
-• Cu Alloys
+* Cu Alloys
 
 Brass:Zn is subst. impurity
 
@@ -1125,20 +1125,20 @@ for strength
 
 ## Hot working vs. Cold working
 
-• Deformation temperature
+* Deformation temperature
 high enough for
 recrystallization
 
-• Large deformations
+* Large deformations
 
-• Deformation below
+* Deformation below
 
 recrystallization
 temperature
 
-• Strain hardening occurs
+* Strain hardening occurs
 
-• Small deformations
+* Small deformations
 
 ![](./Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img23.png)
 
@@ -1159,7 +1159,7 @@ _d_
 
 roll
 
-• Rolling (Hot or Cold Rolling)
+* Rolling (Hot or Cold Rolling)
 
 (I-beams, rails, sheet & plate)
 
@@ -1179,7 +1179,7 @@ blank
 
 force
 
-• Forging (Hammering; Stamping)
+* Forging (Hammering; Stamping)
 
 (wrenches, crankshafts)
 
@@ -1213,7 +1213,7 @@ _d_
 
 extrusion
 
-• Extrusion
+* Extrusion
 
 (rods, tubing)
 
@@ -1235,7 +1235,7 @@ die
 
 die
 
-• Drawing
+* Drawing
 
 (rods, wire, tubing)
 
@@ -1269,7 +1269,7 @@ MISCELLANEOUS
 
 # Slide 27 - **Metal Fabrication Methods**
 
-• Sand Casting
+* Sand Casting
 
 (large parts, e.g.,
 
@@ -1301,12 +1301,12 @@ MISCELLANEOUS
      plaster of paris around wax pattern.
      Plaster allowed to harden.
 
-• Stage II — Wax is melted and then
+* Stage II — Wax is melted and then
 
 poured from mold—hollow mold
 cavity remains.
 
-• Stage III — Molten metal is poured
+* Stage III — Molten metal is poured
 
 into mold and allowed to solidify.
 
@@ -1316,7 +1316,7 @@ CASTING
 
 MISCELLANEOUS
 
-• Investment Casting
+* Investment Casting
 
 (low volume, complex shapes
 
@@ -1335,7 +1335,7 @@ III
 
 # Slide 29 - **Metal Fabrication Methods**
 
-• Continuous Casting
+* Continuous Casting
 
 \-\- simple shapes
 
@@ -1353,7 +1353,7 @@ CASTING
 
 MISCELLANEOUS
 
-• Die Casting
+* Die Casting
 
 \-\- high volume
 
@@ -1369,7 +1369,7 @@ MISCELLANEOUS
 
 CASTING
 
-• Powder Metallurgy
+* Powder Metallurgy
 
 (metals w/low ductilities)
 
@@ -1391,13 +1391,13 @@ contact
 
 densify
 
-• Welding
+* Welding
 
 (when fabrication of one large
 
 part is impractical)
 
-• Heat-affected zone:
+* Heat-affected zone:
 
 (region in which the
 
@@ -1442,7 +1442,7 @@ Types of
 
 Annealing
 
-•
+*
 
 Process Anneal:
 
@@ -1454,7 +1454,7 @@ cold working by
 
 recrystallization)
 
-•
+*
 
 Stress Relief: Reduce
 
@@ -1466,7 +1466,7 @@ stresses resulting from:
 
 \- phase transform.
 
-•
+*
 
 Normalize
 
@@ -1478,7 +1478,7 @@ treat to allow recrystallization
 
 and formation of smaller grains.
 
-•
+*
 
 Full Anneal
 
@@ -1496,7 +1496,7 @@ g
 
 to obtain coarse pearlite.
 
-•
+*
 
 Spheroidize
 
@@ -1550,11 +1550,11 @@ _Callister & Rethwisch 8e_.
 
 # Slide 33 - **Hardenability -- Steels**
 
-• Hardenability – measure of the ability to form martensite
+* Hardenability – measure of the ability to form martensite
 
-• Jominy end quench test used to measure hardenability.
+* Jominy end quench test used to measure hardenability.
 
-• Plot hardness versus distance from the quenched end.
+* Plot hardness versus distance from the quenched end.
 
 Adapted from Fig. 11.11, _Callister & Rethwisch 8e_. (Fig. 11.11 adapted from A.G. Guy, _Essentials of Materials Science_, McGraw-Hill Book Company, New York, 1978.)
 
@@ -1582,7 +1582,7 @@ Distance from quenched end
 
 # Slide 34 - **Reason Why Hardness Changes with Distance**
 
-• The cooling rate decreases with distance from quenched end.
+* The cooling rate decreases with distance from quenched end.
 
 Adapted from Fig. 11.13, _Callister & Rethwisch 8e_. (Fig. 11.13 adapted from H. Boyer (Ed.) _Atlas of Isothermal Transformation and Cooling Transformation Diagrams_, American Society for Metals, 1977, p. 376.)
 
@@ -1659,13 +1659,13 @@ Pearlite
 
 # Slide 35 - **Hardenability vs Alloy Composition**
 
-• Hardenability curves for
+* Hardenability curves for
 
 five alloys each with,
 
 _C_ = 0.4 wt% C
 
-• "Alloy Steels"
+* "Alloy Steels"
 
 (4140, 4340, 5140, 8640)
 
@@ -1778,7 +1778,7 @@ _TE_
 
 # Slide 36 - **Influences of Quenching Medium & Specimen Geometry**
 
-• Effect of quenching medium:
+* Effect of quenching medium:
 
 Medium
 
@@ -1804,7 +1804,7 @@ moderate
 
 high
 
-• Effect of specimen geometry:
+* Effect of specimen geometry:
 
 When surface area-to-volume ratio increases:
 
@@ -1885,11 +1885,11 @@ A
 
 Adapted from Fig. 11.24, _Callister & Rethwisch 8e_. (Fig. 11.24 adapted from J.L. Murray, _International Metals Review_ **30**, p.5, 1985.)
 
-• Particles impede dislocation motion.
+* Particles impede dislocation motion.
 
-• Ex: Al-Cu system
+* Ex: Al-Cu system
 
-• Procedure:
+* Procedure:
 
 Adapted from Fig. 11.22, _Callister & Rethwisch 8e_.
 
@@ -1902,9 +1902,9 @@ a phase.
 
 -  Other alloys that precipitation
      harden:
-     • Cu-Be
-     • Cu-Sn
-     • Mg-Al
+     * Cu-Be
+     * Cu-Sn
+     * Mg-Al
 
 Temp.
 
@@ -1940,11 +1940,11 @@ Pt C (precipitate )
 
 # Slide 39 - **Influence of Precipitation Heat Treatment on _TS_, % _EL_**
 
-• 2014 Al Alloy:
+* 2014 Al Alloy:
 
-• Maxima on _TS_ curves.
+* Maxima on _TS_ curves.
 
-• Increasing _T_ accelerates
+* Increasing _T_ accelerates
 
 process.
 
@@ -1992,7 +1992,7 @@ precipitates
 
 149ºC
 
-• Minima on % _EL_ curves.
+* Minima on % _EL_ curves.
 
 % _EL_ (2 in sample)
 

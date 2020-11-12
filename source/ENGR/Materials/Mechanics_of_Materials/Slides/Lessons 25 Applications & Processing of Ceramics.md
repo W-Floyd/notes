@@ -320,11 +320,11 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **Why it Matters...**
 
-• How do we classify ceramics?
+* How do we classify ceramics?
 
-• What are some applications of ceramics?
+* What are some applications of ceramics?
 
-• How is processing of ceramics different than for metals?
+* How is processing of ceramics different than for metals?
 
 [https://www.youtube.com/watch?v=9DopxIV4Css](https://www.youtube.com/watch?v=9DopxIV4Css)
 
@@ -404,7 +404,7 @@ Ceramic Materials
 
 # Slide 10 - **Abrasives**
 
-• Cutting Tools:
+* Cutting Tools:
 
 \-\- For grinding glass, tungsten,
 
@@ -433,7 +433,7 @@ GE Superabrasives, Worthington,
 
 OH. Used with permission.
 
-• Materials used:
+* Materials used:
 
 \-\- Manufactured single crystal
 or polycrystalline diamonds
@@ -467,11 +467,11 @@ die
 
 die
 
-• Die blanks:
+* Die blanks:
 
 \-\- Need **wear resistant** properties!
 
-• Die surface:
+* Die surface:
 
 \-\- 4 mm polycrystalline diamond
 
@@ -495,9 +495,9 @@ Courtesy Martin Deakins, GE Superabrasives, Worthington, OH. Used with permissio
 
 # Slide 12 - **Refractories**
 
-• High temperature materials with low thermal conductivity/thermal expansion (e.g., in high temperature furnaces)
+* High temperature materials with low thermal conductivity/thermal expansion (e.g., in high temperature furnaces)
 
-• Consider the Silica (SiO2) - Alumina (Al2O3) system
+* Consider the Silica (SiO2) - Alumina (Al2O3) system
 
 - Fireclay refractories (alumina rich): insulate furnaces ( **non-structural**—some liquid is tolerable)
 -  Silica refractories (silica rich): high temp, **load bearing** applications
@@ -567,9 +567,9 @@ alumina + _L_
 
 # Slide 13 - **Sensors**
 
-• Example: ZrO2 as an oxygen sensor
+* Example: ZrO2 as an oxygen sensor
 
-• Principle: Increase diffusion rate of oxygen
+* Principle: Increase diffusion rate of oxygen
 to produce rapid response of sensor signal to
 change in oxygen concentration
 
@@ -583,7 +583,7 @@ Ca
 
 2+
 
-• Approach:
+* Approach:
 
 Add Ca impurity to ZrO2:
 
@@ -617,7 +617,7 @@ voltage difference produced!
 
 sensor
 
-• Operation:
+* Operation:
 
 \-\- Voltage difference produced when
 O2- ions diffuse from the external
@@ -678,7 +678,7 @@ Properties/Materials:
 
 # Slide 16 - **Ceramic Fabrication Methods**
 
-• Blowing of Glass Bottles:
+* Blowing of Glass Bottles:
 
 GLASS
 
@@ -708,7 +708,7 @@ Compressed
 
 air
 
-• Fiber drawing: For long pieces with constant cross section
+* Fiber drawing: For long pieces with constant cross section
 
 wind up
 
@@ -722,7 +722,7 @@ pressure
 \-\- Mold is steel with graphite
 lining
 
-• Pressing:
+* Pressing:
 
 plates, cheap glasses
 
@@ -772,7 +772,7 @@ _T_ melt
 
 strain point
 
-• Viscosity decreases with _T_
+* Viscosity decreases with _T_
 
 _(no definite solidification temp)_
 
@@ -803,11 +803,11 @@ Adapted from Fig. 13.7, _Callister & Rethwisch 8e_. (Fig. 13.7 is from E.B. Shan
 
 # Slide 18 - **Heat Treating Glass**
 
-• Annealing:
+* Annealing:
 
 \-\- Removes internal stresses caused by uneven cooling.
 
-• Tempering:
+* Tempering:
 
 \-\- Puts surface of glass part into compression
 
@@ -851,9 +851,9 @@ Adapted from Fig. 13.9, _Callister & Rethwisch 8e_.
 
 # Slide 20 - **Glass Properties**
 
-• Specific volume (1/r) vs Temperature ( _T_):
+* Specific volume (1/r) vs Temperature ( _T_):
 
-• Glasses:
+* Glasses:
 
 \-\- do not crystallize
 
@@ -862,7 +862,7 @@ glass transition temperature, _Tg_
 \-\- transparent - no grain boundaries to
 scatter light
 
-• Crystalline materials:
+* Crystalline materials:
 
 \-\- crystallize at melting temp, _Tm_
 
@@ -903,7 +903,7 @@ Glass
 
 # Slide 21 - **Glass Properties: Viscosity**
 
-• Viscosity, h:
+* Viscosity, h:
 
 \-\- relates shear stress () and velocity gradient _(dv/dy):_
 
@@ -930,11 +930,11 @@ d _y_
 
 # Slide 22 - **Ceramic Fabrication Methods**
 
-• Mill (grind) and screen constituents: desired particle size
+* Mill (grind) and screen constituents: desired particle size
 
-• Extrude this mass (e.g., into a brick)
+* Extrude this mass (e.g., into a brick)
 
-• Dry and fire the formed piece (reduce porosity; increase density/strength)
+* Dry and fire the formed piece (reduce porosity; increase density/strength)
 
 ram
 
@@ -978,7 +978,7 @@ Hydroplastic forming (clays):
 
 # Slide 23 - **Drying and Firing**
 
-• Drying: as water is removed - interparticle spacings decrease
+* Drying: as water is removed - interparticle spacings decrease
 – shrinkage
 
 Adapted from Fig. 13.13, _Callister & Rethwisch 8e_. (Fig. 13.13 is from W.D. Kingery, _Introduction to Ceramics_, John Wiley and Sons, Inc., 1960.)
@@ -991,7 +991,7 @@ partially dry
 
 completely dry
 
-• Firing:
+* Firing:
 
 \-\- Heat treatment between
 900-1400ºC
@@ -1021,11 +1021,11 @@ micrograph of porcelain
 
 # Slide 24 - **Ceramic Fabrication Methods**
 
-• Mill (grind) and screen constituents: desired particle size
+* Mill (grind) and screen constituents: desired particle size
 
-• Slip casting operation
+* Slip casting operation
 
-• Dry and fire the cast piece
+* Dry and fire the cast piece
 
 solid component
 
@@ -1068,7 +1068,7 @@ CEMENTATION
 
 Slip casting (clays):
 
-• Mix with water and other constituents to form slip
+* Mix with water and other constituents to form slip
 
 ![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img23.png)
 
@@ -1088,9 +1088,9 @@ Slip casting (clays):
 
 # Slide 26 - **Hydroplasticity of Clay**
 
-• Clay is inexpensive
+* Clay is inexpensive
 
-• When water is added to clay
+* When water is added to clay
 
 \-\- water molecules fit in between
 layered sheets
@@ -1102,7 +1102,7 @@ bonding
 particles free to move past one
 another – becomes hydroplastic
 
-• Structure of
+* Structure of
 
 Kaolinite Clay:
 
@@ -1151,7 +1151,7 @@ Shear
 
 Powder Pressing: used for both clay and non-clay compositions (analogous to powder metallurgy).
 
-• Powder (plus binder) compacted by pressure in a mold
+* Powder (plus binder) compacted by pressure in a mold
 
 \-\- Uniaxial compression - compacted in single direction
 
@@ -1209,13 +1209,13 @@ Fig. 13.18, _Callister & Rethwisch 8e_.
 
 # Slide 30 - **Ceramic Fabrication Methods**
 
-• Hardening of a paste – paste formed by mixing cement
+* Hardening of a paste – paste formed by mixing cement
 material with water
 
-• Formation of rigid structures having varied and complex
+* Formation of rigid structures having varied and complex
 shapes
 
-• Hardening process – hydration (complex chemical
+* Hardening process – hydration (complex chemical
 reactions involving water and cement particles)
 
 GLASS
@@ -1227,7 +1227,7 @@ FORMING
 
 CEMENTATION
 
-• Portland cement – production of:
+* Portland cement – production of:
 
 \-\- Mix clay and lime-bearing minerals
 

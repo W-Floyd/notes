@@ -672,19 +672,19 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 # Slide 12 - **Mechanical Properties of Materials**
 
-• Stress and strain: What are they and why are
+* Stress and strain: What are they and why are
 
 they used instead of load and deformation?
 
-• Elastic behavior: When loads are small, how much
+* Elastic behavior: When loads are small, how much
 
 deformation occurs? What materials deform least?
 
-• Plastic behavior: At what point does permanent
+* Plastic behavior: At what point does permanent
 deformation occur? What materials are most
 resistant to permanent deformation?
 
-• Toughness and ductility: What are they and how
+* Toughness and ductility: What are they and how
 
 do we measure them?
 
@@ -702,7 +702,7 @@ do we measure them?
  Stress has units:
 N/m2 or lbf /in2
 
-• Shear stress, t:
+* Shear stress, t:
 
 Area, _Ao_
 
@@ -734,7 +734,7 @@ _A_
 
 _o_
 
-• Tensile stress, s:
+* Tensile stress, s:
 
 original area
 
@@ -779,7 +779,7 @@ _F_
 
 # Slide 15 - **Common States of Stress**
 
-**• Simple tension: cable**
+*** Simple tension: cable**
 
 Note: t = _M_/ _AcR_ here.
 
@@ -827,7 +827,7 @@ _A_
 
 _c_
 
-**• Torsion (a form of shear): drive shaft**
+*** Torsion (a form of shear): drive shaft**
 
 Ski lift (photo courtesy P.M. Anderson)
 
@@ -862,7 +862,7 @@ _F_
 
 _A_
 
-**• Simple compression:**
+*** Simple compression:**
 
 Note: compressive
 
@@ -885,9 +885,9 @@ National Park
 
 # Slide 17 - **Common States of Stress**
 
-**• Bi-axial tension:**
+*** Bi-axial tension:**
 
-**• Hydrostatic compression:**
+*** Hydrostatic compression:**
 
 Pressurized tank
 
@@ -922,17 +922,17 @@ q
 
 # Slide 18 - **Engineering Strain**
 
-**• Tensile (longitudinal)**
+*** Tensile (longitudinal)**
 
 **strain:**
 
-**• Lateral strain:**
+*** Lateral strain:**
 
 **Strain is always**
 
 **dimensionless.**
 
-**• Shear strain:**
+*** Shear strain:**
 
 q
 
@@ -1038,11 +1038,11 @@ elastic
 
 # Slide 20 - **Linear Elastic Properties**
 
-**• Modulus of Elasticity, _E – stiffness of a material_**
+*** Modulus of Elasticity, _E – stiffness of a material_**
 
 **(also known as Young's modulus)**
 
-**• Hooke's Law**
+*** Hooke's Law**
 
 s = _E_ e
 
@@ -1071,7 +1071,7 @@ test
 
 # Slide 21 - **Poisson's ratio, n**
 
-**• Poisson's ratio, n**
+*** Poisson's ratio, n**
 
 **How much the width shrinks (per unit length) when the length elongates (per unit length)**
 
@@ -1110,7 +1110,7 @@ polymers: n ~ 0.40
 
 # Slide 22 - **Other Elastic Properties**
 
-**• Elastic Shear**
+*** Elastic Shear**
 
 **modulus, _G_:**
 
@@ -1132,7 +1132,7 @@ _M_
 
 _M_
 
-**• Special relations for isotropic materials:**
+*** Special relations for isotropic materials:**
 
 **2(1 +** n **)**
 
@@ -1150,7 +1150,7 @@ _**K**_
 
 =
 
-**• Elastic Bulk**
+*** Elastic Bulk**
 
 **modulus, K:**
 
@@ -1199,7 +1199,7 @@ _o_
 
 # Slide 23 - **Useful Linear Elastic Relationships**
 
-**• Simple tension:**
+*** Simple tension:**
 
 d
 
@@ -1235,11 +1235,11 @@ _A_
 
 _o_
 
-• Material, geometric, and loading parameters all
+* Material, geometric, and loading parameters all
 
 contribute to deflection.
 
-• Larger elastic moduli minimize elastic deflection.
+* Larger elastic moduli minimize elastic deflection.
 
 _F_
 
@@ -1263,7 +1263,7 @@ _w_
 
 _o_
 
-**• Simple torsion:**
+*** Simple torsion:**
 
 a
 
@@ -1521,7 +1521,7 @@ FRE(\|\| fibers)\*
 
 (at lower temperatures, i.e. _T_ < _Tmelt_/3)
 
-• Simple tension test:
+* Simple tension test:
 
 engineering stress, s
 
@@ -1614,7 +1614,7 @@ plastic
 
 # Slide 27 - **Yield Strength, sy**
 
-**• Stress at which _noticeable_ plastic deformation has**
+*** Stress at which _noticeable_ plastic deformation has**
 
 **occurred.**
 
@@ -1682,7 +1682,7 @@ An increase in s _y_ due to plastic deformation is due to “strain hardening”
 
 # Slide 29 - **Strain Hardening (cold working)**
 
-• Curve fit to the stress-strain response:
+* Curve fit to the stress-strain response:
 
 s
 
@@ -1716,7 +1716,7 @@ to _n_ =
 
 0.5 (some coppers)
 
-• An increase in s _y_ due to plastic deformation.
+* An increase in s _y_ due to plastic deformation.
 
 _s_
 
@@ -1743,9 +1743,9 @@ _y_
 
 # Slide 30 - **Tensile Strength, TS**
 
-• Metals: occurs when noticeable necking starts.
+* Metals: occurs when noticeable necking starts.
 
-• Polymers: occurs when polymer backbone chains are
+* Polymers: occurs when polymer backbone chains are
 
 aligned and about to break.
 
@@ -1774,14 +1774,14 @@ stress
 
 engineering strain
 
-• Maximum stress on engineering stress-strain curve.
+* Maximum stress on engineering stress-strain curve.
 
 ![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img29.png)
 
 
 # Slide 31 - **Stress-Strain Testing**
 
-**• Typical tensile test
+*** Typical tensile test
 machine**
 
 Adapted from Fig. 6.3, _Callister & Rethwisch 8e._ (Fig. 6.3 is taken from H.W. Hayden, W.G. Moffatt, and J. Wulff, _The Structure and Properties of Materials_, Vol. III, _Mechanical Behavior_, p. 2, John Wiley and Sons, New York, 1965.)
@@ -1790,7 +1790,7 @@ specimen
 
 extensometer
 
-**• Typical tensile
+*** Typical tensile
 specimen**
 
 Adapted from Fig. 6.2,
@@ -2253,7 +2253,7 @@ s
 
 # Slide 37 - **Ductility**
 
-• Amount of plastic deformation before failure
+* Amount of plastic deformation before failure
 
 (% elongation or % reduction in area)
 
@@ -2332,7 +2332,7 @@ larger % _EL_
 
 # Slide 38 - **Toughness**
 
-• Total energy required to cause fracture for a material (approximated by the area under the stress-strain curve)
+* Total energy required to cause fracture for a material (approximated by the area under the stress-strain curve)
 
 \- “Tough” materials have both strength and ductility
 
@@ -2364,9 +2364,9 @@ large toughness (metals)
 
 # Slide 39 - **Hardness**
 
-• Resistance to permanently indenting the surface.
+* Resistance to permanently indenting the surface.
 
-• Large hardness means:
+* Large hardness means:
 
 \-\- resistance to plastic deformation or cracking in
 
@@ -2484,9 +2484,9 @@ where _n_ is the number of data points
 
 # Slide 44 - **Design or Safety Factors**
 
-• Design uncertainties mean we do not push the limit.
+* Design uncertainties mean we do not push the limit.
 
-• Factor of safety, _N_
+* Factor of safety, _N_
 
 Often _N_ is
 
@@ -2494,7 +2494,7 @@ between
 
 1.2 and 4
 
-• Example: Calculate a diameter, _d_, to ensure that yield does
+* Example: Calculate a diameter, _d_, to ensure that yield does
 
 not occur in the 1045 carbon steel rod below. Use a
 
@@ -2529,9 +2529,9 @@ _d_ = 0.067 m = 6.7 cm
 
 # Slide 45 - **Design or Safety Factors**
 
-• Design uncertainties mean we do not push the limit.
+* Design uncertainties mean we do not push the limit.
 
-• Factor of safety, _N_
+* Factor of safety, _N_
 
 Often _N_ is
 
@@ -2539,7 +2539,7 @@ between
 
 1.2 and 4
 
-• Example: Calculate a diameter, _d_, to ensure that yield does
+* Example: Calculate a diameter, _d_, to ensure that yield does
 
 not occur in the 1045 carbon steel rod below. Use a
 
@@ -2574,11 +2574,11 @@ _d_ = 0.067 m = 6.7 cm
 
 # Slide 46 - **Summary**
 
-• Stress and strain: These are size-independent
+* Stress and strain: These are size-independent
 
 measures of load and displacement, respectively.
 
-• Elastic behavior: This reversible behavior often
+* Elastic behavior: This reversible behavior often
 
 shows a linear relation between stress and strain.
 
@@ -2586,13 +2586,13 @@ To minimize deformation, select a material with a
 
 large elastic modulus ( _E_ or _G_).
 
-• Toughness: The energy needed to break a unit
+* Toughness: The energy needed to break a unit
 
 volume of material.
 
-• Ductility: The plastic strain at failure.
+* Ductility: The plastic strain at failure.
 
-• Plastic behavior: This permanent deformation
+* Plastic behavior: This permanent deformation
 
 behavior occurs when the tensile (or compressive)
 

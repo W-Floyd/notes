@@ -306,18 +306,18 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **What matters...**
 
-• How do the crystal structures of ceramic materials
+* How do the crystal structures of ceramic materials
 differ from those for metals?
 
-• How do point defects in ceramics differ from those
+* How do point defects in ceramics differ from those
 defects found in metals?
 
-• How are impurities accommodated in the ceramic lattice?
+* How are impurities accommodated in the ceramic lattice?
 
-• How are the mechanical properties of ceramics
+* How are the mechanical properties of ceramics
 measured, and how do they differ from those for metals?
 
-• In what ways are ceramic phase diagrams different from
+* In what ways are ceramic phase diagrams different from
 phase diagrams for metals?
 
 ![](Lessons\ 24\ Structure\ &\ Properties\ of\ Ceramics\ /img5.png)
@@ -350,7 +350,7 @@ phase diagrams for metals?
 
 # Slide 7 - **Ceramic Characteristics**
 
-• Compounds between metallic and nonmetallic materials from periodic table for which interatomic bonds are **either totally ionic or ionic with some covalent character**
+* Compounds between metallic and nonmetallic materials from periodic table for which interatomic bonds are **either totally ionic or ionic with some covalent character**
 
 -  China, porcelain, bricks, tile
 - Unique properties often achieved through high temp heat treatments (firing)
@@ -451,13 +451,13 @@ Ceramic Materials
 
 # Slide 10 - **Atomic Bonding in Ceramics**
 
-• Bonding: Can be ionic and/or covalent in character.
+* Bonding: Can be ionic and/or covalent in character.
 
 Adapted from Fig. 2.7, _Callister & Rethwisch 8e._ (Fig. 2.7 is adapted from Linus Pauling, _The Nature of the Chemical Bond_, 3rd edition, Copyright 1939 and 1940, 3rd edition. Copyright 1960 by
 
 Cornell University.)
 
-• Degree of ionic character may be large or small:
+* Degree of ionic character may be large or small:
 
 \-\- % ionic character increases with difference in
 
@@ -681,7 +681,7 @@ _a_ = 2 _r_ anion
 
 # Slide 20 - **Coordination \# and Ionic Radii Determine Crystal Structure**
 
-• Coordination # increases with increasing
+* Coordination # increases with increasing
 
 Adapted from Table 12.2, _Callister & Rethwisch 8e._
 
@@ -772,11 +772,11 @@ Cells
 
 # Slide 21 - **Example Problem: Predicting the Crystal Structure of FeO**
 
-• On the basis of ionic radii, what crystal structure
+* On the basis of ionic radii, what crystal structure
 
 would you predict for FeO?
 
-• Answer:
+* Answer:
 
 based on this ratio,
 
@@ -878,18 +878,18 @@ crystobalite
 
 # Slide 24 - **Silica Glasses**
 
-• Quartz is crystalline
+* Quartz is crystalline
 
 SiO **2**:
 
-• Basic Unit:
+* Basic Unit:
 
 Glass is noncrystalline (amorphous)
 
-• Fused silica is SiO2 to which no
+* Fused silica is SiO2 to which no
 impurities have been added
 
-• Other common glasses contain
+* Other common glasses contain
 impurity ions such as Na+, Ca2+,
 Al3+, and B3+
 
@@ -1028,11 +1028,11 @@ Adapted from Figs. 12.18 & 12.19, _Callister & Rethwisch 8e._
 
 # Slide 31 - **Point Defects in Ceramics**
 
-• Vacancies
+* Vacancies
 
 \-\- Vacancies exist in ceramics for both cations and anions
 
-• Interstitials
+* Interstitials
 
 \-\- Interstitials exist for cations
 
@@ -1058,15 +1058,15 @@ Vacancy
 
 # Slide 32 - **Point Defects in Ceramics**
 
-• Frenkel Defect
+* Frenkel Defect
 
 \-\- A cation vacancy-cation interstitial pair (cation moves to interstitial).
 
-• Shottky Defect
+* Shottky Defect
 
 \-\- A paired set of cation and anion vacancies (both move to surface).
 
-• Equilibrium concentration of defects
+* Equilibrium concentration of defects
 
 Adapted from Fig.12.21, _Callister & Rethwisch 8e._ (Fig. 12.21 is from W.G. Moffatt, G.W. Pearsall, and J. Wulff, _The Structure and Properties of Materials_, Vol. 1, _Structure_, John Wiley and Sons, Inc., p. 78.)
 
@@ -1078,7 +1078,7 @@ Frenkel
 
 Defect
 
-• Electroneutrality must be maintained (charge balance)
+* Electroneutrality must be maintained (charge balance)
 
 \-\- Vacancies occur in cation/anion pairs
 
@@ -1087,9 +1087,9 @@ Defect
 
 # Slide 33 - **Impurities in Ceramics**
 
-• Electroneutrality must be maintained
+* Electroneutrality must be maintained
 
-• Ex: NaCl
+* Ex: NaCl
 
 Na
 
@@ -1099,7 +1099,7 @@ Cl
 
 -
 
-• Substitutional cation impurity
+* Substitutional cation impurity
 
 without impurity
 
@@ -1131,7 +1131,7 @@ cation
 
 vacancy
 
-• Substitutional anion impurity
+* Substitutional anion impurity
 
 without impurity
 
@@ -1188,9 +1188,9 @@ Adapted from Fig. 12.25, Callister & Rethwisch 8e.
 
 # Slide 36 - **Flexural Tests – Measurement of Elastic Modulus**
 
-• Room _T_ behavior is usually elastic, with brittle failure.
+* Room _T_ behavior is usually elastic, with brittle failure.
 
-• 3-Point Bend Testing often used.
+* 3-Point Bend Testing often used.
 
 \-\- Tensile tests are difficult for brittle materials (fail at ~0.1% strain).
 
@@ -1218,7 +1218,7 @@ rect.
 
 circ.
 
-• Determine elastic modulus according to:
+* Determine elastic modulus according to:
 
 _F_
 
@@ -1243,7 +1243,7 @@ slope =
 
 # Slide 37 - **Flexural Tests – Measurement of Flexural Strength**
 
-• 3-point bend test to measure room- _T_ flexural strength.
+* 3-point bend test to measure room- _T_ flexural strength.
 
 Adapted from Fig. 12.32, _Callister & Rethwisch 8e._
 
@@ -1271,9 +1271,9 @@ circ.
 
 location of max tension
 
-• Flexural strength:
+* Flexural strength:
 
-• Typical values:
+* Typical values:
 
 Data from Table 12.5, _Callister & Rethwisch 8e._
 

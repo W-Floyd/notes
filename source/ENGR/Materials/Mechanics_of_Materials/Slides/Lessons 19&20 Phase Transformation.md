@@ -683,16 +683,16 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **Why do we care?**
 
-• Transforming one phase into another takes time.
+* Transforming one phase into another takes time.
 
-• How does the rate of transformation depend on
+* How does the rate of transformation depend on
 
 time and temperature?
 
-• Is it possible to slow down transformations so that
+* Is it possible to slow down transformations so that
 non-equilibrium structures are formed?
 
-• Are the mechanical properties of non-equilibrium
+* Are the mechanical properties of non-equilibrium
 
 structures more desirable than equilibrium ones?
 
@@ -907,7 +907,7 @@ state are often too slow to be practical**
 
 # Slide 27 - **Transformations & Supercooling**
 
-•
+*
 
 For transf. to occur, must
 
@@ -915,7 +915,7 @@ cool to below 727ºC
 
 (i.e., must “undercool”)
 
-•
+*
 
 Eutectoid transf. (Fe-Fe3C system):
 
@@ -1026,7 +1026,7 @@ Coarse pearlite (thick layers)  formed at higher temperatures – more diffus
 
 Fine pearlite (thin layers)  formed at lower temperatures – less diffusion – relatively hard
 
-• Transformation of austenite to pearlite:
+* Transformation of austenite to pearlite:
 
 Adapted from Fig. 9.15, _Callister & Rethwisch 8e._
 
@@ -1062,7 +1062,7 @@ Ferrite (a)
 
 g
 
-• For this transformation,
+* For this transformation,
 
 rate increases with
 
@@ -1111,9 +1111,9 @@ Carbon diffusion
 
 Adapted from Fig. 10.13, _Callister & Rethwisch 8e._ (Fig. 10.13 adapted from H. Boyer (Ed.) _Atlas of Isothermal Transformation and Cooling Transformation Diagrams_, American Society for Metals, 1977, p. 369.)
 
-• The Fe-Fe3C system, for _C_ 0 = 0.76 wt% C
+* The Fe-Fe3C system, for _C_ 0 = 0.76 wt% C
 
-• A constant transformation temperature of 675ºC
+* A constant transformation temperature of 675ºC
 
 100
 
@@ -1196,13 +1196,13 @@ Consider:
 
 # Slide 30 - **Austenite-to-Pearlite Isothermal Transformation**
 
-• Eutectoid composition, _C_ 0 = 0.76 wt% C
+* Eutectoid composition, _C_ 0 = 0.76 wt% C
 
-• Begin at _T_ \> 727ºC
+* Begin at _T_ \> 727ºC
 
-• Rapidly cool to 625ºC
+* Rapidly cool to 625ºC
 
-• Hold _T_ (625ºC) constant (isothermal treatment)
+* Hold _T_ (625ºC) constant (isothermal treatment)
 
 Adapted from Fig. 10.14, _Callister & Rethwisch 8e._ (Fig. 10.14 adapted from H. Boyer (Ed.) _Atlas of Isothermal Transformation and Cooling Transformation Diagrams_, American Society for Metals, 1997, p. 28.)
 
@@ -1315,14 +1315,14 @@ A
 
 A
 
-• Bainite:
+* Bainite:
 
 \-\- Elongated Fe3C particles in
 a-ferrite matrix
 
 \-\- Diffusion controlled (lower temp; therefore less diffusion)
 
-• Isothermal Transf. Diagram,
+* Isothermal Transf. Diagram,
 _C_ 0= 0.76wt% C
 
 Adapted from Fig. 10.18, _Callister & Rethwisch 8e._
@@ -1346,7 +1346,7 @@ Adapted from Fig. 10.17, _Callister & Rethwisch 8e._(Fig. 10.17 from _Metals Han
 
 # Slide 32 - **Spheroidite: Another Microstructure for the Fe-Fe3C System**
 
-• Spheroidite:
+* Spheroidite:
 
 \-\- Fe3C particles within an a-ferrite matrix
 
@@ -1378,7 +1378,7 @@ Fe3C
 
 # Slide 33 - **Martensite: A Nonequilibrium Transformation Product**
 
-• Martensite:
+* Martensite:
 
 \-\- g(FCC) to Martensite (BCT)
 
@@ -1414,9 +1414,9 @@ sites
 
 Adapted from Fig. 10.22, _Callister & Rethwisch 8e._
 
-• Isothermal Transf. Diagram
+* Isothermal Transf. Diagram
 
-• g to martensite (M) transformation
+* g to martensite (M) transformation
 
 \-\- is rapid! (diffusionless)
 
@@ -1507,17 +1507,17 @@ BCT  few slip planes  hard, brittle
 
 # Slide 35 - **Tempered Martensite**
 
-• Tempered martensite less brittle than martensite
+* Tempered martensite less brittle than martensite
 
-• Tempering reduces internal stresses caused by quenching
+* Tempering reduces internal stresses caused by quenching
 
 Adapted from Fig. 10.33, _Callister & Rethwisch 8e._(Fig. 10.33 copyright by United States Steel Corporation, 1971.)
 
-•
+*
 
 Tempering decreases _TS &_ _YS,_ but increases %EL
 
-•
+*
 
 Tempering produces extremely small Fe3C particles surrounded by a.
 
@@ -2132,7 +2132,7 @@ Adapted from Fig. 10.23, _Callister & Rethwisch 8e._
 
 Adapted from Fig. 9.30, _Callister & Rethwisch 8e._
 
-• Increase C content: _TS_ and _YS_ increase, % _EL_ decreases
+* Increase C content: _TS_ and _YS_ increase, % _EL_ decreases
 
 _C_ 0 < 0.76 wt% C
 
@@ -2225,9 +2225,9 @@ Hyper
 
 Adapted from Fig. 10.30, _Callister & Rethwisch 8e._(Fig. 10.30 based on data from _Metals Handbook: Heat Treating_, Vol. 4, 9th ed., V. Masseria (Managing Ed.), American Society for Metals, 1981, pp. 9 and 17.)
 
-• Hardness:
+* Hardness:
 
-• Ductility (%RA):
+* Ductility (%RA):
 
 fine > coarse > spheroidite
 
@@ -2302,7 +2302,7 @@ Hyper
 
 # Slide 50 - **Mechanical Properties -- Fine Pearlite vs. Martensite**
 
-• Hardness: fine pearlite << martensite.
+* Hardness: fine pearlite << martensite.
 
 Adapted from Fig. 10.32, _Callister & Rethwisch 8e._(Fig. 10.32 adapted from Edgar C. Bain, _Functions of the Alloying Elements in Steel_, American Society for Metals, 1939, p. 36; and R.A. Grange, C.R. Hribal, and L.F. Porter, _Metall. Trans. A_, Vol. 8A, p. 1776.)
 

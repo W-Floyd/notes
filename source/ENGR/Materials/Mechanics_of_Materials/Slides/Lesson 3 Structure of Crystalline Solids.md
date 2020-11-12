@@ -354,9 +354,9 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 # Slide 7 - **Energy and Packing**
 
-• Non dense, random packing
+* Non dense, random packing
 
-• Dense, ordered packing
+* Dense, ordered packing
 
 Dense, ordered packed structures tend to have
 
@@ -393,7 +393,7 @@ Equilibrium spacing (ro)
 
 # Slide 8 - **Materials and Packing**
 
-• atoms pack in repeating, 3D arrays
+* atoms pack in repeating, 3D arrays
 
 Crystalline materials...
 
@@ -403,7 +403,7 @@ Crystalline materials...
 
 -some polymers
 
-• atoms have no repeating pattern
+* atoms have no repeating pattern
 
 Noncrystalline (amorphous) materials...
 
@@ -431,16 +431,16 @@ _Callister & Rethwisch 9e._
 
 **Oxygen**
 
-• typical of:
+* typical of:
 
-• typical of:
+* typical of:
 
 ![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img7.png)
 
 
 # Slide 9 - **Metallic Crystal Structures**
 
-• Tend to be densely packed
+* Tend to be densely packed
 
 \- Typically, only one element is present, so all atomic
 
@@ -452,9 +452,9 @@ radii are the same (except for alloys)
 
 \- Electron cloud shields cores from each other
 
-• Metals have the simplest crystal structures
+* Metals have the simplest crystal structures
 
-• Common among practical materials (elements, alloys)
+* Common among practical materials (elements, alloys)
 
 ![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img8.png)
 
@@ -507,11 +507,11 @@ _**This Course**_
 
 # Slide 14 - **Simple Cubic Structure (SC)**
 
-• Close-packed directions are cube edges
+* Close-packed directions are cube edges
 
 - Rare due to low packing density (only Polonium has this structure)
 
-• Coordination #
+* Coordination #
 
 (# nearest neighbors) = 6
 
@@ -530,7 +530,7 @@ N = Ni + Nf + Nc (interior, face, corner)
 
 # Slide 15 - **Atomic Packing Factor (APF): SC**
 
-• APF for a simple cubic structure = 0.52
+* APF for a simple cubic structure = 0.52
 
 APF =
 
@@ -585,13 +585,13 @@ _R_ = 0.5 _a_
 
 # Slide 16 - **Body Centered Cubic Structure (BCC)**
 
-• Coordination # = 8
+* Coordination # = 8
 
 Adapted from Fig. 3.2,
 
 _Callister & Rethwisch 9e._
 
-• Atoms touch each other along cube diagonals.
+* Atoms touch each other along cube diagonals.
 
 --Note: All atoms are identical; the center atom is shaded
 
@@ -648,7 +648,7 @@ Close-packed directions:
 
 3 _a_
 
-• APF for a body-centered cubic structure = 0.68
+* APF for a body-centered cubic structure = 0.68
 
 _a_
 
@@ -681,11 +681,11 @@ R
 
 # Slide 18 - **Face Centered Cubic Structure (FCC)**
 
-• Coordination # = 12
+* Coordination # = 12
 
 Adapted from Fig. 3.1, _Callister & Rethwisch 9e._
 
-• Atoms touch each other along face diagonals.
+* Atoms touch each other along face diagonals.
 
 --Note: All atoms are identical; the face-centered atoms are shaded
 
@@ -700,7 +700,7 @@ ex: Al, Cu, Au, Pb, Ni, Pt, Ag
 
 # Slide 19 - **Atomic Packing Factor: FCC**
 
-• APF for a face-centered cubic structure = 0.74
+* APF for a face-centered cubic structure = 0.74
 
 _**Maximum Achievable APF**_
 
@@ -812,11 +812,11 @@ B
 
 sites
 
-• ABCABC... Stacking Sequence
+* ABCABC... Stacking Sequence
 
-• 2D Projection
+* 2D Projection
 
-• 3D Projection
+* 3D Projection
 
 (FCC Unit Cell)
 
@@ -869,15 +869,15 @@ C
 
 # Slide 21 - **Hexagonal Close-Packed Structure (HCP)**
 
-• Coordination # = 12
+* Coordination # = 12
 
-• ABAB... Stacking Sequence
+* ABAB... Stacking Sequence
 
-• APF = 0.74
+* APF = 0.74
 
-• 3D Projection
+* 3D Projection
 
-• 2D Projection
+* 2D Projection
 
 Adapted from Fig. 3.4(a),
 
@@ -887,7 +887,7 @@ _Callister & Rethwisch 9e._
 
 ex: Cd, Mg, Ti, Zn
 
-• _c_/ _a_ = 1.633
+* _c_/ _a_ = 1.633
 
 _c_
 
@@ -1180,29 +1180,29 @@ ramid fibers
 
 Metals have...
 
-• close-packing
+* close-packing
 
 (metallic bonding)
 
-• often large atomic masses
+* often large atomic masses
 
 Ceramics have...
 
-• less dense packing
+* less dense packing
 
-• often lighter elements
+* often lighter elements
 
 Polymers have...
 
-• low packing density
+* low packing density
 
 (often amorphous)
 
-• lighter elements (C,H,O)
+* lighter elements (C,H,O)
 
 Composites have...
 
-• intermediate values
+* intermediate values
 
 In general
 
@@ -1211,7 +1211,7 @@ In general
 
 # Slide 25 - **Crystals as Building Blocks**
 
-• Single Crystals
+* Single Crystals
 
 -Properties vary with
 
@@ -1223,7 +1223,7 @@ of elasticity ( _E_) in BCC iron
 
 Data from Table 3.4, _Callister & Rethwisch 9e_. (Source of data is R.W. Hertzberg, _Deformation and Fracture Mechanics of Engineering Materials_, 3rd ed., John Wiley and Sons, 1989.)
 
-• Polycrystals (> 1 crystal)
+* Polycrystals (> 1 crystal)
 
 -Properties may/may not
 
@@ -1254,17 +1254,17 @@ _E_ (edge) = 125 GPa
 
 # Slide 26 - **Polycrystals**
 
-• Most engineering materials are polycrystals.
+* Most engineering materials are polycrystals.
 
-• Nb-Hf-W plate with an electron beam weld
+* Nb-Hf-W plate with an electron beam weld
 
-• Each "grain" is a single crystal
+* Each "grain" is a single crystal
 
-• If grains are randomly oriented,
+* If grains are randomly oriented,
 
 overall component properties are not directional
 
-• Grain sizes typically range from 1 nm to 2 cm
+* Grain sizes typically range from 1 nm to 2 cm
 
 (i.e., from a few to millions of atomic layers).
 
@@ -2005,7 +2005,7 @@ c
 
 Measurement of critical angle, c, allows computation of planar spacing, _d_.
 
-• Incoming X-rays diffract from crystal planes.
+* Incoming X-rays diffract from crystal planes.
 
 Adapted from Fig. 3.22, _Callister & Rethwisch 9e_.
 
@@ -2115,23 +2115,23 @@ _c_
 
 # Slide 45 - **Summary**
 
-• Atoms may assemble into crystalline or
+* Atoms may assemble into crystalline or
 
 amorphous structures.
 
-• We can predict the density of a material, provided we
+* We can predict the density of a material, provided we
 
 know the atomic weight, atomic radius, and crystal
 
 geometry (e.g., FCC, BCC, HCP).
 
-• Common metallic crystal structures are FCC, BCC, and
+* Common metallic crystal structures are FCC, BCC, and
 
 HCP. Coordination number and atomic packing factor
 
 are the same for both FCC and HCP crystal structures.
 
-• Crystallographic points, directions and planes are
+* Crystallographic points, directions and planes are
 
 specified in terms of indexing schemes.
 
@@ -2144,13 +2144,13 @@ to atomic linear densities and planar densities.
 
 # Slide 46 - **Summary**
 
-• Some materials can have more than one crystal
+* Some materials can have more than one crystal
 
 structure. This is referred to as polymorphism (or
 
 allotropy).
 
-• Materials can be single crystals or polycrystalline.
+* Materials can be single crystals or polycrystalline.
 
 Material properties generally vary with single crystal
 
@@ -2160,7 +2160,7 @@ non-directional (i.e., they are isotropic) in polycrystals
 
 with randomly oriented grains.
 
-• X-ray diffraction is used for crystal structure and
+* X-ray diffraction is used for crystal structure and
 
 interplanar spacing determinations.
 
@@ -2227,9 +2227,9 @@ _b_
 
 # Slide 51 - **Crystals as Building Blocks**
 
-• Some engineering applications require single crystals:
+* Some engineering applications require single crystals:
 
-• Properties of crystalline materials
+* Properties of crystalline materials
 
 often related to crystal structure
 

@@ -1108,7 +1108,7 @@ accept 2 _e_-
 
 # Slide 17 - **Ionic Bonding Examples**
 
-• Predominant bonding in Ceramics
+* Predominant bonding in Ceramics
 
 Adapted from Fig. 2.7, _Callister & Rethwisch 8e._ (Fig. 2.7 is adapted from Linus Pauling, _The Nature of the Chemical Bond_, 3rd edition, Copyright 1939 and 1940, 3rd edition. Copyright 1960 by Cornell University.
 
@@ -1224,9 +1224,9 @@ Fig. 2.14, _Callister & Rethwisch 9e._(Adapted from J.E. Brady and F. Senese, _C
 
 Arises from interaction between dipoles – Directional
 
-• Permanent dipoles-molecule induced
+* Permanent dipoles-molecule induced
 
-• Fluctuating dipoles
+* Fluctuating dipoles
 
 -general case:
 
@@ -1311,11 +1311,11 @@ secondary bonding
 
 # Slide 23 - **Properties From Bonding: Melting Temperature**
 
-• Bond length, _r_
+* Bond length, _r_
 
-• Bond energy, _E_ o
+* Bond energy, _E_ o
 
-• Melting Temperature, _Tm_
+* Melting Temperature, _Tm_
 
 _Tm_ is higher if _E_ o is larger.
 
@@ -1354,7 +1354,7 @@ unstretched length
 
 # Slide 24 - **Properties From Bonding: Thermal Expansion**
 
-• Coefficient of thermal expansion, a
+* Coefficient of thermal expansion, a
 
 a is larger if _E_ o is smaller.
 

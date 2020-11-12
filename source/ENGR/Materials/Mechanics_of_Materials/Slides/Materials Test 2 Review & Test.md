@@ -735,11 +735,11 @@ Two double sided 8.5X11” sheets of notes w/no prior exam problems (**Exam 1 sh
 
 # Slide 17 - **Summary – Mechanical Properties of Metals**
 
-• Stress and strain: These are size-independent
+* Stress and strain: These are size-independent
 
 measures of load and displacement, respectively.
 
-• Elastic behavior: This reversible behavior often
+* Elastic behavior: This reversible behavior often
 
 shows a linear relation between stress and strain.
 
@@ -747,13 +747,13 @@ To minimize deformation, select a material with a
 
 large elastic modulus ( _E_ or _G_).
 
-• Toughness: The energy needed to break a unit
+* Toughness: The energy needed to break a unit
 
 volume of material.
 
-• Ductility: The plastic strain at failure.
+* Ductility: The plastic strain at failure.
 
-• Plastic behavior: This permanent deformation
+* Plastic behavior: This permanent deformation
 
 behavior occurs when the tensile (or compressive)
 
@@ -770,7 +770,7 @@ uniaxial stress reaches s _y_.
 
 # Slide 19 - **Useful Linear Elastic Relationships**
 
-**• Simple tension:**
+*** Simple tension:**
 
 d
 
@@ -806,11 +806,11 @@ _A_
 
 _o_
 
-• Material, geometric, and loading parameters all
+* Material, geometric, and loading parameters all
 
 contribute to deflection.
 
-• Larger elastic moduli minimize elastic deflection.
+* Larger elastic moduli minimize elastic deflection.
 
 _F_
 
@@ -834,7 +834,7 @@ _w_
 
 _o_
 
-**• Simple torsion:**
+*** Simple torsion:**
 
 a
 
@@ -871,7 +871,7 @@ _Lo_
 
 # Slide 20 - **Toughness**
 
-• Total energy required to cause fracture for a material (approximated by the area under the stress-strain curve)
+* Total energy required to cause fracture for a material (approximated by the area under the stress-strain curve)
 
 \- “Tough” materials have both strength and ductility
 
@@ -903,11 +903,11 @@ large toughness (metals)
 
 # Slide 21 - **Summary – Dislocations & Strengthening Mechanisms**
 
-• Dislocations are observed primarily in metals and alloys.
+* Dislocations are observed primarily in metals and alloys.
 
-• Strength is increased by making dislocation motion difficult.
+* Strength is increased by making dislocation motion difficult.
 
-• Strength of metals may be increased by:
+* Strength of metals may be increased by:
 
 \-\- decreasing grain size
 
@@ -917,7 +917,7 @@ large toughness (metals)
 
 \-\- precipitate hardening
 
-• A cold-worked metal that is heat treated may experience
+* A cold-worked metal that is heat treated may experience
 
 recovery, recrystallization, and grain growth – its properties
 
@@ -929,7 +929,7 @@ will be altered.
 
 **Big Picture**
 
-• Plastic deformation requires moving of dislocations (edge, screw or mixed) in crystal structure
+* Plastic deformation requires moving of dislocations (edge, screw or mixed) in crystal structure
 
 _**Anything that hinders dislocation movement through the crystal will increase the yield strength and hardness of a material**_
 
@@ -986,13 +986,13 @@ s
 
 300 mm
 
-**• Polycrystals stronger than single**
+*** Polycrystals stronger than single**
 
 **crystals – grain boundaries are**
 
 **barriers to dislocation motion**
 
-**• Polycrystal means crystal**
+*** Polycrystal means crystal**
 
 **orientations change**
 
@@ -1000,13 +1000,13 @@ s
 
 **change from one grain to another**
 
-**• Internal resolved shear stress (t _R_) will vary from one grain to another**
+*** Internal resolved shear stress (t _R_) will vary from one grain to another**
 
-**• The grain with the largest t _R_**
+*** The grain with the largest t _R_**
 
 **yields first**
 
-**• Less favorably oriented**
+*** Less favorably oriented**
 
 **grains yield later (yield of material occurs when t _R_ exceeded for all grains)**
 
@@ -1017,11 +1017,11 @@ s
 
 # Slide 26 - **Four Strategies for Strengthening:  1: Reduce Grain Size**
 
-• Grain boundaries are
+* Grain boundaries are
 
 barriers to slip.
 
-• Barrier "strength"
+* Barrier "strength"
 
 increases with
 
@@ -1029,11 +1029,11 @@ Increasing angle of
 
 misorientation.
 
-• Smaller grain size:
+* Smaller grain size:
 
 more barriers to slip.
 
-• Hall-Petch Equation:
+* Hall-Petch Equation:
 
 Adapted from Fig. 7.14, _Callister & Rethwisch 8e._ (Fig. 7.14 is from _A Textbook of Materials Technology_, by Van Vlack, Pearson Education, Inc., Upper Saddle River, NJ.)
 
@@ -1046,7 +1046,7 @@ Avg Grain Diameter
 
 # Slide 27 - **Four Strategies for Strengthening:  2: Form Solid Solutions**
 
-• Smaller substitutional
+* Smaller substitutional
 
 impurity
 
@@ -1056,7 +1056,7 @@ Impurity generates local stress at **A** and **B** that opposes dislocation moti
 
 **B**
 
-• Larger substitutional
+* Larger substitutional
 
 impurity
 
@@ -1066,18 +1066,18 @@ Impurity generates local stress at **C** and **D** that opposes dislocation moti
 
 **D**
 
-• Impurity atoms distort the lattice & generate lattice strains.
+* Impurity atoms distort the lattice & generate lattice strains.
 
-• These strains can act as barriers to dislocation motion.
+* These strains can act as barriers to dislocation motion.
 
 ![](./Materials\ Test\ 2\ Review\ &\ Test/img26.png)
 
 
 # Slide 28 - **Four Strategies for Strengthening:  3: Cold Work (Strain Hardening)**
 
-• Deformation at room temperature (for most metals).
+* Deformation at room temperature (for most metals).
 
-• Common forming operations reduce the cross-sectional area:
+* Common forming operations reduce the cross-sectional area:
 
 Adapted from Fig. 11.8, _Callister & Rethwisch 8e._
 
@@ -1162,11 +1162,11 @@ roll
 
 # Slide 29 - **Dislocation Structures Change During Cold Working**
 
-• Dislocation structure in Ti after cold working.
+* Dislocation structure in Ti after cold working.
 
-• Dislocations entangle with one another during cold work.
+* Dislocations entangle with one another during cold work.
 
-• Dislocation motion
+* Dislocation motion
 
 becomes more difficult.
 
@@ -1179,11 +1179,11 @@ Fig. 4.6, _Callister & Rethwisch 8e._
 
 # Slide 30 - **Effect of Heat Treating After Cold Working**
 
-• 1 hour treatment at _Tanneal_...
+* 1 hour treatment at _Tanneal_...
 
 decreases _TS_ and increases % _EL_.
 
-• Effects of cold work are nullified!
+* Effects of cold work are nullified!
 
 Adapted from Fig. 7.22, _Callister & Rethwisch 8e._(Fig. 7.22 is adapted from G. Sachs and K.R. van Horn, _Practical Metallurgy, Applied Metallurgy, and the Industrial Processing of Ferrous and Nonferrous Metals and Alloys_, American Society for Metals, 1940, p. 139.)
 
@@ -1235,7 +1235,7 @@ annealing temperature (ºC)
 
 700
 
-• Three Annealing stages:
+* Three Annealing stages:
 
 - Recovery
 - Recrystallization
@@ -1259,11 +1259,11 @@ temperature
 
 # Slide 32 - **Four Strategies for Strengthening:  4: Precipitation Hardening**
 
-• Hard precipitates form lattice strains which are difficult to shear.
+* Hard precipitates form lattice strains which are difficult to shear.
 
 Ex: Ceramics in metals (SiC in Iron or Aluminum).
 
-• Result: Increase in yield strength
+* Result: Increase in yield strength
 
 Large shear stress needed
 
@@ -1300,17 +1300,17 @@ spacing
 
 # Slide 33 - **Summary – Failure**
 
-• Sharp corners produce large stress concentrations
+* Sharp corners produce large stress concentrations
 
 and premature failure.
 
-• Engineering materials not as strong as predicted by theory
+* Engineering materials not as strong as predicted by theory
 
-• Flaws act as stress concentrators that cause failure at
+* Flaws act as stress concentrators that cause failure at
 
 stresses lower than theoretical values.
 
-• Failure type depends on _T_ and _s_:
+* Failure type depends on _T_ and _s_:
 
 -  For simple fracture (noncyclic _s_ and _T_ < 0.4 _Tm)_, failure stress
 
@@ -1330,7 +1330,7 @@ decreases with:
 
 \- Time to rupture decreases as _s_ or _T_ increases.
 
-• Larger grains resist creep better
+* Larger grains resist creep better
 
 ![](./Materials\ Test\ 2\ Review\ &\ Test/img32.png)
 
@@ -1355,7 +1355,7 @@ Moderate
 
 Small
 
-• Ductile fracture is
+* Ductile fracture is
 
 usually more desirable
 
@@ -1363,7 +1363,7 @@ than brittle fracture!
 
 Adapted from Fig. 8.1, _Callister & Rethwisch 8e._
 
-• Fracture Behavior:
+* Fracture Behavior:
 
 Ductile:
 
@@ -1431,7 +1431,7 @@ fracture toughness)
 
 Adapted from Fig. 8.15, _Callister & Rethwisch 8e._
 
-• **Ductile-to-Brittle Transition Temperature (DBTT)...**
+* **Ductile-to-Brittle Transition Temperature (DBTT)...**
 
 BCC metals (e.g., iron at _T_ < 914ºC)
 
@@ -1470,7 +1470,7 @@ _**To determine ductile-to-brittle behavior**_
 
 Adapted from Fig. 8.19(a), _Callister & Rethwisch 8e._
 
-• Fatigue limit ( _Sfat_)
+* Fatigue limit ( _Sfat_)
 
 \-\- No fatigue if _S_ < _Sfat_
 
@@ -1506,7 +1506,7 @@ safe
 
 _S_ = stress amplitude
 
-• For some materials,
+* For some materials,
 
 there is no fatigue
 

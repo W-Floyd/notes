@@ -777,17 +777,17 @@ Science & Engineering
 
 **You will learn about:**
 
-• Material structure
+* Material structure
 
-• How structure dictates properties
+* How structure dictates properties
 
-• How processing can change structure
+* How processing can change structure
 
 **This course will help you to:**
 
-• Make sound material choices based on design requirements
+* Make sound material choices based on design requirements
 
-• Realize new design opportunities based on material
+* Realize new design opportunities based on material
 
 technology advancements
 
@@ -903,13 +903,13 @@ Identify required Processing
 
 # Slide 30 - **Structure, Processing, & Properties**
 
-• Strength/Hardness of steel depends on structure
+* Strength/Hardness of steel depends on structure
 
 Data obtained from Figs. 10.31(a) and 10.32 with 4 wt% C composition, and from Fig. 11.15, _Callister & Rethwisch 9e_. Micrographs adapted from (a) Fig. 10.19; (b) Fig. 9.30; (c) Fig. 10.33; and (d) Fig. 10.21, _Callister & Rethwisch 9e_. (Figures 10.19, 10.21, & 10.33 copyright 1971 by United States Steel Corporation. Figure 9.30 courtesy of Republic Steel Corporation.)
 
 ex: structure vs cooling rate of steel
 
-• Processing can change structure which changes properties
+* Processing can change structure which changes properties
 
 Hardness (BHN)
 
@@ -970,11 +970,11 @@ Cooling Rate (ºC/s)
 
 # Slide 31 - **Material Properties: Electrical**
 
-• Electrical Resistivity of Copper:
+* Electrical Resistivity of Copper:
 
-• Adding “impurity” (alloying) atoms to Cu increases resistivity
+* Adding “impurity” (alloying) atoms to Cu increases resistivity
 
-• Deforming Cu increases resistivity
+* Deforming Cu increases resistivity
 
 Fig. 18.8, _Callister & Rethwisch 9e._[Adapted from: J.O. Linde, _Ann Physik_ **5**, 219 (1932); and C.A. Wert and R.M. Thomson, _Physics of Solids_, 2nd edition, McGraw-Hill Company, New York, 1970.]
 
@@ -1019,13 +1019,13 @@ Cu + 1.12 at%Ni
 
 # Slide 32 - **Material Properties: Thermal**
 
-• Space Shuttle Tiles:
+* Space Shuttle Tiles:
 
 \-\- Silica fiber insulation
 
 offers low heat conduction.
 
-• Thermal Conductivity
+* Thermal Conductivity
 
 of Copper:
 
@@ -1078,7 +1078,7 @@ Company, Inc.)
 
 # Slide 33 - **Material Properties: Magnetic**
 
-• Magnetic Permeability
+* Magnetic Permeability
 
 vs. Composition
 
@@ -1099,7 +1099,7 @@ Electronically reproduced by permission of Pearson Education, Inc., Upper Saddle
 Fig. 20.23, _Callister & Rethwisch 9e._
 (Courtesy of HGST, a Western Digital Company.)
 
-• Magnetic Storage
+* Magnetic Storage
 
 \-\- Recording medium
 
@@ -1119,7 +1119,7 @@ Fe
 
 # Slide 34
 
-• Transmittance:
+* Transmittance:
 
 \-\- Aluminum oxide may be transparent, translucent, or
 
@@ -1149,13 +1149,13 @@ some porosity
 
 # Slide 35 - **Material Properties: Deteriorative**
 
-• Stress & Saltwater...
+* Stress & Saltwater...
 
 \-\- causes cracks!
 
 Fig. 17.21, _Callister & Rethwisch 9e._(from _Marine Corrosion, Causes, and Prevention_, John Wiley and Sons, Inc., 1975.)
 
-• Heat treatment: slows
+* Heat treatment: slows
 
 crack propagation in salt water!
 
@@ -1245,13 +1245,13 @@ _**Mix of Metals, Polymers, and Ceramics!**_
 
 # Slide 40 - **Summary**
 
-• Bottom line…choose the right material for the job
+* Bottom line…choose the right material for the job
 
-• Understand the relation between stucture, properties,
+* Understand the relation between stucture, properties,
 
 and processing
 
-• Recognize new design opportunities offered
+* Recognize new design opportunities offered
 
 by materials selection
 

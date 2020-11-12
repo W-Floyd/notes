@@ -1105,7 +1105,7 @@ Close-packed directions:
 
 3 _a_
 
-• APF for a body-centered cubic structure = 0.68
+* APF for a body-centered cubic structure = 0.68
 
 _a_
 
@@ -1132,7 +1132,7 @@ _a_
 
 # Slide 23 - **Atomic Packing Factor: FCC**
 
-• APF for a face-centered cubic structure = 0.74
+* APF for a face-centered cubic structure = 0.74
 
 _**Maximum Achievable APF**_
 
@@ -1408,7 +1408,7 @@ _x y z_
 
 # Slide 29 - **Crystals as Building Blocks**
 
-• Single Crystals
+* Single Crystals
 
 -Properties vary with
 
@@ -1420,7 +1420,7 @@ of elasticity ( _E_) in BCC iron
 
 Data from Table 3.4, _Callister & Rethwisch 9e_. (Source of data is R.W. Hertzberg, _Deformation and Fracture Mechanics of Engineering Materials_, 3rd ed., John Wiley and Sons, 1989.)
 
-• Polycrystals (> 1 crystal)
+* Polycrystals (> 1 crystal)
 
 -Properties may/may not
 
@@ -1478,9 +1478,9 @@ _a_ =
 
 Two outcomes if impurity (B) added to host (A):
 
-• Solid solution of B in A (i.e., random dist. of point defects)
+* Solid solution of B in A (i.e., random dist. of point defects)
 
-• Solid solution of B in A as a new phase (usually for a larger amount of B)
+* Solid solution of B in A as a new phase (usually for a larger amount of B)
 
 OR
 
@@ -1503,11 +1503,11 @@ Interstitial solid soln.
 
 Vacancy Diffusion:
 
-• Atoms exchange with vacancies
+* Atoms exchange with vacancies
 
-• Applies to substitutional impurity atoms
+* Applies to substitutional impurity atoms
 
-• Rate depends on:
+* Rate depends on:
 
 \-\- Activation energy (Qv) required to exchange atoms
 
@@ -1626,9 +1626,9 @@ magnification
 
 # Slide 38 - **Imperfections Summary**
 
-• Point, Line, and Area defects exist in solids
+* Point, Line, and Area defects exist in solids
 
-• The number and type of defects can be varied
+* The number and type of defects can be varied
 
 and controlled (e.g., _T_ controls vacancy concentration)
 
@@ -1744,11 +1744,11 @@ and controlled (e.g., _T_ controls vacancy concentration)
 
 # Slide 41 - **Summary – Mechanical Properties of Metals**
 
-• Stress and strain: These are size-independent
+* Stress and strain: These are size-independent
 
 measures of load and displacement, respectively.
 
-• Elastic behavior: This reversible behavior often
+* Elastic behavior: This reversible behavior often
 
 shows a linear relation between stress and strain.
 
@@ -1756,13 +1756,13 @@ To minimize deformation, select a material with a
 
 large elastic modulus ( _E_ or _G_).
 
-• Toughness: The energy needed to break a unit
+* Toughness: The energy needed to break a unit
 
 volume of material.
 
-• Ductility: The plastic strain at failure.
+* Ductility: The plastic strain at failure.
 
-• Plastic behavior: This permanent deformation
+* Plastic behavior: This permanent deformation
 
 behavior occurs when the tensile (or compressive)
 
@@ -1773,11 +1773,11 @@ uniaxial stress reaches s _y_.
 
 # Slide 42 - **Summary – Dislocations & Strengthening Mechanisms**
 
-• Dislocations are observed primarily in metals and alloys.
+* Dislocations are observed primarily in metals and alloys.
 
-• Strength is increased by making dislocation motion difficult.
+* Strength is increased by making dislocation motion difficult.
 
-• Strength of metals may be increased by:
+* Strength of metals may be increased by:
 
 \-\- decreasing grain size
 
@@ -1787,7 +1787,7 @@ uniaxial stress reaches s _y_.
 
 \-\- precipitate hardening
 
-• A cold-worked metal that is heat treated may experience
+* A cold-worked metal that is heat treated may experience
 
 recovery, recrystallization, and grain growth and its properties
 
@@ -1798,9 +1798,9 @@ will be altered.
 
 # Slide 43 - **Three Stages During Heat Treatment: 1\. Recovery**
 
-• Scenario 1
+* Scenario 1
 
-• Scenario 2
+* Scenario 2
 
 4\. opposite dislocations
 
@@ -1881,7 +1881,7 @@ nucleate after
 
 0.6 mm
 
-• New grains are formed due to energy difference between strained and unstrained areas after recovery
+* New grains are formed due to energy difference between strained and unstrained areas after recovery
 
 \-\- Strain-free grains with lower dislocation densities
 
@@ -1894,7 +1894,7 @@ nucleate after
 
 # Slide 45 - **As Recrystallization Continues…**
 
-• All cold-worked grains are eventually consumed/replaced.
+* All cold-worked grains are eventually consumed/replaced.
 
 Adapted from Fig. 7.21(c),(d), _Callister & Rethwisch 8e._(Fig. 7.21(c),(d) are courtesy of J.E. Burke, General Electric Company.)
 
@@ -1917,7 +1917,7 @@ seconds
 
 Adapted from Fig. 7.21(d),(e), _Callister & Rethwisch 8e._(Fig. 7.21(d),(e) are courtesy of J.E. Burke, General Electric Company.)
 
-• With longer times at higher temp, average grain size increases.
+* With longer times at higher temp, average grain size increases.
 
 After 8 s,
 
@@ -1931,7 +1931,7 @@ After 15 min,
 
 0.6 mm
 
-• Empirical Relation:
+* Empirical Relation:
 
 elapsed time
 
@@ -1967,17 +1967,17 @@ temperature
 
 # Slide 48 - **Summary – Failure**
 
-• Sharp corners produce large stress concentrations
+* Sharp corners produce large stress concentrations
 
 and premature failure.
 
-• Engineering materials not as strong as predicted by theory
+* Engineering materials not as strong as predicted by theory
 
-• Flaws act as stress concentrators that cause failure at
+* Flaws act as stress concentrators that cause failure at
 
 stresses lower than theoretical values.
 
-• Failure type depends on _T_ and _s_:
+* Failure type depends on _T_ and _s_:
 
 -  For simple fracture (noncyclic _s_ and _T_ < 0.4 _Tm)_, failure stress
 
@@ -2189,17 +2189,17 @@ with a min. melting T.
 
 Adapted from Fig. 9.7, Callister & Rethwisch 8e.
 
-• 3 single phase regions
+* 3 single phase regions
 
 (L, a, b)
 
-• Limited solubility:
+* Limited solubility:
 
 a: mostly Cu
 
 b: mostly Ag
 
-• TE
+* TE
 
 : No liquid below TE
 
@@ -2207,7 +2207,7 @@ b: mostly Ag
 
 temperature TE
 
-• CE
+* CE
 
 Ex.: Cu-Ag system
 
@@ -2287,7 +2287,7 @@ cooling
 
 heating
 
-• **Eutectic reaction**
+* **Eutectic reaction**
 
 L(CE) (CE) + (CE)
 
@@ -2300,11 +2300,11 @@ L(CE) (CE) + (CE)
 
 # Slide 58 - **Microstructural Developments  in Eutectic Systems – Case 1**
 
-• For alloys for which
+* For alloys for which
 
 C0 < 2 wt% Sn
 
-• Result: at room temperature
+* Result: at room temperature
 
 \-\- polycrystalline with grains of
 
@@ -2379,11 +2379,11 @@ Adapted from Fig. 9.11, Callister & Rethwisch 8e.
 
 # Slide 59 - **Microstructural Developments  in Eutectic Systems – Case 2**
 
-• For alloys for which
+* For alloys for which
 
 2 wt% Sn < C0 < 18.3 wt% Sn
 
-• Result:
+* Result:
 
 at temperatures in a + b range
 
@@ -2466,9 +2466,9 @@ a: C0 wt% Sn
 
 # Slide 60 - **Microstructural Developments  in Eutectic Systems – Case 3**
 
-• For alloy of eutectic composition C0 = CE
+* For alloy of eutectic composition C0 = CE
 
-• Result: Eutectic microstructure (lamellar structure)
+* Result: Eutectic microstructure (lamellar structure)
 
 \-\- Alternating layers (lamellae) of a and b phases (“pearlite”)
 
@@ -2550,9 +2550,9 @@ L: C0 wt% Sn
 
 # Slide 61 - **Microstructural Developments  in Eutectic Systems – Case 4**
 
-• For alloys for which 18.3 wt% Sn < C0 < 61.9 wt% Sn
+* For alloys for which 18.3 wt% Sn < C0 < 61.9 wt% Sn
 
-• Result: a phase particles and a eutectic microconstituent
+* Result: a phase particles and a eutectic microconstituent
 
 18.3
 
@@ -2614,9 +2614,9 @@ Wa
 
 = 0.50
 
-• Just above TE :
+* Just above TE :
 
-• Just below TE :
+* Just below TE :
 
 C
 

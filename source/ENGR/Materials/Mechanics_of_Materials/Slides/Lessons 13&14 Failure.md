@@ -331,15 +331,15 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **ISSUES TO ADDRESS...**
 
-• How do cracks that lead to failure form?
+* How do cracks that lead to failure form?
 
-• How is fracture resistance quantified? How do the fracture
+* How is fracture resistance quantified? How do the fracture
 
 resistances of the different material classes compare?
 
-• How do we estimate the stress to fracture?
+* How do we estimate the stress to fracture?
 
-• How do loading rate, loading history, and temperature
+* How do loading rate, loading history, and temperature
 
 affect the failure behavior of materials?
 
@@ -397,7 +397,7 @@ Moderate
 
 Small
 
-• Ductile fracture is
+* Ductile fracture is
 
 usually more desirable
 
@@ -405,7 +405,7 @@ than brittle fracture!
 
 Adapted from Fig. 8.1, _Callister & Rethwisch 8e._
 
-• Fracture Behavior:
+* Fracture Behavior:
 
 Ductile:
 
@@ -418,7 +418,7 @@ Brittle: No warning
 
 # Slide 11 - **Example: Pipe Failures**
 
-• **Ductile failure:**
+* **Ductile failure:**
 
 \-\- one piece
 
@@ -426,7 +426,7 @@ Brittle: No warning
 
 Figures from V.J. Colangelo and F.A. Heiser, _Analysis of Metallurgical Failures_ (2nd ed.), Fig. 4.1(a) and (b), p. 66 John Wiley and Sons, Inc., 1987. Used with permission.
 
-• **Brittle failure:**
+* **Brittle failure:**
 
 \-\- many pieces
 
@@ -437,7 +437,7 @@ Figures from V.J. Colangelo and F.A. Heiser, _Analysis of Metallurgical Failures
 
 # Slide 12 - **Moderately Ductile Failure**
 
-• Resulting
+* Resulting
 
 fracture
 
@@ -463,7 +463,7 @@ From V.J. Colangelo and F.A. Heiser, _Analysis of Metallurgical Failures_ (2nd e
 
 Fracture surface of tire cord wire loaded in tension. Courtesy of F. Roehrig, CC Technologies, Dublin, OH. Used with permission.
 
-• Failure Stages:
+* Failure Stages:
 
 necking
 
@@ -512,7 +512,7 @@ Adapted from Fig. 8.5(a), _Callister & Rethwisch 8e._
 
 # Slide 15 - **Brittle Fracture Surfaces**
 
-• Transgranular (through grains
+* Transgranular (through grains
 
 in preferred slip planes) – **most common**
 
@@ -530,7 +530,7 @@ Reprinted w/ permission from "Metals Handbook", 9th ed, Fig. 650, p. 357. Copyri
 
 160 mm
 
-• Intergranular
+* Intergranular
 
 (between grains)
 
@@ -555,7 +555,7 @@ Reprinted w/ permission from R.W. Hertzberg, "Defor-mation and Fracture Mechanic
 
 # Slide 16 - **Ideal vs Real Materials**
 
-• Stress-strain behavior (room temp):
+* Stress-strain behavior (room temp):
 
 _TS_ << _TS_
 
@@ -587,13 +587,13 @@ typical strengthened metal
 
 typical polymer
 
-• DaVinci observed (500 yrs ago)...
+* DaVinci observed (500 yrs ago)...
 
 \-\- The longer the wire, the
 
 smaller the load for failure.
 
-• Reasons:
+* Reasons:
 
 \-\- Flaws cause premature failure.
 
@@ -662,7 +662,7 @@ _t_
 
 =
 
-• **Avoid sharp corners!**
+* **Avoid sharp corners!**
 
 
 
@@ -935,9 +935,9 @@ O
 
 # Slide 24 - **Design Against Crack Growth**
 
-• Crack growth condition:
+* Crack growth condition:
 
-• Largest, most highly stressed cracks grow first!
+* Largest, most highly stressed cracks grow first!
 
 _K_ ≥ _Kc_ =
 
@@ -976,9 +976,9 @@ _Y = dimensionless parameter (crack size/geometry & load)_
 
 # Slide 25 - **Design Example: Deck Plate Internal Cracks**
 
-• Find maximum allowable internal crack length
+* Find maximum allowable internal crack length
 
-• Material has _KIc_ = 55 MPa-m **0.5** loaded at 455 MPa (Y=1.50)
+* Material has _KIc_ = 55 MPa-m **0.5** loaded at 455 MPa (Y=1.50)
 
 ![](./Lessons\ 13&14\ Failure/img24.png)
 
@@ -987,16 +987,16 @@ _Y = dimensionless parameter (crack size/geometry & load)_
 
 **Answer: 0.0041 m (4.1 mm)**
 
-• Find maximum allowable internal crack length
+* Find maximum allowable internal crack length
 
-• Material has _KIc_ = 55 MPa-m **0.5** loaded at 455 MPa (Y=1.50)
+* Material has _KIc_ = 55 MPa-m **0.5** loaded at 455 MPa (Y=1.50)
 
 ![](./Lessons\ 13&14\ Failure/img25.png)
 
 
 # Slide 27 - **Design Example: Aircraft Wing Surface Cracks**
 
-• Two cases to consider...
+* Two cases to consider...
 
 Case 1
 
@@ -1012,7 +1012,7 @@ Case 2
 
 \-\- Failure stress = ?
 
-• Material has _KIc_ = 26 MPa-m **0.5**
+* Material has _KIc_ = 26 MPa-m **0.5**
 
 ![](./Lessons\ 13&14\ Failure/img26.png)
 
@@ -1021,7 +1021,7 @@ Case 2
 
 Answer:
 
-• Two cases to consider...
+* Two cases to consider...
 
 Case 1
 
@@ -1037,11 +1037,11 @@ Case 2
 
 \-\- Failure stress = ?
 
-• Key point: _Y_ and _KIc_ are the same for both cases.
+* Key point: _Y_ and _KIc_ are the same for both cases.
 
-• Material has _KIc_ = 26 MPa-m **0.5**
+* Material has _KIc_ = 26 MPa-m **0.5**
 
-• Use...
+* Use...
 
 **9 mm**
 
@@ -1090,7 +1090,7 @@ Adapted from Fig. 8.12(b), _Callister & Rethwisch 8e._(Fig. 8.12(b) is adapted f
 
 Adapted from Fig. 8.15, _Callister & Rethwisch 8e._
 
-• **Ductile-to-Brittle Transition Temperature (DBTT)...**
+* **Ductile-to-Brittle Transition Temperature (DBTT)...**
 
 BCC metals (e.g., iron at _T_ < 914ºC)
 
@@ -1127,11 +1127,11 @@ _**To determine ductile-to-brittle behavior**_
 
 # Slide 32 - **Design Strategy: Stay Above The DBTT!**
 
-**• Pre-WWII: The Titanic**
+*** Pre-WWII: The Titanic**
 
-**• WWII: Liberty ships**
+*** WWII: Liberty ships**
 
-• Problem: Steels were used having DBTT’s just below room temperature.
+* Problem: Steels were used having DBTT’s just below room temperature.
 
 [https://www.youtube.com/watch?v=ru8zXGoVRDk](https://www.youtube.com/watch?v=ru8zXGoVRDk)
 
@@ -1146,9 +1146,9 @@ Reprinted w/ permission from R.W. Hertzberg, "Deformation and Fracture Mechanics
 
 Adapted from Fig. 8.18, _Callister & Rethwisch 8e._(Fig. 8.18 is from _Materials Science in Engineering_, 4/E by Carl. A. Keyser, Pearson Education, Inc., Upper Saddle River, NJ.)
 
-• Fatigue = failure under applied cyclic stress.
+* Fatigue = failure under applied cyclic stress.
 
-• Stress varies with time.
+* Stress varies with time.
 
 \-\- Key parameters are
 
@@ -1174,7 +1174,7 @@ _m_
 
 s _a_
 
-• Key points: Fatigue...
+* Key points: Fatigue...
 
 \-\- Can cause part failure, even though s _max_ < s _y_.
 
@@ -1205,7 +1205,7 @@ bearing
 
 Adapted from Fig. 8.19(a), _Callister & Rethwisch 8e._
 
-• Fatigue limit ( _Sfat_)
+* Fatigue limit ( _Sfat_)
 
 \-\- No fatigue if _S_ < _Sfat_
 
@@ -1241,7 +1241,7 @@ safe
 
 _S_ = stress amplitude
 
-• For some materials,
+* For some materials,
 
 there is no fatigue
 
@@ -1286,13 +1286,13 @@ Note: Fatigue limit is the stress at which a member lasts for an infinite number
 
 # Slide 35 - **Rate of Fatigue Crack Growth**
 
-• Crack grows _incrementally_
+* Crack grows _incrementally_
 
 typ. 1 to 6
 
 increase in crack length per loading cycle
 
-• Failed rotating shaft
+* Failed rotating shaft
 
 \-\- Crack grew even though
 
@@ -1300,11 +1300,11 @@ _Kmax_ < _Kc_
 
 \-\- Crack grows faster as
 
-• **Ds** increases
+* **Ds** increases
 
-• crack gets longer
+* crack gets longer
 
-• loading freq. increases.
+* loading freq. increases.
 
 crack origin
 
@@ -1432,7 +1432,7 @@ _t_
 
 # Slide 39 - **Creep**
 
-• Temperature dependence, _T_ \> 0.4 _Tm_ (in K)
+* Temperature dependence, _T_ \> 0.4 _Tm_ (in K)
 
 Adapted from Fig. 8.29, _Callister & Rethwisch 8e._
 
@@ -1449,7 +1449,7 @@ tertiary
 
 # Slide 40 - **Secondary Creep**
 
-• Strain rate is constant at a given _T_, s
+* Strain rate is constant at a given _T_, s
 
 \-\- strain hardening is balanced by recovery
 
@@ -1465,7 +1465,7 @@ applied stress
 
 material const.
 
-• Strain rate
+* Strain rate
 
 increases
 
@@ -1528,7 +1528,7 @@ Fig. 8.31, _Callister 7e._
 
 # Slide 41 - **Creep Failure**
 
-• Failure: along grain boundaries due to grain boundary
+* Failure: along grain boundaries due to grain boundary
 
 separation or grain boundary sliding
 
@@ -1549,7 +1549,7 @@ From V.J. Colangelo and F.A. Heiser, _Analysis of Metallurgical Failures_ (2nd e
 
 # Slide 42 - **Prediction of Creep Rupture Lifetime**
 
-• Estimate rupture time
+* Estimate rupture time
 
 S-590 Iron, _T_ = 800ºC, s = 20,000 psi
 
@@ -1590,7 +1590,7 @@ S-590 Iron
 
 # Slide 43 - **Prediction of Creep Rupture Lifetime**
 
-• Estimate rupture time
+* Estimate rupture time
 
 S-590 Iron, _T_ = 800ºC, s = 20,000 psi
 
