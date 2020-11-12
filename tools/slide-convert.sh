@@ -31,7 +31,7 @@ for i in $(seq 0 "$((n - 1))"); do
     source="${prefix}${i}.html"
     #echo "# $(pcregrep -Mo '<title>(.|\n)*?</title>' <"${source}" | tr -d '\n' | sed 's|<title>\(.*\)</title>|\1|')"
 
-    output="$(html2md -i <"text${i}.html" | sed "s|\(${prefix}[0-9]*.${format}\)|${escaped}/\1|" | grep -v '\.html)' | sed -e "s|^# |# Slide ${i} - |")"
+    output="$(html2md -i <"text${i}.html" | sed "s|\(${prefix}[0-9]*.${format}\)|${escaped}/\1|" | grep -v '\.html)' | sed -e "s|^# |# Slide $((i + 1)) - |")"
     if ! grep -qE '^# ' <<<"${output}"; then
         echo "# Slide $((i + 1))"
     fi
