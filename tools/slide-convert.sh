@@ -37,11 +37,11 @@ for i in $(seq 0 "$((n - 1))"); do
     fi
     echo "${output}"
     html2md -i <"${source}" | sed "s|\(${prefix}[0-9]*.${format}\)|${escaped}/\1|" | grep -v '\.html)'
-done >"../${1}.md"
+done >"../${name}.md"
 
 rm *.html
 
-zopflipng --prefix *.png
+find . | grep -E '*.png' | parallel zopflipng --prefix
 
 for file in zopfli_img*; do
     mv "${file}" "${file#zopfli_}"
