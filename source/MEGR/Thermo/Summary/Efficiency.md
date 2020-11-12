@@ -34,6 +34,20 @@ $$
 
 ## Isentropic Efficiency
 
+$h_{2s}$ is smallest allowed $h_2$
+
+### Turbines
+
+$$
+\left(\frac{\dot{W}_{\mathrm{cv}}}{\dot{m}}\right)_{\mathrm{s}}=h_{1}-h_{2 \mathrm{~s}}
+$$
+
+Max value for turbine work is:
+
+$$
+\eta_{\mathrm{t}}=\frac{\dot{W}_{\mathrm{cv}} / \dot{m}}{\left(\dot{W}_{\mathrm{cv}} / \dot{m}\right)_{\mathrm{s}}}=\frac{h_{1}-h_{2}}{h_{1}-h_{2 \mathrm{~s}}}
+$$
+
 ### Compressor and Pump
 
 Minimum work input:
