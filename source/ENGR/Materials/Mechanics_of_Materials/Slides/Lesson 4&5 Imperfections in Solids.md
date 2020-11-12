@@ -4,10 +4,10 @@ _**Claiming every workplace in every nation as our**_
 
 _**mission field**_
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img0.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img0.png)
 
 
-# Slide 1 - **Devo/Prayer**
+# Slide 2 - **Devo/Prayer**
 
 ## **“It is for freedom that Christ has set us free.”**
 
@@ -17,10 +17,10 @@ _**mission field**_
 
 ## **2 Chronicles 7:14**
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img1.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img1.png)
 
 
-# Slide 2 - **Devo/Prayer**
+# Slide 3 - **Devo/Prayer**
 
 - “Whatever you do, work at it with all your heart, as working for the Lord, not for human masters”
 
@@ -30,10 +30,10 @@ _**mission field**_
 
 ## Mark 10:27
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img2.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img2.png)
 
 
-# Slide 3 - **Devo/Prayer – Why Create?**
+# Slide 4 - **Devo/Prayer – Why Create?**
 
 ## _**THEO 2043 answer…**_
 
@@ -45,18 +45,18 @@ _**mission field**_
 
 ## John 15:5
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img3.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img3.png)
 
 
-# Slide 4 - **Devo/Prayer – Measuring Faith**
+# Slide 5 - **Devo/Prayer – Measuring Faith**
 
 - “In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.” Matthew 5:16
 - “But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.”  Galatians 5:22-23
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img4.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img4.png)
 
 
-# Slide 5 - **Devo/Prayer – Salvation Made Simple**
+# Slide 6 - **Devo/Prayer – Salvation Made Simple**
 
 - God is Righteous
 
@@ -76,7 +76,7 @@ _**mission field**_
 
 _**Claim Every Workplace in Every Nation As Your Mission Field!**_
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img5.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img5.png)
 
 # Slide 7
 
@@ -302,7 +302,7 @@ _**Imperfections in Solids**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img6.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img6.png)
 
 # Slide 8
 
@@ -564,10 +564,10 @@ _**Atomic Structure and Interatomic Bonding**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img7.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img7.png)
 
 
-# Slide 8 - **Materials Engineering Test 1 Review  (allowed one double sided 8.5X11” sheet of notes/equations)**
+# Slide 9 - **Materials Engineering Test 1 Review  (allowed one double sided 8.5X11” sheet of notes/equations)**
 
 ## **Chapter 1: Introduction**
 
@@ -651,10 +651,10 @@ X-Ray Diffraction compare to Energy Dispersive X-Ray
 
 Noncystalline Solids - amorphous
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img8.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img8.png)
 
 
-# Slide 9 - **Materials Engineering Exam 1 Review (continued)**
+# Slide 10 - **Materials Engineering Exam 1 Review (continued)**
 
 ## **Chapter 4: Imperfections in Solids**
 
@@ -700,10 +700,10 @@ Noncystalline Solids - amorphous
 
 ## Semi-Conductors
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img9.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img9.png)
 
 
-# Slide 10 - **Imperfections in Solids**
+# Slide 11 - **Imperfections in Solids**
 
 ## There is no such thing as a perfect crystal
 
@@ -712,10 +712,10 @@ Noncystalline Solids - amorphous
 
 ## Many of the important properties of materials are due to the presence of imperfections
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img10.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img10.png)
 
 
-# Slide 11 - **Types of Imperfections**
+# Slide 12 - **Types of Imperfections**
 
 • Vacancies
 
@@ -734,10 +734,10 @@ Linear defects
 
 Area defects
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img11.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img11.png)
 
 
-# Slide 12 - **Point Defects: Vacancies & Self-Interstitials**
+# Slide 13 - **Point Defects: Vacancies & Self-Interstitials**
 
 • Vacancies:
 
@@ -761,10 +761,10 @@ distortion
 
 of planes
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img12.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img12.png)
 
 
-# Slide 13 - **Determining Equilibrium Number of Vacancies**
+# Slide 14 - **Determining Equilibrium Number of Vacancies**
 
 æ
 
@@ -834,10 +834,10 @@ vacancy site
 
 **• Equilibrium concentration increases exponentially with temperature**
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img13.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img13.png)
 
 
-# Slide 14 - **Measuring Activation Energy**
+# Slide 15 - **Measuring Activation Energy**
 
 • We can get _Qv_ from
 
@@ -917,10 +917,10 @@ _v_
 
 slope
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img14.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img14.png)
 
 
-# Slide 15 - **Estimating Vacancies Example**
+# Slide 16 - **Estimating Vacancies Example**
 
 • Find the equil. # of vacancies in 1 m3 of Cu at 1000C.
 
@@ -1040,10 +1040,10 @@ _v_
 
 3
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img15.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img15.png)
 
 
-# Slide 16 - **Observing Equilibrium Vacancy Concentration**
+# Slide 17 - **Observing Equilibrium Vacancy Concentration**
 
 • Low energy electron
 
@@ -1080,10 +1080,10 @@ sland grows/shrinks to maintain
 
 equil. vancancy conc. in the bulk.
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img16.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img16.png)
 
 
-# Slide 17 - **Point Defects: Substitutional & Interstitial Atoms in Solid Solutions**
+# Slide 18 - **Point Defects: Substitutional & Interstitial Atoms in Solid Solutions**
 
 Two outcomes if impurity (B) added to host (A):
 
@@ -1105,10 +1105,10 @@ Interstitial solid soln.
 
 \- Often different structure
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img17.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img17.png)
 
 
-# Slide 18 - **Solid Solution Characteristics**
+# Slide 19 - **Solid Solution Characteristics**
 
 ## Determining how much solute dissolves:
 
@@ -1124,10 +1124,10 @@ Interstitial solid soln.
 
 - All else being equal, a metal will have a greater tendency to dissolve a metal of higher valency than one of lower valency (e.g. A metal with a +2 valence charge is more likely to be dissolved than a metal of a +1 valence charge)
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img18.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img18.png)
 
 
-# Slide 19 - **Solid Solution Characteristics**
+# Slide 20 - **Solid Solution Characteristics**
 
 ## Application of Hume–Rothery rules for Solid Solutions
 
@@ -1156,10 +1156,10 @@ Ni 0.1246 FCC 1.8 +2
 Pd 0.1376 FCC 2.2 +2
 Zn 0.1332 HCP 1.6 +2
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img19.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img19.png)
 
 
-# Slide 20 - **Solid Solution Composition**
+# Slide 21 - **Solid Solution Composition**
 
 ## \- Weight percent (wt%)
 
@@ -1173,10 +1173,10 @@ _A1 =_ atomic wt of component 1
 
 \- Pattern extends if > 2 components
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img20.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img20.png)
 
 
-# Slide 21 - **Solid Solution Composition**
+# Slide 22 - **Solid Solution Composition**
 
 ## \- Converting atom% to weight%
 
@@ -1198,47 +1198,47 @@ C1 = composition in wt percent of component 1
 
 C2 = composition in wt percent of component 2
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img21.png)
-
-
-# Slide 22 - **Solid Solution Composition Example 1**
-
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img22.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img21.png)
 
 
 # Slide 23 - **Solid Solution Composition Example 1**
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img23.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img22.png)
 
 
-# Slide 24 - **Solid Solution Composition Example 2**
+# Slide 24 - **Solid Solution Composition Example 1**
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img24.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img23.png)
 
 
 # Slide 25 - **Solid Solution Composition Example 2**
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img25.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img24.png)
 
 
-# Slide 26 - **Solid Solution Composition Example 3**
+# Slide 26 - **Solid Solution Composition Example 2**
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img26.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img25.png)
 
 
 # Slide 27 - **Solid Solution Composition Example 3**
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img27.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img26.png)
 
 
-# Slide 28 - **Solid Solution Composition Example 4**
+# Slide 28 - **Solid Solution Composition Example 3**
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img28.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img27.png)
 
 
 # Slide 29 - **Solid Solution Composition Example 4**
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img29.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img28.png)
+
+
+# Slide 30 - **Solid Solution Composition Example 4**
+
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img29.png)
 
 # Slide 31
 
@@ -1249,7 +1249,7 @@ Fig. 4.3, _Callister & Rethwisch 8e._
 - Extra half-plane of atoms inserted in a crystal structure
 - **Burgers Vector (b)** perpendicular () to dislocation line (measure of lattice distortion)
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img30.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img30.png)
 
 # Slide 32
 
@@ -1272,10 +1272,10 @@ b
 - Spiral planar ramp resulting from shear deformation
 - **b** parallel () to dislocation line
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img31.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img31.png)
 
 
-# Slide 32 - **Linear Defects: Mixed Dislocations**
+# Slide 33 - **Linear Defects: Mixed Dislocations**
 
 Adapted from Fig. 4.5, _Callister & Rethwisch 8e._
 
@@ -1285,10 +1285,10 @@ Screw
 
 Mixed
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img32.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img32.png)
 
 
-# Slide 33 - **VMSE: Screw Dislocation**
+# Slide 34 - **VMSE: Screw Dislocation**
 
 - In VMSE:
 
@@ -1301,10 +1301,10 @@ Top View
 
 VMSE Screen Shots
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img33.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img33.png)
 
 
-# Slide 34 - **Dislocation Movement**
+# Slide 35 - **Dislocation Movement**
 
 **• Slip between crystal planes result when dislocations move under applied stresses**
 
@@ -1318,10 +1318,10 @@ slip steps
 
 **Dislocation Movement Produces Permanent (plastic) Deformation**
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img34.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img34.png)
 
 
-# Slide 35 - **Dislocations & Crystal Structures**
+# Slide 36 - **Dislocations & Crystal Structures**
 
 • Structure: close-packed
 
@@ -1361,10 +1361,10 @@ Al (FCC)
 
 tensile direction
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img35.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img35.png)
 
 
-# Slide 36 - **Area Defects: Grain Boundaries**
+# Slide 37 - **Area Defects: Grain Boundaries**
 
 - Start with a molten material – all liquid
 - Solidification - result of casting of molten material
@@ -1386,10 +1386,10 @@ nuclei
 
 liquid
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img36.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img36.png)
 
 
-# Slide 37 - **Area Defects: Grain Boundaries**
+# Slide 38 - **Area Defects: Grain Boundaries**
 
 - Regions between crystals
 - Transition from lattice of one region to that of the other
@@ -1420,10 +1420,10 @@ at 100x
 
 magnification
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img37.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img37.png)
 
 
-# Slide 38 - **Area (Interfacial) Defects: Twin Boundaries**
+# Slide 39 - **Area (Interfacial) Defects: Twin Boundaries**
 
 - Essentially a reflection of atom positions across the twin plane
 
@@ -1431,10 +1431,10 @@ Adapted from Fig. 4.9, _Callister & Rethwisch 8e._
 
 **Area Defects Impede Dislocation Motion/Deformation**
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img38.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img38.png)
 
 
-# Slide 39 - **Examining Material Microstructure**
+# Slide 40 - **Examining Material Microstructure**
 
 - Crystallites (grains) and grain boundaries vary considerably in size (can be quite large)
 
@@ -1443,10 +1443,10 @@ Adapted from Fig. 4.9, _Callister & Rethwisch 8e._
 
 - Or quite small (mm or less) – necessary to observe with a microscope.
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img39.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img39.png)
 
 
-# Slide 40 - **Optical Microscopy**
+# Slide 41 - **Optical Microscopy**
 
 • Useful up to 2000X magnification. (1000-1500X typical)
 
@@ -1470,10 +1470,10 @@ of J.E. Burke, General Electric Co.)
 
 crystallographic planes
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img40.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img40.png)
 
 
-# Slide 41 - **Electron Microscopy**
+# Slide 42 - **Electron Microscopy**
 
 - Optical resolution limited to 10-7 m = 0.1 m = 100 nm
 - For higher resolution, need higher frequency
@@ -1490,17 +1490,17 @@ crystallographic planes
 - Atomic resolution possible with Transmission Electron Microscopy (TEM)
 - Electron beam focused by magnetic lenses.
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img41.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img41.png)
 
 
-# Slide 42 - **Grain Size Determination**
+# Slide 43 - **Grain Size Determination**
 
 - **E.g. from book**
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img42.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img42.png)
 
 
-# Slide 43 - **Scanning Probe Microscopy (SPM)**
+# Slide 44 - **Scanning Probe Microscopy (SPM)**
 
 • Probes generate topographic map
 
@@ -1512,10 +1512,10 @@ Photos produced from the work of C.P. Lutz, Zeppenfeld, and D.M. Eigler. Reprint
 
 Iron atoms arranged on a copper (111) surface. These Kanji characters represent the word “atom”
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img43.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img43.png)
 
 
-# Slide 44 - **Summary**
+# Slide 45 - **Summary**
 
 • Point, Line, and Area defects exist in solids
 
@@ -1531,10 +1531,10 @@ and controlled (e.g., _T_ controls vacancy concentration)
 
 **Materials Engineering is About Defect Management!**
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img44.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img44.png)
 
 
-# Slide 45 - **Why Materials Engineering?**
+# Slide 46 - **Why Materials Engineering?**
 
 ## **Why Materials Engineering?**
 
@@ -1545,19 +1545,19 @@ and controlled (e.g., _T_ controls vacancy concentration)
 - **Polymers?**
 - **Composites?**
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img45.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img45.png)
 
 
-# Slide 46 - **Wrap up**
+# Slide 47 - **Wrap up**
 
 - Questions
 - Homework
 - Introduce Next Lesson
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img46.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img46.png)
 
 
-# Slide 47 - Grains can be - equiaxed (roughly same size in all directions)
+# Slide 48 - Grains can be - equiaxed (roughly same size in all directions)
 
 Columnar in area with less undercooling
 
@@ -1579,7 +1579,7 @@ Adapted from Fig. 5.17, _Callister & Rethwisch 3e._
 
 **Imperfections in Polycrystalline Materials**
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img47.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img47.png)
 
 # Slide 49
 
@@ -1591,7 +1591,7 @@ Adapted from Fig. 5.17, _Callister & Rethwisch 3e._
 
 - Dark Field - light source is nearly parallel to the sample surface, rough spots and cracks show up as bright, flat regions appear dark
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img48.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img48.png)
 
 # Slide 50
 
@@ -1609,7 +1609,7 @@ Tin Rich Phase
 
 **Optical Microscopy – Bright Field**
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img49.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img49.png)
 
 # Slide 51
 
@@ -1619,22 +1619,22 @@ Crack shows up light with dark field lighting (confirms that this feature is a c
 
 **Optical Microscopy – Dark Field**
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img50.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img50.png)
 
 
-# Slide 51 - **Optical Microscopy**
+# Slide 52 - **Optical Microscopy**
 
 - Polarized light
 
 - metallographic scopes often use polarized light to increase contrast
 - Also used for transparent samples such as polymers
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img51.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img51.png)
 
 
-# Slide 52 - **Case Study: Intermittent LEDs**
+# Slide 53 - **Case Study: Intermittent LEDs**
 
 - Intermittent LED 2, Bright Field Light, Mag. 300X
 
-![](Lesson\ 4&5\ Imperfections\ in\ Solids/img52.png)
+![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img52.png)
 

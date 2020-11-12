@@ -4,7 +4,7 @@ _**Claiming every workplace in every nation as our**_
 
 _**mission field**_
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img0.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img0.png)
 
 # Slide 2
 
@@ -28,7 +28,7 @@ _**Rejoice Always, Pray Continually, Give Thanks In All Circumstances! 1 Thes 5:
 
 _**Armor Up LeTourneau! Eph 6:13-18**_
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img1.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img1.png)
 
 # Slide 3
 
@@ -38,7 +38,7 @@ _**Armor Up LeTourneau! Eph 6:13-18**_
 
 **Helpful (and cool) Stuff**
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img2.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img2.png)
 
 # Slide 4
 
@@ -46,25 +46,25 @@ _**Armor Up LeTourneau! Eph 6:13-18**_
 
 **Throughout History**
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img3.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img3.png)
 
 # Slide 5
 
 **Noah**
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img4.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img4.png)
 
 # Slide 6
 
 **Leonardo da Vinci**
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img5.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img5.png)
 
 # Slide 7
 
 **Wilbur & Orville Wright**
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img6.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img6.png)
 
 # Slide 8
 
@@ -72,16 +72,16 @@ _**Armor Up LeTourneau! Eph 6:13-18**_
 
 _**Claiming every workplace in every nation as our mission field, LeTourneau University graduates are professionals of ingenuity and Christ-like character who see life’s work as a holy calling with eternal impact.**_
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img7.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img7.png)
 
 # Slide 9
 
 **The Greatest?**
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img8.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img8.png)
 
 
-# Slide 9 - **Devo/Prayer – The Greatest Engineer!**
+# Slide 10 - **Devo/Prayer – The Greatest Engineer!**
 
 _**By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible.**_
 
@@ -93,7 +93,7 @@ _**Colossians 1:17**_
 
 [https://micro.magnet.fsu.edu/primer/java/scienceopticsu/powersof10/](https://micro.magnet.fsu.edu/primer/java/scienceopticsu/powersof10/)
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img9.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img9.png)
 
 # Slide 11
 
@@ -107,7 +107,7 @@ Make the World More Like God Designed it to Be
 
 and Benefit People Along the Way!
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img10.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img10.png)
 
 # Slide 12
 
@@ -123,16 +123,16 @@ _**Sharing the Journey**_
 
 **F = ma**
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img11.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img11.png)
 
 # Slide 13
 
 **The Result…**
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img12.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img12.png)
 
 
-# Slide 13 - **Tell Me Your Story**
+# Slide 14 - **Tell Me Your Story**
 
 - 5 Questions (+1)
 
@@ -146,10 +146,10 @@ _**Sharing the Journey**_
 - Complete by responding to my upcoming email (by Friday, Aug 21)
 - Purpose is to get to know you and have basis for prayer & support
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img13.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img13.png)
 
 
-# Slide 14 - **Expectations/Guidelines for Honoring God  in Classroom & in Engineering Profession**
+# Slide 15 - **Expectations/Guidelines for Honoring God  in Classroom & in Engineering Profession**
 
 - Purpose, passion, and humility in learning
 
@@ -173,10 +173,10 @@ _**Sharing the Journey**_
 
 - All above is captured in “Engagement/LETU Mission” grade
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img14.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img14.png)
 
 
-# Slide 15 - **Expectations/Guidelines for Honoring God  in Classroom & in Engineering Profession**
+# Slide 16 - **Expectations/Guidelines for Honoring God  in Classroom & in Engineering Profession**
 
 - My Role as Professor/Mentor/Fellow Pilgrim
 
@@ -193,12 +193,12 @@ _**Sharing the Journey**_
 
 - I will seek feedback from you throughout semester on how it’s going
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img15.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img15.png)
 
 
-# Slide 16 - _**ENGR 2313 Materials Engineering**_
+# Slide 17 - _**ENGR 2313 Materials Engineering**_
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img16.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img16.png)
 
 # Slide 18
 
@@ -212,10 +212,10 @@ _**Engineer in Your**_
 
 _**Mission Field**_
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img17.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img17.png)
 
 
-# Slide 18 - **Syllabus**
+# Slide 19 - **Syllabus**
 
 - Text: Materials Science & Engineering, 10th Ed, Callister & Rethwisch
 - Office Hours:
@@ -244,20 +244,20 @@ _**Mission Field**_
 
 3 total opportunities
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img18.png)
-
-
-# Slide 19 - **HOMEWORK HELPS YOU LEARN!!!**
-
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img19.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img18.png)
 
 
 # Slide 20 - **HOMEWORK HELPS YOU LEARN!!!**
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img20.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img19.png)
 
 
 # Slide 21 - **HOMEWORK HELPS YOU LEARN!!!**
+
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img20.png)
+
+
+# Slide 22 - **HOMEWORK HELPS YOU LEARN!!!**
 
 - Engineering learning comes in large part from repetition
 - Reasonable workload of ~ 4 problems per class (~ 2 hours prep)
@@ -276,7 +276,7 @@ _**Mission Field**_
 
 - Still worth doing for the learning value!
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img21.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img21.png)
 
 # Slide 23
 
@@ -502,7 +502,7 @@ _**Course Introduction**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img22.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img22.png)
 
 # Slide 24
 
@@ -764,10 +764,10 @@ _**Course Introduction**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img23.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img23.png)
 
 
-# Slide 24 - **Materials Engineering Overview**
+# Slide 25 - **Materials Engineering Overview**
 
 **Course Objective...**
 
@@ -791,10 +791,10 @@ Science & Engineering
 
 technology advancements
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img24.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img24.png)
 
 
-# Slide 25 - **Lesson 1 - Introduction**
+# Slide 26 - **Lesson 1 - Introduction**
 
 - Materials drive our society
 
@@ -811,10 +811,10 @@ technology advancements
 - Material properties & the materials selection process
 - What is materials science vs materials engineering?
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img25.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img25.png)
 
 
-# Slide 26 - **What does a Materials Scientist need to know and what do I need to know?**
+# Slide 27 - **What does a Materials Scientist need to know and what do I need to know?**
 
 - Materials Scientist
 
@@ -834,10 +834,10 @@ technology advancements
 
 - God makes it all work!
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img26.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img26.png)
 
 
-# Slide 27 - **Types of Materials**
+# Slide 28 - **Types of Materials**
 
 - Metals: Metallic bonding – sea of electrons
 
@@ -861,10 +861,10 @@ technology advancements
 
 SMART MATERIALS??
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img27.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img27.png)
 
 
-# Slide 28 - **The Materials Selection Process**
+# Slide 29 - **The Materials Selection Process**
 
 1.
 
@@ -898,10 +898,10 @@ Material
 
 Identify required Processing
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img28.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img28.png)
 
 
-# Slide 29 - **Structure, Processing, & Properties**
+# Slide 30 - **Structure, Processing, & Properties**
 
 • Strength/Hardness of steel depends on structure
 
@@ -965,10 +965,10 @@ Cooling Rate (ºC/s)
 
 30 μm
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img29.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img29.png)
 
 
-# Slide 30 - **Material Properties: Electrical**
+# Slide 31 - **Material Properties: Electrical**
 
 • Electrical Resistivity of Copper:
 
@@ -1014,10 +1014,10 @@ Cu + 1.12 at%Ni
 
 “Pure” Cu
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img30.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img30.png)
 
 
-# Slide 31 - **Material Properties: Thermal**
+# Slide 32 - **Material Properties: Thermal**
 
 • Space Shuttle Tiles:
 
@@ -1073,10 +1073,10 @@ Missiles and Space
 
 Company, Inc.)
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img31.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img31.png)
 
 
-# Slide 32 - **Material Properties: Magnetic**
+# Slide 33 - **Material Properties: Magnetic**
 
 • Magnetic Permeability
 
@@ -1115,7 +1115,7 @@ Fe+3%Si
 
 Fe
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img32.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img32.png)
 
 # Slide 34
 
@@ -1144,10 +1144,10 @@ some porosity
 
 **Material Properties: Optical**
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img33.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img33.png)
 
 
-# Slide 34 - **Material Properties: Deteriorative**
+# Slide 35 - **Material Properties: Deteriorative**
 
 • Stress & Saltwater...
 
@@ -1183,19 +1183,19 @@ saturated aqueous NaCl
 
 solution at 23°C
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img34.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img34.png)
 
 
-# Slide 35 - **Example – Hip Implant**
+# Slide 36 - **Example – Hip Implant**
 
 - With age or certain illnesses joints deteriorate Particularly those with large loads (such as hip)
 
 Adapted from Fig. 22.25, _Callister 7e._
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img35.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img35.png)
 
 
-# Slide 36 - **Example – Hip Implant**
+# Slide 37 - **Example – Hip Implant**
 
 - Requirements
 
@@ -1206,17 +1206,17 @@ Adapted from Fig. 22.25, _Callister 7e._
 
 Adapted from Fig. 22.24, _Callister 7e._
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img36.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img36.png)
 
 
-# Slide 37 - **Example – Hip Implant**
+# Slide 38 - **Example – Hip Implant**
 
 Adapted from Fig. 22.26, _Callister 7e._
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img37.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img37.png)
 
 
-# Slide 38 - **Hip Implant**
+# Slide 39 - **Hip Implant**
 
 - Key problems to overcome
 
@@ -1240,10 +1240,10 @@ Adapted from chapter-opening photograph, Chapter 22, _Callister 7e._(Photograph 
 
 _**Mix of Metals, Polymers, and Ceramics!**_
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img38.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img38.png)
 
 
-# Slide 39 - **Summary**
+# Slide 40 - **Summary**
 
 • Bottom line…choose the right material for the job
 
@@ -1257,14 +1257,14 @@ by materials selection
 
 Course Goals:
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img39.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img39.png)
 
 
-# Slide 40 - **Wrap up**
+# Slide 41 - **Wrap up**
 
 - Questions
 - Homework
 - Introduce Next Lesson
 
-![](Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img40.png)
+![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img40.png)
 

@@ -4,10 +4,10 @@ _**Claiming every workplace in every nation as our**_
 
 _**mission field**_
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img0.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img0.png)
 
 
-# Slide 1 - **Devo/Prayer – Salvation Made Simple**
+# Slide 2 - **Devo/Prayer – Salvation Made Simple**
 
 - God is Righteous
 
@@ -29,10 +29,10 @@ _**Then What?...Bring His Kingdom to Earth!**_
 
 _**“This, then, is how you should pray: ‘Our Father in heaven, hallowed be your name, your Kingdom come, your will be done, on earth as it is in heaven.’” (Mt 6:9-10)**_
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img1.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img1.png)
 
 
-# Slide 2 - **Devo/Prayer – Salvation Made Simple**
+# Slide 3 - **Devo/Prayer – Salvation Made Simple**
 
 - God is Righteous
 
@@ -50,10 +50,10 @@ _**“This, then, is how you should pray: ‘Our Father in heaven, hallowed be y
 
 - If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised Him from the dead, you will be saved. (Ro 10:9-10)
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img2.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img2.png)
 
 
-# Slide 3 - **Devo/Prayer**
+# Slide 4 - **Devo/Prayer**
 
 - Trinity in simple Prof Olson terms
 
@@ -71,7 +71,7 @@ One of the things we have been reminded of is that this is not the way it was su
 
 1 Thessalonians 4:13 NIV
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img3.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img3.png)
 
 # Slide 5
 
@@ -333,10 +333,10 @@ _**The Structure of Crystalline Solids**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img4.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img4.png)
 
 
-# Slide 5 - **Lesson 3 Outline – Structure of Crystalline Solids**
+# Slide 6 - **Lesson 3 Outline – Structure of Crystalline Solids**
 
 - Questions From Last Lesson
 - Energy, Packing, Density
@@ -349,10 +349,10 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **Why Does This Matter?**
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img5.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img5.png)
 
 
-# Slide 6 - **Energy and Packing**
+# Slide 7 - **Energy and Packing**
 
 • Non dense, random packing
 
@@ -388,10 +388,10 @@ bond energy
 
 Equilibrium spacing (ro)
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img6.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img6.png)
 
 
-# Slide 7 - **Materials and Packing**
+# Slide 8 - **Materials and Packing**
 
 • atoms pack in repeating, 3D arrays
 
@@ -435,10 +435,10 @@ _Callister & Rethwisch 9e._
 
 • typical of:
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img7.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img7.png)
 
 
-# Slide 8 - **Metallic Crystal Structures**
+# Slide 9 - **Metallic Crystal Structures**
 
 • Tend to be densely packed
 
@@ -456,10 +456,10 @@ radii are the same (except for alloys)
 
 • Common among practical materials (elements, alloys)
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img8.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img8.png)
 
 
-# Slide 9 - **Crystal Structures**
+# Slide 10 - **Crystal Structures**
 
 - How can we stack metal atoms to minimize empty space?
 
@@ -469,10 +469,10 @@ radii are the same (except for alloys)
 
 Now stack these 2-D layers to make 3-D structures
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img9.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img9.png)
 
 
-# Slide 10 - **Analyzing Crystal Structures**
+# Slide 11 - **Analyzing Crystal Structures**
 
 Unit Cell: smallest repetitive volume which contains the complete repeating lattice pattern of a crystal
 
@@ -484,10 +484,10 @@ lattice parameters of unit cell
 
 (we will examine 3)
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img10.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img10.png)
 
 
-# Slide 11 - **table\_03\_02**
+# Slide 12 - **table\_03\_02**
 
 **table\_03\_02**
 
@@ -495,17 +495,17 @@ _**Focus of**_
 
 _**This Course**_
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img11.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img11.png)
 
 
-# Slide 12 - **table\_03\_02**
+# Slide 13 - **table\_03\_02**
 
 **table\_03\_02**
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img12.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img12.png)
 
 
-# Slide 13 - **Simple Cubic Structure (SC)**
+# Slide 14 - **Simple Cubic Structure (SC)**
 
 • Close-packed directions are cube edges
 
@@ -525,10 +525,10 @@ N = Ni + Nf + Nc (interior, face, corner)
 
 = 1 atom/unit cell
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img13.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img13.png)
 
 
-# Slide 14 - **Atomic Packing Factor (APF): SC**
+# Slide 15 - **Atomic Packing Factor (APF): SC**
 
 • APF for a simple cubic structure = 0.52
 
@@ -580,10 +580,10 @@ _R_ = 0.5 _a_
 
 = 0.52
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img14.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img14.png)
 
 
-# Slide 15 - **Body Centered Cubic Structure (BCC)**
+# Slide 16 - **Body Centered Cubic Structure (BCC)**
 
 • Coordination # = 8
 
@@ -601,10 +601,10 @@ Example: Cr, W, Fe (), Tantalum, Molybdenum
 
 2 atoms/unit cell: 1 center + 8 corners x 1/8
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img15.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img15.png)
 
 
-# Slide 16 - **Atomic Packing Factor: BCC**
+# Slide 17 - **Atomic Packing Factor: BCC**
 
 APF =
 
@@ -676,10 +676,10 @@ R
 
 R
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img16.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img16.png)
 
 
-# Slide 17 - **Face Centered Cubic Structure (FCC)**
+# Slide 18 - **Face Centered Cubic Structure (FCC)**
 
 • Coordination # = 12
 
@@ -695,10 +695,10 @@ ex: Al, Cu, Au, Pb, Ni, Pt, Ag
 
 4 atoms/unit cell: 6 face x 1/2 + 8 corners x 1/8
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img17.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img17.png)
 
 
-# Slide 18 - **Atomic Packing Factor: FCC**
+# Slide 19 - **Atomic Packing Factor: FCC**
 
 • APF for a face-centered cubic structure = 0.74
 
@@ -774,7 +774,7 @@ _a_
 
 = 0.74
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img18.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img18.png)
 
 # Slide 20
 
@@ -864,10 +864,10 @@ C
 
 [https://www.youtube.com/watch?v=qsSBnQbcOxY](https://www.youtube.com/watch?v=qsSBnQbcOxY)
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img19.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img19.png)
 
 
-# Slide 20 - **Hexagonal Close-Packed Structure (HCP)**
+# Slide 21 - **Hexagonal Close-Packed Structure (HCP)**
 
 • Coordination # = 12
 
@@ -911,10 +911,10 @@ layer
 
 [https://vimeo.com/31199189](https://vimeo.com/31199189)
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img20.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img20.png)
 
 
-# Slide 21 - **Theoretical Density ( _ρ_)**
+# Slide 22 - **Theoretical Density ( _ρ_)**
 
 Where _n_ = number of atoms/unit cell
 
@@ -954,10 +954,10 @@ of
 
 Mass
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img21.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img21.png)
 
 
-# Slide 22 - **Theoretical Density ( _ρ_) Example**
+# Slide 23 - **Theoretical Density ( _ρ_) Example**
 
 - Cr (BCC)
 
@@ -1013,10 +1013,10 @@ Adapted from
 
 Fig. 3.2(a), _Callister & Rethwisch 9e._
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img22.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img22.png)
 
 
-# Slide 23 - **Densities of Material Classes**
+# Slide 24 - **Densities of Material Classes**
 
 _ρ_
 
@@ -1206,10 +1206,10 @@ Composites have...
 
 In general
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img23.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img23.png)
 
 
-# Slide 24 - **Crystals as Building Blocks**
+# Slide 25 - **Crystals as Building Blocks**
 
 • Single Crystals
 
@@ -1249,10 +1249,10 @@ _E_ (diagonal) = 273 GPa
 
 _E_ (edge) = 125 GPa
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img24.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img24.png)
 
 
-# Slide 25 - **Polycrystals**
+# Slide 26 - **Polycrystals**
 
 • Most engineering materials are polycrystals.
 
@@ -1277,10 +1277,10 @@ Isotropic
 
 Anisotropic
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img25.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img25.png)
 
 
-# Slide 26 - **Polymorphism**
+# Slide 27 - **Polymorphism**
 
 - Two or more distinct crystal structures for the same material (allotropy/polymorphism)
 
@@ -1316,10 +1316,10 @@ liquid
 
 iron system
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img26.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img26.png)
 
 
-# Slide 27 - **Crystallographic Directions (BCC, FCC)**
+# Slide 28 - **Crystallographic Directions (BCC, FCC)**
 
 **Steps:**
 
@@ -1362,10 +1362,10 @@ c
 
 [111]
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img27.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img27.png)
 
 
-# Slide 28 - **Crystallographic Directions (BCC, FCC)**
+# Slide 29 - **Crystallographic Directions (BCC, FCC)**
 
 -4, 1, 2
 
@@ -1393,10 +1393,10 @@ pt. 1: tail
 
 Multiplying by 2 to eliminate the fraction
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img28.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img28.png)
 
 
-# Slide 29 - **Linear Density**
+# Slide 30 - **Linear Density**
 
 ex: linear density of Al in [110]
 direction
@@ -1457,10 +1457,10 @@ LD
 
 **\_**
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img29.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img29.png)
 
 
-# Slide 30 - **Crystallographic Planes**
+# Slide 31 - **Crystallographic Planes**
 
 - Miller Indices:
 
@@ -1482,10 +1482,10 @@ LD
 
 ## commas i.e., ( _hkl_)
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img30.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img30.png)
 
 
-# Slide 31 - **Crystallographic Planes**
+# Slide 32 - **Crystallographic Planes**
 
 _z_
 
@@ -1551,10 +1551,10 @@ Example 1
 
 _a_ _b_ _c_
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img31.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img31.png)
 
 
-# Slide 32 - **Crystallographic Planes**
+# Slide 33 - **Crystallographic Planes**
 
 _z_
 
@@ -1604,19 +1604,19 @@ Ex: (100),
 
 **Note: If plane passes through origin, move origin with the goal of making the plane cross as many X,Y, Z axes as possible (might be parallel on one or more axes) without the plane going through the origin**
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img32.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img32.png)
 
 
-# Slide 33 - **Crystallographic Planes**
+# Slide 34 - **Crystallographic Planes**
 
 Adapted from Fig. 3.11, _Callister & Rethwisch 9e._
 
 **Equivalent Planes Have Equivalent Planar Densities…**
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img33.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img33.png)
 
 
-# Slide 34 - **Planar Density**
+# Slide 35 - **Planar Density**
 
 - Examining the atomic packing of crystallographic planes is useful.
 - Iron foil can be used as a catalyst. The atomic packing of the exposed planes is important.
@@ -1627,10 +1627,10 @@ Adapted from Fig. 3.11, _Callister & Rethwisch 9e._
 
 ## b) Calculate the planar density for each of these planes
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img34.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img34.png)
 
 
-# Slide 35 - **111 Planar Density of BCC Iron**
+# Slide 36 - **111 Planar Density of BCC Iron**
 
 ## Solution (cont):  (111) plane
 
@@ -1742,10 +1742,10 @@ _a_ =4 _R /_ 3
 
 Radius of Iron (R) = 0.1241 nm
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img35.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img35.png)
 
 
-# Slide 36 - **100 Planar Density of BCC Iron**
+# Slide 37 - **100 Planar Density of BCC Iron**
 
 **Slipping Occurs in Most Densely Packed Planes**
 
@@ -1767,10 +1767,10 @@ _a_ =
 
 3
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img36.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img36.png)
 
 
-# Slide 37 - **Drawing HCP Crystallographic Directions  (Miller-Bravais coordinates)**
+# Slide 38 - **Drawing HCP Crystallographic Directions  (Miller-Bravais coordinates)**
 
 **Steps:**
 
@@ -1808,10 +1808,10 @@ _a_
 
 1
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img37.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img37.png)
 
 
-# Slide 38 - **Drawing HCP Crystallographic Directions**
+# Slide 39 - **Drawing HCP Crystallographic Directions**
 
 ## **Example: Draw the direction in a hexagonal unit cell**
 
@@ -1851,10 +1851,10 @@ Adapted from p. 72, _Callister & Rethwisch 9e._
 
 [1213] direction represented by vector from point _o_ to point _s_
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img38.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img38.png)
 
 
-# Slide 39 - **Drawing HCP Crystallographic Directions**
+# Slide 40 - **Drawing HCP Crystallographic Directions**
 
 4\. Brackets [110] = [UVW]
 
@@ -1910,10 +1910,10 @@ _a_
 
 _w_ = W = 0
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img39.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img39.png)
 
 
-# Slide 40 - **Crystallographic Planes (HCP)**
+# Slide 41 - **Crystallographic Planes (HCP)**
 
 - In hexagonal unit cells the same idea is used
 
@@ -1965,19 +1965,19 @@ _z_
 
 Adapted from Fig. 3.14, _Callister & Rethwisch 9e._
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img40.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img40.png)
 
 
-# Slide 41 - **Determining Crystal Structure Using X-Ray Diffraction**
+# Slide 42 - **Determining Crystal Structure Using X-Ray Diffraction**
 
 - Diffraction gratings must have spacings comparable to the wavelength of diffracted radiation
 - Can’t resolve spacings  _λ_
 - Spacing is the distance between parallel planes of atoms
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img41.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img41.png)
 
 
-# Slide 42 - **Determining Crystal Structure Using X-Ray Diffraction**
+# Slide 43 - **Determining Crystal Structure Using X-Ray Diffraction**
 
 X-ray
 
@@ -2055,10 +2055,10 @@ by wave “2”
 
 _θ_
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img42.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img42.png)
 
 
-# Slide 43 - **X-Ray Diffraction Pattern**
+# Slide 44 - **X-Ray Diffraction Pattern**
 
 Adapted from Fig. 3.22, _Callister 8e._
 
@@ -2110,10 +2110,10 @@ _b_
 
 _c_
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img43.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img43.png)
 
 
-# Slide 44 - **Summary**
+# Slide 45 - **Summary**
 
 • Atoms may assemble into crystalline or
 
@@ -2139,10 +2139,10 @@ Crystallographic directions and planes are related
 
 to atomic linear densities and planar densities.
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img44.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img44.png)
 
 
-# Slide 45 - **Summary**
+# Slide 46 - **Summary**
 
 • Some materials can have more than one crystal
 
@@ -2164,19 +2164,19 @@ with randomly oriented grains.
 
 interplanar spacing determinations.
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img45.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img45.png)
 
 
-# Slide 46 - **Wrap up**
+# Slide 47 - **Wrap up**
 
 - Questions
 - Homework
 - Introduce Next Lesson
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img46.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img46.png)
 
 
-# Slide 47 - **Point Coordinates**
+# Slide 48 - **Point Coordinates**
 
 ## Point coordinates for unit cell center are
 
@@ -2212,20 +2212,20 @@ _b_
 
 _b_
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img47.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img47.png)
 
 
-# Slide 48 - **VMSE Screenshot – BCC Unit Cell**
+# Slide 49 - **VMSE Screenshot – BCC Unit Cell**
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img48.png)
-
-
-# Slide 49 - **VMSE Screenshot – Stacking Sequence and Unit Cell for HCP**
-
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img49.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img48.png)
 
 
-# Slide 50 - **Crystals as Building Blocks**
+# Slide 50 - **VMSE Screenshot – Stacking Sequence and Unit Cell for HCP**
+
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img49.png)
+
+
+# Slide 51 - **Crystals as Building Blocks**
 
 • Some engineering applications require single crystals:
 
@@ -2249,17 +2249,17 @@ Fig. 8.34(c), _Callister & Rethwisch 9e._(courtesy of Pratt and Whitney)
 
 GE Superabrasives, Worthington, OH. Used with permission.)
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img50.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img50.png)
 
 
-# Slide 51 - **VMSE Screenshot – [101] Direction**
+# Slide 52 - **VMSE Screenshot – [101] Direction**
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img51.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img51.png)
 
 
-# Slide 52 - **VMSE Screenshot – Crystallographic Planes**
+# Slide 53 - **VMSE Screenshot – Crystallographic Planes**
 
 Additional practice on indexing crystallographic planes
 
-![](Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img52.png)
+![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img52.png)
 

@@ -4,10 +4,10 @@ _**Claiming every workplace in every nation as our**_
 
 _**mission field**_
 
-![](Materials\ Eng\ Review\ &\ Final-2/img0.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img0.png)
 
 
-# Slide 1 - **Devo/Prayer**
+# Slide 2 - **Devo/Prayer**
 
 ## Now may the God of peace, who through the blood of the eternal covenant **brought back from the dead our Lord Jesus**, that great Shepherd of the sheep, equip you with everything good for doing his will, and may he work in us what is pleasing to him, through Jesus Christ, to whom be glory for ever and ever. Amen.
 
@@ -17,10 +17,10 @@ _**mission field**_
 
 ## **Romans 8:38-39**
 
-![](Materials\ Eng\ Review\ &\ Final-2/img1.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img1.png)
 
 
-# Slide 2 - **Devo/Prayer**
+# Slide 3 - **Devo/Prayer**
 
 ## For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, **(nor any test)**, will be able to separate us from the love of God that is in Christ Jesus our Lord.
 
@@ -40,7 +40,7 @@ _**mission field**_
 
 _**Let’s Commit Our Work to the Lord and Just See What He Does!**_
 
-![](Materials\ Eng\ Review\ &\ Final-2/img2.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img2.png)
 
 # Slide 4
 
@@ -54,10 +54,10 @@ _**Philippians 1:4-6**_
 
 _**We are Threads in God’s Work of Art**_
 
-![](Materials\ Eng\ Review\ &\ Final-2/img3.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img3.png)
 
 
-# Slide 4 - **Course Evaluation Gift Opportunity!**
+# Slide 5 - **Course Evaluation Gift Opportunity!**
 
 - **Complete online course eval by December 11 and add points to your final…**
 
@@ -66,7 +66,7 @@ _**We are Threads in God’s Work of Art**_
 
 ## _**COLLABORATE and receive a CHRISTmas gift!!**_
 
-![](Materials\ Eng\ Review\ &\ Final-2/img4.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img4.png)
 
 # Slide 6
 
@@ -314,7 +314,7 @@ _**Course Review**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Materials\ Eng\ Review\ &\ Final-2/img5.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img5.png)
 
 # Slide 7
 
@@ -562,10 +562,10 @@ _**Course Review**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Materials\ Eng\ Review\ &\ Final-2/img6.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img6.png)
 
 
-# Slide 7 - **Final Exam Rules of Engagement**
+# Slide 8 - **Final Exam Rules of Engagement**
 
 - Put everything away except pencil, eraser, calculator, and **four** 8 ½ x 11 sheets of notes/equations
 
@@ -584,10 +584,10 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 ## _**“If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.” James 1:5**_
 
-![](Materials\ Eng\ Review\ &\ Final-2/img7.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img7.png)
 
 
-# Slide 8 - **Final Exam**
+# Slide 9 - **Final Exam**
 
 - 4 Double-sided 8.5x11 inch sheets of notes/equations
 
@@ -599,10 +599,10 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 - **This material was covered as an overview and will be tested at the same level – don’t panic**
 - Focus on **concepts** covered in **HW problems**
 
-![](Materials\ Eng\ Review\ &\ Final-2/img8.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img8.png)
 
 
-# Slide 9 - **Materials Engineering Test 1 Review**
+# Slide 10 - **Materials Engineering Test 1 Review**
 
 ## **Chapter 1: Introduction**
 
@@ -686,10 +686,10 @@ X-Ray Diffraction compare to Energy Dispersive X-Ray
 
 Noncystalline Solids - amorphous
 
-![](Materials\ Eng\ Review\ &\ Final-2/img9.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img9.png)
 
 
-# Slide 10 - **Materials Engineering Test 1 Review (continued)**
+# Slide 11 - **Materials Engineering Test 1 Review (continued)**
 
 ## **Chapter 4: Imperfections in Solids**
 
@@ -735,10 +735,10 @@ Noncystalline Solids - amorphous
 
 ## Semi-Conductors
 
-![](Materials\ Eng\ Review\ &\ Final-2/img10.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img10.png)
 
 
-# Slide 11 - **The Materials Selection Process**
+# Slide 12 - **The Materials Selection Process**
 
 1.
 
@@ -772,10 +772,10 @@ Material
 
 Identify required Processing
 
-![](Materials\ Eng\ Review\ &\ Final-2/img11.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img11.png)
 
 
-# Slide 12 - **Types of Materials**
+# Slide 13 - **Types of Materials**
 
 - Metals: Metallic bonding – sea of electrons
 
@@ -797,10 +797,10 @@ Identify required Processing
 
 - Composites: combination of two or more individual materials/phases to obtain a more desirable combination of properties than can be obtained with each individual material (e.g., low density and high strength)
 
-![](Materials\ Eng\ Review\ &\ Final-2/img12.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img12.png)
 
 
-# Slide 13 - **Electronegativity**
+# Slide 14 - **Electronegativity**
 
 Ranges from 0.9 to 4.1 (large values tend
 
@@ -826,10 +826,10 @@ accept 1 _e_-
 
 accept 2 _e_-
 
-![](Materials\ Eng\ Review\ &\ Final-2/img13.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img13.png)
 
 
-# Slide 14 - **Bonding Forces & Energy**
+# Slide 15 - **Bonding Forces & Energy**
 
 - Energy – minimum energy most stable
 
@@ -867,10 +867,10 @@ Adapted from Fig. 2.10(b), _Callister & Rethwisch 9e._
 
 Equilibrium spacing
 
-![](Materials\ Eng\ Review\ &\ Final-2/img14.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img14.png)
 
 
-# Slide 15 - **Electronic Structure**
+# Slide 16 - **Electronic Structure**
 
 - Electrons have wavelike and particulate properties
 
@@ -891,10 +891,10 @@ Equilibrium spacing
 
 ## _ms_ = electron spin moment ½, -½
 
-![](Materials\ Eng\ Review\ &\ Final-2/img15.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img15.png)
 
 
-# Slide 16 - **Electronic Structure & Energy States**
+# Slide 17 - **Electronic Structure & Energy States**
 
 s subshell
 
@@ -906,10 +906,10 @@ p subshells
 
 **(where bonding occurs)**
 
-![](Materials\ Eng\ Review\ &\ Final-2/img16.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img16.png)
 
 
-# Slide 17 - **Electronic Configurations – Iron Example**
+# Slide 18 - **Electronic Configurations – Iron Example**
 
 ## ex: Fe - atomic \#
 
@@ -953,10 +953,10 @@ _N_-shell _n_ = 4
 
 3 _d_ 6 4 _s_ 2
 
-![](Materials\ Eng\ Review\ &\ Final-2/img17.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img17.png)
 
 
-# Slide 18 - **Bonding Summary**
+# Slide 19 - **Bonding Summary**
 
 Type
 
@@ -1004,10 +1004,10 @@ inter-chain (polymer)
 
 inter-molecular
 
-![](Materials\ Eng\ Review\ &\ Final-2/img18.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img18.png)
 
 
-# Slide 19 - **Bonding Summary**
+# Slide 20 - **Bonding Summary**
 
 Ceramics
 
@@ -1047,10 +1047,10 @@ large _α_
 
 secondary bonding
 
-![](Materials\ Eng\ Review\ &\ Final-2/img19.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img19.png)
 
 
-# Slide 20 - **table\_03\_02**
+# Slide 21 - **table\_03\_02**
 
 **table\_03\_02**
 
@@ -1058,10 +1058,10 @@ _**Focus of**_
 
 _**This Course**_
 
-![](Materials\ Eng\ Review\ &\ Final-2/img20.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img20.png)
 
 
-# Slide 21 - **Atomic Packing Factor: BCC**
+# Slide 22 - **Atomic Packing Factor: BCC**
 
 APF =
 
@@ -1127,10 +1127,10 @@ _a_
 
 = 0.68
 
-![](Materials\ Eng\ Review\ &\ Final-2/img21.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img21.png)
 
 
-# Slide 22 - **Atomic Packing Factor: FCC**
+# Slide 23 - **Atomic Packing Factor: FCC**
 
 • APF for a face-centered cubic structure = 0.74
 
@@ -1206,10 +1206,10 @@ _a_
 
 = 0.74
 
-![](Materials\ Eng\ Review\ &\ Final-2/img22.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img22.png)
 
 
-# Slide 23 - **Crystallographic Directions (BCC, FCC)**
+# Slide 24 - **Crystallographic Directions (BCC, FCC)**
 
 **Steps:**
 
@@ -1252,15 +1252,15 @@ c
 
 [111]
 
-![](Materials\ Eng\ Review\ &\ Final-2/img23.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img23.png)
 
 # Slide 25
 
 
-![](Materials\ Eng\ Review\ &\ Final-2/img24.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img24.png)
 
 
-# Slide 25 - **Linear Density**
+# Slide 26 - **Linear Density**
 
 ex: linear density of Al in [110]
 direction
@@ -1321,10 +1321,10 @@ LD
 
 **\_**
 
-![](Materials\ Eng\ Review\ &\ Final-2/img25.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img25.png)
 
 
-# Slide 26 - **Crystallographic Planes**
+# Slide 27 - **Crystallographic Planes**
 
 _z_
 
@@ -1376,10 +1376,10 @@ _a b c_
 
 **Along Direction of Greatest Atomic Packing**
 
-![](Materials\ Eng\ Review\ &\ Final-2/img26.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img26.png)
 
 
-# Slide 27 - **Crystallographic Planes**
+# Slide 28 - **Crystallographic Planes**
 
 Example 3 (intersecting origin)
 
@@ -1403,10 +1403,10 @@ _x y z_
 
 1\. Move Origin (one unit cell up)
 
-![](Materials\ Eng\ Review\ &\ Final-2/img27.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img27.png)
 
 
-# Slide 28 - **Crystals as Building Blocks**
+# Slide 29 - **Crystals as Building Blocks**
 
 • Single Crystals
 
@@ -1446,10 +1446,10 @@ _E_ (diagonal) = 273 GPa
 
 _E_ (edge) = 125 GPa
 
-![](Materials\ Eng\ Review\ &\ Final-2/img28.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img28.png)
 
 
-# Slide 29 - **Planar Density of (100) BCC Iron**
+# Slide 30 - **Planar Density of (100) BCC Iron**
 
 **Slipping Occurs in Most Densely Packed Planes**
 
@@ -1471,10 +1471,10 @@ _a_ =
 
 3
 
-![](Materials\ Eng\ Review\ &\ Final-2/img29.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img29.png)
 
 
-# Slide 30 - **Point Defects: Substitutional & Interstitial Atoms in Solid Solutions**
+# Slide 31 - **Point Defects: Substitutional & Interstitial Atoms in Solid Solutions**
 
 Two outcomes if impurity (B) added to host (A):
 
@@ -1496,10 +1496,10 @@ Interstitial solid soln.
 
 \- Often different structure
 
-![](Materials\ Eng\ Review\ &\ Final-2/img30.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img30.png)
 
 
-# Slide 31 - **Diffusion Mechanisms**
+# Slide 32 - **Diffusion Mechanisms**
 
 Vacancy Diffusion:
 
@@ -1515,10 +1515,10 @@ Vacancy Diffusion:
 
 increasing elapsed time
 
-![](Materials\ Eng\ Review\ &\ Final-2/img31.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img31.png)
 
 
-# Slide 32 - **Diffusion Mechanisms**
+# Slide 33 - **Diffusion Mechanisms**
 
 ## **Interstitial diffusion: smaller atoms can diffuse between larger atoms**
 
@@ -1526,10 +1526,10 @@ increasing elapsed time
 
 Adapted from Fig. 5.3(b), Callister & Rethwisch 8e.
 
-![](Materials\ Eng\ Review\ &\ Final-2/img32.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img32.png)
 
 
-# Slide 33 - **Steady-State Diffusion Rate**
+# Slide 34 - **Steady-State Diffusion Rate**
 
 Fick’s first law of diffusion
 
@@ -1553,10 +1553,10 @@ Rate of diffusion independent of time
 
 Flux proportional to concentration gradient =
 
-![](Materials\ Eng\ Review\ &\ Final-2/img33.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img33.png)
 
 
-# Slide 34 - **Solution to Fick’s Second Law:**
+# Slide 35 - **Solution to Fick’s Second Law:**
 
 ## _C_( _x_, _t_) = Conc. at point _x_ at   time _t_
 
@@ -1574,10 +1574,10 @@ Adapted from Fig. 5.5, Callister & Rethwisch 8e.
 
 **Non-steady State Diffusion**
 
-![](Materials\ Eng\ Review\ &\ Final-2/img34.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img34.png)
 
 
-# Slide 35 - **Linear Defects: Mixed Dislocations**
+# Slide 36 - **Linear Defects: Mixed Dislocations**
 
 Adapted from Fig. 4.5, _Callister & Rethwisch 8e._
 
@@ -1587,10 +1587,10 @@ Screw
 
 Mixed
 
-![](Materials\ Eng\ Review\ &\ Final-2/img35.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img35.png)
 
 
-# Slide 36 - **Area Defects: Grain Boundaries**
+# Slide 37 - **Area Defects: Grain Boundaries**
 
 - Regions between crystals
 - Transition from lattice of one region to that of the other
@@ -1621,10 +1621,10 @@ at 100x
 
 magnification
 
-![](Materials\ Eng\ Review\ &\ Final-2/img36.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img36.png)
 
 
-# Slide 37 - **Imperfections Summary**
+# Slide 38 - **Imperfections Summary**
 
 • Point, Line, and Area defects exist in solids
 
@@ -1640,7 +1640,7 @@ and controlled (e.g., _T_ controls vacancy concentration)
 
 **Materials Engineering is About Defect Management!**
 
-![](Materials\ Eng\ Review\ &\ Final-2/img37.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img37.png)
 
 # Slide 39
 
@@ -1696,7 +1696,7 @@ and controlled (e.g., _T_ controls vacancy concentration)
 - Grain growth – driven by total grain boundary area reduction and associated energy reduction
 - Dislocation annihilation
 
-![](Materials\ Eng\ Review\ &\ Final-2/img38.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img38.png)
 
 # Slide 40
 
@@ -1739,10 +1739,10 @@ and controlled (e.g., _T_ controls vacancy concentration)
 
 **Materials Engineering Test 2 Review (continued)**
 
-![](Materials\ Eng\ Review\ &\ Final-2/img39.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img39.png)
 
 
-# Slide 40 - **Summary – Mechanical Properties of Metals**
+# Slide 41 - **Summary – Mechanical Properties of Metals**
 
 • Stress and strain: These are size-independent
 
@@ -1768,10 +1768,10 @@ behavior occurs when the tensile (or compressive)
 
 uniaxial stress reaches s _y_.
 
-![](Materials\ Eng\ Review\ &\ Final-2/img40.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img40.png)
 
 
-# Slide 41 - **Summary – Dislocations & Strengthening Mechanisms**
+# Slide 42 - **Summary – Dislocations & Strengthening Mechanisms**
 
 • Dislocations are observed primarily in metals and alloys.
 
@@ -1793,10 +1793,10 @@ recovery, recrystallization, and grain growth and its properties
 
 will be altered.
 
-![](Materials\ Eng\ Review\ &\ Final-2/img41.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img41.png)
 
 
-# Slide 42 - **Three Stages During Heat Treatment: 1\. Recovery**
+# Slide 43 - **Three Stages During Heat Treatment: 1\. Recovery**
 
 • Scenario 1
 
@@ -1858,10 +1858,10 @@ move on new slip plane
 
 Reduction of dislocation density by enhanced diffusion leading to annihilation…
 
-![](Materials\ Eng\ Review\ &\ Final-2/img42.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img42.png)
 
 
-# Slide 43 - **Three Stages During Heat Treatment: 2\. Recrystallization**
+# Slide 44 - **Three Stages During Heat Treatment: 2\. Recrystallization**
 
 Adapted from Fig. 7.21(a),(b), _Callister & Rethwisch 8e._(Fig. 7.21(a),(b) are courtesy of J.E. Burke, General Electric Company.)
 
@@ -1889,10 +1889,10 @@ nucleate after
 
 \-\- Consume and replace parent cold-worked grains (transition from high energy to low energy – more stable)
 
-![](Materials\ Eng\ Review\ &\ Final-2/img43.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img43.png)
 
 
-# Slide 44 - **As Recrystallization Continues…**
+# Slide 45 - **As Recrystallization Continues…**
 
 • All cold-worked grains are eventually consumed/replaced.
 
@@ -1910,10 +1910,10 @@ seconds
 
 0.6 mm
 
-![](Materials\ Eng\ Review\ &\ Final-2/img44.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img44.png)
 
 
-# Slide 45 - **Three Stages During Heat Treatment: 3\. Grain Growth**
+# Slide 46 - **Three Stages During Heat Treatment: 3\. Grain Growth**
 
 Adapted from Fig. 7.21(d),(e), _Callister & Rethwisch 8e._(Fig. 7.21(d),(e) are courtesy of J.E. Burke, General Electric Company.)
 
@@ -1949,7 +1949,7 @@ exponent typ. ~ 2
 
 \-\- Large grains continue to grow (yield strength reduced)
 
-![](Materials\ Eng\ Review\ &\ Final-2/img45.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img45.png)
 
 # Slide 47
 
@@ -1962,10 +1962,10 @@ temperature
 
 º
 
-![](Materials\ Eng\ Review\ &\ Final-2/img46.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img46.png)
 
 
-# Slide 47 - **Summary – Failure**
+# Slide 48 - **Summary – Failure**
 
 • Sharp corners produce large stress concentrations
 
@@ -1999,7 +1999,7 @@ decreases with:
 
 \- Larger grains resist creep better
 
-![](Materials\ Eng\ Review\ &\ Final-2/img47.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img47.png)
 
 # Slide 49
 
@@ -2008,7 +2008,7 @@ _**A cylindrical specimen of cold-worked copper has a ductility (%EL) of 15%.**_
 - _**If its cold-worked radius is 6.4 mm (0.25 in.), what was its radius before deformation?**_
 - _**What is it’s Yield Strength?**_
 
-![](Materials\ Eng\ Review\ &\ Final-2/img48.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img48.png)
 
 # Slide 50
 
@@ -2040,10 +2040,10 @@ _**A cylindrical specimen of cold-worked copper has a ductility (%EL) of 15%.**_
 
 **Materials Engineering Exam 3 Review**
 
-![](Materials\ Eng\ Review\ &\ Final-2/img49.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img49.png)
 
 
-# Slide 50 - **Eutectic, Eutectoid, & Peritectic (all transformations are upon cooling)**
+# Slide 51 - **Eutectic, Eutectoid, & Peritectic (all transformations are upon cooling)**
 
 - Eutectoid – one solid phase transforms to two other solid phases
 
@@ -2075,10 +2075,10 @@ S1 + L S2
 
  \+ L  (For Fe-C, 1493ºC, 0.16 wt% C)
 
-![](Materials\ Eng\ Review\ &\ Final-2/img50.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img50.png)
 
 
-# Slide 51 - **Eutectoid & Peritectic**
+# Slide 52 - **Eutectoid & Peritectic**
 
 ## Cu-Zn Phase diagram
 
@@ -2088,7 +2088,7 @@ Eutectoid transformation   + 
 
 Peritectic transformation  + L 
 
-![](Materials\ Eng\ Review\ &\ Final-2/img51.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img51.png)
 
 # Slide 53
 
@@ -2100,7 +2100,7 @@ Mg-Pb Phase Diagram
 
 **L  + Mg2Pb**
 
-![](Materials\ Eng\ Review\ &\ Final-2/img52.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img52.png)
 
 # Slide 54
 
@@ -2122,7 +2122,7 @@ _**15 wt% Sn–85 wt% Pb**_
 
 _**at 100°C**_
 
-![](Materials\ Eng\ Review\ &\ Final-2/img53.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img53.png)
 
 # Slide 55
 
@@ -2144,7 +2144,7 @@ _**(c) At what temperature does complete melting of the alloy occur?**_
 
 _**(d) What is the composition of the last solid remaining prior to complete melting?**_
 
-![](Materials\ Eng\ Review\ &\ Final-2/img54.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img54.png)
 
 # Slide 56
 
@@ -2176,10 +2176,10 @@ _**(c) At what temperature does complete melting of the alloy occur? 260°C**_
 
 _**(d) What is the composition of the last solid remaining prior to complete melting? 13 wt% Sn**_
 
-![](Materials\ Eng\ Review\ &\ Final-2/img55.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img55.png)
 
 
-# Slide 56 - **Binary-Eutectic Systems**
+# Slide 57 - **Binary-Eutectic Systems**
 
 2 components
 
@@ -2295,10 +2295,10 @@ L(CE) (CE) + (CE)
 
 **L  + **
 
-![](Materials\ Eng\ Review\ &\ Final-2/img56.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img56.png)
 
 
-# Slide 57 - **Microstructural Developments  in Eutectic Systems – Case 1**
+# Slide 58 - **Microstructural Developments  in Eutectic Systems – Case 1**
 
 • For alloys for which
 
@@ -2374,10 +2374,10 @@ a: C0 wt% Sn
 
 Adapted from Fig. 9.11, Callister & Rethwisch 8e.
 
-![](Materials\ Eng\ Review\ &\ Final-2/img57.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img57.png)
 
 
-# Slide 58 - **Microstructural Developments  in Eutectic Systems – Case 2**
+# Slide 59 - **Microstructural Developments  in Eutectic Systems – Case 2**
 
 • For alloys for which
 
@@ -2461,10 +2461,10 @@ b
 
 a: C0 wt% Sn
 
-![](Materials\ Eng\ Review\ &\ Final-2/img58.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img58.png)
 
 
-# Slide 59 - **Microstructural Developments  in Eutectic Systems – Case 3**
+# Slide 60 - **Microstructural Developments  in Eutectic Systems – Case 3**
 
 • For alloy of eutectic composition C0 = CE
 
@@ -2545,10 +2545,10 @@ CE
 
 L: C0 wt% Sn
 
-![](Materials\ Eng\ Review\ &\ Final-2/img59.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img59.png)
 
 
-# Slide 60 - **Microstructural Developments  in Eutectic Systems – Case 4**
+# Slide 61 - **Microstructural Developments  in Eutectic Systems – Case 4**
 
 • For alloys for which 18.3 wt% Sn < C0 < 61.9 wt% Sn
 
@@ -2718,10 +2718,10 @@ L
 
 
 
-![](Materials\ Eng\ Review\ &\ Final-2/img60.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img60.png)
 
 
-# Slide 61 - **Hypoeutectoid Steel**
+# Slide 62 - **Hypoeutectoid Steel**
 
 Fe3C (cementite)
 
@@ -2851,10 +2851,10 @@ g
 
 Proeutectoid α
 
-![](Materials\ Eng\ Review\ &\ Final-2/img61.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img61.png)
 
 
-# Slide 62 - **Hypoeutectoid Steel**
+# Slide 63 - **Hypoeutectoid Steel**
 
 Fe3C (cementite)
 
@@ -2984,10 +2984,10 @@ Hypoeutectoid
 
 steel
 
-![](Materials\ Eng\ Review\ &\ Final-2/img62.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img62.png)
 
 
-# Slide 63 - **Hypereutectoid Steel**
+# Slide 64 - **Hypereutectoid Steel**
 
 Fe3C (cementite)
 
@@ -3105,10 +3105,10 @@ pearlite
 
 +
 
-![](Materials\ Eng\ Review\ &\ Final-2/img63.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img63.png)
 
 
-# Slide 64 - **Hypereutectoid Steel (Co = 3.0 wt% C) The 3 questions…**
+# Slide 65 - **Hypereutectoid Steel (Co = 3.0 wt% C) The 3 questions…**
 
 Fe3C (cementite)
 
@@ -3210,10 +3210,10 @@ Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24 adapted fr
 
 Proeutectoid Fe3C
 
-![](Materials\ Eng\ Review\ &\ Final-2/img64.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img64.png)
 
 
-# Slide 65 - **Hypereutectoid Steel (Co = 3.0 wt% C)**
+# Slide 66 - **Hypereutectoid Steel (Co = 3.0 wt% C)**
 
 Fe3C (cementite)
 
@@ -3331,10 +3331,10 @@ Cg = 1.2% C
 
 CFe3C = 6.7% C
 
-![](Materials\ Eng\ Review\ &\ Final-2/img65.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img65.png)
 
 
-# Slide 66 - **Hypereutectoid Steel**
+# Slide 67 - **Hypereutectoid Steel**
 
 Fe3C (cementite)
 
@@ -3458,7 +3458,7 @@ Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24 adapted fr
 
 +
 
-![](Materials\ Eng\ Review\ &\ Final-2/img66.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img66.png)
 
 # Slide 68
 
@@ -3474,17 +3474,17 @@ _**(d) Reheat the specimen in part (c) to 700°C (1290°F) for 20 h.**_
 
 _**(e) Rapidly cool to 300°C (570°F), hold for 20 s, then quench to room temperature in water. Reheat to 425°C (800°F) for 103 s and slowly cool to room temperature.**_
 
-![](Materials\ Eng\ Review\ &\ Final-2/img67.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img67.png)
 
 # Slide 69
 
 
-![](Materials\ Eng\ Review\ &\ Final-2/img68.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img68.png)
 
 # Slide 70
 
 
-![](Materials\ Eng\ Review\ &\ Final-2/img69.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img69.png)
 
 # Slide 71
 
@@ -3521,7 +3521,7 @@ _**(e) Rapidly cool to 300°C (570°F), hold for 20 s, then quench to room tempe
 
 **Materials Engineering Chapters 11-16 Review**
 
-![](Materials\ Eng\ Review\ &\ Final-2/img70.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img70.png)
 
 # Slide 72
 
@@ -3539,7 +3539,7 @@ _**(e) Rapidly cool to 300°C (570°F), hold for 20 s, then quench to room tempe
 
 **Materials Engineering Chapters 11-16 Review (continued)**
 
-![](Materials\ Eng\ Review\ &\ Final-2/img71.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img71.png)
 
 # Slide 73
 
@@ -3549,7 +3549,7 @@ _**F-15E AMRAAM Test Fire**_
 
 _Matrix Multiplication_
 
-![](Materials\ Eng\ Review\ &\ Final-2/img72.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img72.png)
 
 # Slide 74
 
@@ -3585,5 +3585,5 @@ _Matrix Multiplication_
 - **Weight, lift, drag, torque/twist, flutter**
 - **Distribution of loads across wing**
 
-![](Materials\ Eng\ Review\ &\ Final-2/img73.png)
+![](./Materials\ Eng\ Review\ &\ Final-2/img73.png)
 

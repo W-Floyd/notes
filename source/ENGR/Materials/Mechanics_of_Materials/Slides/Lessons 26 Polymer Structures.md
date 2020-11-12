@@ -4,10 +4,10 @@ _**Claiming every workplace in every nation as our**_
 
 _**mission field**_
 
-![](Lessons\ 26\ Polymer\ Structures/img0.png)
+![](./Lessons\ 26\ Polymer\ Structures/img0.png)
 
 
-# Slide 1 - **Devo/Prayer**
+# Slide 2 - **Devo/Prayer**
 
 ## For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, **(nor any test)**, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.
 
@@ -17,25 +17,25 @@ _**mission field**_
 
 ## **Philippians 4:4-7**
 
-![](Lessons\ 26\ Polymer\ Structures/img1.png)
+![](./Lessons\ 26\ Polymer\ Structures/img1.png)
 
 
-# Slide 2 - **Devo/Prayer**
+# Slide 3 - **Devo/Prayer**
 
 ## Consider it pure joy, my brothers and sisters, [_**a**_](http://biblehub.com/niv/james/1.htm\#footnotes) whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything.
 
 ## **James 1:2-4**
 
-![](Lessons\ 26\ Polymer\ Structures/img2.png)
+![](./Lessons\ 26\ Polymer\ Structures/img2.png)
 
 
-# Slide 3 - **Devo/Prayer**
+# Slide 4 - **Devo/Prayer**
 
 ## Trust in the Lord with all your heart     and lean not on your own understanding; in all your ways submit to him,     and he will make your paths straight.
 
 ## **Proverbs 3:5-6**
 
-![](Lessons\ 26\ Polymer\ Structures/img3.png)
+![](./Lessons\ 26\ Polymer\ Structures/img3.png)
 
 # Slide 5
 
@@ -49,10 +49,10 @@ _**mission field**_
 
 **Devo/Prayer**
 
-![](Lessons\ 26\ Polymer\ Structures/img4.png)
+![](./Lessons\ 26\ Polymer\ Structures/img4.png)
 
 
-# Slide 5 - **Easter – It’s Even More Than We Imagine**
+# Slide 6 - **Easter – It’s Even More Than We Imagine**
 
 _**In Jesus, God Frees Us From the Guilt, Condemnation, & Power of Sin…**_
 
@@ -64,10 +64,10 @@ Therefore go and make disciples of all nations, baptizing them in the name of th
 
 **Matthew 28:19-20**
 
-![](Lessons\ 26\ Polymer\ Structures/img5.png)
+![](./Lessons\ 26\ Polymer\ Structures/img5.png)
 
 
-# Slide 6 - **Lesson 26 Outline – Polymer Structures**
+# Slide 7 - **Lesson 26 Outline – Polymer Structures**
 
 - Devotional/Prayer
 - Structure & Chemical Characteristics
@@ -75,7 +75,7 @@ Therefore go and make disciples of all nations, baptizing them in the name of th
 - Molecular Weight/Shape/Structure
 - Summary/Wrap up
 
-![](Lessons\ 26\ Polymer\ Structures/img6.png)
+![](./Lessons\ 26\ Polymer\ Structures/img6.png)
 
 # Slide 8
 
@@ -99,7 +99,7 @@ _**AWS Past, Present and Future (free pizza!)**_
 
 _Jointly sponsored by the LeTourneau University Department of Welding/Materials Joining Engineering, AWS LETU Student Chapter, and AWS East Texas Chapter_
 
-![](Lessons\ 26\ Polymer\ Structures/img7.png)
+![](./Lessons\ 26\ Polymer\ Structures/img7.png)
 
 # Slide 9
 
@@ -361,10 +361,10 @@ _**Polymer Structures**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Lessons\ 26\ Polymer\ Structures/img8.png)
+![](./Lessons\ 26\ Polymer\ Structures/img8.png)
 
 
-# Slide 9 - **Polymer Structures**
+# Slide 10 - **Polymer Structures**
 
 **Why It Matters...**
 
@@ -377,10 +377,10 @@ materials, and how do they differ chemically?
 • How is the crystalline state in polymers different
 from that in metals and ceramics ?
 
-![](Lessons\ 26\ Polymer\ Structures/img9.png)
+![](./Lessons\ 26\ Polymer\ Structures/img9.png)
 
 
-# Slide 10 - **Types of Materials**
+# Slide 11 - **Types of Materials**
 
 - Metals: Metallic bonding – sea of electrons
 
@@ -402,10 +402,10 @@ from that in metals and ceramics ?
 
 - Composites: combination of two or more individual materials/phases to obtain a more desirable combination of properties than can be obtained with each individual material (e.g., low density and high strength)
 
-![](Lessons\ 26\ Polymer\ Structures/img10.png)
+![](./Lessons\ 26\ Polymer\ Structures/img10.png)
 
 
-# Slide 11 - **What is a Polymer?**
+# Slide 12 - **What is a Polymer?**
 
 ## Poly mer
 
@@ -539,10 +539,10 @@ repeat
 
 unit
 
-![](Lessons\ 26\ Polymer\ Structures/img11.png)
+![](./Lessons\ 26\ Polymer\ Structures/img11.png)
 
 
-# Slide 12 - **God’s Polymers**
+# Slide 13 - **God’s Polymers**
 
 - Exist in nature
 
@@ -556,10 +556,10 @@ unit
 - Noah used pitch (a natural polymer)
     for the ark
 
-![](Lessons\ 26\ Polymer\ Structures/img12.png)
+![](./Lessons\ 26\ Polymer\ Structures/img12.png)
 
 
-# Slide 13 - **Polymer Composition**
+# Slide 14 - **Polymer Composition**
 
 ## Most polymers are organic hydrocarbons
 
@@ -572,25 +572,25 @@ unit
 
 - Ethane, C2H6
 
-![](Lessons\ 26\ Polymer\ Structures/img13.png)
+![](./Lessons\ 26\ Polymer\ Structures/img13.png)
 
 # Slide 15
 
 
-![](Lessons\ 26\ Polymer\ Structures/img14.png)
+![](./Lessons\ 26\ Polymer\ Structures/img14.png)
 
 
-# Slide 15 - **Unsaturated Hydrocarbons**
+# Slide 16 - **Unsaturated Hydrocarbons**
 
 - Double & triple bonds somewhat unstable – can form new bonds
 
 - Double bond found in ethylene or ethene - C2H4
 - Triple bond found in acetylene or ethyne - C2H2
 
-![](Lessons\ 26\ Polymer\ Structures/img15.png)
+![](./Lessons\ 26\ Polymer\ Structures/img15.png)
 
 
-# Slide 16 - **Isomerism**
+# Slide 17 - **Isomerism**
 
 - Isomerism
 
@@ -603,18 +603,18 @@ unit
 
 ****
 
-![](Lessons\ 26\ Polymer\ Structures/img16.png)
+![](./Lessons\ 26\ Polymer\ Structures/img16.png)
 
 
-# Slide 17 - **Polymerization and Polymer Chemistry**
+# Slide 18 - **Polymerization and Polymer Chemistry**
 
 - Free radical polymerization
 - Initiator: example - benzoyl peroxide
 
-![](Lessons\ 26\ Polymer\ Structures/img17.png)
+![](./Lessons\ 26\ Polymer\ Structures/img17.png)
 
 
-# Slide 18 - **Chemistry and Structure of Polyethylene**
+# Slide 19 - **Chemistry and Structure of Polyethylene**
 
 Adapted from Fig. 14.1, _Callister & Rethwisch 8e._
 
@@ -622,26 +622,26 @@ Note: polyethylene is a long-chain hydrocarbon
 
 \- paraffin wax for candles is short polyethylene
 
-![](Lessons\ 26\ Polymer\ Structures/img18.png)
+![](./Lessons\ 26\ Polymer\ Structures/img18.png)
 
 
-# Slide 19 - **Common Polymers**
+# Slide 20 - **Common Polymers**
 
-![](Lessons\ 26\ Polymer\ Structures/img19.png)
+![](./Lessons\ 26\ Polymer\ Structures/img19.png)
 
 
-# Slide 20 - **Common Polymers (cont)**
+# Slide 21 - **Common Polymers (cont)**
 
-![](Lessons\ 26\ Polymer\ Structures/img20.png)
+![](./Lessons\ 26\ Polymer\ Structures/img20.png)
 
 # Slide 22
 
 **Common Polymers (cont)**
 
-![](Lessons\ 26\ Polymer\ Structures/img21.png)
+![](./Lessons\ 26\ Polymer\ Structures/img21.png)
 
 
-# Slide 22 - **Molecular Weight**
+# Slide 23 - **Molecular Weight**
 
 • Molecular weight, _M_ = Mass of a mole of chains
 
@@ -653,10 +653,10 @@ Not all chains in a polymer are of the same length
 
 \- Leads to a distribution of molecular weights (calculate average)
 
-![](Lessons\ 26\ Polymer\ Structures/img22.png)
+![](./Lessons\ 26\ Polymer\ Structures/img22.png)
 
 
-# Slide 23 - **Molecular Weight Distribution**
+# Slide 24 - **Molecular Weight Distribution**
 
 _xi_ = number fraction of chains in size range _i_
 
@@ -666,15 +666,15 @@ _wi_ = weight fraction of chains in size range _i_
 
 _Mi_ = mean (middle) molecular weight of size range _i_
 
-![](Lessons\ 26\ Polymer\ Structures/img23.png)
+![](./Lessons\ 26\ Polymer\ Structures/img23.png)
 
 
-# Slide 24 - **Molecular Weight Calculation (cont)**
+# Slide 25 - **Molecular Weight Calculation (cont)**
 
-![](Lessons\ 26\ Polymer\ Structures/img24.png)
+![](./Lessons\ 26\ Polymer\ Structures/img24.png)
 
 
-# Slide 25 - **Degree of Polymerization, _DP_**
+# Slide 26 - **Degree of Polymerization, _DP_**
 
 ## _DP_ = average chain size (number of repeat units per chain)
 
@@ -684,10 +684,10 @@ mol. wt of repeat unit _i_
 
 Chain fraction
 
-![](Lessons\ 26\ Polymer\ Structures/img25.png)
+![](./Lessons\ 26\ Polymer\ Structures/img25.png)
 
 
-# Slide 26 - **Polymers – Molecular Shape**
+# Slide 27 - **Polymers – Molecular Shape**
 
 ## Molecular Shape (or Conformation) – chain bending and twisting are possible by rotation of carbon atoms around their chain bonds
 
@@ -695,17 +695,17 @@ Chain fraction
 
 Adapted from Fig. 14.5, _Callister & Rethwisch 8e._
 
-![](Lessons\ 26\ Polymer\ Structures/img26.png)
+![](./Lessons\ 26\ Polymer\ Structures/img26.png)
 
 
-# Slide 27 - **Chain End-to-End Distance, _r_**
+# Slide 28 - **Chain End-to-End Distance, _r_**
 
 Adapted from Fig. 14.6, _Callister & Rethwisch 8e._
 
-![](Lessons\ 26\ Polymer\ Structures/img27.png)
+![](./Lessons\ 26\ Polymer\ Structures/img27.png)
 
 
-# Slide 28 - **Molecular Structures for Polymers**
+# Slide 29 - **Molecular Structures for Polymers**
 
 Adapted from Fig. 14.7, _Callister & Rethwisch 8e._
 
@@ -723,10 +723,10 @@ secondary
 
 bonding
 
-![](Lessons\ 26\ Polymer\ Structures/img28.png)
+![](./Lessons\ 26\ Polymer\ Structures/img28.png)
 
 
-# Slide 29 - **Molecular Configurations for Polymers**
+# Slide 30 - **Molecular Configurations for Polymers**
 
 ## Configurations – to change, bonds must be broken
 
@@ -760,10 +760,10 @@ images – can’t superimpose
 
 without breaking a bond
 
-![](Lessons\ 26\ Polymer\ Structures/img29.png)
+![](./Lessons\ 26\ Polymer\ Structures/img29.png)
 
 
-# Slide 30 - **Cis/Trans Isomerism**
+# Slide 31 - **Cis/Trans Isomerism**
 
 cis
 
@@ -781,10 +781,10 @@ H atom and CH3 group on opposite sides of chain
 
 (distinctly different properties)
 
-![](Lessons\ 26\ Polymer\ Structures/img30.png)
+![](./Lessons\ 26\ Polymer\ Structures/img30.png)
 
 
-# Slide 31 - **Copolymers**
+# Slide 32 - **Copolymers**
 
 ## two or more monomers polymerized together
 
@@ -805,10 +805,10 @@ Adapted from Fig. 14.9, _Callister & Rethwisch 8e._
 
 alternating
 
-![](Lessons\ 26\ Polymer\ Structures/img31.png)
+![](./Lessons\ 26\ Polymer\ Structures/img31.png)
 
 
-# Slide 32 - **Polymer Crystallinity**
+# Slide 33 - **Polymer Crystallinity**
 
 - Ordered atomic arrangements involving molecular chains
 - Crystal structures in terms of unit cells
@@ -818,10 +818,10 @@ alternating
 
 Adapted from Fig. 14.10, _Callister & Rethwisch 8e._
 
-![](Lessons\ 26\ Polymer\ Structures/img32.png)
+![](./Lessons\ 26\ Polymer\ Structures/img32.png)
 
 
-# Slide 33 - **Polymer Crystallinity**
+# Slide 34 - **Polymer Crystallinity**
 
 ## Polymers are rarely 100% crystalline
 
@@ -852,10 +852,10 @@ amorphous
 
 region
 
-![](Lessons\ 26\ Polymer\ Structures/img33.png)
+![](./Lessons\ 26\ Polymer\ Structures/img33.png)
 
 
-# Slide 34 - **Polymer Crystallinity – Chain Folded**
+# Slide 35 - **Polymer Crystallinity – Chain Folded**
 
 - Thin platelets with chains folding back and forth on themselves (folds at faces)
 - Single crystals (within amorphous material) occur for slow and carefully controlled growth rates
@@ -864,10 +864,10 @@ region
 
 Adapted from Fig. 14.12, _Callister & Rethwisch 8e._
 
-![](Lessons\ 26\ Polymer\ Structures/img34.png)
+![](./Lessons\ 26\ Polymer\ Structures/img34.png)
 
 
-# Slide 35 - **Polymer Crystallinity – Spherulite**
+# Slide 36 - **Polymer Crystallinity – Spherulite**
 
 Spherulite surface
 
@@ -876,20 +876,20 @@ Adapted from Fig. 14.13, _Callister & Rethwisch 8e._
 - Alternating chain-folded crystallites and amorphous regions
 - Spherulite structure for relatively rapid growth rates (equivalent to grains in metals and ceramics)
 
-![](Lessons\ 26\ Polymer\ Structures/img35.png)
+![](./Lessons\ 26\ Polymer\ Structures/img35.png)
 
 
-# Slide 36 - **Summary**
+# Slide 37 - **Summary**
 
 - Polymer definition
 - Bulk or commodity polymers
 - Molecular weight ~ Chain length
 - Structure of Polymers
 
-![](Lessons\ 26\ Polymer\ Structures/img36.png)
+![](./Lessons\ 26\ Polymer\ Structures/img36.png)
 
 
-# Slide 37 - **Molecular Weight Calculation**
+# Slide 38 - **Molecular Weight Calculation**
 
 ## Example: average mass of a class
 
@@ -948,10 +948,10 @@ this class:
 - Based on the number fraction of students in each mass range?
 - Based on the weight fraction of students in each mass range?
 
-![](Lessons\ 26\ Polymer\ Structures/img37.png)
+![](./Lessons\ 26\ Polymer\ Structures/img37.png)
 
 
-# Slide 38 - **Molecular Weight Calculation (cont)**
+# Slide 39 - **Molecular Weight Calculation (cont)**
 
 ## Solution: The first step is to sort the students into weight ranges. Using 40 lb ranges gives the following table:
 
@@ -965,17 +965,17 @@ Calculate the number and weight fraction of students in each weight range as fol
 
 For example: for the 81-120 lb range
 
-![](Lessons\ 26\ Polymer\ Structures/img38.png)
+![](./Lessons\ 26\ Polymer\ Structures/img38.png)
 
 
-# Slide 39 - **VMSE: Polymer Repeat Unit Structures**
+# Slide 40 - **VMSE: Polymer Repeat Unit Structures**
 
 Manipulate and rotate polymer structures in 3-dimensions
 
-![](Lessons\ 26\ Polymer\ Structures/img39.png)
+![](./Lessons\ 26\ Polymer\ Structures/img39.png)
 
 
-# Slide 40 - **Tacticity**
+# Slide 41 - **Tacticity**
 
 ## Tacticity – stereoregularity or spatial arrangement of R units along chain
 
@@ -983,13 +983,13 @@ isotactic – all R groups on same side of chain
 
 syndiotactic – R groups alternate sides
 
-![](Lessons\ 26\ Polymer\ Structures/img40.png)
+![](./Lessons\ 26\ Polymer\ Structures/img40.png)
 
 
-# Slide 41 - **Tacticity (cont.)**
+# Slide 42 - **Tacticity (cont.)**
 
 atactic – R groups randomly
 positioned
 
-![](Lessons\ 26\ Polymer\ Structures/img41.png)
+![](./Lessons\ 26\ Polymer\ Structures/img41.png)
 

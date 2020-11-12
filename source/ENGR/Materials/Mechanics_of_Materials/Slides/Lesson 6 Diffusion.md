@@ -4,10 +4,10 @@ _**Claiming every workplace in every nation as our**_
 
 _**mission field**_
 
-![](Lesson\ 6\ Diffusion/img0.png)
+![](./Lesson\ 6\ Diffusion/img0.png)
 
 
-# Slide 1 - **Devo/Prayer**
+# Slide 2 - **Devo/Prayer**
 
 - “But SEEK FIRST his KINGDOM and his righteousness, and all these things will be given to you as well.”
 
@@ -17,18 +17,18 @@ _**mission field**_
 
 ## Psalm 37:4
 
-![](Lesson\ 6\ Diffusion/img1.png)
+![](./Lesson\ 6\ Diffusion/img1.png)
 
 
-# Slide 2 - **Devo/Prayer – “Measuring” Faith**
+# Slide 3 - **Devo/Prayer – “Measuring” Faith**
 
 - “In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.” Matthew 5:16
 - “But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.”  Galatians 5:22-23
 
-![](Lesson\ 6\ Diffusion/img2.png)
+![](./Lesson\ 6\ Diffusion/img2.png)
 
 
-# Slide 3 - **Devo/Prayer**
+# Slide 4 - **Devo/Prayer**
 
 - “If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.”
 
@@ -42,10 +42,10 @@ _**mission field**_
 
 ## 1 Corinthians 10:31
 
-![](Lesson\ 6\ Diffusion/img3.png)
+![](./Lesson\ 6\ Diffusion/img3.png)
 
 
-# Slide 4 - **Devo/Prayer**
+# Slide 5 - **Devo/Prayer**
 
 - “Whatever you do, work at it with all your heart, as working for the Lord, not for human masters”
 
@@ -55,10 +55,10 @@ _**mission field**_
 
 ## Mark 10:27
 
-![](Lesson\ 6\ Diffusion/img4.png)
+![](./Lesson\ 6\ Diffusion/img4.png)
 
 
-# Slide 5 - **Devo/Prayer**
+# Slide 6 - **Devo/Prayer**
 
 - “Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.”
 
@@ -74,10 +74,10 @@ _**2006**_
 
 _**2015**_
 
-![](Lesson\ 6\ Diffusion/img5.png)
+![](./Lesson\ 6\ Diffusion/img5.png)
 
 
-# Slide 6 - **Class 6/7 Outline – Diffusion**
+# Slide 7 - **Class 6/7 Outline – Diffusion**
 
 - Devotional/Prayer
 - Diffusion Mechanisms
@@ -86,7 +86,7 @@ _**2015**_
 - Non-steady State Diffusion
 - Practical Applications of Diffusion
 
-![](Lesson\ 6\ Diffusion/img6.png)
+![](./Lesson\ 6\ Diffusion/img6.png)
 
 # Slide 8
 
@@ -348,10 +348,10 @@ _**Diffusion**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Lesson\ 6\ Diffusion/img7.png)
+![](./Lesson\ 6\ Diffusion/img7.png)
 
 
-# Slide 8 - **Materials Engineering Test 1 Review  (allowed one double sided 8.5X11” sheet of notes/equations)**
+# Slide 9 - **Materials Engineering Test 1 Review  (allowed one double sided 8.5X11” sheet of notes/equations)**
 
 ## **Chapter 1: Introduction**
 
@@ -435,10 +435,10 @@ X-Ray Diffraction compare to Energy Dispersive X-Ray
 
 Noncystalline Solids - amorphous
 
-![](Lesson\ 6\ Diffusion/img8.png)
+![](./Lesson\ 6\ Diffusion/img8.png)
 
 
-# Slide 9 - **Materials Engineering Exam 1 Review (continued)**
+# Slide 10 - **Materials Engineering Exam 1 Review (continued)**
 
 ## **Chapter 4: Imperfections in Solids**
 
@@ -484,10 +484,10 @@ Noncystalline Solids - amorphous
 
 ## Semi-Conductors
 
-![](Lesson\ 6\ Diffusion/img9.png)
+![](./Lesson\ 6\ Diffusion/img9.png)
 
 
-# Slide 10 - **Diffusion**
+# Slide 11 - **Diffusion**
 
 ## **\- Mass transport by atomic motion**
 
@@ -499,10 +499,10 @@ Noncystalline Solids - amorphous
 
 **Solids – vacancy diffusion or interstitial diffusion**
 
-![](Lesson\ 6\ Diffusion/img10.png)
+![](./Lesson\ 6\ Diffusion/img10.png)
 
 
-# Slide 11 - **Diffusion Mechanisms**
+# Slide 12 - **Diffusion Mechanisms**
 
 Vacancy Diffusion:
 
@@ -518,10 +518,10 @@ Vacancy Diffusion:
 
 increasing elapsed time
 
-![](Lesson\ 6\ Diffusion/img11.png)
+![](./Lesson\ 6\ Diffusion/img11.png)
 
 
-# Slide 12 - **Diffusion Mechanisms**
+# Slide 13 - **Diffusion Mechanisms**
 
 ## **Interstitial diffusion: smaller atoms can diffuse between larger atoms**
 
@@ -529,10 +529,10 @@ increasing elapsed time
 
 Adapted from Fig. 5.3(b), Callister & Rethwisch 8e.
 
-![](Lesson\ 6\ Diffusion/img12.png)
+![](./Lesson\ 6\ Diffusion/img12.png)
 
 
-# Slide 13 - **Steady-State Diffusion Rate**
+# Slide 14 - **Steady-State Diffusion Rate**
 
 - How do we quantify the amount or rate of diffusion?
 
@@ -552,10 +552,10 @@ time
 - Impose concentration gradient
 - Measure how fast atoms or molecules diffuse through the membrane
 
-![](Lesson\ 6\ Diffusion/img13.png)
+![](./Lesson\ 6\ Diffusion/img13.png)
 
 
-# Slide 14 - **Steady-State Diffusion Rate**
+# Slide 15 - **Steady-State Diffusion Rate**
 
 Fick’s first law of diffusion
 
@@ -579,10 +579,10 @@ Rate of diffusion independent of time
 
 Flux proportional to concentration gradient =
 
-![](Lesson\ 6\ Diffusion/img14.png)
+![](./Lesson\ 6\ Diffusion/img14.png)
 
 
-# Slide 15 - **Example: Steady State Diffusion**
+# Slide 16 - **Example: Steady State Diffusion**
 
 - Methylene chloride is a common ingredient of paint removers. Besides being an irritant, it also may be absorbed through skin. When using this paint remover, protective gloves should be worn.
 - If butyl rubber gloves (0.04 cm thick [16 mils]) are used, what is the diffusive flux of methylene chloride through the glove?
@@ -596,10 +596,10 @@ C2 = 0.02 g/cm3
 
 C1 = 0.44 g/cm3
 
-![](Lesson\ 6\ Diffusion/img15.png)
+![](./Lesson\ 6\ Diffusion/img15.png)
 
 
-# Slide 16 - **Example (cont.)**
+# Slide 17 - **Example (cont.)**
 
 glove
 
@@ -629,10 +629,10 @@ x2 – x1 = 0.04 cm
 
 Data:
 
-![](Lesson\ 6\ Diffusion/img16.png)
+![](./Lesson\ 6\ Diffusion/img16.png)
 
 
-# Slide 17 - **Diffusion and Temperature**
+# Slide 18 - **Diffusion and Temperature**
 
 • Diffusion coefficient increases with increasing T
 
@@ -698,10 +698,10 @@ ln D
 
 **exp = 2.718(X)**
 
-![](Lesson\ 6\ Diffusion/img17.png)
+![](./Lesson\ 6\ Diffusion/img17.png)
 
 
-# Slide 18 - **Diffusion and Temperature**
+# Slide 19 - **Diffusion and Temperature**
 
 Adapted from Fig. 5.7, Callister & Rethwisch 8e. (Date for Fig. 5.7 taken from E.A. Brandes and G.B. Brook (Ed.) Smithells Metals Reference Book, 7th ed., Butterworth-Heinemann, Oxford, 1992.)
 
@@ -761,7 +761,7 @@ T(C)
 
 300
 
-![](Lesson\ 6\ Diffusion/img18.png)
+![](./Lesson\ 6\ Diffusion/img18.png)
 
 # Slide 20
 
@@ -775,7 +775,7 @@ What is the diffusion coefficient at 350ºC?
 
 **Example: Temperature Effect on D**
 
-![](Lesson\ 6\ Diffusion/img19.png)
+![](./Lesson\ 6\ Diffusion/img19.png)
 
 # Slide 21
 
@@ -789,10 +789,10 @@ What is the diffusion coefficient at 350ºC?
 
 **Example**
 
-![](Lesson\ 6\ Diffusion/img20.png)
+![](./Lesson\ 6\ Diffusion/img20.png)
 
 
-# Slide 21 - **Example (cont.)**
+# Slide 22 - **Example (cont.)**
 
 T1 = 273 + 300 = 573 K
 
@@ -800,20 +800,20 @@ T2 = 273 + 350 = 623 K
 
 D2 = 15.7 x 10-11 m2/s
 
-![](Lesson\ 6\ Diffusion/img21.png)
+![](./Lesson\ 6\ Diffusion/img21.png)
 
 
-# Slide 22 - **Non-steady State Diffusion**
+# Slide 23 - **Non-steady State Diffusion**
 
 - The concentration of diffusing species is a function of both time and position _C_ = _C_( _x_, _t_)
 - In this case Fick’s Second Law is used
 
 Fick’s Second Law
 
-![](Lesson\ 6\ Diffusion/img22.png)
+![](./Lesson\ 6\ Diffusion/img22.png)
 
 
-# Slide 23 - **Non-steady State Diffusion**
+# Slide 24 - **Non-steady State Diffusion**
 
 Adapted from Fig. 5.5, Callister & Rethwisch 8e.
 
@@ -841,10 +841,10 @@ C
 
 s
 
-![](Lesson\ 6\ Diffusion/img23.png)
+![](./Lesson\ 6\ Diffusion/img23.png)
 
 
-# Slide 24 - **Solution to Fick’s Second Law:**
+# Slide 25 - **Solution to Fick’s Second Law:**
 
 ## _C_( _x_, _t_) = Conc. at point _x_ at   time _t_
 
@@ -862,26 +862,26 @@ Adapted from Fig. 5.5, Callister & Rethwisch 8e.
 
 **Non-steady State Diffusion**
 
-![](Lesson\ 6\ Diffusion/img24.png)
+![](./Lesson\ 6\ Diffusion/img24.png)
 
 
-# Slide 25 - **table\_05\_01**
+# Slide 26 - **table\_05\_01**
 
 **table\_05\_01**
 
 **Non-steady State Diffusion**
 
-![](Lesson\ 6\ Diffusion/img25.png)
+![](./Lesson\ 6\ Diffusion/img25.png)
 
 
-# Slide 26 - **Example: Non-Steady State Diffusion**
+# Slide 27 - **Example: Non-Steady State Diffusion**
 
 - An FCC iron-carbon alloy **initially containing 0.20 wt% C** is carburized at an elevated temperature and in an atmosphere that gives a **surface carbon concentration constant at 1.0 wt%**. If **after 49.5 h the concentration of carbon is 0.35 wt% at a position 4.0 mm** below the surface, determine the **temperature at which the treatment was carried out**.
 
-![](Lesson\ 6\ Diffusion/img26.png)
+![](./Lesson\ 6\ Diffusion/img26.png)
 
 
-# Slide 27 - **Example (cont.)**
+# Slide 28 - **Example (cont.)**
 
 - _t_ = 49.5 h _x_ = 4 x 10-3 m
 - _Cx_ = 0.35 wt% _Cs_ = 1.0 wt%
@@ -889,10 +889,10 @@ Adapted from Fig. 5.5, Callister & Rethwisch 8e.
 
  erf(z) = 0.8125
 
-![](Lesson\ 6\ Diffusion/img27.png)
+![](./Lesson\ 6\ Diffusion/img27.png)
 
 
-# Slide 28 - **Example (cont.)**
+# Slide 29 - **Example (cont.)**
 
 We must now determine from Table 5.1 the value of z for which the error function is 0.8125. An interpolation is necessary as follows
 
@@ -910,10 +910,10 @@ z = 0.93
 
 Now solve for D
 
-![](Lesson\ 6\ Diffusion/img28.png)
+![](./Lesson\ 6\ Diffusion/img28.png)
 
 
-# Slide 29 - **Example (cont.)**
+# Slide 30 - **Example (cont.)**
 
 - To solve for the temperature at which _D_ has the above value, we use a rearranged form of eq
 
@@ -925,10 +925,10 @@ Do = 2.3 x 10-5 m2/s Qd = 148,000 J/mol
 
 T = 1300 K = 1027ºC
 
-![](Lesson\ 6\ Diffusion/img29.png)
+![](./Lesson\ 6\ Diffusion/img29.png)
 
 
-# Slide 30 - **Example: Chemical Protective Clothing II**
+# Slide 31 - **Example: Chemical Protective Clothing II**
 
 - Methylene chloride is a common ingredient of paint removers. Besides being an irritant, it also may be absorbed through skin. When using this paint remover, protective gloves should be worn.
 - If butyl rubber gloves (0.04 cm thick) are used, what is the breakthrough time _(tb_) _,_ i.e., how long could the gloves be used before methylene chloride reaches the hand?
@@ -938,10 +938,10 @@ T = 1300 K = 1027ºC
 
 ## _D_ = 110 x10-8 cm2/s
 
-![](Lesson\ 6\ Diffusion/img30.png)
+![](./Lesson\ 6\ Diffusion/img30.png)
 
 
-# Slide 31 - **CPC Example (cont.)**
+# Slide 32 - **CPC Example (cont.)**
 
 glove
 
@@ -969,10 +969,10 @@ D = 110 x 10-8 cm2/s
 
 Breakthrough time = tb
 
-![](Lesson\ 6\ Diffusion/img31.png)
+![](./Lesson\ 6\ Diffusion/img31.png)
 
 
-# Slide 32 - **Practical Diffusion Examples**
+# Slide 33 - **Practical Diffusion Examples**
 
 Adapted from chapter-opening photograph, Chapter 5, Callister & Rethwisch 8e. (Courtesy of
 
@@ -995,7 +995,7 @@ hardened gear
 • Result: The presence of C
 atoms makes iron (steel) harder
 
-![](Lesson\ 6\ Diffusion/img32.png)
+![](./Lesson\ 6\ Diffusion/img32.png)
 
 # Slide 34
 
@@ -1011,7 +1011,7 @@ at the surface (done in ~550C liquid salt bath)
 
 **Practical Diffusion Examples**
 
-![](Lesson\ 6\ Diffusion/img33.png)
+![](./Lesson\ 6\ Diffusion/img33.png)
 
 # Slide 35
 
@@ -1045,10 +1045,10 @@ Adapted from Figure 18.27, Callister & Rethwisch 8e.
 
 **Practical Diffusion Examples**
 
-![](Lesson\ 6\ Diffusion/img34.png)
+![](./Lesson\ 6\ Diffusion/img34.png)
 
 
-# Slide 35 - **Summary**
+# Slide 36 - **Summary**
 
 Diffusion **FASTER** for...
 
@@ -1074,5 +1074,5 @@ bonding
 
 • Higher density materials
 
-![](Lesson\ 6\ Diffusion/img35.png)
+![](./Lesson\ 6\ Diffusion/img35.png)
 

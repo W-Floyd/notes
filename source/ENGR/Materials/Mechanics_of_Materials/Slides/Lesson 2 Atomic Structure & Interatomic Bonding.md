@@ -4,10 +4,10 @@ _**Claiming every workplace in every nation as our**_
 
 _**mission field**_
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img0.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img0.png)
 
 
-# Slide 1 - **Devo/Prayer – The Greatest Engineer!**
+# Slide 2 - **Devo/Prayer – The Greatest Engineer!**
 
 _**By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible.**_
 
@@ -19,7 +19,7 @@ _**Colossians 1:17**_
 
 [https://micro.magnet.fsu.edu/primer/java/scienceopticsu/powersof10/](https://micro.magnet.fsu.edu/primer/java/scienceopticsu/powersof10/)
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img1.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img1.png)
 
 # Slide 3
 
@@ -245,7 +245,7 @@ _**Atomic Structure and Interatomic Bonding**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img2.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img2.png)
 
 # Slide 4
 
@@ -507,10 +507,10 @@ _**Atomic Structure and Interatomic Bonding**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img3.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img3.png)
 
 
-# Slide 4 - **Materials Engineering Test 1 Review  (allowed one double sided 8.5X11” sheet of notes/equations)**
+# Slide 5 - **Materials Engineering Test 1 Review  (allowed one double sided 8.5X11” sheet of notes/equations)**
 
 ## **Chapter 1: Introduction**
 
@@ -594,10 +594,10 @@ X-Ray Diffraction compare to Energy Dispersive X-Ray
 
 Noncystalline Solids - amorphous
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img4.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img4.png)
 
 
-# Slide 5 - **Materials Engineering Exam 1 Review (continued)**
+# Slide 6 - **Materials Engineering Exam 1 Review (continued)**
 
 ## **Chapter 4: Imperfections in Solids**
 
@@ -643,10 +643,10 @@ Noncystalline Solids - amorphous
 
 ## Semi-Conductors
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img5.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img5.png)
 
 
-# Slide 6 - **Atomic Structure**
+# Slide 7 - **Atomic Structure**
 
 - Atom electrons – 9.11 x 10-31 kg
      protons
@@ -669,15 +669,15 @@ Noncystalline Solids - amorphous
 
 } 1.67 x 10-27 kg
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img6.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img6.png)
 
 
-# Slide 7 - **The Periodic Table**
+# Slide 8 - **The Periodic Table**
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img7.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img7.png)
 
 
-# Slide 8 - **fig\_02\_03**
+# Slide 9 - **fig\_02\_03**
 
 **fig\_02\_03**
 
@@ -687,10 +687,10 @@ Electron locations are described by a probability function – not deterministic
 
 **fig\_02\_01**
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img8.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img8.png)
 
 
-# Slide 9 - **Electronic Structure**
+# Slide 10 - **Electronic Structure**
 
 - Electrons have wavelike and particulate properties
 
@@ -711,19 +711,19 @@ Electron locations are described by a probability function – not deterministic
 
 ## _ms_ = electron spin moment ½, -½
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img9.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img9.png)
 
 
-# Slide 10 - **Electronic Structure & Energy States**
+# Slide 11 - **Electronic Structure & Energy States**
 
 s subshell
 
 p subshells
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img10.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img10.png)
 
 
-# Slide 11 - **Electronic Configurations – Iron Example**
+# Slide 12 - **Electronic Configurations – Iron Example**
 
 ## ex: Fe - atomic \#
 
@@ -767,10 +767,10 @@ _N_-shell _n_ = 4
 
 3 _d_ 6 4 _s_ 2
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img11.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img11.png)
 
 
-# Slide 12 - **Survey of Elements**
+# Slide 13 - **Survey of Elements**
 
 - For most elements, the electron configuration is not stable since outer (valence) shells are usually not filled
 - **Valence electrons are available for bonding and tend to control chemical properties**
@@ -1017,10 +1017,10 @@ Krypton
 
 Adapted from Table 2.2, _Callister & Rethwisch 9e._
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img12.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img12.png)
 
 
-# Slide 13 - **Bonding Forces & Energy**
+# Slide 14 - **Bonding Forces & Energy**
 
 - Energy – balance of attractive and repulsive terms
 
@@ -1058,7 +1058,7 @@ Adapted from Fig. 2.10(b), _Callister & Rethwisch 9e._
 
 Equilibrium spacing (ro)
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img13.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img13.png)
 
 # Slide 15
 
@@ -1074,10 +1074,10 @@ Equilibrium spacing (ro)
 
 - Strong bond (predominant bonding in ceramics)
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img14.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img14.png)
 
 
-# Slide 15 - **Electronegativity**
+# Slide 16 - **Electronegativity**
 
 Ranges from 0.9 to 4.1 (large values tend
 
@@ -1103,10 +1103,10 @@ accept 1 _e_-
 
 accept 2 _e_-
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img15.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img15.png)
 
 
-# Slide 16 - **Ionic Bonding Examples**
+# Slide 17 - **Ionic Bonding Examples**
 
 • Predominant bonding in Ceramics
 
@@ -1126,10 +1126,10 @@ CaF
 
 CsCl
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img16.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img16.png)
 
 
-# Slide 17 - **Primary Bonding Types: Covalent**
+# Slide 18 - **Primary Bonding Types: Covalent**
 
 C: has 4 valence _e-_
 
@@ -1175,7 +1175,7 @@ CH
 
 4
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img17.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img17.png)
 
 # Slide 19
 
@@ -1194,7 +1194,7 @@ Fig. 2.14, _Callister & Rethwisch 9e._(Adapted from J.E. Brady and F. Senese, _C
 
 (Methane)
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img18.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img18.png)
 
 # Slide 20
 
@@ -1208,19 +1208,19 @@ Fig. 2.14, _Callister & Rethwisch 9e._(Adapted from J.E. Brady and F. Senese, _C
 
 - Carbon can also form _sp2_ bond (Graphite) – much weaker interplanar bonds
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img19.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img19.png)
 
 
-# Slide 20 - **Primary Bonding Types: Metallic**
+# Slide 21 - **Primary Bonding Types: Metallic**
 
 - Electrons not bound to particular atom (ion cores with electron cloud) – Nondirectional, may be strong or weak
 - Good conductors of heat and electricity
 - Predominant bonding in metals and their alloys
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img20.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img20.png)
 
 
-# Slide 21 - **Secondary (van der Waals) Bonding**
+# Slide 22 - **Secondary (van der Waals) Bonding**
 
 Arises from interaction between dipoles – Directional
 
@@ -1306,10 +1306,10 @@ secondary bonding
 
 secondary bonding
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img21.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img21.png)
 
 
-# Slide 22 - **Properties From Bonding: Melting Temperature**
+# Slide 23 - **Properties From Bonding: Melting Temperature**
 
 • Bond length, _r_
 
@@ -1349,10 +1349,10 @@ _r_
 
 unstretched length
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img22.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img22.png)
 
 
-# Slide 23 - **Properties From Bonding: Thermal Expansion**
+# Slide 24 - **Properties From Bonding: Thermal Expansion**
 
 • Coefficient of thermal expansion, a
 
@@ -1422,15 +1422,15 @@ _Eo_
 
 _Eo_
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img23.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img23.png)
 
 
-# Slide 24 - **Mixed Bonding (real world)**
+# Slide 25 - **Mixed Bonding (real world)**
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img24.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img24.png)
 
 
-# Slide 25 - **Summary – Types of Bonds**
+# Slide 26 - **Summary – Types of Bonds**
 
 Type
 
@@ -1478,10 +1478,10 @@ inter-chain (polymer)
 
 inter-molecular
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img25.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img25.png)
 
 
-# Slide 26 - **Summary – Types of Material Types & Bonds**
+# Slide 27 - **Summary – Types of Material Types & Bonds**
 
 Ceramics
 
@@ -1521,5 +1521,5 @@ large _α_
 
 secondary bonding
 
-![](Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img26.png)
+![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img26.png)
 

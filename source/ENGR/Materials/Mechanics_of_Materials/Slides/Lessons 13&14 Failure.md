@@ -4,29 +4,29 @@ _**Claiming every workplace in every nation as our**_
 
 _**mission field**_
 
-![](Lessons\ 13&14\ Failure/img0.png)
+![](./Lessons\ 13&14\ Failure/img0.png)
 
 
-# Slide 1 - **Devo/Prayer**
+# Slide 2 - **Devo/Prayer**
 
 - For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, **nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord**.
 
 ## Romans 8:38-39
 
-![](Lessons\ 13&14\ Failure/img1.png)
+![](./Lessons\ 13&14\ Failure/img1.png)
 
 
-# Slide 2 - **Devo/Prayer – Bend but not Break**
+# Slide 3 - **Devo/Prayer – Bend but not Break**
 
 - ”Then the Lord said to Satan, “Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil. And he still maintains his integrity, though you incited me against him to ruin him without any reason.” “Skin for skin!” Satan replied. “A man will give all he has for his own life. But now stretch out your hand and strike his flesh and bones, and he will surely curse you to your face.”The Lord said to Satan, “Very well, then, he is in your hands; but you must spare his life.” (Job 2:3-6)
 
 - Never will I leave you; never will I forsake you. (Hebrews 13:5)
 - Being confident of this, that He who began a good work in you will carry it on to completion until the day of Christ Jesus. (Philippians 1:6)
 
-![](Lessons\ 13&14\ Failure/img2.png)
+![](./Lessons\ 13&14\ Failure/img2.png)
 
 
-# Slide 3 - **Devo/Prayer**
+# Slide 4 - **Devo/Prayer**
 
 ## **Rejoice always, pray continually, give thanks in all circumstances; for this is God’s will for you in Christ Jesus.**
 
@@ -38,10 +38,10 @@ _**mission field**_
 
 ## _**Thank You that I GET to learn, teach, and minister at LeTourneau for another day!**_
 
-![](Lessons\ 13&14\ Failure/img3.png)
+![](./Lessons\ 13&14\ Failure/img3.png)
 
 
-# Slide 4 - **Devo/Prayer**
+# Slide 5 - **Devo/Prayer**
 
 - And God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can endure it.
 
@@ -51,10 +51,10 @@ _**mission field**_
 
 ## _Ro 8:2_
 
-![](Lessons\ 13&14\ Failure/img4.png)
+![](./Lessons\ 13&14\ Failure/img4.png)
 
 
-# Slide 5 - **Lesson 13/14 Outline – Failure**
+# Slide 6 - **Lesson 13/14 Outline – Failure**
 
 - Devotional/Prayer
 - Crack Formation & Growth
@@ -62,7 +62,7 @@ _**mission field**_
 - Impact of Fatigue & Creep on Crack Growth
 - Summary/Wrap up
 
-![](Lessons\ 13&14\ Failure/img5.png)
+![](./Lessons\ 13&14\ Failure/img5.png)
 
 # Slide 7
 
@@ -324,10 +324,10 @@ _**Failure**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Lessons\ 13&14\ Failure/img6.png)
+![](./Lessons\ 13&14\ Failure/img6.png)
 
 
-# Slide 7 - **Mechanical Failure**
+# Slide 8 - **Mechanical Failure**
 
 **ISSUES TO ADDRESS...**
 
@@ -361,10 +361,10 @@ Adapted from Fig. 22.26(b), _Callister 7e._
 
 Adapted from chapter-opening photograph, Chapter 8, _Callister & Rethwisch 8e._(by Neil Boenzi, _The New York Times_.)
 
-![](Lessons\ 13&14\ Failure/img7.png)
+![](./Lessons\ 13&14\ Failure/img7.png)
 
 
-# Slide 8 - **Fracture mechanisms**
+# Slide 9 - **Fracture mechanisms**
 
 - Ductile fracture
 
@@ -374,10 +374,10 @@ Adapted from chapter-opening photograph, Chapter 8, _Callister & Rethwisch 8e._(
 
 -  Little or no plastic deformation; often catastrophic
 
-![](Lessons\ 13&14\ Failure/img8.png)
+![](./Lessons\ 13&14\ Failure/img8.png)
 
 
-# Slide 9 - **Ductile vs Brittle Failure**
+# Slide 10 - **Ductile vs Brittle Failure**
 
 Very
 
@@ -413,10 +413,10 @@ Warning before fracture
 
 Brittle: No warning
 
-![](Lessons\ 13&14\ Failure/img9.png)
+![](./Lessons\ 13&14\ Failure/img9.png)
 
 
-# Slide 10 - **Example: Pipe Failures**
+# Slide 11 - **Example: Pipe Failures**
 
 • **Ductile failure:**
 
@@ -432,10 +432,10 @@ Figures from V.J. Colangelo and F.A. Heiser, _Analysis of Metallurgical Failures
 
 \-\- small deformations
 
-![](Lessons\ 13&14\ Failure/img10.png)
+![](./Lessons\ 13&14\ Failure/img10.png)
 
 
-# Slide 11 - **Moderately Ductile Failure**
+# Slide 12 - **Moderately Ductile Failure**
 
 • Resulting
 
@@ -487,10 +487,10 @@ fracture
 
 **45°**
 
-![](Lessons\ 13&14\ Failure/img11.png)
+![](./Lessons\ 13&14\ Failure/img11.png)
 
 
-# Slide 12 - **Moderately Ductile vs. Brittle Failure**
+# Slide 13 - **Moderately Ductile vs. Brittle Failure**
 
 Adapted from Fig. 8.3, _Callister & Rethwisch 8e._
 
@@ -498,19 +498,19 @@ cup-and-cone fracture
 
 brittle fracture
 
-![](Lessons\ 13&14\ Failure/img12.png)
+![](./Lessons\ 13&14\ Failure/img12.png)
 
 
-# Slide 13 - **Brittle Failure**
+# Slide 14 - **Brittle Failure**
 
 ## Arrows indicate point at which failure originated
 
 Adapted from Fig. 8.5(a), _Callister & Rethwisch 8e._
 
-![](Lessons\ 13&14\ Failure/img13.png)
+![](./Lessons\ 13&14\ Failure/img13.png)
 
 
-# Slide 14 - **Brittle Fracture Surfaces**
+# Slide 15 - **Brittle Fracture Surfaces**
 
 • Transgranular (through grains
 
@@ -550,10 +550,10 @@ Reprinted w/ permission from R.W. Hertzberg, "Defor-mation and Fracture Mechanic
 
 (Orig. source: K. Friedrick, _Fracture 1977_, Vol. 3, ICF4, Waterloo, CA, 1977, p. 1119.)
 
-![](Lessons\ 13&14\ Failure/img14.png)
+![](./Lessons\ 13&14\ Failure/img14.png)
 
 
-# Slide 15 - **Ideal vs Real Materials**
+# Slide 16 - **Ideal vs Real Materials**
 
 • Stress-strain behavior (room temp):
 
@@ -601,10 +601,10 @@ smaller the load for failure.
 
 Reprinted w/ permission from R.W. Hertzberg, "Deformation and Fracture Mechanics of Engineering Materials", (4th ed.) Fig. 7.4. John Wiley and Sons, Inc., 1996.
 
-![](Lessons\ 13&14\ Failure/img15.png)
+![](./Lessons\ 13&14\ Failure/img15.png)
 
 
-# Slide 16 - **Flaws are Stress Concentrators**
+# Slide 17 - **Flaws are Stress Concentrators**
 
 - Griffith Crack
 
@@ -622,17 +622,17 @@ Adapted from Fig. 8.8(a), _Callister & Rethwisch 8e._
 
 _Kt =_ 2( _a/_ t)1/2
 
-![](Lessons\ 13&14\ Failure/img16.png)
+![](./Lessons\ 13&14\ Failure/img16.png)
 
 
-# Slide 17 - **Concentration of Stress at Crack Tip**
+# Slide 18 - **Concentration of Stress at Crack Tip**
 
 Adapted from Fig. 8.8(b), _Callister & Rethwisch 8e._
 
-![](Lessons\ 13&14\ Failure/img17.png)
+![](./Lessons\ 13&14\ Failure/img17.png)
 
 
-# Slide 18 - **Engineering Fracture Design**
+# Slide 19 - **Engineering Fracture Design**
 
 _r_/ _h_
 
@@ -688,10 +688,10 @@ s _m_
 
 s0
 
-![](Lessons\ 13&14\ Failure/img18.png)
+![](./Lessons\ 13&14\ Failure/img18.png)
 
 
-# Slide 19 - **Criterion for Crack Propagation**
+# Slide 20 - **Criterion for Crack Propagation**
 
 Crack propagates if crack-tip stress (s _m_) exceeds a critical stress (s _c_)
 
@@ -703,10 +703,10 @@ where
 
 i.e., s _m_ \> s _c_
 
-![](Lessons\ 13&14\ Failure/img19.png)
+![](./Lessons\ 13&14\ Failure/img19.png)
 
 
-# Slide 20 - **Crack Propagation**
+# Slide 21 - **Crack Propagation**
 
 Cracks having sharp tips propagate easier than cracks having blunt tips
 
@@ -718,10 +718,10 @@ brittle
 
 ductile
 
-![](Lessons\ 13&14\ Failure/img20.png)
+![](./Lessons\ 13&14\ Failure/img20.png)
 
 
-# Slide 21 - **Fracture Toughness**
+# Slide 22 - **Fracture Toughness**
 
 - Fracture toughness (K1C) – a measure of a materials resistance to brittle fracture when a crack is present
 - Note the “1” denotes mode I (tensile loading)
@@ -735,10 +735,10 @@ Mode I: Tensile Mode II: sliding/shear Mode III: Tearing
 
 fracture toughness—most common)
 
-![](Lessons\ 13&14\ Failure/img21.png)
+![](./Lessons\ 13&14\ Failure/img21.png)
 
 
-# Slide 22 - **Fracture Toughness Ranges**
+# Slide 23 - **Fracture Toughness Ranges**
 
 Based on data in Table B.5,
 
@@ -930,10 +930,10 @@ O
 
 4
 
-![](Lessons\ 13&14\ Failure/img22.png)
+![](./Lessons\ 13&14\ Failure/img22.png)
 
 
-# Slide 23 - **Design Against Crack Growth**
+# Slide 24 - **Design Against Crack Growth**
 
 • Crack growth condition:
 
@@ -971,19 +971,19 @@ fracture
 
 _Y = dimensionless parameter (crack size/geometry & load)_
 
-![](Lessons\ 13&14\ Failure/img23.png)
+![](./Lessons\ 13&14\ Failure/img23.png)
 
 
-# Slide 24 - **Design Example: Deck Plate Internal Cracks**
+# Slide 25 - **Design Example: Deck Plate Internal Cracks**
 
 • Find maximum allowable internal crack length
 
 • Material has _KIc_ = 55 MPa-m **0.5** loaded at 455 MPa (Y=1.50)
 
-![](Lessons\ 13&14\ Failure/img24.png)
+![](./Lessons\ 13&14\ Failure/img24.png)
 
 
-# Slide 25 - **Design Example: Deck Plate Internal Cracks**
+# Slide 26 - **Design Example: Deck Plate Internal Cracks**
 
 **Answer: 0.0041 m (4.1 mm)**
 
@@ -991,10 +991,10 @@ _Y = dimensionless parameter (crack size/geometry & load)_
 
 • Material has _KIc_ = 55 MPa-m **0.5** loaded at 455 MPa (Y=1.50)
 
-![](Lessons\ 13&14\ Failure/img25.png)
+![](./Lessons\ 13&14\ Failure/img25.png)
 
 
-# Slide 26 - **Design Example: Aircraft Wing Surface Cracks**
+# Slide 27 - **Design Example: Aircraft Wing Surface Cracks**
 
 • Two cases to consider...
 
@@ -1014,10 +1014,10 @@ Case 2
 
 • Material has _KIc_ = 26 MPa-m **0.5**
 
-![](Lessons\ 13&14\ Failure/img26.png)
+![](./Lessons\ 13&14\ Failure/img26.png)
 
 
-# Slide 27 - **Design Example: Aircraft Wing Surface Cracks**
+# Slide 28 - **Design Example: Aircraft Wing Surface Cracks**
 
 Answer:
 
@@ -1053,10 +1053,10 @@ Case 2
 
 constant
 
-![](Lessons\ 13&14\ Failure/img27.png)
+![](./Lessons\ 13&14\ Failure/img27.png)
 
 
-# Slide 28 - **Crack Inspection & Repair**
+# Slide 29 - **Crack Inspection & Repair**
 
 **Nondestructive Testing Techniques**
 
@@ -1068,10 +1068,10 @@ constant
 - **Acoustic**
 - **Dye penetrants**
 
-![](Lessons\ 13&14\ Failure/img28.png)
+![](./Lessons\ 13&14\ Failure/img28.png)
 
 
-# Slide 29 - **Impact Testing/Measuring Fracture Toughness**
+# Slide 30 - **Impact Testing/Measuring Fracture Toughness**
 
 final height
 
@@ -1083,10 +1083,10 @@ Adapted from Fig. 8.12(b), _Callister & Rethwisch 8e._(Fig. 8.12(b) is adapted f
 
 [https://www.youtube.com/watch?v=iM1fOm0Cotk](https://www.youtube.com/watch?v=iM1fOm0Cotk)
 
-![](Lessons\ 13&14\ Failure/img29.png)
+![](./Lessons\ 13&14\ Failure/img29.png)
 
 
-# Slide 30 - **Influence of Temperature on Impact Energy**
+# Slide 31 - **Influence of Temperature on Impact Energy**
 
 Adapted from Fig. 8.15, _Callister & Rethwisch 8e._
 
@@ -1122,10 +1122,10 @@ _**Charpy tests are an effective way**_
 
 _**To determine ductile-to-brittle behavior**_
 
-![](Lessons\ 13&14\ Failure/img30.png)
+![](./Lessons\ 13&14\ Failure/img30.png)
 
 
-# Slide 31 - **Design Strategy: Stay Above The DBTT!**
+# Slide 32 - **Design Strategy: Stay Above The DBTT!**
 
 **• Pre-WWII: The Titanic**
 
@@ -1139,10 +1139,10 @@ Reprinted w/ permission from R.W. Hertzberg, "Deformation and Fracture Mechanics
 
 Reprinted w/ permission from R.W. Hertzberg, "Deformation and Fracture Mechanics of Engineering Materials", (4th ed.) Fig. 7.1(b), p. 262, John Wiley and Sons, Inc., 1996. (Orig. source: Earl R. Parker, "Behavior of Engineering Structures", Nat. Acad. Sci., Nat. Res. Council, John Wiley and Sons, Inc., NY, 1957.)
 
-![](Lessons\ 13&14\ Failure/img31.png)
+![](./Lessons\ 13&14\ Failure/img31.png)
 
 
-# Slide 32 - **Fatigue**
+# Slide 33 - **Fatigue**
 
 Adapted from Fig. 8.18, _Callister & Rethwisch 8e._(Fig. 8.18 is from _Materials Science in Engineering_, 4/E by Carl. A. Keyser, Pearson Education, Inc., Upper Saddle River, NJ.)
 
@@ -1198,10 +1198,10 @@ bearing
 
 bearing
 
-![](Lessons\ 13&14\ Failure/img32.png)
+![](./Lessons\ 13&14\ Failure/img32.png)
 
 
-# Slide 33 - **Types of Fatigue Behavior**
+# Slide 34 - **Types of Fatigue Behavior**
 
 Adapted from Fig. 8.19(a), _Callister & Rethwisch 8e._
 
@@ -1281,10 +1281,10 @@ _S_ = stress amplitude
 
 Note: Fatigue limit is the stress at which a member lasts for an infinite number of cycles
 
-![](Lessons\ 13&14\ Failure/img33.png)
+![](./Lessons\ 13&14\ Failure/img33.png)
 
 
-# Slide 34 - **Rate of Fatigue Crack Growth**
+# Slide 35 - **Rate of Fatigue Crack Growth**
 
 • Crack grows _incrementally_
 
@@ -1312,10 +1312,10 @@ Adapted from
 
 Fig. 8.21, _Callister & Rethwisch 8e._(Fig. 8.21 is from D.J. Wulpi, _Understanding How Components Fail_, American Society for Metals, Materials Park, OH, 1985.)
 
-![](Lessons\ 13&14\ Failure/img34.png)
+![](./Lessons\ 13&14\ Failure/img34.png)
 
 
-# Slide 35 - **Improving Fatigue Life**
+# Slide 36 - **Improving Fatigue Life**
 
 2\. Remove stress
 
@@ -1385,10 +1385,10 @@ shot
 
 C-rich gas
 
-![](Lessons\ 13&14\ Failure/img35.png)
+![](./Lessons\ 13&14\ Failure/img35.png)
 
 
-# Slide 36 - **Creep**
+# Slide 37 - **Creep**
 
 - Creep – time dependent and permanent deformation of materials subjected to constant load/stress (engine turbines, steam lines, etc)
 
@@ -1399,10 +1399,10 @@ C-rich gas
 
 - Amorphous polymers (plastics & rubbers) are especially sensitive
 
-![](Lessons\ 13&14\ Failure/img36.png)
+![](./Lessons\ 13&14\ Failure/img36.png)
 
 
-# Slide 37 - **Creep**
+# Slide 38 - **Creep**
 
 ## Sample deformation at a constant stress (s) vs. time
 
@@ -1427,10 +1427,10 @@ s,e
 
 _t_
 
-![](Lessons\ 13&14\ Failure/img37.png)
+![](./Lessons\ 13&14\ Failure/img37.png)
 
 
-# Slide 38 - **Creep**
+# Slide 39 - **Creep**
 
 • Temperature dependence, _T_ \> 0.4 _Tm_ (in K)
 
@@ -1444,10 +1444,10 @@ secondary
 
 tertiary
 
-![](Lessons\ 13&14\ Failure/img38.png)
+![](./Lessons\ 13&14\ Failure/img38.png)
 
 
-# Slide 39 - **Secondary Creep**
+# Slide 40 - **Secondary Creep**
 
 • Strain rate is constant at a given _T_, s
 
@@ -1523,10 +1523,10 @@ Fig. 8.31, _Callister 7e._
 
 (Fig. 8.31 is from _Metals Handbook: Properties and Selection: Stainless Steels, Tool Materials, and Special Purpose Metals_, Vol. 3, 9th ed., D. Benjamin (Senior Ed.), American Society for Metals, 1980, p. 131.)
 
-![](Lessons\ 13&14\ Failure/img39.png)
+![](./Lessons\ 13&14\ Failure/img39.png)
 
 
-# Slide 40 - **Creep Failure**
+# Slide 41 - **Creep Failure**
 
 • Failure: along grain boundaries due to grain boundary
 
@@ -1544,10 +1544,10 @@ From V.J. Colangelo and F.A. Heiser, _Analysis of Metallurgical Failures_ (2nd e
 
 <number>
 
-![](Lessons\ 13&14\ Failure/img40.png)
+![](./Lessons\ 13&14\ Failure/img40.png)
 
 
-# Slide 41 - **Prediction of Creep Rupture Lifetime**
+# Slide 42 - **Prediction of Creep Rupture Lifetime**
 
 • Estimate rupture time
 
@@ -1585,10 +1585,10 @@ S-590 Iron
 
 <number>
 
-![](Lessons\ 13&14\ Failure/img41.png)
+![](./Lessons\ 13&14\ Failure/img41.png)
 
 
-# Slide 42 - **Prediction of Creep Rupture Lifetime**
+# Slide 43 - **Prediction of Creep Rupture Lifetime**
 
 • Estimate rupture time
 
@@ -1638,10 +1638,10 @@ S-590 Iron
 
 <number>
 
-![](Lessons\ 13&14\ Failure/img42.png)
+![](./Lessons\ 13&14\ Failure/img42.png)
 
 
-# Slide 43 - **Estimate the rupture time for  S-590 Iron, _T_ = 750ºC, s = 20,000 psi**
+# Slide 44 - **Estimate the rupture time for  S-590 Iron, _T_ = 750ºC, s = 20,000 psi**
 
 <number>
 
@@ -1675,10 +1675,10 @@ S-590 Iron
 
 24
 
-![](Lessons\ 13&14\ Failure/img43.png)
+![](./Lessons\ 13&14\ Failure/img43.png)
 
 
-# Slide 44 - **Estimate the rupture time for  S-590 Iron, _T_ = 750ºC, s = 20,000 psi**
+# Slide 45 - **Estimate the rupture time for  S-590 Iron, _T_ = 750ºC, s = 20,000 psi**
 
 <number>
 
@@ -1724,5 +1724,5 @@ temperature
 
 Time to rupture, _tr_
 
-![](Lessons\ 13&14\ Failure/img44.png)
+![](./Lessons\ 13&14\ Failure/img44.png)
 

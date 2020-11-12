@@ -4,10 +4,10 @@ _**Claiming every workplace in every nation as our**_
 
 _**mission field**_
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img0.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img0.png)
 
 
-# Slide 1 - **Lesson 27 Outline – Characteristics, Applications,   and Processing of Polymers**
+# Slide 2 - **Lesson 27 Outline – Characteristics, Applications,   and Processing of Polymers**
 
 - Devotional/Prayer
 - Polymer Types
@@ -16,10 +16,10 @@ _**mission field**_
 - Polymer Additives
 - Summary/Wrap up
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img1.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img1.png)
 
 
-# Slide 2 - **Devo/Prayer**
+# Slide 3 - **Devo/Prayer**
 
 ## **Rejoice** in the Lord always. I will say it again: **Rejoice!** Let your gentleness be evident to all. The Lord is near. **Do not be anxious** about anything, but in every situation, by **prayer and petition**, with **thanksgiving**, present your requests to God.  And the **peace of God**, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.
 
@@ -29,10 +29,10 @@ _**mission field**_
 
 ## **James 1:2-4**
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img2.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img2.png)
 
 
-# Slide 3 - **Devo/Prayer – Wearing God’s Armor**
+# Slide 4 - **Devo/Prayer – Wearing God’s Armor**
 
 ## Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour.
 
@@ -66,7 +66,7 @@ Senate
 
 PA
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img3.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img3.png)
 
 # Slide 5
 
@@ -328,10 +328,10 @@ _**Processing of Polymers**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img4.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img4.png)
 
 
-# Slide 5 - **Characteristics, Applications & Processing of Polymers**
+# Slide 6 - **Characteristics, Applications & Processing of Polymers**
 
 **Why it Matters...**
 
@@ -344,10 +344,10 @@ response of polymers compare to ceramics and metals?
 
 • What are the primary polymer processing methods?
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img5.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img5.png)
 
 
-# Slide 6 - **Polymer Types**
+# Slide 7 - **Polymer Types**
 
 - Plastics (thermoplastic, thermosetting)
 - Elastomers (rubbers)
@@ -357,10 +357,10 @@ response of polymers compare to ceramics and metals?
 - Films
 - Foams
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img6.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img6.png)
 
 
-# Slide 7 - **Mechanical Properties of Polymers –  Stress-Strain Behavior**
+# Slide 8 - **Mechanical Properties of Polymers –  Stress-Strain Behavior**
 
 <number>
 
@@ -380,10 +380,10 @@ elastic moduli
 
 Adapted from Fig. 15.1, _Callister & Rethwisch 8e_.
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img7.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img7.png)
 
 
-# Slide 8 - **Mechanisms of Deformation— Crosslinked and Network (Brittle) Polymers**
+# Slide 9 - **Mechanisms of Deformation— Crosslinked and Network (Brittle) Polymers**
 
 <number>
 
@@ -419,10 +419,10 @@ network polymer
 Near
 Failure
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img8.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img8.png)
 
 
-# Slide 9 - **Mechanisms of Deformation — Semicrystalline (Plastic) Polymers**
+# Slide 10 - **Mechanisms of Deformation — Semicrystalline (Plastic) Polymers**
 
 <number>
 
@@ -474,10 +474,10 @@ Stress-strain curves adapted from Fig. 15.1, _Callister & Rethwisch 8e._ Inset f
 
 e
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img9.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img9.png)
 
 
-# Slide 10 - **Predeformation by Drawing**
+# Slide 11 - **Predeformation by Drawing**
 
 <number>
 
@@ -510,10 +510,10 @@ _TS_, enhances %EL)
 
 Adapted from Fig. 15.13, _Callister & Rethwisch 8e_. (Fig. 15.13 is from J.M. Schultz, _Polymer Materials Science_, Prentice-Hall, Inc., 1974, pp. 500-501.)
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img10.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img10.png)
 
 
-# Slide 11 - **Thermoplastics vs Thermosetting**
+# Slide 12 - **Thermoplastics vs Thermosetting**
 
 <number>
 
@@ -585,10 +585,10 @@ crystalline
 
 solid
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img11.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img11.png)
 
 
-# Slide 12 - **Influence of _T_ and Strain Rate on Thermoplastics**
+# Slide 13 - **Influence of _T_ and Strain Rate on Thermoplastics**
 
 <number>
 
@@ -656,10 +656,10 @@ semicrystalline
 
 PMMA (Plexiglas)
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img12.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img12.png)
 
 
-# Slide 13 - **Crazing During Fracture of Thermoplastic Polymers**
+# Slide 14 - **Crazing During Fracture of Thermoplastic Polymers**
 
 <number>
 
@@ -678,10 +678,10 @@ Craze formation prior to cracking
 – During crazing, plastic deformation of spherulites
 – and formation of microvoids and fibrillar bridges
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img13.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img13.png)
 
 
-# Slide 14 - **Mechanisms of Deformation—Elastomers**
+# Slide 15 - **Mechanisms of Deformation—Elastomers**
 
 <number>
 
@@ -727,10 +727,10 @@ x
 
 x
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img14.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img14.png)
 
 
-# Slide 15 - **Melting & Glass Transition Temps**
+# Slide 16 - **Melting & Glass Transition Temps**
 
 <number>
 
@@ -747,10 +747,10 @@ x
 
 Adapted from Fig. 15.18, _Callister & Rethwisch 8e._
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img15.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img15.png)
 
 
-# Slide 16 - **Time-Dependent Deformation**
+# Slide 17 - **Time-Dependent Deformation**
 
 • Representative _Tg_ values (C):
 
@@ -857,10 +857,10 @@ viscous liquid
 
 (large relax)
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img16.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img16.png)
 
 
-# Slide 17 - **Polymer Processing – Formation  Addition (chain) Polymerization**
+# Slide 18 - **Polymer Processing – Formation  Addition (chain) Polymerization**
 
 <number>
 
@@ -870,17 +870,17 @@ viscous liquid
 
 - **Termination**
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img17.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img17.png)
 
 
-# Slide 18 - **Polymer Processing – Formation  Condensation (step) Polymerization**
+# Slide 19 - **Polymer Processing – Formation  Condensation (step) Polymerization**
 
 <number>
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img18.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img18.png)
 
 
-# Slide 19 - **Polymer Processing – Thermoplastic vs Thermoset**
+# Slide 20 - **Polymer Processing – Thermoplastic vs Thermoset**
 
 <number>
 
@@ -899,10 +899,10 @@ viscous liquid
      chemical reaction occurs
 -  ex: urethane, epoxy
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img19.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img19.png)
 
 
-# Slide 20 - **Other Polymer Types (classified by use)**
+# Slide 21 - **Other Polymer Types (classified by use)**
 
 <number>
 
@@ -922,10 +922,10 @@ viscous liquid
 -  the spun fibers are drawn under tension
 -  leads to highly aligned chains - fibrillar structure
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img20.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img20.png)
 
 
-# Slide 21 - **Other Polymer Types (classified by use)**
+# Slide 22 - **Other Polymer Types (classified by use)**
 
 <number>
 
@@ -946,10 +946,10 @@ viscous liquid
 
 -  Foams – gas bubbles incorporated into plastic
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img21.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img21.png)
 
 
-# Slide 22 - **Polymer Processing – Compression Molding**
+# Slide 23 - **Polymer Processing – Compression Molding**
 
 <number>
 
@@ -961,10 +961,10 @@ viscous liquid
 
 Fig. 15.23, _Callister & Rethwisch 8e_. (Fig. 15.23 is from F.W. Billmeyer, Jr., _Textbook of Polymer Science,_ 3rd ed., John Wiley & Sons, 1984.)
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img22.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img22.png)
 
 
-# Slide 23 - **Polymer Processing – Injection Molding**
+# Slide 24 - **Polymer Processing – Injection Molding**
 
 <number>
 
@@ -978,10 +978,10 @@ Thermoplastics and some thermosets
 
 Barrel
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img23.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img23.png)
 
 
-# Slide 24 - **Polymer Processing – Extrusion**
+# Slide 25 - **Polymer Processing – Extrusion**
 
 <number>
 
@@ -993,19 +993,19 @@ Thermoplastics
 - Plastic pellets melt as the turning screw pushes them forward by the heaters
 - Molten polymer is forced under pressure through the shaping die to form the final product (extrudate)
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img24.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img24.png)
 
 
-# Slide 25 - **Polymer Processing – Blown-Film Extrusion  [https://www.youtube.com/watch?v=qn16JtE\_vLc&t=74s](https://www.youtube.com/watch?v=qn16JtE_vLc&t=74s)**
+# Slide 26 - **Polymer Processing – Blown-Film Extrusion  [https://www.youtube.com/watch?v=qn16JtE\_vLc&t=74s](https://www.youtube.com/watch?v=qn16JtE_vLc&t=74s)**
 
 <number>
 
 Fig. 15.26, _Callister & Rethwisch 8e_. (Fig. 15.26 is from _Encyclopædia Britannica,_ 1997.)
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img25.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img25.png)
 
 
-# Slide 26 - **Polymer Additives**
+# Slide 27 - **Polymer Additives**
 
 <number>
 
@@ -1026,10 +1026,10 @@ temperature _Tg_ below room temperature
      ductile one
 -  Commonly added to PVC - otherwise it is brittle
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img26.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img26.png)
 
 
-# Slide 27 - **Polymer Additives (cont)**
+# Slide 28 - **Polymer Additives (cont)**
 
 <number>
 
@@ -1052,10 +1052,10 @@ temperature _Tg_ below room temperature
 
 -  Substances containing chlorine, fluorine, and boron
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img27.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img27.png)
 
 
-# Slide 28 - **Advanced Polymers**
+# Slide 29 - **Advanced Polymers**
 
 <number>
 
@@ -1079,10 +1079,10 @@ Adapted from chapter-opening photograph, Chapter 22, _Callister 7e._
 
 Ultrahigh Molecular Weight Polyethylene (UHMWPE)
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img28.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img28.png)
 
 
-# Slide 29 - **Advanced Polymers**
+# Slide 30 - **Advanced Polymers**
 
 <number>
 
@@ -1102,10 +1102,10 @@ Fig. 15.22, _Callister & Rethwisch 8e._ (Fig. 15.22 adapted from _the Science an
 
 Fig. 15.21(a), _Callister & Rethwisch 8e._
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img29.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img29.png)
 
 
-# Slide 30 - **Summary**
+# Slide 31 - **Summary**
 
 • Limitations of polymers:
 
@@ -1142,5 +1142,5 @@ and trade names
 
 of polymers.
 
-![](Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img30.png)
+![](./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img30.png)
 

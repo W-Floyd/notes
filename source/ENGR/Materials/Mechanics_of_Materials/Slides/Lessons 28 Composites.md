@@ -4,10 +4,10 @@ _**Claiming every workplace in every nation as our**_
 
 _**mission field**_
 
-![](Lessons\ 28\ Composites/img0.png)
+![](./Lessons\ 28\ Composites/img0.png)
 
 
-# Slide 1 - **Lesson 28 Outline – Composites**
+# Slide 2 - **Lesson 28 Outline – Composites**
 
 - Devotional/Prayer
 - Classification of Composites
@@ -15,10 +15,10 @@ _**mission field**_
 - Predicting Stiffness & Strength
 - Summary/Wrap up
 
-![](Lessons\ 28\ Composites/img1.png)
+![](./Lessons\ 28\ Composites/img1.png)
 
 
-# Slide 2 - **Devo/Prayer**
+# Slide 3 - **Devo/Prayer**
 
 ## Now may the God of peace, who through the blood of the eternal covenant **brought back from the dead our Lord Jesus**, that great Shepherd of the sheep, equip you with everything good for doing his will, and may he work in us what is pleasing to him, through Jesus Christ, to whom be glory for ever and ever. Amen.
 
@@ -28,10 +28,10 @@ _**mission field**_
 
 ## **Romans 8:38-39**
 
-![](Lessons\ 28\ Composites/img2.png)
+![](./Lessons\ 28\ Composites/img2.png)
 
 
-# Slide 3 - **Devo/Prayer – Committing Finals to the Lord**
+# Slide 4 - **Devo/Prayer – Committing Finals to the Lord**
 
 ## Humble yourselves, therefore, under God’s mighty hand, that he may lift you up in due time. Cast all your anxiety on him because he cares for you.
 
@@ -49,7 +49,7 @@ _**Let’s Commit Our Work to the Lord**_
 
 _**and See What He Does!**_
 
-![](Lessons\ 28\ Composites/img3.png)
+![](./Lessons\ 28\ Composites/img3.png)
 
 # Slide 5
 
@@ -297,19 +297,19 @@ _**Composites**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Lessons\ 28\ Composites/img4.png)
+![](./Lessons\ 28\ Composites/img4.png)
 
 
-# Slide 5 - **Polymer Processing – Blown-Film Extrusion  [https://www.youtube.com/watch?v=qn16JtE\_vLc&t=74s](https://www.youtube.com/watch?v=qn16JtE_vLc&t=74s)**
+# Slide 6 - **Polymer Processing – Blown-Film Extrusion  [https://www.youtube.com/watch?v=qn16JtE\_vLc&t=74s](https://www.youtube.com/watch?v=qn16JtE_vLc&t=74s)**
 
 <number>
 
 Fig. 15.26, _Callister & Rethwisch 8e_. (Fig. 15.26 is from _Encyclopædia Britannica,_ 1997.)
 
-![](Lessons\ 28\ Composites/img5.png)
+![](./Lessons\ 28\ Composites/img5.png)
 
 
-# Slide 6 - **Composites**
+# Slide 7 - **Composites**
 
 **Why it Matters...**
 
@@ -321,10 +321,10 @@ materials?
 • How do we predict the stiffness and strength of the
 various types of composites?
 
-![](Lessons\ 28\ Composites/img6.png)
+![](./Lessons\ 28\ Composites/img6.png)
 
 
-# Slide 7 - **Types of Materials**
+# Slide 8 - **Types of Materials**
 
 - Metals: Metallic bonding – sea of electrons
 
@@ -346,20 +346,20 @@ various types of composites?
 
 - Composites: combination of two or more individual materials/phases to obtain a more desirable combination of properties than can be obtained with each individual material (e.g., low density and high strength)
 
-![](Lessons\ 28\ Composites/img7.png)
+![](./Lessons\ 28\ Composites/img7.png)
 
 
-# Slide 8 - **Composite Definition**
+# Slide 9 - **Composite Definition**
 
 - Combination of two or more individual materials/phases
 - Design goal: obtain a more desirable combination of properties than can be obtained with each individual material
 
 - e.g., low density and high strength
 
-![](Lessons\ 28\ Composites/img8.png)
+![](./Lessons\ 28\ Composites/img8.png)
 
 
-# Slide 9 - **Terminology/Classification**
+# Slide 10 - **Terminology/Classification**
 
 • Composite:
 
@@ -374,10 +374,10 @@ surrounded by matrix
 
 Adapted from Fig. 16.1(a), _Callister & Rethwisch 8e_.
 
-![](Lessons\ 28\ Composites/img9.png)
+![](./Lessons\ 28\ Composites/img9.png)
 
 
-# Slide 10 - **Terminology/Classification**
+# Slide 11 - **Terminology/Classification**
 
 • Dispersed phase:
 
@@ -425,10 +425,10 @@ mm
 
 mm
 
-![](Lessons\ 28\ Composites/img10.png)
+![](./Lessons\ 28\ Composites/img10.png)
 
 
-# Slide 11 - **Composite Benefits**
+# Slide 12 - **Composite Benefits**
 
 • PMCs: Increase _E_, s _y_, _TS_, creep resist
 
@@ -538,19 +538,19 @@ Force
 
 Bend displacement
 
-![](Lessons\ 28\ Composites/img11.png)
+![](./Lessons\ 28\ Composites/img11.png)
 
 
-# Slide 12 - **Classification of Composites**
+# Slide 13 - **Classification of Composites**
 
 Adapted from Fig. 16.2, _Callister & Rethwisch 8e_.
 
 [https://www.youtube.com/watch?v=slgtMk8k4lk](https://www.youtube.com/watch?v=slgtMk8k4lk)
 
-![](Lessons\ 28\ Composites/img12.png)
+![](./Lessons\ 28\ Composites/img12.png)
 
 
-# Slide 13 - **Classification: Particle-Reinforced**
+# Slide 14 - **Classification: Particle-Reinforced**
 
 • Examples:
 
@@ -639,10 +639,10 @@ Fiber-reinforced
 
 Structural
 
-![](Lessons\ 28\ Composites/img13.png)
+![](./Lessons\ 28\ Composites/img13.png)
 
 
-# Slide 14 - **Classification: Particle-Reinforced (cont)**
+# Slide 15 - **Classification: Particle-Reinforced (cont)**
 
 Concrete – gravel + sand + cement + water
 
@@ -671,10 +671,10 @@ nut
 
 Post-tensioning – tighten nuts to place concrete under compression
 
-![](Lessons\ 28\ Composites/img14.png)
+![](./Lessons\ 28\ Composites/img14.png)
 
 
-# Slide 15 - **Classification: Particle-Reinforced (cont)**
+# Slide 16 - **Classification: Particle-Reinforced (cont)**
 
 • Elastic modulus, _Ec_, of composites:
 
@@ -800,10 +800,10 @@ _E_(GPa)
 
 W)
 
-![](Lessons\ 28\ Composites/img15.png)
+![](./Lessons\ 28\ Composites/img15.png)
 
 
-# Slide 16 - **Classification: Fiber-Reinforced**
+# Slide 17 - **Classification: Fiber-Reinforced**
 
 - Fibers very strong in tension
 
@@ -826,10 +826,10 @@ Fiber-reinforced
 
 Structural
 
-![](Lessons\ 28\ Composites/img16.png)
+![](./Lessons\ 28\ Composites/img16.png)
 
 
-# Slide 17 - **Classification: Fiber-Reinforced (cont)**
+# Slide 18 - **Classification: Fiber-Reinforced (cont)**
 
 - Fiber Types
 
@@ -855,10 +855,10 @@ Structural
 
 -  Metals – steel, molybdenum, tungsten
 
-![](Lessons\ 28\ Composites/img17.png)
+![](./Lessons\ 28\ Composites/img17.png)
 
 
-# Slide 18 - **Fiber Alignment**
+# Slide 19 - **Fiber Alignment**
 
 aligned
 
@@ -874,10 +874,10 @@ Transverse direction
 
 Longitudinal direction
 
-![](Lessons\ 28\ Composites/img18.png)
+![](./Lessons\ 28\ Composites/img18.png)
 
 
-# Slide 19 - **Classification: Fiber-Reinforced (cont)**
+# Slide 20 - **Classification: Fiber-Reinforced (cont)**
 
 • Aligned Continuous fibers
 
@@ -927,10 +927,10 @@ From F.L. Matthews and R.L. Rawlings, _Composite Materials; Engineering and Scie
 
 Press, Boca Raton, FL.
 
-![](Lessons\ 28\ Composites/img19.png)
+![](./Lessons\ 28\ Composites/img19.png)
 
 
-# Slide 20 - **Classification: Fiber-Reinforced (cont)**
+# Slide 21 - **Classification: Fiber-Reinforced (cont)**
 
 • Discontinuous fibers, random in 2 dimensions
 
@@ -987,10 +987,10 @@ less strong
 
 500 m
 
-![](Lessons\ 28\ Composites/img20.png)
+![](./Lessons\ 28\ Composites/img20.png)
 
 
-# Slide 21 - **Classification: Fiber-Reinforced (cont)**
+# Slide 22 - **Classification: Fiber-Reinforced (cont)**
 
 • Critical fiber length for effective stiffening & strengthening:
 
@@ -1020,10 +1020,10 @@ Low fiber efficiency
 
 High fiber efficiency
 
-![](Lessons\ 28\ Composites/img21.png)
+![](./Lessons\ 28\ Composites/img21.png)
 
 
-# Slide 22 - Stiffness - Estimate fiber-reinforced composite modulus of elasticity for continuous fibers
+# Slide 23 - Stiffness - Estimate fiber-reinforced composite modulus of elasticity for continuous fibers
 
 ## Stiffness - Estimate fiber-reinforced composite modulus of elasticity for continuous fibers
 
@@ -1048,10 +1048,10 @@ Fiber-reinforced
 
 Structural
 
-![](Lessons\ 28\ Composites/img22.png)
+![](./Lessons\ 28\ Composites/img22.png)
 
 
-# Slide 23 - In transverse loading the fibers carry less of the load
+# Slide 24 - In transverse loading the fibers carry less of the load
 
 - In transverse loading the fibers carry less of the load
 
@@ -1076,7 +1076,7 @@ Fiber-reinforced
 
 Structural
 
-![](Lessons\ 28\ Composites/img23.png)
+![](./Lessons\ 28\ Composites/img23.png)
 
 # Slide 25
 
@@ -1108,7 +1108,7 @@ _Ecd_ = _EmVm_ \+ _KEfVf_
 
 **Classification: Fiber-Reinforced (cont)**
 
-![](Lessons\ 28\ Composites/img24.png)
+![](./Lessons\ 28\ Composites/img24.png)
 
 # Slide 26
 
@@ -1132,10 +1132,10 @@ _l_
 
 **Classification: Fiber-Reinforced (cont)**
 
-![](Lessons\ 28\ Composites/img25.png)
+![](./Lessons\ 28\ Composites/img25.png)
 
 
-# Slide 26 - **Classification: Structural**
+# Slide 27 - **Classification: Structural**
 
 • Laminates -
 \-\- stacked and bonded fiber-reinforced sheets
@@ -1172,10 +1172,10 @@ _Callister & Rethwisch 8e_.
 
 _Handbook_, Vol. 1, _Composites_, ASM International, Materials Park, OH, 1987.)
 
-![](Lessons\ 28\ Composites/img26.png)
+![](./Lessons\ 28\ Composites/img26.png)
 
 
-# Slide 27 - **Composite Production Methods**
+# Slide 28 - **Composite Production Methods**
 
 - Filament Winding
 
@@ -1187,10 +1187,10 @@ _Handbook_, Vol. 1, _Composites_, ASM International, Materials Park, OH, 1987.)
 
 Adapted from Fig. 16.15, _Callister & Rethwisch 8e_. [Fig. 16.15 is from N. L. Hancox, (Editor), _Fibre Composite Hybrid Materials,_ The Macmillan Company, New York, 1981.]
 
-![](Lessons\ 28\ Composites/img27.png)
+![](./Lessons\ 28\ Composites/img27.png)
 
 
-# Slide 28 - **Composite Production Methods**
+# Slide 29 - **Composite Production Methods**
 
 ## Pultrusion
 
@@ -1203,5 +1203,5 @@ Adapted from Fig. 16.15, _Callister & Rethwisch 8e_. [Fig. 16.15 is from N. L. H
 
 Fig. 16.13, _Callister & Rethwisch 8e_.
 
-![](Lessons\ 28\ Composites/img28.png)
+![](./Lessons\ 28\ Composites/img28.png)
 

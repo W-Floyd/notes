@@ -4,36 +4,36 @@ _**Claiming every workplace in every nation as our**_
 
 _**mission field**_
 
-![](Lessons\ 19&20\ Phase\ Transformation/img0.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img0.png)
 
 
-# Slide 1 - **Devo/Prayer**
+# Slide 2 - **Devo/Prayer**
 
 - I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world. (Jn 16:33)
 - The eternal God is your refuge, and underneath are the everlasting arms. (Due 33:27)
 
-![](Lessons\ 19&20\ Phase\ Transformation/img1.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img1.png)
 
 
-# Slide 2 - **Devo/Prayer**
+# Slide 3 - **Devo/Prayer**
 
 ## And we know that in all things God works for the good of those who love him, who have been called according to his purpose.
 
 ## **Romans 8:28**
 
-![](Lessons\ 19&20\ Phase\ Transformation/img2.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img2.png)
 
 
-# Slide 3 - **Devo/Prayer**
+# Slide 4 - **Devo/Prayer**
 
 - Whatever you do, work at it with all your heart, as working for the Lord, not for human masters. (Col 3:23)
 - And we know that in all things God works for the good of those who love him, who have been called according to his purpose. (Ro 8:28)
 - But those who hope in the LORD will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint. (Is 40:31)
 
-![](Lessons\ 19&20\ Phase\ Transformation/img3.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img3.png)
 
 
-# Slide 4 - **Lesson 19/20 Outline – Phase Transformation**
+# Slide 5 - **Lesson 19/20 Outline – Phase Transformation**
 
 - Devotional/Prayer
 - Transformation Process
@@ -41,10 +41,10 @@ _**mission field**_
 - Phase Properties
 - Summary/Wrap up
 
-![](Lessons\ 19&20\ Phase\ Transformation/img4.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img4.png)
 
 
-# Slide 5 - **Devo/Prayer**
+# Slide 6 - **Devo/Prayer**
 
 _**Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.**_
 
@@ -56,10 +56,10 @@ _**To our God and Father be glory for ever and ever.**_
 
 _**Philippians 4:20**_
 
-![](Lessons\ 19&20\ Phase\ Transformation/img5.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img5.png)
 
 
-# Slide 6 - **Devo/Prayer – Faith is a Journey**
+# Slide 7 - **Devo/Prayer – Faith is a Journey**
 
 ## Now faith is confidence in what we hope for and assurance about what we do not see.
 
@@ -71,15 +71,15 @@ _**Studying Engineering at LETU**_
 
 _**is a great place for to grow your faith!**_
 
-![](Lessons\ 19&20\ Phase\ Transformation/img6.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img6.png)
 
 
-# Slide 7 - _**Thanksgiving  at Olson’s  Nov 28**_
+# Slide 8 - _**Thanksgiving  at Olson’s  Nov 28**_
 
-![](Lessons\ 19&20\ Phase\ Transformation/img7.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img7.png)
 
 
-# Slide 8 - **Devo/Prayer – Seeking God’s Will**
+# Slide 9 - **Devo/Prayer – Seeking God’s Will**
 
 ## **G** **o to God**
 
@@ -99,10 +99,10 @@ _**is a great place for to grow your faith!**_
 
 ## _**1 Thes 5:16-18**_
 
-![](Lessons\ 19&20\ Phase\ Transformation/img8.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img8.png)
 
 
-# Slide 9 - **Devo/Prayer – Seeking God’s Call**
+# Slide 10 - **Devo/Prayer – Seeking God’s Call**
 
 **Gifts**
 
@@ -128,17 +128,17 @@ _**Now may the God of peace, who through the blood of the eternal covenant broug
 
 _**Hebrews 13:20-21**_
 
-![](Lessons\ 19&20\ Phase\ Transformation/img9.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img9.png)
 
 
-# Slide 10 - **Devo/Prayer – Jesus Calm’s the COVID-19 Storm**
+# Slide 11 - **Devo/Prayer – Jesus Calm’s the COVID-19 Storm**
 
 ## A furious squall came up, and the waves broke over the boat, so that it was nearly swamped. _**Jesus was in the stern, sleeping on a cushion**_. The disciples woke him and said to him, "Teacher, don't you care if we drown?" _**He got up, rebuked the wind and said to the waves, "Quiet! Be still!"**_ Then the wind died down and it was completely calm. He said to his disciples, "Why are you so afraid? Do you still have no faith?" They were terrified and asked each other, _**"Who is this? Even the wind and the waves obey him!“**_ Mark 4:37-41
 
-![](Lessons\ 19&20\ Phase\ Transformation/img10.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img10.png)
 
 
-# Slide 11 - **Devo/Prayer – COVID-19 vs God**
+# Slide 12 - **Devo/Prayer – COVID-19 vs God**
 
 - **Enemy Strategy (the loser):**
 
@@ -156,28 +156,28 @@ _**Hebrews 13:20-21**_
 
 _**In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven. Matthew 5:16**_
 
-![](Lessons\ 19&20\ Phase\ Transformation/img11.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img11.png)
 
 
-# Slide 12 - **Strength Through Storms Part 1 (Removing Idols)**
+# Slide 13 - **Strength Through Storms Part 1 (Removing Idols)**
 
 ## I know what it is to be in need, and I know what it is to have plenty. I have learned the secret of being content in any and every situation, whether well fed or hungry, whether living in plenty or in want.
 
 ## Philippians 4:12
 
-![](Lessons\ 19&20\ Phase\ Transformation/img12.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img12.png)
 
 
-# Slide 13 - **Strength Through Storms Part 2 (Revealing God)**
+# Slide 14 - **Strength Through Storms Part 2 (Revealing God)**
 
 ## My son, if you receive my words and treasure up my commandments with you, **making your ear attentive** to wisdom and inclining your heart to understanding; yes, if you call out for insight and raise your voice for understanding, if you seek it like silver and search for it as for hidden treasures, **then you will understand the fear of the Lord and find the knowledge of God.**
 
 ## Proverbs 2:1-5
 
-![](Lessons\ 19&20\ Phase\ Transformation/img13.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img13.png)
 
 
-# Slide 14 - **Strength Through Storms Part 3 (Testing our Faith)**
+# Slide 15 - **Strength Through Storms Part 3 (Testing our Faith)**
 
 ## In this you greatly rejoice, even though now for a little while, if necessary, you have been distressed by various trials, so that the proof of your faith, _being_ more precious than gold which is perishable, even though tested by fire, may be found to result in praise and glory and honor at the revelation of Jesus Christ.
 
@@ -185,10 +185,10 @@ _**In the same way, let your light shine before others, that they may see your g
 
 _**trials**_
 
-![](Lessons\ 19&20\ Phase\ Transformation/img14.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img14.png)
 
 
-# Slide 15 - **Howgozit**
+# Slide 16 - **Howgozit**
 
 - New Normal / Equipment / Prayer Requests
 - Learning Journey Updates
@@ -200,7 +200,7 @@ _**trials**_
 
 **I Love and Need Feedback!!!!**
 
-![](Lessons\ 19&20\ Phase\ Transformation/img15.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img15.png)
 
 # Slide 17
 
@@ -462,7 +462,7 @@ _**Failure**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Lessons\ 19&20\ Phase\ Transformation/img16.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img16.png)
 
 # Slide 18
 
@@ -676,10 +676,10 @@ _**Phase Transformations**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Lessons\ 19&20\ Phase\ Transformation/img17.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img17.png)
 
 
-# Slide 18 - **Phase Transformations**
+# Slide 19 - **Phase Transformations**
 
 **Why do we care?**
 
@@ -724,10 +724,10 @@ a
 
 [https://www.youtube.com/watch?v=0K1niBUyAqY](https://www.youtube.com/watch?v=0K1niBUyAqY)
 
-![](Lessons\ 19&20\ Phase\ Transformation/img18.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img18.png)
 
 
-# Slide 19 - **Solidification: Nucleation Types**
+# Slide 20 - **Solidification: Nucleation Types**
 
 ## Nucleation
 
@@ -746,10 +746,10 @@ a
 - Nucleation is easier if stable “nucleating surface” is present — e.g., surface, interface, impurities (common)
 - Requires only very slight supercooling (0.1-10ºC)
 
-![](Lessons\ 19&20\ Phase\ Transformation/img19.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img19.png)
 
 
-# Slide 20 - **Homogeneous Nucleation & Energy Effects**
+# Slide 21 - **Homogeneous Nucleation & Energy Effects**
 
 _r_\\* = critical nucleus: for _r_ < _r_\\* nuclei shrink; for _r_ > _r_\\* nuclei grow (to reduce energy)
 
@@ -773,10 +773,10 @@ stabilizes the nuclei (releases energy)
 
 D _G\*_ = Activation Free Energy
 
-![](Lessons\ 19&20\ Phase\ Transformation/img20.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img20.png)
 
 
-# Slide 21 - **Homogeneous Nucleation & Energy Effects**
+# Slide 22 - **Homogeneous Nucleation & Energy Effects**
 
 Note:  _Hf_ and  are weakly dependent on  _T_
 
@@ -796,10 +796,10 @@ _r\*_ = critical radius
 
 _**Practically, Less Supercooling is Required Since Activation Free Energy is Lower Due to Heterogeneous Nucleation**_
 
-![](Lessons\ 19&20\ Phase\ Transformation/img21.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img21.png)
 
 
-# Slide 22 - **Rate of Phase Transformations**
+# Slide 23 - **Rate of Phase Transformations**
 
 Kinetics - study of reaction rates of phase transformations (impacts properties)
 
@@ -814,10 +814,10 @@ X-ray diffraction – many specimens required
 
 How is degree of transformation measured?
 
-![](Lessons\ 19&20\ Phase\ Transformation/img22.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img22.png)
 
 
-# Slide 23 - **Rate of Phase Transformation**
+# Slide 24 - **Rate of Phase Transformation**
 
 ## Avrami equation => _y_ = 1- exp (- _kt n_)
 
@@ -854,10 +854,10 @@ _**t**_ **0.5**
 rate increases as surface area increases
 & nuclei grow
 
-![](Lessons\ 19&20\ Phase\ Transformation/img23.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img23.png)
 
 
-# Slide 24 - **Temperature Dependence of Transformation Rate**
+# Slide 25 - **Temperature Dependence of Transformation Rate**
 
 - For the recrystallization of Cu, rate increases with increasing temperature
 
@@ -886,10 +886,10 @@ state are often too slow to be practical**
 
 - For the transformation of austenite to pearlite, rate decreases with increasing temperature
 
-![](Lessons\ 19&20\ Phase\ Transformation/img24.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img24.png)
 
 
-# Slide 25 - **Practical Rates of Phase Transformation**
+# Slide 26 - **Practical Rates of Phase Transformation**
 
 - Equilibrium cooling is impractical (takes too long)
 - Non-equilibrium (metastable) cooling is more common and changes transformation temp TE
@@ -902,10 +902,10 @@ state are often too slow to be practical**
 - Small supercooling  slow nucleation rate - few nuclei - large crystals
 - Large supercooling  rapid nucleation rate - many nuclei - small crystals
 
-![](Lessons\ 19&20\ Phase\ Transformation/img25.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img25.png)
 
 
-# Slide 26 - **Transformations & Supercooling**
+# Slide 27 - **Transformations & Supercooling**
 
 •
 
@@ -1017,10 +1017,10 @@ Undercooling by _T_ transf. < 727C
 
 Adapted from Fig. 9.24, _Callister & Rethwisch 8e._(Fig. 9.24 adapted from _Binary Alloy Phase Diagrams_, 2nd ed., Vol. 1, T.B. Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 1990.)
 
-![](Lessons\ 19&20\ Phase\ Transformation/img26.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img26.png)
 
 
-# Slide 27 - **The Fe-Fe3C Eutectoid Transformation**
+# Slide 28 - **The Fe-Fe3C Eutectoid Transformation**
 
 Coarse pearlite (thick layers)  formed at higher temperatures – more diffusion – relatively soft
 
@@ -1104,10 +1104,10 @@ a
 
 Carbon diffusion
 
-![](Lessons\ 19&20\ Phase\ Transformation/img27.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img27.png)
 
 
-# Slide 28 - **Generation of Isothermal Transformation Diagrams**
+# Slide 29 - **Generation of Isothermal Transformation Diagrams**
 
 Adapted from Fig. 10.13, _Callister & Rethwisch 8e._ (Fig. 10.13 adapted from H. Boyer (Ed.) _Atlas of Isothermal Transformation and Cooling Transformation Diagrams_, American Society for Metals, 1977, p. 369.)
 
@@ -1191,10 +1191,10 @@ isothermal transformation at 675ºC
 
 Consider:
 
-![](Lessons\ 19&20\ Phase\ Transformation/img28.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img28.png)
 
 
-# Slide 29 - **Austenite-to-Pearlite Isothermal Transformation**
+# Slide 30 - **Austenite-to-Pearlite Isothermal Transformation**
 
 • Eutectoid composition, _C_ 0 = 0.76 wt% C
 
@@ -1266,10 +1266,10 @@ g
 
 g
 
-![](Lessons\ 19&20\ Phase\ Transformation/img29.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img29.png)
 
 
-# Slide 30 - **Bainite: Another Fe-Fe3C Transformation Product**
+# Slide 31 - **Bainite: Another Fe-Fe3C Transformation Product**
 
 10
 
@@ -1341,10 +1341,10 @@ Adapted from Fig. 10.17, _Callister & Rethwisch 8e._(Fig. 10.17 from _Metals Han
 
 100% bainite
 
-![](Lessons\ 19&20\ Phase\ Transformation/img30.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img30.png)
 
 
-# Slide 31 - **Spheroidite: Another Microstructure for the Fe-Fe3C System**
+# Slide 32 - **Spheroidite: Another Microstructure for the Fe-Fe3C System**
 
 • Spheroidite:
 
@@ -1373,10 +1373,10 @@ a
 
 Fe3C
 
-![](Lessons\ 19&20\ Phase\ Transformation/img31.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img31.png)
 
 
-# Slide 32 - **Martensite: A Nonequilibrium Transformation Product**
+# Slide 33 - **Martensite: A Nonequilibrium Transformation Product**
 
 • Martensite:
 
@@ -1478,10 +1478,10 @@ M + A
 
 90%
 
-![](Lessons\ 19&20\ Phase\ Transformation/img32.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img32.png)
 
 
-# Slide 33 - **Martensite Formation**
+# Slide 34 - **Martensite Formation**
 
 ##  (FCC)  (BCC) + Fe3C
 
@@ -1502,10 +1502,10 @@ Diffusionless transformation BCT if _C_ 0 > 0.15 wt% C
 
 BCT  few slip planes  hard, brittle
 
-![](Lessons\ 19&20\ Phase\ Transformation/img33.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img33.png)
 
 
-# Slide 34 - **Tempered Martensite**
+# Slide 35 - **Tempered Martensite**
 
 • Tempered martensite less brittle than martensite
 
@@ -1571,10 +1571,10 @@ Heat treat martensite to form tempered martensite
 
 **Tempering**
 
-![](Lessons\ 19&20\ Phase\ Transformation/img34.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img34.png)
 
 
-# Slide 35 - **Hypereutectoid Steel** (\> 0.76 wt% C)
+# Slide 36 - **Hypereutectoid Steel** (\> 0.76 wt% C)
 
 Fe3C (cementite)
 
@@ -1698,10 +1698,10 @@ Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24 adapted fr
 
 +
 
-![](Lessons\ 19&20\ Phase\ Transformation/img35.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img35.png)
 
 
-# Slide 36 - **Isothermal Heat Treatment Example (hypereutectoid steel)**
+# Slide 37 - **Isothermal Heat Treatment Example (hypereutectoid steel)**
 
 ## For a 1.13wt% C iron-carbon alloy, sketch and label time-temperature paths to produce the following microstructures:
 
@@ -1710,7 +1710,7 @@ Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24 adapted fr
 - 100% martensite
 - 100% tempered martensite
 
-![](Lessons\ 19&20\ Phase\ Transformation/img36.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img36.png)
 
 # Slide 38
 
@@ -1720,7 +1720,7 @@ Note the placement of pearlite in the graph, between 575 degrees and 730.
 
 Because we want the pearlite to be coarse, we will use a hotter temperature.
 
-![](Lessons\ 19&20\ Phase\ Transformation/img37.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img37.png)
 
 # Slide 39
 
@@ -1730,7 +1730,7 @@ Because we want fine pearlite, we want a fairly low temperature still within pea
 
 Once the austenite becomes 50% pearlite, cool again. Remaining austenite becomes bainite, making 50% fine pearlite and 50% bainite.
 
-![](Lessons\ 19&20\ Phase\ Transformation/img38.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img38.png)
 
 # Slide 40
 
@@ -1746,10 +1746,10 @@ Tempered martensite is heat treated martensite.
 
 The temperature to which the martensite is heated depends on desired properties of the tempered martensite.
 
-![](Lessons\ 19&20\ Phase\ Transformation/img39.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img39.png)
 
 
-# Slide 40 - **Hypoeutectoid Steel**(< 0.76 wt% C)
+# Slide 41 - **Hypoeutectoid Steel**(< 0.76 wt% C)
 
 Adapted from Figs. 9.24 and 9.29,Callister & Rethwisch 8e.
 
@@ -1877,10 +1877,10 @@ g
 
 +
 
-![](Lessons\ 19&20\ Phase\ Transformation/img40.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img40.png)
 
 
-# Slide 41 - **Isothermal Heat Treatment Example (hypoeutectoid steel)**
+# Slide 42 - **Isothermal Heat Treatment Example (hypoeutectoid steel)**
 
 ## For a 0.45 wt% C, Fe-C alloy, sketch and label the time-temperature paths to produce the following microstructures:
 
@@ -1889,10 +1889,10 @@ g
 - 100% martensite
 - 50% martensite and 50% austenite
 
-![](Lessons\ 19&20\ Phase\ Transformation/img41.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img41.png)
 
 
-# Slide 42 - **Solution to Part (a) of Example Problem**
+# Slide 43 - **Solution to Part (a) of Example Problem**
 
 - 42% proeutectoid ferrite and 58% coarse pearlite
 
@@ -1954,10 +1954,10 @@ to proeutectoid a and
 
 coarse pearlite.
 
-![](Lessons\ 19&20\ Phase\ Transformation/img42.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img42.png)
 
 
-# Slide 43 - **Solution to Part (b) of Example Problem**
+# Slide 44 - **Solution to Part (b) of Example Problem**
 
 - 50% fine pearlite and 50% bainite
 
@@ -2025,10 +2025,10 @@ Isothermally treat at ~ 590ºC
 
 to fine pearlite.
 
-![](Lessons\ 19&20\ Phase\ Transformation/img43.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img43.png)
 
 
-# Slide 44 - **Solutions to Parts (c) & (d) of Example Problem**
+# Slide 45 - **Solutions to Parts (c) & (d) of Example Problem**
 
 - 100% martensite – rapidly quench to room temperature
 
@@ -2093,10 +2093,10 @@ d)
 
 c)
 
-![](Lessons\ 19&20\ Phase\ Transformation/img44.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img44.png)
 
 
-# Slide 45 - **Continuous Cooling** **Transformation Diagrams**
+# Slide 46 - **Continuous Cooling** **Transformation Diagrams**
 
 Adapted from Fig. 10.25,
 
@@ -2108,10 +2108,10 @@ _Callister & Rethwisch 8e._
 
 Cooling curve
 
-![](Lessons\ 19&20\ Phase\ Transformation/img45.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img45.png)
 
 
-# Slide 46 - **Phase Transformations of Steel w/Other Elements**
+# Slide 47 - **Phase Transformations of Steel w/Other Elements**
 
 ## Effect of adding other elements
 
@@ -2125,10 +2125,10 @@ Cooling curve
 
 Adapted from Fig. 10.23, _Callister & Rethwisch 8e._
 
-![](Lessons\ 19&20\ Phase\ Transformation/img46.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img46.png)
 
 
-# Slide 47 - **Mechanical Properties -- Influence of C Content**
+# Slide 48 - **Mechanical Properties -- Influence of C Content**
 
 Adapted from Fig. 9.30, _Callister & Rethwisch 8e._
 
@@ -2218,10 +2218,10 @@ Hypo
 
 Hyper
 
-![](Lessons\ 19&20\ Phase\ Transformation/img47.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img47.png)
 
 
-# Slide 48 - **Mechanical Properties -- Fine Pearlite vs.  Coarse Pearlite vs. Spheroidite**
+# Slide 49 - **Mechanical Properties -- Fine Pearlite vs.  Coarse Pearlite vs. Spheroidite**
 
 Adapted from Fig. 10.30, _Callister & Rethwisch 8e._(Fig. 10.30 based on data from _Metals Handbook: Heat Treating_, Vol. 4, 9th ed., V. Masseria (Managing Ed.), American Society for Metals, 1981, pp. 9 and 17.)
 
@@ -2297,10 +2297,10 @@ Hyper
 
 1
 
-![](Lessons\ 19&20\ Phase\ Transformation/img48.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img48.png)
 
 
-# Slide 49 - **Mechanical Properties -- Fine Pearlite vs. Martensite**
+# Slide 50 - **Mechanical Properties -- Fine Pearlite vs. Martensite**
 
 • Hardness: fine pearlite << martensite.
 
@@ -2332,15 +2332,15 @@ Hypo
 
 Hyper
 
-![](Lessons\ 19&20\ Phase\ Transformation/img49.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img49.png)
 
 
-# Slide 50 - **Summary of Phase Properties**
+# Slide 51 - **Summary of Phase Properties**
 
-![](Lessons\ 19&20\ Phase\ Transformation/img50.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img50.png)
 
 
-# Slide 51 - **Summary of Possible Transformations**
+# Slide 52 - **Summary of Possible Transformations**
 
 Adapted from Fig. 10.36, _Callister & Rethwisch 8e._
 
@@ -2410,10 +2410,10 @@ General Trends
 
 [https://www.youtube.com/watch?v=2lv6Vs12jLc&feature=youtu.be](https://www.youtube.com/watch?v=2lv6Vs12jLc&feature=youtu.be)
 
-![](Lessons\ 19&20\ Phase\ Transformation/img51.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img51.png)
 
 
-# Slide 52 - **Transformations Involving Noneutectoid Compositions**
+# Slide 53 - **Transformations Involving Noneutectoid Compositions**
 
 Hypereutectoid composition – proeutectoid cementite
 
@@ -2539,20 +2539,20 @@ D _T_
 
 **1.13**
 
-![](Lessons\ 19&20\ Phase\ Transformation/img52.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img52.png)
 
 # Slide 54
 
 
-![](Lessons\ 19&20\ Phase\ Transformation/img53.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img53.png)
 
 
-# Slide 54 - _**Amazing MJ Student Project Data**_
+# Slide 55 - _**Amazing MJ Student Project Data**_
 
-![](Lessons\ 19&20\ Phase\ Transformation/img54.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img54.png)
 
 
-# Slide 55 - **A36 Steel Heat Treatment** Ian Reiman and Leah Clifton
+# Slide 56 - **A36 Steel Heat Treatment** Ian Reiman and Leah Clifton
 
 - Two samples of A36 steel were heated by oxy-fuel torch until glowing red hot (~1000oC)—each heated from a single point which caused two distinct zones to form
 
@@ -2564,10 +2564,10 @@ D _T_
 - One sample was immediately quenched in water
 - One sample was left to cool in air
 
-![](Lessons\ 19&20\ Phase\ Transformation/img55.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img55.png)
 
 
-# Slide 56 - **A36 Steel Properties**
+# Slide 57 - **A36 Steel Properties**
 
 **Carbon**
 
@@ -2611,24 +2611,24 @@ Mechanical Properties [1]
 
 [1] MatWeb. ASTM A36 Steel, Plate. http://www.matweb.com/search/DataSheet.aspx?MatGUID=afc003f4fb40465fa3df05129f0e88e6&ckck=1.
 
-![](Lessons\ 19&20\ Phase\ Transformation/img56.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img56.png)
 
 
-# Slide 57 - **Experiment Graphical Description**
+# Slide 58 - **Experiment Graphical Description**
 
-![](Lessons\ 19&20\ Phase\ Transformation/img57.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img57.png)
 
 
-# Slide 58 - **Water Quenched Sample Macrograph**
+# Slide 59 - **Water Quenched Sample Macrograph**
 
 Direct Heating Zone (Slow Cooling)
 
 Conduction Heating Zone (Fast Cooling)
 
-![](Lessons\ 19&20\ Phase\ Transformation/img58.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img58.png)
 
 
-# Slide 59 - **Water Quenched Direct Heating Zone Sample 500X**
+# Slide 60 - **Water Quenched Direct Heating Zone Sample 500X**
 
 Ferrite
 
@@ -2638,10 +2638,10 @@ Bainite
 
 Martensite
 
-![](Lessons\ 19&20\ Phase\ Transformation/img59.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img59.png)
 
 
-# Slide 60 - **Water Quenched Direct Heating Zone Sample SEM-SE, 500X**
+# Slide 61 - **Water Quenched Direct Heating Zone Sample SEM-SE, 500X**
 
 Bainite
 
@@ -2653,33 +2653,33 @@ Martensite
 
 Intergranular Cementite
 
-![](Lessons\ 19&20\ Phase\ Transformation/img60.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img60.png)
 
 
-# Slide 61 - **Water Quenched Conduction Heating Zone Sample 500X**
-
-Martensite
-
-![](Lessons\ 19&20\ Phase\ Transformation/img61.png)
-
-
-# Slide 62 - **Water Quenched Conduction Heating Zone Sample SEM-SE, 500X**
+# Slide 62 - **Water Quenched Conduction Heating Zone Sample 500X**
 
 Martensite
 
-![](Lessons\ 19&20\ Phase\ Transformation/img62.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img61.png)
 
 
-# Slide 63 - **Air Cooled Sample Macrograph**
+# Slide 63 - **Water Quenched Conduction Heating Zone Sample SEM-SE, 500X**
+
+Martensite
+
+![](./Lessons\ 19&20\ Phase\ Transformation/img62.png)
+
+
+# Slide 64 - **Air Cooled Sample Macrograph**
 
 Direct Heating Zone (Slow Cooling)
 
 Conduction Heating Zone (Fast Cooling)
 
-![](Lessons\ 19&20\ Phase\ Transformation/img63.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img63.png)
 
 
-# Slide 64 - **Air Cooled Direct Heating Zone Sample 500X**
+# Slide 65 - **Air Cooled Direct Heating Zone Sample 500X**
 
 Ferrite
 
@@ -2687,47 +2687,47 @@ Cementite
 
 Fine Pearlite
 
-![](Lessons\ 19&20\ Phase\ Transformation/img64.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img64.png)
 
 
-# Slide 65 - **Air Cooled Direct Heating Zone Sample SEM-SE, 500X**
+# Slide 66 - **Air Cooled Direct Heating Zone Sample SEM-SE, 500X**
 
 Ferrite
 
 Intergranular Cementite
 
-![](Lessons\ 19&20\ Phase\ Transformation/img65.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img65.png)
 
 
-# Slide 66 - **Air Cooled Conduction Heating Zone Sample 500X**
-
-Ferrite
-
-Fine Pearlite
-
-![](Lessons\ 19&20\ Phase\ Transformation/img66.png)
-
-
-# Slide 67 - **Air Cooled Conduction Heating Zone Sample SEM-SE, 500X**
+# Slide 67 - **Air Cooled Conduction Heating Zone Sample 500X**
 
 Ferrite
 
 Fine Pearlite
 
-![](Lessons\ 19&20\ Phase\ Transformation/img67.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img66.png)
 
 
-# Slide 68 - **Water Quenched Direct Heating Zone Sample Microhardness (301 HV)**
+# Slide 68 - **Air Cooled Conduction Heating Zone Sample SEM-SE, 500X**
 
-![](Lessons\ 19&20\ Phase\ Transformation/img68.png)
+Ferrite
+
+Fine Pearlite
+
+![](./Lessons\ 19&20\ Phase\ Transformation/img67.png)
 
 
-# Slide 69 - **Water Quenched Conduction Heating Zone Sample Microhardness (414 HV)**
+# Slide 69 - **Water Quenched Direct Heating Zone Sample Microhardness (301 HV)**
 
-![](Lessons\ 19&20\ Phase\ Transformation/img69.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img68.png)
 
 
-# Slide 70 - **Normalized Direct Heating Zone Sample Microhardness (198 HV)**
+# Slide 70 - **Water Quenched Conduction Heating Zone Sample Microhardness (414 HV)**
 
-![](Lessons\ 19&20\ Phase\ Transformation/img70.png)
+![](./Lessons\ 19&20\ Phase\ Transformation/img69.png)
+
+
+# Slide 71 - **Normalized Direct Heating Zone Sample Microhardness (198 HV)**
+
+![](./Lessons\ 19&20\ Phase\ Transformation/img70.png)
 

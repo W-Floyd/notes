@@ -4,10 +4,10 @@ _**Claiming every workplace in every nation as our**_
 
 _**mission field**_
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img0.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img0.png)
 
 
-# Slide 1 - **Devo/Prayer**
+# Slide 2 - **Devo/Prayer**
 
 - “I keep my eyes always on the LORD. With him at my right hand, I will not be shaken.”
 
@@ -21,18 +21,18 @@ _**mission field**_
 
 ## 1 Thes 5:16-18
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img1.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img1.png)
 
 
-# Slide 2 - **Devo/Prayer**
+# Slide 3 - **Devo/Prayer**
 
 - “I keep my eyes always on the LORD. With him at my right hand, I will not be shaken.” Psalm 16:8
 - “Now faith is confidence in what we hope for and assurance about what we do not see.”  Hebrews 11:1
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img2.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img2.png)
 
 
-# Slide 3 - **Devo/Prayer**
+# Slide 4 - **Devo/Prayer**
 
 - And God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can endure it.
 
@@ -42,10 +42,10 @@ _**mission field**_
 
 ## _Ro 8:2_
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img3.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img3.png)
 
 
-# Slide 4 - **Devo/Prayer**
+# Slide 5 - **Devo/Prayer**
 
 ## Humble yourselves, therefore, under God’s mighty hand, that he may lift you up in due time. **Cast all your anxiety on him because He cares for you.**
 
@@ -55,10 +55,10 @@ _**mission field**_
 
 ## _Philippians 4:13_
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img4.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img4.png)
 
 
-# Slide 5 - **Devo/Prayer**
+# Slide 6 - **Devo/Prayer**
 
 ## **Rejoice always, pray continually, give thanks in all circumstances; for this is God’s will for you in Christ Jesus.**
 
@@ -66,10 +66,10 @@ _**mission field**_
 
 ## _**Thank You that I GET to learn, teach, and minister at LeTourneau for another day!**_
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img5.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img5.png)
 
 
-# Slide 6 - **Devo/Prayer**
+# Slide 7 - **Devo/Prayer**
 
 ## **Then Moses said, “Now show me your glory.”**
 
@@ -79,26 +79,26 @@ _**US Naval War College**_
 
 _**Newport RI**_
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img6.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img6.png)
 
 
-# Slide 7 - **Devo/Prayer – Even Jesus Was Tested!**
+# Slide 8 - **Devo/Prayer – Even Jesus Was Tested!**
 
 - “Jesus, full of the Holy Spirit, left the Jordan and was led by the Spirit into the wilderness, where for forty days he was tempted by the devil”…..Jesus returned to Galilee in the power of the Spirit, and news about him spread through the whole countryside.”
 
 ## Luke 4:1-2, 14
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img7.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img7.png)
 
 
-# Slide 8 - **Devo/Prayer – Things Only God Can Do!**
+# Slide 9 - **Devo/Prayer – Things Only God Can Do!**
 
 ## _**Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us, to him be glory in the church and in Christ Jesus throughout all generations, for ever and ever! Eph 3:20-21**_
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img8.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img8.png)
 
 
-# Slide 9 - **Devo/Prayer – Assurance**
+# Slide 10 - **Devo/Prayer – Assurance**
 
 - For God so loved the world that he gave his one and only Son, that whoever believes in Him shall not perish but have eternal life.
 
@@ -114,7 +114,7 @@ _**Newport RI**_
 
 ## Psalm 16:8
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img9.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img9.png)
 
 # Slide 11
 
@@ -122,7 +122,7 @@ _**Devo**_
 
 _**Caleb**_
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img10.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img10.png)
 
 # Slide 12
 
@@ -348,7 +348,7 @@ _**Flex / Review**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img11.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img11.png)
 
 # Slide 13
 
@@ -610,10 +610,10 @@ _**Flex / Review**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img12.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img12.png)
 
 
-# Slide 13 - **Test 2 Rules of Engagement**
+# Slide 14 - **Test 2 Rules of Engagement**
 
 - Put everything away except pencil, eraser, calculator, and two 8 ½ x 11 sheet of notes/equations
 
@@ -631,7 +631,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 ## _**“If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.” James 1:5**_
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img13.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img13.png)
 
 # Slide 15
 
@@ -689,7 +689,7 @@ Two double sided 8.5X11” sheets of notes w/no prior exam problems (**Exam 1 sh
 - Grain growth – driven by total grain boundary area reduction and associated energy reduction
 - Dislocation annihilation
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img14.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img14.png)
 
 # Slide 16
 
@@ -730,10 +730,10 @@ Two double sided 8.5X11” sheets of notes w/no prior exam problems (**Exam 1 sh
 
 - Both produce a residual compressive stress
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img15.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img15.png)
 
 
-# Slide 16 - **Summary – Mechanical Properties of Metals**
+# Slide 17 - **Summary – Mechanical Properties of Metals**
 
 • Stress and strain: These are size-independent
 
@@ -759,16 +759,16 @@ behavior occurs when the tensile (or compressive)
 
 uniaxial stress reaches s _y_.
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img16.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img16.png)
 
 # Slide 18
 
 **Typical Stress/Strain Diagram**
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img17.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img17.png)
 
 
-# Slide 18 - **Useful Linear Elastic Relationships**
+# Slide 19 - **Useful Linear Elastic Relationships**
 
 **• Simple tension:**
 
@@ -866,10 +866,10 @@ a
 
 _Lo_
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img18.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img18.png)
 
 
-# Slide 19 - **Toughness**
+# Slide 20 - **Toughness**
 
 • Total energy required to cause fracture for a material (approximated by the area under the stress-strain curve)
 
@@ -898,10 +898,10 @@ small toughness (ceramics)
 
 large toughness (metals)
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img19.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img19.png)
 
 
-# Slide 20 - **Summary – Dislocations & Strengthening Mechanisms**
+# Slide 21 - **Summary – Dislocations & Strengthening Mechanisms**
 
 • Dislocations are observed primarily in metals and alloys.
 
@@ -923,7 +923,7 @@ recovery, recrystallization, and grain growth – its properties
 
 will be altered.
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img20.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img20.png)
 
 # Slide 22
 
@@ -933,10 +933,10 @@ will be altered.
 
 _**Anything that hinders dislocation movement through the crystal will increase the yield strength and hardness of a material**_
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img21.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img21.png)
 
 
-# Slide 22 - **Deformation Mechanisms**
+# Slide 23 - **Deformation Mechanisms**
 
 ## Slip System (where least “atomic distortion” occurs)
 
@@ -957,10 +957,10 @@ Adapted from Fig. 7.6, _Callister & Rethwisch 8e._
 
 -  For BCC & HCP there are fewer slip systems.
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img22.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img22.png)
 
 
-# Slide 23 - **Dislocation Motion/Plastic Deformation**
+# Slide 24 - **Dislocation Motion/Plastic Deformation**
 
 - Plastic deformation occurs as dislocations move along slip planes in slip directions perpendicular to the dislocation line
 - The slip direction is the same as the Burgers vector direction for edge dislocation and perpendicular for screw
@@ -973,10 +973,10 @@ Adapted from Fig. 7.2, _Callister & Rethwisch 8e._
 
 [**https://www.youtube.com/watch?v=7qgBMKS\_fyo**](https://www.youtube.com/watch?v=7qgBMKS_fyo)
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img23.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img23.png)
 
 
-# Slide 24 - **Slip Motion in Polycrystals**
+# Slide 25 - **Slip Motion in Polycrystals**
 
 Adapted from Fig. 7.10, _Callister & Rethwisch 8e._
 
@@ -1012,10 +1012,10 @@ s
 
 **σy is Higher for Polycrystals**
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img24.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img24.png)
 
 
-# Slide 25 - **Four Strategies for Strengthening:  1: Reduce Grain Size**
+# Slide 26 - **Four Strategies for Strengthening:  1: Reduce Grain Size**
 
 • Grain boundaries are
 
@@ -1041,10 +1041,10 @@ Constants for given material
 
 Avg Grain Diameter
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img25.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img25.png)
 
 
-# Slide 26 - **Four Strategies for Strengthening:  2: Form Solid Solutions**
+# Slide 27 - **Four Strategies for Strengthening:  2: Form Solid Solutions**
 
 • Smaller substitutional
 
@@ -1070,10 +1070,10 @@ Impurity generates local stress at **C** and **D** that opposes dislocation moti
 
 • These strains can act as barriers to dislocation motion.
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img26.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img26.png)
 
 
-# Slide 27 - **Four Strategies for Strengthening:  3: Cold Work (Strain Hardening)**
+# Slide 28 - **Four Strategies for Strengthening:  3: Cold Work (Strain Hardening)**
 
 • Deformation at room temperature (for most metals).
 
@@ -1157,10 +1157,10 @@ _d_
 
 roll
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img27.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img27.png)
 
 
-# Slide 28 - **Dislocation Structures Change During Cold Working**
+# Slide 29 - **Dislocation Structures Change During Cold Working**
 
 • Dislocation structure in Ti after cold working.
 
@@ -1174,10 +1174,10 @@ Fig. 4.6, _Callister & Rethwisch 8e._
 
 (Fig. 4.6 is courtesy of M.R. Plichta, Michigan Technological University.)
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img28.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img28.png)
 
 
-# Slide 29 - **Effect of Heat Treating After Cold Working**
+# Slide 30 - **Effect of Heat Treating After Cold Working**
 
 • 1 hour treatment at _Tanneal_...
 
@@ -1241,7 +1241,7 @@ annealing temperature (ºC)
 - Recrystallization
 - Grain Growth
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img29.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img29.png)
 
 # Slide 31
 
@@ -1254,10 +1254,10 @@ temperature
 
 º
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img30.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img30.png)
 
 
-# Slide 31 - **Four Strategies for Strengthening:  4: Precipitation Hardening**
+# Slide 32 - **Four Strategies for Strengthening:  4: Precipitation Hardening**
 
 • Hard precipitates form lattice strains which are difficult to shear.
 
@@ -1295,10 +1295,10 @@ _S_
 
 spacing
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img31.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img31.png)
 
 
-# Slide 32 - **Summary – Failure**
+# Slide 33 - **Summary – Failure**
 
 • Sharp corners produce large stress concentrations
 
@@ -1332,10 +1332,10 @@ decreases with:
 
 • Larger grains resist creep better
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img32.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img32.png)
 
 
-# Slide 33 - **Ductile vs Brittle Failure**
+# Slide 34 - **Ductile vs Brittle Failure**
 
 Very
 
@@ -1371,10 +1371,10 @@ Warning before fracture
 
 Brittle: No warning
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img33.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img33.png)
 
 
-# Slide 34 - **Flaws are Stress Concentrators**
+# Slide 35 - **Flaws are Stress Concentrators**
 
 - Griffith Crack
 
@@ -1392,10 +1392,10 @@ Adapted from Fig. 8.8(a), _Callister & Rethwisch 8e._
 
 _Kt =_ 2( _a/_ t)1/2
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img34.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img34.png)
 
 
-# Slide 35 - **Criterion for Crack Propagation**
+# Slide 36 - **Criterion for Crack Propagation**
 
 Crack propagates if crack-tip stress (s _m_) exceeds a critical stress (s _c_)
 
@@ -1407,10 +1407,10 @@ where
 
 i.e., s _m_ \> s _c_
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img35.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img35.png)
 
 
-# Slide 36 - **Fracture Toughness (a different “K”)**
+# Slide 37 - **Fracture Toughness (a different “K”)**
 
 - Fracture toughness (K1C) – a measure of a materials resistance to brittle fracture when a crack is present
 - Note the “1” denotes mode I (tensile loading – most common)
@@ -1424,10 +1424,10 @@ Mode I: Tensile Mode II: sliding/shear Mode III: Tearing
 
 fracture toughness)
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img36.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img36.png)
 
 
-# Slide 37 - **Influence of Temperature on Impact Energy**
+# Slide 38 - **Influence of Temperature on Impact Energy**
 
 Adapted from Fig. 8.15, _Callister & Rethwisch 8e._
 
@@ -1463,10 +1463,10 @@ _**Charpy tests are an effective way**_
 
 _**To determine ductile-to-brittle behavior**_
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img37.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img37.png)
 
 
-# Slide 38 - **Types of Fatigue Behavior**
+# Slide 39 - **Types of Fatigue Behavior**
 
 Adapted from Fig. 8.19(a), _Callister & Rethwisch 8e._
 
@@ -1546,10 +1546,10 @@ _S_ = stress amplitude
 
 Note: Fatigue limit is the stress at which a member lasts for an infinite number of cycles
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img38.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img38.png)
 
 
-# Slide 39 - **Creep**
+# Slide 40 - **Creep**
 
 ## Sample deformation at a constant stress (s) vs. time
 
@@ -1574,7 +1574,7 @@ s,e
 
 _t_
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img39.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img39.png)
 
 # Slide 41
 
@@ -1604,7 +1604,7 @@ _t_
 - **Cold working**
 - **Grain growth**
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img40.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img40.png)
 
 # Slide 42
 
@@ -1616,13 +1616,13 @@ _**b) The change in diameter of the specimen. Will the diameter increase or decr
 
 **Example Problems**
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img41.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img41.png)
 
 # Slide 43
 
 **Example Problems**
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img42.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img42.png)
 
 # Slide 44
 
@@ -1638,7 +1638,7 @@ _**A cylindrical specimen of cold-worked copper has a ductility (%EL) of 15%.**_
 
 - _**After cold work it is 7 in long. How much can it be stretched before failure?**_
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img43.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img43.png)
 
 # Slide 45
 
@@ -1652,18 +1652,18 @@ _**A cylindrical specimen of cold-worked copper has a ductility (%EL) of 15%.**_
 
 - _**If yielding cannot occur, what would be the critical working stress for a Factor of Safety of 3?**_
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img44.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img44.png)
 
 # Slide 46
 
 _**If the specific surface energy for aluminum oxide is 0.90 J/m2, then using data in the table, compute the critical stress required for the propagation of an internal crack of length 0.40 mm.**_
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img45.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img45.png)
 
 # Slide 47
 
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img46.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img46.png)
 
 # Slide 48
 
@@ -1673,5 +1673,5 @@ _**Compare this value to the one determined from the Larson-Miller plot below fo
 
 _L_
 
-![](Materials\ Test\ 2\ Review\ &\ Test/img47.png)
+![](./Materials\ Test\ 2\ Review\ &\ Test/img47.png)
 

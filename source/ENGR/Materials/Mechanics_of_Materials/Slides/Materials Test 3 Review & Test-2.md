@@ -4,10 +4,10 @@ _**Claiming every workplace in every nation as our**_
 
 _**mission field**_
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img0.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img0.png)
 
 
-# Slide 1 - **Devo/Prayer**
+# Slide 2 - **Devo/Prayer**
 
 ## Humble yourselves, therefore, under God’s mighty hand, that he may lift you up in due time. **Cast all your anxiety on him because He cares for you.**
 
@@ -17,10 +17,10 @@ _**mission field**_
 
 ## _Philippians 4:13_
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img1.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img1.png)
 
 
-# Slide 2 - **Devo/Prayer**
+# Slide 3 - **Devo/Prayer**
 
 ## Now faith is confidence in what we hope for and assurance about what we do not see.
 
@@ -30,10 +30,10 @@ _**mission field**_
 
 ## _Hebrews 11:1,3,6_
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img2.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img2.png)
 
 
-# Slide 3 - **Veteran’s Day Prayer**
+# Slide 4 - **Veteran’s Day Prayer**
 
 ## **“Lord hear our cry”**
 
@@ -43,7 +43,7 @@ _**mission field**_
 
 ## **2 Chronicles 7:14**
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img3.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img3.png)
 
 # Slide 5
 
@@ -291,7 +291,7 @@ _**Phase Transformation / Review**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img4.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img4.png)
 
 # Slide 6
 
@@ -539,10 +539,10 @@ _**Phase Transformation / Review**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img5.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img5.png)
 
 
-# Slide 6 - **Test 3 Rules of Engagement**
+# Slide 7 - **Test 3 Rules of Engagement**
 
 - Put everything away except pencil, eraser, calculator, and three 8 ½ x 11 sheets of notes/equations
 
@@ -560,7 +560,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 ## _**“If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.” James 1:5**_
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img6.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img6.png)
 
 # Slide 8
 
@@ -594,10 +594,10 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 - Given a temperature and hold time, predict the amounts of each phase present (may be a multistep temper process)
 - Know which phase is preferred for qualitative ranges of hardness and ductility (spheroidite, course pearlite, fine perlite, bainite, temperered martensite, martensite)
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img7.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img7.png)
 
 
-# Slide 8 - **Eutectic, Eutectoid, & Peritectic (all transformations are upon cooling)**
+# Slide 9 - **Eutectic, Eutectoid, & Peritectic (all transformations are upon cooling)**
 
 - Eutectoid – one solid phase transforms to two other solid phases
 
@@ -629,10 +629,10 @@ S1 + L S2
 
  \+ L  (For Fe-C, 1493ºC, 0.16 wt% C)
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img8.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img8.png)
 
 
-# Slide 9 - **Eutectoid & Peritectic**
+# Slide 10 - **Eutectoid & Peritectic**
 
 ## Cu-Zn Phase diagram
 
@@ -642,7 +642,7 @@ Eutectoid transformation   + 
 
 Peritectic transformation  + L 
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img9.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img9.png)
 
 # Slide 11
 
@@ -654,7 +654,7 @@ Mg-Pb Phase Diagram
 
 **L  + Mg2Pb**
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img10.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img10.png)
 
 # Slide 12
 
@@ -680,10 +680,10 @@ _**30 wt% Sn–70 wt% Pb**_
 
 _**at 150°C**_
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img11.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img11.png)
 
 
-# Slide 12 - **Binary-Eutectic Systems**
+# Slide 13 - **Binary-Eutectic Systems**
 
 2 components
 
@@ -799,10 +799,10 @@ L(CE) (CE) + (CE)
 
 **L  + **
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img12.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img12.png)
 
 
-# Slide 13 - **Microstructural Developments  in Eutectic Systems – Case 1**
+# Slide 14 - **Microstructural Developments  in Eutectic Systems – Case 1**
 
 • For alloys for which
 
@@ -878,10 +878,10 @@ a: C0 wt% Sn
 
 Adapted from Fig. 9.11, Callister & Rethwisch 8e.
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img13.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img13.png)
 
 
-# Slide 14 - **Microstructural Developments  in Eutectic Systems – Case 2**
+# Slide 15 - **Microstructural Developments  in Eutectic Systems – Case 2**
 
 • For alloys for which
 
@@ -965,10 +965,10 @@ b
 
 a: C0 wt% Sn
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img14.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img14.png)
 
 
-# Slide 15 - **Microstructural Developments  in Eutectic Systems – Case 3**
+# Slide 16 - **Microstructural Developments  in Eutectic Systems – Case 3**
 
 • For alloy of eutectic composition C0 = CE
 
@@ -1049,10 +1049,10 @@ CE
 
 L: C0 wt% Sn
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img15.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img15.png)
 
 
-# Slide 16 - **Microstructural Developments  in Eutectic Systems – Case 4**
+# Slide 17 - **Microstructural Developments  in Eutectic Systems – Case 4**
 
 • For alloys for which 18.3 wt% Sn < C0 < 61.9 wt% Sn
 
@@ -1222,7 +1222,7 @@ L
 
 
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img16.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img16.png)
 
 # Slide 18
 
@@ -1244,7 +1244,7 @@ _**(c) At what temperature does complete melting of the alloy occur?**_
 
 _**(d) What is the composition of the last solid remaining prior to complete melting?**_
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img17.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img17.png)
 
 # Slide 19
 
@@ -1276,10 +1276,10 @@ _**(c) At what temperature does complete melting of the alloy occur? 260°C**_
 
 _**(d) What is the composition of the last solid remaining prior to complete melting? 13 wt% Sn**_
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img18.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img18.png)
 
 
-# Slide 19 - **Hypoeutectoid Steel**
+# Slide 20 - **Hypoeutectoid Steel**
 
 Fe3C (cementite)
 
@@ -1409,10 +1409,10 @@ g
 
 Proeutectoid α
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img19.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img19.png)
 
 
-# Slide 20 - **Hypoeutectoid Steel**
+# Slide 21 - **Hypoeutectoid Steel**
 
 Fe3C (cementite)
 
@@ -1542,10 +1542,10 @@ Hypoeutectoid
 
 steel
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img20.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img20.png)
 
 
-# Slide 21 - **Hypereutectoid Steel**
+# Slide 22 - **Hypereutectoid Steel**
 
 Fe3C (cementite)
 
@@ -1663,10 +1663,10 @@ pearlite
 
 +
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img21.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img21.png)
 
 
-# Slide 22 - **Hypereutectoid Steel (Co = 3.0 wt% C) The 3 questions…**
+# Slide 23 - **Hypereutectoid Steel (Co = 3.0 wt% C) The 3 questions…**
 
 Fe3C (cementite)
 
@@ -1768,10 +1768,10 @@ Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24 adapted fr
 
 Proeutectoid Fe3C
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img22.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img22.png)
 
 
-# Slide 23 - **Hypereutectoid Steel (Co = 3.0 wt% C)**
+# Slide 24 - **Hypereutectoid Steel (Co = 3.0 wt% C)**
 
 Fe3C (cementite)
 
@@ -1889,10 +1889,10 @@ Cg = 1.2% C
 
 CFe3C = 6.7% C
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img23.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img23.png)
 
 
-# Slide 24 - **Hypereutectoid Steel**
+# Slide 25 - **Hypereutectoid Steel**
 
 Fe3C (cementite)
 
@@ -2016,7 +2016,7 @@ Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24 adapted fr
 
 +
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img24.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img24.png)
 
 # Slide 26
 
@@ -2032,10 +2032,10 @@ _**(d) Reheat the specimen in part (c) to 700°C (1290°F) for 20 h.**_
 
 _**(e) Rapidly cool to 300°C (570°F), hold for 20 s, then quench to room temperature in water. Reheat to 425°C (800°F) for 103 s and slowly cool to room temperature.**_
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img25.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img25.png)
 
 # Slide 27
 
 
-![](Materials\ Test\ 3\ Review\ &\ Test-2/img26.png)
+![](./Materials\ Test\ 3\ Review\ &\ Test-2/img26.png)
 

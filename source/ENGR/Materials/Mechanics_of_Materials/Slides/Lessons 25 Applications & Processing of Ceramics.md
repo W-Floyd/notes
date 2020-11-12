@@ -4,46 +4,46 @@ _**Claiming every workplace in every nation as our**_
 
 _**mission field**_
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img0.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img0.png)
 
 
-# Slide 1 - **Devo/Prayer**
+# Slide 2 - **Devo/Prayer**
 
 ## **Rejoice** in the Lord always. I will say it again: **Rejoice!** Let your gentleness be evident to all. The Lord is near. **Do not be anxious** about anything, but in every situation, by **prayer and petition**, with **thanksgiving**, present your requests to God.  And the **peace of God**, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.
 
 ## **Philippians 4:4-7**
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img1.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img1.png)
 
 
-# Slide 2 - **Holiday Devo**
+# Slide 3 - **Holiday Devo**
 
 ## **Then he turned toward the woman and said to Simon, “Do you see this woman? I came into your house. You did not give me any water for my feet, but she wet my feet with her tears and wiped them with her hair.  You did not give me a kiss, but this woman, from the time I entered, has not stopped kissing my feet.  You did not put oil on my head, but she has poured perfume on my feet.  Therefore, I tell you, her many sins have been forgiven—as her great love has shown.**
 
 ## **Luke 7:44-47**
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img2.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img2.png)
 
 
-# Slide 3 - **Devo/Prayer**
+# Slide 4 - **Devo/Prayer**
 
 ## Humble yourselves, therefore, under God’s mighty hand, that he may lift you up in due time. **Cast all your anxiety on him because He cares for you.**
 
 ## _1 Peter 5:6-7_
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img3.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img3.png)
 
 
-# Slide 4 - **Devo/Prayer**
+# Slide 5 - **Devo/Prayer**
 
 ## Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything.
 
 ## **James 1:2-4**
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img4.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img4.png)
 
 
-# Slide 5 - **Lesson 25 Outline – Applications & Processing of Ceramics**
+# Slide 6 - **Lesson 25 Outline – Applications & Processing of Ceramics**
 
 - Devotional/Prayer
 - Classification and Application of Ceramics
@@ -51,7 +51,7 @@ _**mission field**_
 - Heat Treating Ceramics
 - Summary/Wrap up
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img5.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img5.png)
 
 # Slide 7
 
@@ -313,10 +313,10 @@ _**Applications and Processing of Ceramics**_
 
 _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img6.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img6.png)
 
 
-# Slide 7 - **Applications and Processing of Ceramics**
+# Slide 8 - **Applications and Processing of Ceramics**
 
 **Why it Matters...**
 
@@ -328,10 +328,10 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 [https://www.youtube.com/watch?v=9DopxIV4Css](https://www.youtube.com/watch?v=9DopxIV4Css)
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img7.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img7.png)
 
 
-# Slide 8 - **Classification of Ceramics**
+# Slide 9 - **Classification of Ceramics**
 
 **Glasses**
 
@@ -399,10 +399,10 @@ Adapted from Fig. 13.1 and discussion in Section 13.2-8, _Callister & Rethwisch 
 
 Ceramic Materials
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img8.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img8.png)
 
 
-# Slide 9 - **Abrasives**
+# Slide 10 - **Abrasives**
 
 • Cutting Tools:
 
@@ -446,10 +446,10 @@ sharpen by microfracturing
 
 along cleavage planes.
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img9.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img9.png)
 
 
-# Slide 10 - **Die Blanks**
+# Slide 11 - **Die Blanks**
 
 tensile
 
@@ -490,10 +490,10 @@ Adapted from Fig. 11.8(d), _Callister & Rethwisch 8e._
 
 Courtesy Martin Deakins, GE Superabrasives, Worthington, OH. Used with permission.
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img10.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img10.png)
 
 
-# Slide 11 - **Refractories**
+# Slide 12 - **Refractories**
 
 • High temperature materials with low thermal conductivity/thermal expansion (e.g., in high temperature furnaces)
 
@@ -562,10 +562,10 @@ alumina + _L_
 
 3Al2O3-2SiO2
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img11.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img11.png)
 
 
-# Slide 12 - **Sensors**
+# Slide 13 - **Sensors**
 
 • Example: ZrO2 as an oxygen sensor
 
@@ -627,10 +627,10 @@ reference gas surface.
  partial pressure of oxygen at the
 external surface
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img12.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img12.png)
 
 
-# Slide 13 - **Parts for Automobile Engines**
+# Slide 14 - **Parts for Automobile Engines**
 
 ## Advantages:
 
@@ -648,10 +648,10 @@ Disadvantages:
 - Potential candidate materials: Si3N4, SiC, & ZrO2
 - Possible engine parts: engine block & piston coatings
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img13.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img13.png)
 
 
-# Slide 14 - **Advanced Ceramics:  Materials for Ceramic Armor**
+# Slide 15 - **Advanced Ceramics:  Materials for Ceramic Armor**
 
 Components:
 
@@ -673,10 +673,10 @@ Properties/Materials:
 
 — deform and absorb remaining energy
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img14.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img14.png)
 
 
-# Slide 15 - **Ceramic Fabrication Methods**
+# Slide 16 - **Ceramic Fabrication Methods**
 
 • Blowing of Glass Bottles:
 
@@ -726,10 +726,10 @@ lining
 
 plates, cheap glasses
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img15.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img15.png)
 
 
-# Slide 16 - **Glass Viscosity vs. Temperature**
+# Slide 17 - **Glass Viscosity vs. Temperature**
 
 Viscosity [Pa-s]
 
@@ -798,10 +798,10 @@ Adapted from Fig. 13.7, _Callister & Rethwisch 8e_. (Fig. 13.7 is from E.B. Shan
 
 **Pyrex**
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img16.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img16.png)
 
 
-# Slide 17 - **Heat Treating Glass**
+# Slide 18 - **Heat Treating Glass**
 
 • Annealing:
 
@@ -835,10 +835,10 @@ cooler
 
 \-\- Result: Surface crack growth is suppressed (applied stress must overcome compressive surface stress before crack will form/grow).
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img17.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img17.png)
 
 
-# Slide 18 - **Sheet Glass Forming**
+# Slide 19 - **Sheet Glass Forming**
 
 - Sheet forming – continuous casting
 
@@ -846,10 +846,10 @@ cooler
 
 Adapted from Fig. 13.9, _Callister & Rethwisch 8e_.
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img18.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img18.png)
 
 
-# Slide 19 - **Glass Properties**
+# Slide 20 - **Glass Properties**
 
 • Specific volume (1/r) vs Temperature ( _T_):
 
@@ -898,10 +898,10 @@ Glass
 
 (amorphous solid)
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img19.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img19.png)
 
 
-# Slide 20 - **Glass Properties: Viscosity**
+# Slide 21 - **Glass Properties: Viscosity**
 
 • Viscosity, h:
 
@@ -925,10 +925,10 @@ d _v_
 
 d _y_
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img20.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img20.png)
 
 
-# Slide 21 - **Ceramic Fabrication Methods**
+# Slide 22 - **Ceramic Fabrication Methods**
 
 • Mill (grind) and screen constituents: desired particle size
 
@@ -973,10 +973,10 @@ CEMENTATION
 
 Hydroplastic forming (clays):
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img21.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img21.png)
 
 
-# Slide 22 - **Drying and Firing**
+# Slide 23 - **Drying and Firing**
 
 • Drying: as water is removed - interparticle spacings decrease
 – shrinkage
@@ -1016,10 +1016,10 @@ micrograph of porcelain
 
 70 mm
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img22.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img22.png)
 
 
-# Slide 23 - **Ceramic Fabrication Methods**
+# Slide 24 - **Ceramic Fabrication Methods**
 
 • Mill (grind) and screen constituents: desired particle size
 
@@ -1070,10 +1070,10 @@ Slip casting (clays):
 
 • Mix with water and other constituents to form slip
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img23.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img23.png)
 
 
-# Slide 24 - **Typical Porcelain Composition**
+# Slide 25 - **Typical Porcelain Composition**
 
 ## (50%) 1. Clay
 
@@ -1083,10 +1083,10 @@ Slip casting (clays):
 
 ## \-\- upon firing - forms low-melting-temp. glass
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img24.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img24.png)
 
 
-# Slide 25 - **Hydroplasticity of Clay**
+# Slide 26 - **Hydroplasticity of Clay**
 
 • Clay is inexpensive
 
@@ -1144,10 +1144,10 @@ Shear
 
 Shear
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img25.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img25.png)
 
 
-# Slide 26 - **Ceramic Fabrication Methods**
+# Slide 27 - **Ceramic Fabrication Methods**
 
 Powder Pressing: used for both clay and non-clay compositions (analogous to powder metallurgy).
 
@@ -1169,10 +1169,10 @@ FORMING
 
 CEMENTATION
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img26.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img26.png)
 
 
-# Slide 27 - **Sintering**
+# Slide 28 - **Sintering**
 
 Adapted from Fig. 13.16, _Callister & Rethwisch 8e_.
 
@@ -1192,10 +1192,10 @@ been powder pressed (uniaxial & isostatic)
 
 \-\- Powder particles coalesce/bond via diffusion and reduction of pore size
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img27.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img27.png)
 
 
-# Slide 28 - **Tape Casting**
+# Slide 29 - **Tape Casting**
 
 - Thin sheets of ceramic cast as flexible tape
 - Slip = suspended ceramic particles + organic liquid
@@ -1204,10 +1204,10 @@ been powder pressed (uniaxial & isostatic)
 
 Fig. 13.18, _Callister & Rethwisch 8e_.
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img28.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img28.png)
 
 
-# Slide 29 - **Ceramic Fabrication Methods**
+# Slide 30 - **Ceramic Fabrication Methods**
 
 • Hardening of a paste – paste formed by mixing cement
 material with water
@@ -1237,5 +1237,5 @@ CEMENTATION
 
 \-\- When combined with sand/gravel, considered a composite
 
-![](Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img29.png)
+![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img29.png)
 
