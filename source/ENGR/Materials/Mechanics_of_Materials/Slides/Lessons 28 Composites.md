@@ -7,7 +7,7 @@ _**mission field**_
 ![](./Lessons\ 28\ Composites/img0.png)
 
 
-# Slide 2 - **Lesson 28 Outline – Composites**
+# Slide 2 - **Lesson 28 Outline - Composites**
 
 - Devotional/Prayer
 - Classification of Composites
@@ -31,7 +31,7 @@ _**mission field**_
 ![](./Lessons\ 28\ Composites/img2.png)
 
 
-# Slide 4 - **Devo/Prayer – Committing Finals to the Lord**
+# Slide 4 - **Devo/Prayer - Committing Finals to the Lord**
 
 ## Humble yourselves, therefore, under God’s mighty hand, that he may lift you up in due time. Cast all your anxiety on him because he cares for you.
 
@@ -300,7 +300,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 ![](./Lessons\ 28\ Composites/img4.png)
 
 
-# Slide 6 - **Polymer Processing – Blown-Film Extrusion  [https://www.youtube.com/watch?v=qn16JtE\_vLc&t=74s](https://www.youtube.com/watch?v=qn16JtE_vLc&t=74s)**
+# Slide 6 - **Polymer Processing - Blown-Film Extrusion  [https://www.youtube.com/watch?v=qn16JtE\_vLc&t=74s](https://www.youtube.com/watch?v=qn16JtE_vLc&t=74s)**
 
 <number>
 
@@ -326,19 +326,19 @@ various types of composites?
 
 # Slide 8 - **Types of Materials**
 
-- Metals: Metallic bonding – sea of electrons
+- Metals: Metallic bonding - sea of electrons
 
 - Strong/stiff, ductile, usually crystalline
 - High thermal & electrical conductivity
 - Opaque, reflective.
 
-- Polymers/plastics: Covalent bonding – sharing of electrons
+- Polymers/plastics: Covalent bonding - sharing of electrons
 
 - Soft, ductile, usually non-crystalline, low strength, low density, lower melting temps, high coefficients of thermal expansion
 - Thermal & electrical insulators
 - Optically translucent or transparent.
 
-- Ceramics: ionic bonding – transfer of electrons
+- Ceramics: ionic bonding - transfer of electrons
 
 - Compounds of metallic & non-metallic elements (oxides, carbides, nitrides, sulfides)
 - Brittle, glassy
@@ -644,11 +644,11 @@ Structural
 
 # Slide 15 - **Classification: Particle-Reinforced (cont)**
 
-Concrete – gravel + sand + cement + water
+Concrete - gravel + sand + cement + water
 
 \- Why sand _and_ gravel? Sand fills voids between gravel particles
 
-Reinforced concrete – Reinforce with steel rebar or remesh
+Reinforced concrete - Reinforce with steel rebar or remesh
 \- Increases strength - even if cement matrix is cracked
 
 Prestressed concrete
@@ -669,7 +669,7 @@ rod
 
 nut
 
-Post-tensioning – tighten nuts to place concrete under compression
+Post-tensioning - tighten nuts to place concrete under compression
 
 ![](./Lessons\ 28\ Composites/img14.png)
 
@@ -836,7 +836,7 @@ Structural
 - Whiskers - thin single crystals - large length to diameter ratios
 
 - Carbon, silicon nitride, silicon carbide
-- High crystal perfection – extremely strong, strongest known
+- High crystal perfection - extremely strong, strongest known
 - Very expensive and difficult to disperse
 
 Particle-reinforced
@@ -853,7 +853,7 @@ Structural
 
 -  Wires
 
--  Metals – steel, molybdenum, tungsten
+-  Metals - steel, molybdenum, tungsten
 
 ![](./Lessons\ 28\ Composites/img17.png)
 

@@ -20,7 +20,7 @@ _**mission field**_
 ![](./Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img1.png)
 
 
-# Slide 3 - **Lesson 22/23 Outline – Applications & Processing of Metal Alloys**
+# Slide 3 - **Lesson 22/23 Outline - Applications & Processing of Metal Alloys**
 
 - Devotional/Prayer
 - Steels, Cast Irons, Ferrous Alloys
@@ -32,7 +32,7 @@ _**mission field**_
 ![](./Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img2.png)
 
 
-# Slide 4 - **Easter – It’s More Than You Think**
+# Slide 4 - **Easter - It’s More Than You Think**
 
 _**In Jesus, God Frees Us From the Guilt, Condemnation, & Power of Sin…**_
 
@@ -62,7 +62,7 @@ _**In Jesus, God Frees Us From the Guilt, Condemnation, & Power of Sin…**_
 ![](./Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img4.png)
 
 
-# Slide 6 - **Devo/Prayer – Faith: God’s Part & Our Part**
+# Slide 6 - **Devo/Prayer - Faith: God’s Part & Our Part**
 
 ## “Sir,” the invalid replied, “I have no one to help me into the pool when the water is stirred. While I am trying to get in, someone else goes down ahead of me.” Then Jesus said to him, **“Get up! Pick up your mat and walk.”**  At once the man was cured; he picked up his mat and walked.
 
@@ -359,7 +359,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 ## **Materials Engineering Chapters 11-17 Review Sheet**
 
-## **(** allowed one double sided 8.5X11” sheet of notes/equations – no prior exam problems)
+## **(** allowed one double sided 8.5X11” sheet of notes/equations - no prior exam problems)
 
 - This material is mainly presented as an overview, so it will be tested at a less detailed level than previous chapters (don’t panic)
 - At most, it will comprise 25% of the final
@@ -845,7 +845,7 @@ increasing strength, cost, decreasing ductility
 
 ## where xx is wt% C x 100
 
-## example: 1060 steel – plain carbon steel with 0.60 wt% C
+## example: 1060 steel - plain carbon steel with 0.60 wt% C
 
 ## Stainless Steel >11% Cr
 
@@ -940,7 +940,7 @@ a + g
 
 - more commonly 3 - 4.5 wt% C
 
-- Low melting – relatively easy to cast
+- Low melting - relatively easy to cast
 - Generally brittle
 - Cementite decomposes to ferrite + graphite
 
@@ -964,7 +964,7 @@ a + g
 
 - add Mg and/or Ce
 - graphite as nodules not flakes
-- matrix often pearlite – stronger but less ductile
+- matrix often pearlite - stronger but less ductile
 
 Adapted from Fig. 11.3(a) & (b), _Callister & Rethwisch 8e._
 
@@ -1550,7 +1550,7 @@ _Callister & Rethwisch 8e_.
 
 # Slide 33 - **Hardenability -- Steels**
 
-* Hardenability – measure of the ability to form martensite
+* Hardenability - measure of the ability to form martensite
 
 * Jominy end quench test used to measure hardenability.
 
@@ -1926,7 +1926,7 @@ Pt C (precipitate )
 ![](./Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img36.png)
 
 
-# Slide 38 - **Part 1 – Impact of heat treatment on Al properties**
+# Slide 38 - **Part 1 - Impact of heat treatment on Al properties**
 
 [1] LETU Data. 14-Nov-2018
 

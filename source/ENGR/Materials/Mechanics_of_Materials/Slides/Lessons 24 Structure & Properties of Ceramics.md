@@ -28,7 +28,7 @@ _**mission field**_
 ![](Lessons\ 24\ Structure\ &\ Properties\ of\ Ceramics\ /img2.png)
 
 
-# Slide 3 - **Lesson 24 Outline – Structure & Properties of Ceramics**
+# Slide 3 - **Lesson 24 Outline - Structure & Properties of Ceramics**
 
 - Devotional/Prayer
 - Ceramic Structures vs Metals
@@ -325,19 +325,19 @@ phase diagrams for metals?
 
 # Slide 6 - **Types of Materials**
 
-- Metals: Metallic bonding – sea of electrons
+- Metals: Metallic bonding - sea of electrons
 
 - Strong/stiff, ductile, usually crystalline
 - High thermal & electrical conductivity
 - Opaque, reflective.
 
-- Polymers/plastics: Covalent bonding – sharing of electrons
+- Polymers/plastics: Covalent bonding - sharing of electrons
 
 - Soft, ductile, usually non-crystalline, low strength, low density, lower melting temps, high coefficients of thermal expansion
 - Thermal & electrical insulators
 - Optically translucent or transparent.
 
-- Ceramics: ionic bonding – transfer of electrons
+- Ceramics: ionic bonding - transfer of electrons
 
 - Compounds of metallic & non-metallic elements (oxides, carbides, nitrides, sulfides)
 - Brittle, glassy
@@ -472,7 +472,7 @@ CaF2: large
 
 # Slide 11 - **Factors that Determine Crystal Structure**
 
-1\. Relative sizes of ions – Formation of stable structures:
+1\. Relative sizes of ions - Formation of stable structures:
 
 \-\- Maximize the # of oppositely charged ion neighbors in contact.
 
@@ -860,7 +860,7 @@ Ceramics can also have close packed FCC & HCP crystal structures
 
 # Slide 23 - **Silicate Ceramics**
 
-## Composed of Si & O – the most common elements on earth (include soils, rocks, clays, sand)
+## Composed of Si & O - the most common elements on earth (include soils, rocks, clays, sand)
 
 - SiO2 (silica) polymorphic forms are quartz, crystobalite, & tridymite
 - The strong Si-O bonds lead to a high melting temperature (1710ºC) for this material
@@ -987,11 +987,11 @@ Adapted from Fig. 12.14, _Callister & Rethwisch 8e._
 - hardest material known
 - very high thermal conductivity
 
-- Large single crystals – gem stones
-- Small crystals – used to grind/cut other materials
+- Large single crystals - gem stones
+- Small crystals - used to grind/cut other materials
 - Diamond thin films
 
-- hard surface coatings – used for cutting tools, medical devices, etc.
+- hard surface coatings - used for cutting tools, medical devices, etc.
 
 Adapted from Fig. 12.15, _Callister & Rethwisch 8e._
 
@@ -1002,7 +1002,7 @@ Adapted from Fig. 12.15, _Callister & Rethwisch 8e._
 
 ## **Graphite**
 
-- Layered structure – parallel hexagonal arrays of carbon atoms
+- Layered structure - parallel hexagonal arrays of carbon atoms
 - Weak van der Waal’s forces between layers
 - Planes slide easily over one another -- good lubricant
 
@@ -1013,11 +1013,11 @@ Adapted from Fig. 12.17, _Callister & Rethwisch 8e._
 
 # Slide 30 - **Polymorphic Forms of Carbon (cont)**
 
-- Fullerenes – spherical cluster of 60 carbon atoms, C60
+- Fullerenes - spherical cluster of 60 carbon atoms, C60
 
 - Like a soccer ball
 
-- Carbon nanotubes – sheet of graphite rolled into a tube
+- Carbon nanotubes - sheet of graphite rolled into a tube
 
 - Ends capped with fullerene hemispheres
 
@@ -1186,7 +1186,7 @@ Adapted from Fig. 12.25, Callister & Rethwisch 8e.
 ![](Lessons\ 24\ Structure\ &\ Properties\ of\ Ceramics\ /img35.png)
 
 
-# Slide 36 - **Flexural Tests – Measurement of Elastic Modulus**
+# Slide 36 - **Flexural Tests - Measurement of Elastic Modulus**
 
 * Room _T_ behavior is usually elastic, with brittle failure.
 
@@ -1241,7 +1241,7 @@ slope =
 ![](Lessons\ 24\ Structure\ &\ Properties\ of\ Ceramics\ /img36.png)
 
 
-# Slide 37 - **Flexural Tests – Measurement of Flexural Strength**
+# Slide 37 - **Flexural Tests - Measurement of Flexural Strength**
 
 * 3-point bend test to measure room- _T_ flexural strength.
 

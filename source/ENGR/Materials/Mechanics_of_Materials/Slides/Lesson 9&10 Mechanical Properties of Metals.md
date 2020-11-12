@@ -7,7 +7,7 @@ _**mission field**_
 ![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img0.png)
 
 
-# Slide 2 - **Devo/Prayer – Faith Journey**
+# Slide 2 - **Devo/Prayer - Faith Journey**
 
 - I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing. (Jn 15:5)
 - Whatever you do, work at it with all your heart, as working for the Lord, not for human masters. (Col 3:23)
@@ -17,7 +17,7 @@ _**mission field**_
 ![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img1.png)
 
 
-# Slide 3 - **Devo/Prayer – Running YOUR Race**
+# Slide 3 - **Devo/Prayer - Running YOUR Race**
 
 ## **Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith. For the joy set before Him He endued the cross, scorning its shame, and sat down at the right hand of the throne of God.**
 
@@ -26,7 +26,7 @@ _**mission field**_
 ![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img2.png)
 
 
-# Slide 4 - **Devo/Prayer – “What do you do for a living?”**
+# Slide 4 - **Devo/Prayer - “What do you do for a living?”**
 
 - “But SEEK FIRST his KINGDOM and his righteousness, and all these things will be given to you as well.”
 
@@ -39,7 +39,7 @@ _**mission field**_
 ![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img3.png)
 
 
-# Slide 5 - **Devo/Prayer – Assurance in God’s Plan**
+# Slide 5 - **Devo/Prayer - Assurance in God’s Plan**
 
 - “Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.”  Philippians 1:6
 - Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us, to him be glory in the church and in Christ Jesus throughout all generations, for ever and ever! Eph 3:20-21
@@ -558,12 +558,12 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 - Poisson’s ratio = - lateral strain/longitudinal strain
 - Plastic deformation
 - Yield strength
-- Stress/strain curves – shapes and comparison
+- Stress/strain curves - shapes and comparison
 - Necking
-- Ductility – % elongation and % area reduction
-- Anelasticity – time dependent elastic behavior e.g. viscoelsticity
-- Resilience – ability to absorb energy elastically and recover the energy upon unloading (area under the elastic portion of stress – strain curve)
-- Toughness – ability to absorb energy and plastically deform without fracturing in (are under total stress-strain curve, includes both elastic and plastic portions)
+- Ductility - % elongation and % area reduction
+- Anelasticity - time dependent elastic behavior e.g. viscoelsticity
+- Resilience - ability to absorb energy elastically and recover the energy upon unloading (area under the elastic portion of stress - strain curve)
+- Toughness - ability to absorb energy and plastically deform without fracturing in (are under total stress-strain curve, includes both elastic and plastic portions)
 - True stress and true strain
 - Elastic recovery after plastic deformation
 - Hardness testing overview
@@ -579,7 +579,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 - Edge, screw and mixed dislocations
 - Lattice strains- tension and compression
 - Slip systems- miller indices
-- Resolved shear stress – concept not math
+- Resolved shear stress - concept not math
 - Perfect crystals and slip planes
 - Mechanisms of strengthening
 
@@ -595,7 +595,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 - Recrystallization temp 0.3 to 0.6 T melt (absolute)
 
-- Grain growth – driven by total grain boundary area reduction and associated energy reduction
+- Grain growth - driven by total grain boundary area reduction and associated energy reduction
 
 - Dislocation annihilation
 
@@ -623,23 +623,23 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 - S-N curves
 
 - Fatigue limit/endurance limit - stress at which life is infinite
-- Fatigue strength – stress at which failure will occur at a specified number of cycles
+- Fatigue strength - stress at which failure will occur at a specified number of cycles
 
 - Crack initiation and propagation
 - Surface treatments to reduce crack initiation
 
 - Shot peening
-- Case hardening – carburizing or nitriding
+- Case hardening - carburizing or nitriding
 
 - Both produce a residual compressive stress
 
-- Creep – time depending and permanent deformation
+- Creep - time depending and permanent deformation
 
 - For metals - Creep becomes active at .4 Tmelt (absolute)
 - Primary, secondary and tertiary creep
 - Rupture (creep breakage)
 - Creep strain rate increases as temp increases
-- Larger grains resist creep better – less grain boundary area for sliding (creep) to occur
+- Larger grains resist creep better - less grain boundary area for sliding (creep) to occur
 - Stainless steel alloys for creep resistance
 
 ![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img9.png)
@@ -647,19 +647,19 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 # Slide 11 - **Types of Materials**
 
-- Metals: Metallic bonding – sea of electrons
+- Metals: Metallic bonding - sea of electrons
 
 - Strong/stiff, ductile, usually crystalline
 - High thermal & electrical conductivity
 - Opaque, reflective
 
-- Polymers/plastics: Covalent bonding – sharing of electrons
+- Polymers/plastics: Covalent bonding - sharing of electrons
 
 - Soft, ductile, usually non-crystalline, low strength, low density, lower melting temps, high coefficients of thermal expansion
 - Thermal & electrical insulators
 - Optically translucent or transparent
 
-- Ceramics: ionic bonding – transfer of electrons
+- Ceramics: ionic bonding - transfer of electrons
 
 - Compounds of metallic & non-metallic elements (oxides, carbides, nitrides, sulfides)
 - Brittle, glassy
@@ -1038,7 +1038,7 @@ elastic
 
 # Slide 20 - **Linear Elastic Properties**
 
-*** Modulus of Elasticity, _E – stiffness of a material_**
+*** Modulus of Elasticity, _E - stiffness of a material_**
 
 **(also known as Young's modulus)**
 
@@ -1763,7 +1763,7 @@ ultimate
 
 strength
 
-Neck – acts
+Neck - acts
 as stress concentrator
 
 engineering

@@ -82,7 +82,7 @@ _**Newport RI**_
 ![](./Materials\ Test\ 2\ Review\ &\ Test/img6.png)
 
 
-# Slide 8 - **Devo/Prayer – Even Jesus Was Tested!**
+# Slide 8 - **Devo/Prayer - Even Jesus Was Tested!**
 
 - “Jesus, full of the Holy Spirit, left the Jordan and was led by the Spirit into the wilderness, where for forty days he was tempted by the devil”…..Jesus returned to Galilee in the power of the Spirit, and news about him spread through the whole countryside.”
 
@@ -91,14 +91,14 @@ _**Newport RI**_
 ![](./Materials\ Test\ 2\ Review\ &\ Test/img7.png)
 
 
-# Slide 9 - **Devo/Prayer – Things Only God Can Do!**
+# Slide 9 - **Devo/Prayer - Things Only God Can Do!**
 
 ## _**Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us, to him be glory in the church and in Christ Jesus throughout all generations, for ever and ever! Eph 3:20-21**_
 
 ![](./Materials\ Test\ 2\ Review\ &\ Test/img8.png)
 
 
-# Slide 10 - **Devo/Prayer – Assurance**
+# Slide 10 - **Devo/Prayer - Assurance**
 
 - For God so loved the world that he gave his one and only Son, that whoever believes in Him shall not perish but have eternal life.
 
@@ -637,7 +637,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 ENGR2313 Materials Engineering Exam 2 Topics
 
-Two double sided 8.5X11” sheets of notes w/no prior exam problems (**Exam 1 sheet plus a new sheet – NOT 2 new sheets**)
+Two double sided 8.5X11” sheets of notes w/no prior exam problems (**Exam 1 sheet plus a new sheet - NOT 2 new sheets**)
 
 **Chapter 6: Mechanical Properties of Materials**
 
@@ -650,12 +650,12 @@ Two double sided 8.5X11” sheets of notes w/no prior exam problems (**Exam 1 sh
 - Poisson’s ratio = - lateral strain/longitudinal strain
 - Plastic deformation
 - Yield strength
-- Stress/strain curves – shapes and comparison
+- Stress/strain curves - shapes and comparison
 - Necking
-- Ductility – % elongation and % area reduction
-- Anelasticity – time dependent elastic behavior e.g. viscoelsticity
-- Resilience – ability to absorb energy elastically and recover the energy upon unloading (area under the elastic portion of stress – strain curve)
-- Toughness – ability to absorb energy and plastically deform without fracturing in (are under total stress-strain curve, includes both elastic and plastic portions)
+- Ductility - % elongation and % area reduction
+- Anelasticity - time dependent elastic behavior e.g. viscoelsticity
+- Resilience - ability to absorb energy elastically and recover the energy upon unloading (area under the elastic portion of stress - strain curve)
+- Toughness - ability to absorb energy and plastically deform without fracturing in (are under total stress-strain curve, includes both elastic and plastic portions)
 - True stress and true strain
 - Elastic recovery after plastic deformation
 - Hardness testing overview
@@ -671,7 +671,7 @@ Two double sided 8.5X11” sheets of notes w/no prior exam problems (**Exam 1 sh
 - Edge, screw and mixed dislocations
 - Lattice strains- tension and compression
 - Slip systems- miller indices
-- Resolved shear stress – concept not math
+- Resolved shear stress - concept not math
 - Perfect crystals and slip planes
 - Mechanisms of strengthening
 
@@ -686,20 +686,20 @@ Two double sided 8.5X11” sheets of notes w/no prior exam problems (**Exam 1 sh
 
 - Recrystallization temp 0.3 to 0.6 T melt (absolute)
 
-- Grain growth – driven by total grain boundary area reduction and associated energy reduction
+- Grain growth - driven by total grain boundary area reduction and associated energy reduction
 - Dislocation annihilation
 
 ![](./Materials\ Test\ 2\ Review\ &\ Test/img14.png)
 
 # Slide 16
 
-- Creep – time depending and permanent deformation
+- Creep - time depending and permanent deformation
 
 - For metals - Creep becomes active at .4 Tmelt (absolute)
 - Primary, secondary and tertiary creep
 - Rupture (creep breakage)
 - Creep strain rate increases as temp increases
-- Larger grains resist creep better – less grain boundary area for sliding (creep) to occur
+- Larger grains resist creep better - less grain boundary area for sliding (creep) to occur
 - Stainless steel alloys for creep resistance
 
 - **Chapter 8: Failure (Intro to Fracture Mechanics Concepts)**
@@ -720,20 +720,20 @@ Two double sided 8.5X11” sheets of notes w/no prior exam problems (**Exam 1 sh
 - S-N curves
 
 - Fatigue limit/endurance limit - stress at which life is infinite
-- Fatigue strength – stress at which failure will occur at a specified number of cycles
+- Fatigue strength - stress at which failure will occur at a specified number of cycles
 
 - Crack initiation and propagation
 - Surface treatments to reduce crack initiation
 
 - Shot peening
-- Case hardening – carburizing or nitriding
+- Case hardening - carburizing or nitriding
 
 - Both produce a residual compressive stress
 
 ![](./Materials\ Test\ 2\ Review\ &\ Test/img15.png)
 
 
-# Slide 17 - **Summary – Mechanical Properties of Metals**
+# Slide 17 - **Summary - Mechanical Properties of Metals**
 
 * Stress and strain: These are size-independent
 
@@ -901,7 +901,7 @@ large toughness (metals)
 ![](./Materials\ Test\ 2\ Review\ &\ Test/img19.png)
 
 
-# Slide 21 - **Summary – Dislocations & Strengthening Mechanisms**
+# Slide 21 - **Summary - Dislocations & Strengthening Mechanisms**
 
 * Dislocations are observed primarily in metals and alloys.
 
@@ -919,7 +919,7 @@ large toughness (metals)
 
 * A cold-worked metal that is heat treated may experience
 
-recovery, recrystallization, and grain growth – its properties
+recovery, recrystallization, and grain growth - its properties
 
 will be altered.
 
@@ -988,7 +988,7 @@ s
 
 *** Polycrystals stronger than single**
 
-**crystals – grain boundaries are**
+**crystals - grain boundaries are**
 
 **barriers to dislocation motion**
 
@@ -1298,7 +1298,7 @@ spacing
 ![](./Materials\ Test\ 2\ Review\ &\ Test/img31.png)
 
 
-# Slide 33 - **Summary – Failure**
+# Slide 33 - **Summary - Failure**
 
 * Sharp corners produce large stress concentrations
 
@@ -1412,8 +1412,8 @@ i.e., s _m_ \> s _c_
 
 # Slide 37 - **Fracture Toughness (a different “K”)**
 
-- Fracture toughness (K1C) – a measure of a materials resistance to brittle fracture when a crack is present
-- Note the “1” denotes mode I (tensile loading – most common)
+- Fracture toughness (K1C) - a measure of a materials resistance to brittle fracture when a crack is present
+- Note the “1” denotes mode I (tensile loading - most common)
 
 - Think of the energy required to make a crack grow
 - Unusual units of MPa-m1/2 or ksi-in1/2

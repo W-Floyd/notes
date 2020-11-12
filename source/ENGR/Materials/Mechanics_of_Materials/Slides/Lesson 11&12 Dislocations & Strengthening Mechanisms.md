@@ -7,7 +7,7 @@ _**mission field**_
 ![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img0.png)
 
 
-# Slide 2 - **Devo/Prayer – First Metallurgist**
+# Slide 2 - **Devo/Prayer - First Metallurgist**
 
 - “The Lord God took the man and put him in the Garden of Eden to work it and keep it.” (Gen 2:15)
 - “Zillah also had a son, Tubal-Cain, who forged all kinds of tools out of _**bronze and iron**_.” (Gen 4:22)
@@ -15,7 +15,7 @@ _**mission field**_
 ![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img1.png)
 
 
-# Slide 3 - **Devo/Prayer – Security in Christ**
+# Slide 3 - **Devo/Prayer - Security in Christ**
 
 - “Does Job fear God for nothing?” Satan replied.  “Have you not put a hedge around him and his household and everything he has? You have blessed the work of his hands, so that his flocks and herds are spread throughout the land. But now stretch out your hand and strike everything he has, and he will surely curse you to your face.”The Lord said to Satan, “Very well, then, everything he has is in your power, but on the man himself do not lay a finger.”
 
@@ -33,7 +33,7 @@ _**mission field**_
 ![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img3.png)
 
 
-# Slide 5 - **Lesson 11/12 Outline – Dislocations & Strengthening Mechanisms**
+# Slide 5 - **Lesson 11/12 Outline - Dislocations & Strengthening Mechanisms**
 
 - Devotional/Prayer
 - Dislocation Motion/Slip
@@ -58,7 +58,7 @@ _**mission field**_
 - God the Son DEMONSTRATED that love by dying for my sin
 - God the Holy Spirit is His love LIVING WITHIN me…
 
-- God as a person – the Holy Spirit in me
+- God as a person - the Holy Spirit in me
 
 - “And I will ask the Father, and he will give you another advocate to help you and be with you forever—the Spirit of truth.” John 14:16
 
@@ -67,7 +67,7 @@ _**mission field**_
 ![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img5.png)
 
 
-# Slide 7 - **Devo/Prayer – Patience &  Assurance in God’s Plan**
+# Slide 7 - **Devo/Prayer - Patience &  Assurance in God’s Plan**
 
 - “Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.”
 
@@ -99,7 +99,7 @@ _**James 1:2-4**_
 
 **Faith**
 
-**Devo – Faith as an Integral**
+**Devo - Faith as an Integral**
 
 F=ꭍ T2dt
 
@@ -633,7 +633,7 @@ _**Anything that hinders dislocation movement through the crystal will increase 
 
 ## Dislocation motion & plastic deformation
 
-- Metals - plastic deformation occurs by slip – an edge dislocation (extra half-plane of atoms) slides over adjacent plane half-planes of atoms.
+- Metals - plastic deformation occurs by slip - an edge dislocation (extra half-plane of atoms) slides over adjacent plane half-planes of atoms.
 
 -  If dislocations can't move,
      plastic deformation doesn't occur!
@@ -1022,7 +1022,7 @@ s
 
 *** Polycrystals stronger than single**
 
-**crystals – grain boundaries are**
+**crystals - grain boundaries are**
 
 **barriers to dislocation motion**
 
@@ -1080,8 +1080,8 @@ Avg Grain Diameter
 
 # Slide 24 - **Grain Size Influences Properties**
 
-- Metals having small grains – relatively strong and tough at low temperatures
-- Metals having large grains – good creep resistance at relatively high temperatures
+- Metals having small grains - relatively strong and tough at low temperatures
+- Metals having large grains - good creep resistance at relatively high temperatures
 
 ![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img23.png)
 
@@ -1362,7 +1362,7 @@ low carbon steel
 ![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img35.png)
 
 
-# Slide 37 - **Mechanical Property Alterations  Due to Cold Working – Example Problem**
+# Slide 37 - **Mechanical Property Alterations  Due to Cold Working - Example Problem**
 
 * What are the values of yield strength, tensile strength & ductility after cold working Cu?
 
@@ -1635,7 +1635,7 @@ nucleate after
 
 \-\- Small in size
 
-\-\- Consume and replace parent cold-worked grains (transition from high energy to low energy – more stable)
+\-\- Consume and replace parent cold-worked grains (transition from high energy to low energy - more stable)
 
 ![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img41.png)
 
@@ -1793,7 +1793,7 @@ _f_
 ![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img49.png)
 
 
-# Slide 51 - **Diameter Reduction Procedure – Solution (cont.)**
+# Slide 51 - **Diameter Reduction Procedure - Solution (cont.)**
 
 Adapted from Fig. 7.19, _Callister & Rethwisch 8e._
 
@@ -1816,7 +1816,7 @@ Adapted from Fig. 7.19, _Callister & Rethwisch 8e._
 ![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img50.png)
 
 
-# Slide 52 - **Diameter Reduction Procedure – Solution (cont.)**
+# Slide 52 - **Diameter Reduction Procedure - Solution (cont.)**
 
 Adapted from Fig. 7.19, _Callister & Rethwisch 8e._
 
@@ -1841,14 +1841,14 @@ For _TS_ \> 380 MPa
 ![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img51.png)
 
 
-# Slide 53 - **Diameter Reduction Procedure – Solution (cont.)**
+# Slide 53 - **Diameter Reduction Procedure - Solution (cont.)**
 
 Cold work, then anneal to nullify, then cold work again
 
 ![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img52.png)
 
 
-# Slide 54 - **Diameter Reduction Procedure – Solution (cont.)**
+# Slide 54 - **Diameter Reduction Procedure - Solution (cont.)**
 
 Cold work, then anneal to nullify, then cold work again
 
@@ -1865,13 +1865,13 @@ Intermediate diameter =
 ![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img53.png)
 
 
-# Slide 55 - **Diameter Reduction Procedure – Summary**
+# Slide 55 - **Diameter Reduction Procedure - Summary**
 
-Stage 1: Cold work – reduce diameter from 10 mm to 8.39 mm
+Stage 1: Cold work - reduce diameter from 10 mm to 8.39 mm
 
 Stage 2: Heat treat (allow recrystallization—nullifies cold work)
 
-Stage 3: Cold work (20%) – reduce diameter from 8.39 mm to 7.5 mm
+Stage 3: Cold work (20%) - reduce diameter from 8.39 mm to 7.5 mm
 
 _**All Criteria Satisfied**_
 

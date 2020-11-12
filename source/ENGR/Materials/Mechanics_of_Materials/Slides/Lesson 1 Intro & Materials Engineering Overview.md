@@ -81,7 +81,7 @@ _**Claiming every workplace in every nation as our mission field, LeTourneau Uni
 ![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img8.png)
 
 
-# Slide 10 - **Devo/Prayer – The Greatest Engineer!**
+# Slide 10 - **Devo/Prayer - The Greatest Engineer!**
 
 _**By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible.**_
 
@@ -839,19 +839,19 @@ technology advancements
 
 # Slide 28 - **Types of Materials**
 
-- Metals: Metallic bonding – sea of electrons
+- Metals: Metallic bonding - sea of electrons
 
 - Strong/stiff, ductile, usually crystalline
 - High thermal & electrical conductivity
 - Opaque, reflective
 
-- Polymers/plastics: Covalent bonding – sharing of electrons
+- Polymers/plastics: Covalent bonding - sharing of electrons
 
 - Soft, ductile, usually non-crystalline, low strength, low density, lower melting temps, high coefficients of thermal expansion
 - Thermal & electrical insulators
 - Optically translucent or transparent
 
-- Ceramics: Ionic bonding – transfer of electrons
+- Ceramics: Ionic bonding - transfer of electrons
 
 - Compounds of metallic & non-metallic elements (oxides, carbides, nitrides, sulfides)
 - Brittle, glassy
@@ -1186,7 +1186,7 @@ solution at 23°C
 ![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img34.png)
 
 
-# Slide 36 - **Example – Hip Implant**
+# Slide 36 - **Example - Hip Implant**
 
 - With age or certain illnesses joints deteriorate Particularly those with large loads (such as hip)
 
@@ -1195,7 +1195,7 @@ Adapted from Fig. 22.25, _Callister 7e._
 ![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img35.png)
 
 
-# Slide 37 - **Example – Hip Implant**
+# Slide 37 - **Example - Hip Implant**
 
 - Requirements
 
@@ -1209,7 +1209,7 @@ Adapted from Fig. 22.24, _Callister 7e._
 ![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img36.png)
 
 
-# Slide 38 - **Example – Hip Implant**
+# Slide 38 - **Example - Hip Implant**
 
 Adapted from Fig. 22.26, _Callister 7e._
 
@@ -1223,7 +1223,7 @@ Adapted from Fig. 22.26, _Callister 7e._
 - fixation agent to hold
     acetabular cup
 - cup lubrication material
-- femoral stem – fixing agent
+- femoral stem - fixing agent
 - must avoid any debris in cup
 
 Femoral

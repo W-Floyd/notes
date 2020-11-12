@@ -7,7 +7,7 @@ _**mission field**_
 ![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img0.png)
 
 
-# Slide 2 - **Devo/Prayer – The Greatest Engineer!**
+# Slide 2 - **Devo/Prayer - The Greatest Engineer!**
 
 _**By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible.**_
 
@@ -524,7 +524,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 ## Composites
 
-## **General property comparison – Mechanical, Electrical, Thermal, Magnetic, Optical**
+## **General property comparison - Mechanical, Electrical, Thermal, Magnetic, Optical**
 
 ## Advanced Materials
 
@@ -544,21 +544,21 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 ## Periodic Table
 
-## Bonding Force and Energy – Potential Energy versus Atomic Radius curve shapes and implications
+## Bonding Force and Energy - Potential Energy versus Atomic Radius curve shapes and implications
 
 ## Bonding
 
-## Ionic bonds – transfer of valence electrons forms charged ions – ceramics
+## Ionic bonds - transfer of valence electrons forms charged ions - ceramics
 
-## Covalent bonds- sharing of electrons – polymers and some ceramics
+## Covalent bonds- sharing of electrons - polymers and some ceramics
 
 ## Metallic bonding- valence electrons form a “sea of electrons” - metals
 
 Secondary Bonding or van der Waals
 
-Weak bonds – attraction of electric dipoles (permanent or induced)
+Weak bonds - attraction of electric dipoles (permanent or induced)
 
-Hydrogen bonding – polar molecules
+Hydrogen bonding - polar molecules
 
 Processing/Structure/Properties/ Performance
 
@@ -576,13 +576,13 @@ Density Computations
 
 Polymorphisms/Allotropy
 
-3.7 Crystal Systems – know they exist – 7 in total
+3.7 Crystal Systems - know they exist - 7 in total
 
-Crystallographic points 001 – no commas, no parentheses, no brackets
+Crystallographic points 001 - no commas, no parentheses, no brackets
 
 Crystallographic directions [111]
 
-Crystallographic planes (111) – Miller indexes, parallel planes are the same
+Crystallographic planes (111) - Miller indexes, parallel planes are the same
 
 Linear (diameters per unit length) and planar (circle areas per unit area) densities
 
@@ -605,35 +605,35 @@ Noncystalline Solids - amorphous
 
 ## Impurities
 
-## Solid solutions – substitutional, interstitial
+## Solid solutions - substitutional, interstitial
 
 ## Composition calculation WT% or AT%
 
-## Conversion from WT% to AT% and vice versa – equation vs Tabular Method
+## Conversion from WT% to AT% and vice versa - equation vs Tabular Method
 
-## Dislocations – edge, Screw
+## Dislocations - edge, Screw
 
-## Interfacial Defects – External surfaces, grain boundaries, phase boundaries, twin boundaries (annealing and mechanical
+## Interfacial Defects - External surfaces, grain boundaries, phase boundaries, twin boundaries (annealing and mechanical
 
 ## Microscopy
 
 ## Optical ~1500X maximum
 
-## Scanning Electron Microscopy (SEM) ~ 10 t0 50,000X – large depth of field (DOF)
+## Scanning Electron Microscopy (SEM) ~ 10 t0 50,000X - large depth of field (DOF)
 
-## Transmission Electron Microscopy (TEM) up to 1,000,000X – very thin samples
+## Transmission Electron Microscopy (TEM) up to 1,000,000X - very thin samples
 
-## Grain Size Determination – ASTM
+## Grain Size Determination - ASTM
 
 ## **Chapter 5: Diffusion**
 
-## Diffusion – mass transport by atomic motion
+## Diffusion - mass transport by atomic motion
 
-## Diffusion mechanisms – vacancy, interstitial
+## Diffusion mechanisms - vacancy, interstitial
 
-## Steady state diffusion – Fick’s First Law
+## Steady state diffusion - Fick’s First Law
 
-## Non-Steady State Diffusion – Fick’s Second Law
+## Non-Steady State Diffusion - Fick’s Second Law
 
 ## Error Function (ERF)
 
@@ -648,7 +648,7 @@ Noncystalline Solids - amorphous
 
 # Slide 7 - **Atomic Structure**
 
-- Atom electrons – 9.11 x 10-31 kg
+- Atom electrons - 9.11 x 10-31 kg
      protons
      neutrons
 
@@ -683,7 +683,7 @@ Noncystalline Solids - amorphous
 
 Bohr Model vs Wave-Mechanical Model
 
-Electron locations are described by a probability function – not deterministic
+Electron locations are described by a probability function - not deterministic
 
 **fig\_02\_01**
 
@@ -723,7 +723,7 @@ p subshells
 ![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img10.png)
 
 
-# Slide 12 - **Electronic Configurations – Iron Example**
+# Slide 12 - **Electronic Configurations - Iron Example**
 
 ## ex: Fe - atomic \#
 
@@ -1022,7 +1022,7 @@ Adapted from Table 2.2, _Callister & Rethwisch 9e._
 
 # Slide 14 - **Bonding Forces & Energy**
 
-- Energy – balance of attractive and repulsive terms
+- Energy - balance of attractive and repulsive terms
 
 - Minimum potential energy most stable (equilibrium)
 
@@ -1068,7 +1068,7 @@ Equilibrium spacing (ro)
 
 **MgO**
 
-- Electron transfer between + and – ions – Nondirectional
+- Electron transfer between + and - ions - Nondirectional
 
 - Large difference in electronegativity required (coulombic force)
 
@@ -1146,7 +1146,7 @@ are comparable
 Adapted from Fig. 2.10, _Callister & Rethwisch 8e._
 
 - Similar electronegativity  share electrons
-- Bonds determined by valence – _s_ & _p_ orbitals dominate bonding – Directional, may be strong or weak
+- Bonds determined by valence - _s_ & _p_ orbitals dominate bonding - Directional, may be strong or weak
 - Common in polymers, semiconductors
 
 Example: CH4
@@ -1206,14 +1206,14 @@ Fig. 2.14, _Callister & Rethwisch 9e._(Adapted from J.E. Brady and F. Senese, _C
 
 **Covalent Bond Hybridization (Diamond)**
 
-- Carbon can also form _sp2_ bond (Graphite) – much weaker interplanar bonds
+- Carbon can also form _sp2_ bond (Graphite) - much weaker interplanar bonds
 
 ![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img19.png)
 
 
 # Slide 21 - **Primary Bonding Types: Metallic**
 
-- Electrons not bound to particular atom (ion cores with electron cloud) – Nondirectional, may be strong or weak
+- Electrons not bound to particular atom (ion cores with electron cloud) - Nondirectional, may be strong or weak
 - Good conductors of heat and electricity
 - Predominant bonding in metals and their alloys
 
@@ -1222,7 +1222,7 @@ Fig. 2.14, _Callister & Rethwisch 9e._(Adapted from J.E. Brady and F. Senese, _C
 
 # Slide 22 - **Secondary (van der Waals) Bonding**
 
-Arises from interaction between dipoles – Directional
+Arises from interaction between dipoles - Directional
 
 * Permanent dipoles-molecule induced
 
@@ -1430,7 +1430,7 @@ _Eo_
 ![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img24.png)
 
 
-# Slide 26 - **Summary – Types of Bonds**
+# Slide 26 - **Summary - Types of Bonds**
 
 Type
 
@@ -1481,7 +1481,7 @@ inter-molecular
 ![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img25.png)
 
 
-# Slide 27 - **Summary – Types of Material Types & Bonds**
+# Slide 27 - **Summary - Types of Material Types & Bonds**
 
 Ceramics
 

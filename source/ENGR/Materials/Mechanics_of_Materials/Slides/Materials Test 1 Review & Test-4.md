@@ -7,7 +7,7 @@ _**mission field**_
 ![](./Materials\ Test\ 1\ Review\ &\ Test-4/img0.png)
 
 
-# Slide 2 - **Devo/Prayer – Even Jesus Was Tested!**
+# Slide 2 - **Devo/Prayer - Even Jesus Was Tested!**
 
 - “Jesus, full of the Holy Spirit, left the Jordan and was led by the Spirit into the wilderness, where for forty days he was tempted by the devil”…..Jesus returned to Galilee in the power of the Spirit, and news about him spread through the whole countryside.”
 
@@ -320,7 +320,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 ## Composites
 
-## General property comparison – Mechanical, Electrical, Thermal, Magnetic, Optical
+## General property comparison - Mechanical, Electrical, Thermal, Magnetic, Optical
 
 ## Advanced Materials
 
@@ -340,21 +340,21 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 ## Periodic Table
 
-## Bonding Force and Energy – Potential Energy versus Atomic Radius curve shapes and implications
+## Bonding Force and Energy - Potential Energy versus Atomic Radius curve shapes and implications
 
 ## Bonding
 
-## Ionic bonds – transfer of valence electrons forms charged ions – ceramics
+## Ionic bonds - transfer of valence electrons forms charged ions - ceramics
 
-## Covalent bonds- sharing of electrons – polymers and some ceramics
+## Covalent bonds- sharing of electrons - polymers and some ceramics
 
 ## Metallic bonding- valence electrons form a “sea of electrons” - metals
 
 Secondary Bonding or van der Waals
 
-Weak bonds – attraction of electric dipoles (permanent or induced)
+Weak bonds - attraction of electric dipoles (permanent or induced)
 
-Hydrogen bonding – polar molecules
+Hydrogen bonding - polar molecules
 
 Processing/Structure/Properties/ Performance
 
@@ -372,13 +372,13 @@ Density Computations
 
 Polymorphisms/Allotropy
 
-3.7 Crystal Systems – know they exist – 7 in total
+3.7 Crystal Systems - know they exist - 7 in total
 
-Crystallographic points 001 – no commas, no parentheses, no brackets
+Crystallographic points 001 - no commas, no parentheses, no brackets
 
 Crystallographic directions [111]
 
-Crystallographic planes (111) – Miller indexes, parallel planes are the same
+Crystallographic planes (111) - Miller indexes, parallel planes are the same
 
 Linear (diameters per unit length) and planar (circle areas per unit area) densities
 
@@ -401,35 +401,35 @@ Noncystalline Solids - amorphous
 
 ## Impurities
 
-## Solid solutions – substitutional, interstitial
+## Solid solutions - substitutional, interstitial
 
 ## Composition calculation WT% or AT%
 
-## Conversion from WT% to AT% and vice versa – equation vs Tabular Method
+## Conversion from WT% to AT% and vice versa - equation vs Tabular Method
 
-## Dislocations – edge, Screw
+## Dislocations - edge, Screw
 
-## Interfacial Defects – External surfaces, grain boundaries, phase boundaries, twin boundaries (annealing and mechanical
+## Interfacial Defects - External surfaces, grain boundaries, phase boundaries, twin boundaries (annealing and mechanical
 
 ## Microscopy
 
 ## Optical ~1500X maximum
 
-## Scanning Electron Microscopy (SEM) ~ 10 t0 50,000X – large depth of field (DOF)
+## Scanning Electron Microscopy (SEM) ~ 10 t0 50,000X - large depth of field (DOF)
 
-## Transmission Electron Microscopy (TEM) up to 1,000,000X – very thin samples
+## Transmission Electron Microscopy (TEM) up to 1,000,000X - very thin samples
 
-## Grain Size Determination – ASTM
+## Grain Size Determination - ASTM
 
 ## **Chapter 5: Diffusion**
 
-## Diffusion – mass transport by atomic motion
+## Diffusion - mass transport by atomic motion
 
-## Diffusion mechanisms – vacancy, interstitial
+## Diffusion mechanisms - vacancy, interstitial
 
-## Steady state diffusion – Fick’s First Law
+## Steady state diffusion - Fick’s First Law
 
-## Non-Steady State Diffusion – Fick’s Second Law
+## Non-Steady State Diffusion - Fick’s Second Law
 
 ## Error Function (ERF)
 
@@ -444,19 +444,19 @@ Noncystalline Solids - amorphous
 
 # Slide 8 - **Types of Materials**
 
-- Metals: Metallic bonding – sea of electrons
+- Metals: Metallic bonding - sea of electrons
 
 - Strong/stiff, ductile, usually crystalline
 - High thermal & electrical conductivity
 - Opaque, reflective.
 
-- Polymers/plastics: Covalent bonding – sharing of electrons
+- Polymers/plastics: Covalent bonding - sharing of electrons
 
 - Soft, ductile, usually non-crystalline, low strength, low density, low melting temps, high coefficients of thermal expansion
 - Thermal & electrical insulators
 - Optically translucent or transparent.
 
-- Ceramics: ionic bonding – transfer of electrons
+- Ceramics: ionic bonding - transfer of electrons
 
 - Compounds of metallic & non-metallic elements (oxides, carbides, nitrides, sulfides)
 - Brittle, glassy
@@ -604,7 +604,7 @@ accept 2 _e_-
 
 # Slide 12 - **Bonding Forces & Energy**
 
-- Energy – minimum energy most stable
+- Energy - minimum energy most stable
 
 - Energy balance of attractive and repulsive terms
 
@@ -676,7 +676,7 @@ p subshells
 ![](./Materials\ Test\ 1\ Review\ &\ Test-4/img13.png)
 
 
-# Slide 15 - **Electronic Configurations – Iron Example**
+# Slide 15 - **Electronic Configurations - Iron Example**
 
 ## ex: Fe - atomic \#
 
@@ -724,7 +724,7 @@ _N_-shell _n_ = 4
 
 # Slide 16
 
-- Carbon can form _sp_ 3 hybrid orbitals (Diamond) – extremely strong
+- Carbon can form _sp_ 3 hybrid orbitals (Diamond) - extremely strong
 
 Fig. 2.13, _Callister & Rethwisch 9e._
 
@@ -732,7 +732,7 @@ Fig. 2.14, _Callister & Rethwisch 9e._(Adapted from J.E. Brady and F. Senese, _C
 
 **Covalent Bond Hybridization**
 
-- Carbon can also form _sp2_ bond (Graphite) – much weaker interplanar bonds
+- Carbon can also form _sp2_ bond (Graphite) - much weaker interplanar bonds
 
 ![](./Materials\ Test\ 1\ Review\ &\ Test-4/img15.png)
 
@@ -995,7 +995,7 @@ _a_
 **Steps:**
 
 1. Determine coordinates of vector tail, pt. 1: _x_ 1, _y_ 1 _, & z_ 1; and vector head, pt. 2: _x_ 2, _y_ 2 _, & z_ 2.
-2. Tail point coordinates subtracted from head point coordinates (head – tail).
+2. Tail point coordinates subtracted from head point coordinates (head - tail).
 
 3. Normalize coordinate differences in terms of lattice parameters _a_, _b_, and _c_:
 

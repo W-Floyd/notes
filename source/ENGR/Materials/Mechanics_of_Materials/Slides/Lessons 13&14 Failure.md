@@ -16,7 +16,7 @@ _**mission field**_
 ![](./Lessons\ 13&14\ Failure/img1.png)
 
 
-# Slide 3 - **Devo/Prayer – Bend but not Break**
+# Slide 3 - **Devo/Prayer - Bend but not Break**
 
 - ”Then the Lord said to Satan, “Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil. And he still maintains his integrity, though you incited me against him to ruin him without any reason.” “Skin for skin!” Satan replied. “A man will give all he has for his own life. But now stretch out your hand and strike his flesh and bones, and he will surely curse you to your face.”The Lord said to Satan, “Very well, then, he is in your hands; but you must spare his life.” (Job 2:3-6)
 
@@ -54,7 +54,7 @@ _**mission field**_
 ![](./Lessons\ 13&14\ Failure/img4.png)
 
 
-# Slide 6 - **Lesson 13/14 Outline – Failure**
+# Slide 6 - **Lesson 13/14 Outline - Failure**
 
 - Devotional/Prayer
 - Crack Formation & Growth
@@ -514,7 +514,7 @@ Adapted from Fig. 8.5(a), _Callister & Rethwisch 8e._
 
 * Transgranular (through grains
 
-in preferred slip planes) – **most common**
+in preferred slip planes) - **most common**
 
 **Al Oxide**
 
@@ -723,7 +723,7 @@ ductile
 
 # Slide 22 - **Fracture Toughness**
 
-- Fracture toughness (K1C) – a measure of a materials resistance to brittle fracture when a crack is present
+- Fracture toughness (K1C) - a measure of a materials resistance to brittle fracture when a crack is present
 - Note the “1” denotes mode I (tensile loading)
 
 - Think of the energy required to make a crack grow
@@ -1390,7 +1390,7 @@ C-rich gas
 
 # Slide 37 - **Creep**
 
-- Creep – time dependent and permanent deformation of materials subjected to constant load/stress (engine turbines, steam lines, etc)
+- Creep - time dependent and permanent deformation of materials subjected to constant load/stress (engine turbines, steam lines, etc)
 
 - Normally an undesirable behavior
 - Becomes active around T=.4Tm (absolute melting temp)

@@ -208,7 +208,7 @@ _**We are Threads in God’s Work of Art**_
 
 **Fall Break (15-16 Oct)**
 
-**Materials Engineering Journey – Section 3**
+**Materials Engineering Journey - Section 3**
 
 **17**
 
@@ -456,7 +456,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **Fall Break (15-16 Oct)**
 
-**Materials Engineering Journey – Section 1/2**
+**Materials Engineering Journey - Section 1/2**
 
 **17**
 
@@ -596,7 +596,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 - Entire exam is multiple choice & T/F (scantron) ~ 50 questions
 - Chapters 11-17 will be approximately 1/3 of the final exam points
 
-- **This material was covered as an overview and will be tested at the same level – don’t panic**
+- **This material was covered as an overview and will be tested at the same level - don’t panic**
 - Focus on **concepts** covered in **HW problems**
 
 ![](./Materials\ Eng\ Review\ &\ Final-2/img8.png)
@@ -616,7 +616,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 ## Composites
 
-## General property comparison – Mechanical, Electrical, Thermal, Magnetic, Optical
+## General property comparison - Mechanical, Electrical, Thermal, Magnetic, Optical
 
 ## Advanced Materials
 
@@ -636,21 +636,21 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 ## Periodic Table
 
-## Bonding Force and Energy – Potential Energy versus Atomic Radius curve shapes and implications
+## Bonding Force and Energy - Potential Energy versus Atomic Radius curve shapes and implications
 
 ## Bonding
 
-## Ionic bonds – transfer of valence electrons forms charged ions – ceramics
+## Ionic bonds - transfer of valence electrons forms charged ions - ceramics
 
-## Covalent bonds- sharing of electrons – polymers and some ceramics
+## Covalent bonds- sharing of electrons - polymers and some ceramics
 
 ## Metallic bonding- valence electrons form a “sea of electrons” - metals
 
 Secondary Bonding or van der Waals
 
-Weak bonds – attraction of electric dipoles (permanent or induced)
+Weak bonds - attraction of electric dipoles (permanent or induced)
 
-Hydrogen bonding – polar molecules
+Hydrogen bonding - polar molecules
 
 Processing/Structure/Properties/ Performance
 
@@ -668,13 +668,13 @@ Density Computations
 
 Polymorphisms/Allotropy
 
-3.7 Crystal Systems – know they exist – 7 in total
+3.7 Crystal Systems - know they exist - 7 in total
 
-Crystallographic points 001 – no commas, no parentheses, no brackets
+Crystallographic points 001 - no commas, no parentheses, no brackets
 
 Crystallographic directions [111]
 
-Crystallographic planes (111) – Miller indexes, parallel planes are the same
+Crystallographic planes (111) - Miller indexes, parallel planes are the same
 
 Linear (diameters per unit length) and planar (circle areas per unit area) densities
 
@@ -697,35 +697,35 @@ Noncystalline Solids - amorphous
 
 ## Impurities
 
-## Solid solutions – substitutional, interstitial
+## Solid solutions - substitutional, interstitial
 
 ## Composition calculation WT% or AT%
 
-## Conversion from WT% to AT% and vice versa – equation vs Tabular Method
+## Conversion from WT% to AT% and vice versa - equation vs Tabular Method
 
-## Dislocations – edge, Screw
+## Dislocations - edge, Screw
 
-## Interfacial Defects – External surfaces, grain boundaries, phase boundaries, twin boundaries (annealing and mechanical
+## Interfacial Defects - External surfaces, grain boundaries, phase boundaries, twin boundaries (annealing and mechanical
 
 ## Microscopy
 
 ## Optical ~1500X maximum
 
-## Scanning Electron Microscopy (SEM) ~ 10 t0 50,000X – large depth of field (DOF)
+## Scanning Electron Microscopy (SEM) ~ 10 t0 50,000X - large depth of field (DOF)
 
-## Transmission Electron Microscopy (TEM) up to 1,000,000X – very thin samples
+## Transmission Electron Microscopy (TEM) up to 1,000,000X - very thin samples
 
-## Grain Size Determination – ASTM
+## Grain Size Determination - ASTM
 
 ## **Chapter 5: Diffusion**
 
-## Diffusion – mass transport by atomic motion
+## Diffusion - mass transport by atomic motion
 
-## Diffusion mechanisms – vacancy, interstitial
+## Diffusion mechanisms - vacancy, interstitial
 
-## Steady state diffusion – Fick’s First Law
+## Steady state diffusion - Fick’s First Law
 
-## Non-Steady State Diffusion – Fick’s Second Law
+## Non-Steady State Diffusion - Fick’s Second Law
 
 ## Error Function (ERF)
 
@@ -777,19 +777,19 @@ Identify required Processing
 
 # Slide 13 - **Types of Materials**
 
-- Metals: Metallic bonding – sea of electrons
+- Metals: Metallic bonding - sea of electrons
 
 - Strong/stiff, ductile, usually crystalline
 - High thermal & electrical conductivity
 - Opaque, reflective.
 
-- Polymers/plastics: Covalent bonding – sharing of electrons
+- Polymers/plastics: Covalent bonding - sharing of electrons
 
 - Soft, ductile, usually non-crystalline, low strength, low density, lower melting temps
 - Thermal & electrical insulators
 - Optically translucent or transparent.
 
-- Ceramics: ionic bonding – transfer of electrons
+- Ceramics: ionic bonding - transfer of electrons
 
 - Compounds of metallic & non-metallic elements (oxides, carbides, nitrides, sulfides)
 - Brittle, glassy
@@ -831,7 +831,7 @@ accept 2 _e_-
 
 # Slide 15 - **Bonding Forces & Energy**
 
-- Energy – minimum energy most stable
+- Energy - minimum energy most stable
 
 - Energy balance of attractive and repulsive terms
 
@@ -909,7 +909,7 @@ p subshells
 ![](./Materials\ Eng\ Review\ &\ Final-2/img16.png)
 
 
-# Slide 18 - **Electronic Configurations – Iron Example**
+# Slide 18 - **Electronic Configurations - Iron Example**
 
 ## ex: Fe - atomic \#
 
@@ -1214,7 +1214,7 @@ _a_
 **Steps:**
 
 1. Determine coordinates of vector tail, pt. 1: _x_ 1, _y_ 1 _, & z_ 1; and vector head, pt. 2: _x_ 2, _y_ 2 _, & z_ 2.
-2. Tail point coordinates subtracted from head point coordinates (head – tail).
+2. Tail point coordinates subtracted from head point coordinates (head - tail).
 
 3. Normalize coordinate differences in terms of lattice parameters _a_, _b_, and _c_:
 
@@ -1657,12 +1657,12 @@ and controlled (e.g., _T_ controls vacancy concentration)
 - Poisson’s ratio = - lateral strain/longitudinal strain
 - Plastic deformation
 - Yield strength
-- Stress/strain curves – shapes and comparison
+- Stress/strain curves - shapes and comparison
 - Necking
-- Ductility – % elongation and % area reduction
-- Anelasticity – time dependent elastic behavior e.g. viscoelsticity
-- Resilience – ability to absorb energy elastically and recover the energy upon unloading (area under the elastic portion of stress – strain curve)
-- Toughness – ability to absorb energy and plastically deform without fracturing in (are under total stress-strain curve, includes both elastic and plastic portions)
+- Ductility - % elongation and % area reduction
+- Anelasticity - time dependent elastic behavior e.g. viscoelsticity
+- Resilience - ability to absorb energy elastically and recover the energy upon unloading (area under the elastic portion of stress - strain curve)
+- Toughness - ability to absorb energy and plastically deform without fracturing in (are under total stress-strain curve, includes both elastic and plastic portions)
 - True stress and true strain
 - Elastic recovery after plastic deformation
 - Hardness testing overview
@@ -1678,7 +1678,7 @@ and controlled (e.g., _T_ controls vacancy concentration)
 - Edge, screw and mixed dislocations
 - Lattice strains- tension and compression
 - Slip systems- miller indices
-- Resolved shear stress – concept not math
+- Resolved shear stress - concept not math
 - Perfect crystals and slip planes
 - Mechanisms of strengthening
 
@@ -1693,20 +1693,20 @@ and controlled (e.g., _T_ controls vacancy concentration)
 
 - Recrystallization temp 0.3 to 0.6 T melt (absolute)
 
-- Grain growth – driven by total grain boundary area reduction and associated energy reduction
+- Grain growth - driven by total grain boundary area reduction and associated energy reduction
 - Dislocation annihilation
 
 ![](./Materials\ Eng\ Review\ &\ Final-2/img38.png)
 
 # Slide 40
 
-- Creep – time depending and permanent deformation
+- Creep - time depending and permanent deformation
 
 - For metals - Creep becomes active at .4 Tmelt (absolute)
 - Primary, secondary and tertiary creep
 - Rupture (creep breakage)
 - Creep strain rate increases as temp increases
-- Larger grains resist creep better – less grain boundary area for sliding (creep) to occur
+- Larger grains resist creep better - less grain boundary area for sliding (creep) to occur
 - Stainless steel alloys for creep resistance
 
 - **Chapter 8: Failure (Intro to Fracture Mechanics Concepts)**
@@ -1727,13 +1727,13 @@ and controlled (e.g., _T_ controls vacancy concentration)
 - S-N curves
 
 - Fatigue limit/endurance limit - stress at which life is infinite
-- Fatigue strength – stress at which failure will occur at a specified number of cycles
+- Fatigue strength - stress at which failure will occur at a specified number of cycles
 
 - Crack initiation and propagation
 - Surface treatments to reduce crack initiation
 
 - Shot peening
-- Case hardening – carburizing or nitriding
+- Case hardening - carburizing or nitriding
 
 - Both produce a residual compressive stress
 
@@ -1742,7 +1742,7 @@ and controlled (e.g., _T_ controls vacancy concentration)
 ![](./Materials\ Eng\ Review\ &\ Final-2/img39.png)
 
 
-# Slide 41 - **Summary – Mechanical Properties of Metals**
+# Slide 41 - **Summary - Mechanical Properties of Metals**
 
 * Stress and strain: These are size-independent
 
@@ -1771,7 +1771,7 @@ uniaxial stress reaches s _y_.
 ![](./Materials\ Eng\ Review\ &\ Final-2/img40.png)
 
 
-# Slide 42 - **Summary – Dislocations & Strengthening Mechanisms**
+# Slide 42 - **Summary - Dislocations & Strengthening Mechanisms**
 
 * Dislocations are observed primarily in metals and alloys.
 
@@ -1887,7 +1887,7 @@ nucleate after
 
 \-\- Small in size
 
-\-\- Consume and replace parent cold-worked grains (transition from high energy to low energy – more stable)
+\-\- Consume and replace parent cold-worked grains (transition from high energy to low energy - more stable)
 
 ![](./Materials\ Eng\ Review\ &\ Final-2/img43.png)
 
@@ -1965,7 +1965,7 @@ temperature
 ![](./Materials\ Eng\ Review\ &\ Final-2/img46.png)
 
 
-# Slide 48 - **Summary – Failure**
+# Slide 48 - **Summary - Failure**
 
 * Sharp corners produce large stress concentrations
 
@@ -2035,7 +2035,7 @@ _**A cylindrical specimen of cold-worked copper has a ductility (%EL) of 15%.**_
 - Identify the phases present
 - Identify the concentration of elements in each phase present
 - Calculate the WT% or WT fraction of each phase present
-- Recognize what proeutectic alpha (AKA Primary alpha) is – I will not ask you to calculate it
+- Recognize what proeutectic alpha (AKA Primary alpha) is - I will not ask you to calculate it
 - Recognize the solubility limit of Sn alpha at various temperatures
 
 **Materials Engineering Exam 3 Review**
@@ -2045,7 +2045,7 @@ _**A cylindrical specimen of cold-worked copper has a ductility (%EL) of 15%.**_
 
 # Slide 51 - **Eutectic, Eutectoid, & Peritectic (all transformations are upon cooling)**
 
-- Eutectoid – one solid phase transforms to two other solid phases
+- Eutectoid - one solid phase transforms to two other solid phases
 
 S2 S1+S3
 
@@ -2118,7 +2118,7 @@ Primary α/β
 
 Eutectic α/β
 
-_**15 wt% Sn–85 wt% Pb**_
+_**15 wt% Sn-85 wt% Pb**_
 
 _**at 100°C**_
 
@@ -2126,7 +2126,7 @@ _**at 100°C**_
 
 # Slide 55
 
-_**Cite the phases that are present and the phase compositions for an alloy consisting of 15 wt% Sn–85 wt% Pb at 100°C (212°F)**_
+_**Cite the phases that are present and the phase compositions for an alloy consisting of 15 wt% Sn-85 wt% Pb at 100°C (212°F)**_
 
 _**(a) Determine the phases present**_
 
@@ -2134,7 +2134,7 @@ _**(b) Determine the composition of each phase**_
 
 _**(c) Determine the relative amount of each phase**_
 
-_**A lead–tin alloy of composition 30 wt% Sn–70 wt% Pb is slowly heated from a temperature of 150°C (300°F).**_
+_**A lead-tin alloy of composition 30 wt% Sn-70 wt% Pb is slowly heated from a temperature of 150°C (300°F).**_
 
 _**(a) At what temperature does the first liquid phase form?**_
 
@@ -2148,7 +2148,7 @@ _**(d) What is the composition of the last solid remaining prior to complete mel
 
 # Slide 56
 
-_**Cite the phases that are present and the phase compositions for an alloy consisting of 15 wt% Sn–85 wt% Pb at 100°C (212°F)**_
+_**Cite the phases that are present and the phase compositions for an alloy consisting of 15 wt% Sn-85 wt% Pb at 100°C (212°F)**_
 
 _**(a) Determine the phases present**_
 
@@ -2166,7 +2166,7 @@ _**(c) Determine the relative amount of each phase**_
 
 **Wt%β = 1-89% = 11%**
 
-_**A lead–tin alloy of composition 30 wt% Sn–70 wt% Pb is slowly heated from a temperature of 150°C (300°F).**_
+_**A lead-tin alloy of composition 30 wt% Sn-70 wt% Pb is slowly heated from a temperature of 150°C (300°F).**_
 
 _**(a) At what temperature does the first liquid phase form? 183°C**_
 
@@ -2298,7 +2298,7 @@ L(CE) (CE) + (CE)
 ![](./Materials\ Eng\ Review\ &\ Final-2/img56.png)
 
 
-# Slide 58 - **Microstructural Developments  in Eutectic Systems – Case 1**
+# Slide 58 - **Microstructural Developments  in Eutectic Systems - Case 1**
 
 * For alloys for which
 
@@ -2377,7 +2377,7 @@ Adapted from Fig. 9.11, Callister & Rethwisch 8e.
 ![](./Materials\ Eng\ Review\ &\ Final-2/img57.png)
 
 
-# Slide 59 - **Microstructural Developments  in Eutectic Systems – Case 2**
+# Slide 59 - **Microstructural Developments  in Eutectic Systems - Case 2**
 
 * For alloys for which
 
@@ -2464,7 +2464,7 @@ a: C0 wt% Sn
 ![](./Materials\ Eng\ Review\ &\ Final-2/img58.png)
 
 
-# Slide 60 - **Microstructural Developments  in Eutectic Systems – Case 3**
+# Slide 60 - **Microstructural Developments  in Eutectic Systems - Case 3**
 
 * For alloy of eutectic composition C0 = CE
 
@@ -2548,7 +2548,7 @@ L: C0 wt% Sn
 ![](./Materials\ Eng\ Review\ &\ Final-2/img59.png)
 
 
-# Slide 61 - **Microstructural Developments  in Eutectic Systems – Case 4**
+# Slide 61 - **Microstructural Developments  in Eutectic Systems - Case 4**
 
 * For alloys for which 18.3 wt% Sn < C0 < 61.9 wt% Sn
 
@@ -2964,7 +2964,7 @@ Wpearlite = Wg
 
 Wa’ = S/(R + S)
 
-W =(1 – Wa’)
+W =(1 - Wa’)
 
 Fe3C
 
@@ -3462,7 +3462,7 @@ Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24 adapted fr
 
 # Slide 68
 
-_**Using the isothermal transformation diagram for an iron–carbon alloy of eutectoid composition, specify the nature of the final microstructure (in terms of microconstituents present and approximate percentages of each) of a small specimen that has been subjected to the following time–temperature treatments. In each case assume that the specimen begins at 760°C (1400°F) and that it has been held at this temperature long enough to have achieved a complete and homogeneous austenitic structure.**_
+_**Using the isothermal transformation diagram for an iron-carbon alloy of eutectoid composition, specify the nature of the final microstructure (in terms of microconstituents present and approximate percentages of each) of a small specimen that has been subjected to the following time-temperature treatments. In each case assume that the specimen begins at 760°C (1400°F) and that it has been held at this temperature long enough to have achieved a complete and homogeneous austenitic structure.**_
 
 _**(a) Cool rapidly to 350°C (660°F), hold for 103 s, then quench to room temperature.**_
 

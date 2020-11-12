@@ -33,7 +33,7 @@ _**mission field**_
 ![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img2.png)
 
 
-# Slide 4 - **Devo/Prayer – Why Create?**
+# Slide 4 - **Devo/Prayer - Why Create?**
 
 ## _**THEO 2043 answer…**_
 
@@ -48,7 +48,7 @@ _**mission field**_
 ![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img3.png)
 
 
-# Slide 5 - **Devo/Prayer – Measuring Faith**
+# Slide 5 - **Devo/Prayer - Measuring Faith**
 
 - “In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.” Matthew 5:16
 - “But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.”  Galatians 5:22-23
@@ -56,7 +56,7 @@ _**mission field**_
 ![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img4.png)
 
 
-# Slide 6 - **Devo/Prayer – Salvation Made Simple**
+# Slide 6 - **Devo/Prayer - Salvation Made Simple**
 
 - God is Righteous
 
@@ -581,7 +581,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 ## Composites
 
-## **General property comparison – Mechanical, Electrical, Thermal, Magnetic, Optical**
+## **General property comparison - Mechanical, Electrical, Thermal, Magnetic, Optical**
 
 ## Advanced Materials
 
@@ -601,21 +601,21 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 ## Periodic Table
 
-## Bonding Force and Energy – Potential Energy versus Atomic Radius curve shapes and implications
+## Bonding Force and Energy - Potential Energy versus Atomic Radius curve shapes and implications
 
 ## Bonding
 
-## Ionic bonds – transfer of valence electrons forms charged ions – ceramics
+## Ionic bonds - transfer of valence electrons forms charged ions - ceramics
 
-## Covalent bonds- sharing of electrons – polymers and some ceramics
+## Covalent bonds- sharing of electrons - polymers and some ceramics
 
 ## Metallic bonding- valence electrons form a “sea of electrons” - metals
 
 Secondary Bonding or van der Waals
 
-Weak bonds – attraction of electric dipoles (permanent or induced)
+Weak bonds - attraction of electric dipoles (permanent or induced)
 
-Hydrogen bonding – polar molecules
+Hydrogen bonding - polar molecules
 
 Processing/Structure/Properties/ Performance
 
@@ -633,13 +633,13 @@ Density Computations
 
 Polymorphisms/Allotropy
 
-3.7 Crystal Systems – know they exist – 7 in total
+3.7 Crystal Systems - know they exist - 7 in total
 
-Crystallographic points 001 – no commas, no parentheses, no brackets
+Crystallographic points 001 - no commas, no parentheses, no brackets
 
 Crystallographic directions [111]
 
-Crystallographic planes (111) – Miller indexes, parallel planes are the same
+Crystallographic planes (111) - Miller indexes, parallel planes are the same
 
 Linear (diameters per unit length) and planar (circle areas per unit area) densities
 
@@ -662,35 +662,35 @@ Noncystalline Solids - amorphous
 
 ## Impurities
 
-## Solid solutions – substitutional, interstitial
+## Solid solutions - substitutional, interstitial
 
 ## Composition calculation WT% or AT%
 
-## Conversion from WT% to AT% and vice versa – equation vs Tabular Method
+## Conversion from WT% to AT% and vice versa - equation vs Tabular Method
 
-## Dislocations – edge, Screw
+## Dislocations - edge, Screw
 
-## Interfacial Defects – External surfaces, grain boundaries, phase boundaries, twin boundaries (annealing and mechanical
+## Interfacial Defects - External surfaces, grain boundaries, phase boundaries, twin boundaries (annealing and mechanical
 
 ## Microscopy
 
 ## Optical ~1500X maximum
 
-## Scanning Electron Microscopy (SEM) ~ 10 t0 50,000X – large depth of field (DOF)
+## Scanning Electron Microscopy (SEM) ~ 10 t0 50,000X - large depth of field (DOF)
 
-## Transmission Electron Microscopy (TEM) up to 1,000,000X – very thin samples
+## Transmission Electron Microscopy (TEM) up to 1,000,000X - very thin samples
 
-## Grain Size Determination – ASTM
+## Grain Size Determination - ASTM
 
 ## **Chapter 5: Diffusion**
 
-## Diffusion – mass transport by atomic motion
+## Diffusion - mass transport by atomic motion
 
-## Diffusion mechanisms – vacancy, interstitial
+## Diffusion mechanisms - vacancy, interstitial
 
-## Steady state diffusion – Fick’s First Law
+## Steady state diffusion - Fick’s First Law
 
-## Non-Steady State Diffusion – Fick’s Second Law
+## Non-Steady State Diffusion - Fick’s Second Law
 
 ## Error Function (ERF)
 
@@ -1112,7 +1112,7 @@ Interstitial solid soln.
 
 ## Determining how much solute dissolves:
 
-- W. Hume – Rothery rules
+- W. Hume - Rothery rules
 
 - 1\.  _r_(atomic radius) < 15% difference
 - 2\. Same crystal structure for pure metals
@@ -1129,7 +1129,7 @@ Interstitial solid soln.
 
 # Slide 20 - **Solid Solution Characteristics**
 
-## Application of Hume–Rothery rules for Solid Solutions
+## Application of Hume-Rothery rules for Solid Solutions
 
 ## 1\. Would you predict more Al or Ag  to dissolve in Zn?
 
@@ -1366,13 +1366,13 @@ tensile direction
 
 # Slide 37 - **Area Defects: Grain Boundaries**
 
-- Start with a molten material – all liquid
+- Start with a molten material - all liquid
 - Solidification - result of casting of molten material
 
 - 2 steps
 
 - Nuclei form
-- Nuclei grow to form crystals – grain structure
+- Nuclei grow to form crystals - grain structure
 
 - Crystals grow until they meet each other where grain boundaries are formed
 
@@ -1441,7 +1441,7 @@ Adapted from Fig. 4.9, _Callister & Rethwisch 8e._
 - ex: Large single crystal of quartz or diamond or Si
 - ex: Aluminum light post or garbage can - see the individual grains
 
-- Or quite small (mm or less) – necessary to observe with a microscope.
+- Or quite small (mm or less) - necessary to observe with a microscope.
 
 ![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img39.png)
 
@@ -1607,7 +1607,7 @@ Tin Rich Phase
 
 (gray)
 
-**Optical Microscopy – Bright Field**
+**Optical Microscopy - Bright Field**
 
 ![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img49.png)
 
@@ -1617,7 +1617,7 @@ TSOP 54, .8 mm Pitch, Case Size 10mm X 22 mm, Magnification 530X, Dark field lig
 
 Crack shows up light with dark field lighting (confirms that this feature is a crack)
 
-**Optical Microscopy – Dark Field**
+**Optical Microscopy - Dark Field**
 
 ![](./Lesson\ 4&5\ Imperfections\ in\ Solids/img50.png)
 

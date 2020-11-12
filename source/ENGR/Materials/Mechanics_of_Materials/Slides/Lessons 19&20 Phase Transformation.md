@@ -33,7 +33,7 @@ _**mission field**_
 ![](./Lessons\ 19&20\ Phase\ Transformation/img3.png)
 
 
-# Slide 5 - **Lesson 19/20 Outline – Phase Transformation**
+# Slide 5 - **Lesson 19/20 Outline - Phase Transformation**
 
 - Devotional/Prayer
 - Transformation Process
@@ -59,7 +59,7 @@ _**Philippians 4:20**_
 ![](./Lessons\ 19&20\ Phase\ Transformation/img5.png)
 
 
-# Slide 7 - **Devo/Prayer – Faith is a Journey**
+# Slide 7 - **Devo/Prayer - Faith is a Journey**
 
 ## Now faith is confidence in what we hope for and assurance about what we do not see.
 
@@ -79,7 +79,7 @@ _**is a great place for to grow your faith!**_
 ![](./Lessons\ 19&20\ Phase\ Transformation/img7.png)
 
 
-# Slide 9 - **Devo/Prayer – Seeking God’s Will**
+# Slide 9 - **Devo/Prayer - Seeking God’s Will**
 
 ## **G** **o to God**
 
@@ -102,7 +102,7 @@ _**is a great place for to grow your faith!**_
 ![](./Lessons\ 19&20\ Phase\ Transformation/img8.png)
 
 
-# Slide 10 - **Devo/Prayer – Seeking God’s Call**
+# Slide 10 - **Devo/Prayer - Seeking God’s Call**
 
 **Gifts**
 
@@ -131,14 +131,14 @@ _**Hebrews 13:20-21**_
 ![](./Lessons\ 19&20\ Phase\ Transformation/img9.png)
 
 
-# Slide 11 - **Devo/Prayer – Jesus Calm’s the COVID-19 Storm**
+# Slide 11 - **Devo/Prayer - Jesus Calm’s the COVID-19 Storm**
 
 ## A furious squall came up, and the waves broke over the boat, so that it was nearly swamped. _**Jesus was in the stern, sleeping on a cushion**_. The disciples woke him and said to him, "Teacher, don't you care if we drown?" _**He got up, rebuked the wind and said to the waves, "Quiet! Be still!"**_ Then the wind died down and it was completely calm. He said to his disciples, "Why are you so afraid? Do you still have no faith?" They were terrified and asked each other, _**"Who is this? Even the wind and the waves obey him!“**_ Mark 4:37-41
 
 ![](./Lessons\ 19&20\ Phase\ Transformation/img10.png)
 
 
-# Slide 12 - **Devo/Prayer – COVID-19 vs God**
+# Slide 12 - **Devo/Prayer - COVID-19 vs God**
 
 - **Enemy Strategy (the loser):**
 
@@ -767,7 +767,7 @@ an interface)
 
 g = surface tension
 
-Volume (Bulk) Free Energy –
+Volume (Bulk) Free Energy -
 
 stabilizes the nuclei (releases energy)
 
@@ -803,14 +803,14 @@ _**Practically, Less Supercooling is Required Since Activation Free Energy is Lo
 
 Kinetics - study of reaction rates of phase transformations (impacts properties)
 
-- To determine reaction rate – measure degree of transformation as function of time (while holding temp constant)
+- To determine reaction rate - measure degree of transformation as function of time (while holding temp constant)
 
-measure propagation of sound waves – on single specimen
+measure propagation of sound waves - on single specimen
 
-electrical conductivity measurements –
+electrical conductivity measurements -
 on single specimen
 
-X-ray diffraction – many specimens required
+X-ray diffraction - many specimens required
 
 How is degree of transformation measured?
 
@@ -845,7 +845,7 @@ Adapted from Fig. 10.10,
 
 _Callister & Rethwisch 8e._
 
-maximum rate reached – rate slows as
+maximum rate reached - rate slows as
 
 unconverted amount decreases
 
@@ -1022,9 +1022,9 @@ Adapted from Fig. 9.24, _Callister & Rethwisch 8e._(Fig. 9.24 adapted from _Bina
 
 # Slide 28 - **The Fe-Fe3C Eutectoid Transformation**
 
-Coarse pearlite (thick layers)  formed at higher temperatures – more diffusion – relatively soft
+Coarse pearlite (thick layers)  formed at higher temperatures - more diffusion - relatively soft
 
-Fine pearlite (thin layers)  formed at lower temperatures – less diffusion – relatively hard
+Fine pearlite (thin layers)  formed at lower temperatures - less diffusion - relatively hard
 
 * Transformation of austenite to pearlite:
 
@@ -1066,7 +1066,7 @@ g
 
 rate increases with
 
-[ _T_ eutectoid – _T_] (i.e., D _T_).
+[ _T_ eutectoid - _T_] (i.e., D _T_).
 
 Adapted from Fig. 10.12, _Callister & Rethwisch 8e._
 
@@ -1355,7 +1355,7 @@ just below eutectoid for long times
 
 \-\- Formation requires diffusion
 
-\-\- Driving force – reduction
+\-\- Driving force - reduction
 
 of a-ferrite/Fe3C interfacial area
 
@@ -1493,9 +1493,9 @@ quench
 
 M (BCT)
 
-Martensite (M) – single phase
+Martensite (M) - single phase
 
-– has body centered tetragonal (BCT)
+- has body centered tetragonal (BCT)
 crystal structure
 
 Diffusionless transformation BCT if _C_ 0 > 0.15 wt% C
@@ -2015,13 +2015,13 @@ Then isothermally treat
 
 at ~ 470ºC
 
-– all remaining austenite
+- all remaining austenite
 
 transforms to bainite.
 
 Isothermally treat at ~ 590ºC
 
-– 50% of austenite transforms
+- 50% of austenite transforms
 
 to fine pearlite.
 
@@ -2030,7 +2030,7 @@ to fine pearlite.
 
 # Slide 45 - **Solutions to Parts (c) & (d) of Example Problem**
 
-- 100% martensite – rapidly quench to room temperature
+- 100% martensite - rapidly quench to room temperature
 
 d) 50% martensite
 
@@ -2415,7 +2415,7 @@ General Trends
 
 # Slide 53 - **Transformations Involving Noneutectoid Compositions**
 
-Hypereutectoid composition – proeutectoid cementite
+Hypereutectoid composition - proeutectoid cementite
 
 Consider _C_ 0 = 1.13 wt% C
 

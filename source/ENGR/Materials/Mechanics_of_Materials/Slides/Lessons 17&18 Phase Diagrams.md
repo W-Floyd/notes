@@ -60,7 +60,7 @@ _**mission field**_
 ![](./Lessons\ 17&18\ Phase\ Diagrams/img3.png)
 
 
-# Slide 5 - **Lesson 17/18 Outline – Phase Diagrams**
+# Slide 5 - **Lesson 17/18 Outline - Phase Diagrams**
 
 - Devotional/Prayer
 - Terminology
@@ -68,7 +68,7 @@ _**mission field**_
 - Determining Component & Phase Composition
 - Phase Microstructure
 - Eutectic, Eutectoid, Peritectic, Hypo/Hypereutectoid
-- Iron – Carbon System
+- Iron - Carbon System
 - Summary/Wrap up
 
 ![](./Lessons\ 17&18\ Phase\ Diagrams/img4.png)
@@ -83,7 +83,7 @@ _**Colossians 3:23**_
 ![](./Lessons\ 17&18\ Phase\ Diagrams/img5.png)
 
 
-# Slide 7 - **Devo/Prayer – Jesus Walks With Us**
+# Slide 7 - **Devo/Prayer - Jesus Walks With Us**
 
 ## When Jesus saw her weeping, and the Jews who had come along with her also weeping, He was deeply moved in spirit and troubled. "Where have you laid him?" He asked. "Come and see, LORD," they replied. Jesus wept.
 
@@ -93,14 +93,14 @@ _**Colossians 3:23**_
 
 ## **Romans 8:38-39**
 
-## What no eye has seen, what no ear has heard, and what no human mind has conceived – the things God has prepared for those who love Him.
+## What no eye has seen, what no ear has heard, and what no human mind has conceived - the things God has prepared for those who love Him.
 
 ## **1 Corinthians 2:9**
 
 ![](./Lessons\ 17&18\ Phase\ Diagrams/img6.png)
 
 
-# Slide 8 - **Devo/Prayer – Seeking God’s Call**
+# Slide 8 - **Devo/Prayer - Seeking God’s Call**
 
 **Gifts**
 
@@ -173,7 +173,7 @@ _**A Great Time To Shine His Light & Grow Our Faith!**_
 ![](./Lessons\ 17&18\ Phase\ Diagrams/img10.png)
 
 
-# Slide 12 - **Online Learning – Philosophy**
+# Slide 12 - **Online Learning - Philosophy**
 
 - Create Same Environment Online We Had In Class
 
@@ -195,7 +195,7 @@ _**A Great Time To Shine His Light & Grow Our Faith!**_
 ![](./Lessons\ 17&18\ Phase\ Diagrams/img11.png)
 
 
-# Slide 13 - **Online Learning – Preparation / Attendance**
+# Slide 13 - **Online Learning - Preparation / Attendance**
 
 - Preparation (check Canvas Module for appropriate day)
 
@@ -216,7 +216,7 @@ _**A Great Time To Shine His Light & Grow Our Faith!**_
 ![](./Lessons\ 17&18\ Phase\ Diagrams/img12.png)
 
 
-# Slide 14 - **Online Phase – HELP Still Available!!!**
+# Slide 14 - **Online Phase - HELP Still Available!!!**
 
 - Office Hours
 
@@ -234,7 +234,7 @@ _**A Great Time To Shine His Light & Grow Our Faith!**_
 ![](./Lessons\ 17&18\ Phase\ Diagrams/img13.png)
 
 
-# Slide 15 - **Devo/Prayer – COVID-19 vs God**
+# Slide 15 - **Devo/Prayer - COVID-19 vs God**
 
 - **Enemy Strategy (the loser):**
 
@@ -255,7 +255,7 @@ _**In the same way, let your light shine before others, that they may see your g
 ![](./Lessons\ 17&18\ Phase\ Diagrams/img14.png)
 
 
-# Slide 16 - **Devo/Prayer – Jesus Calm’s the COVID-19 Storm**
+# Slide 16 - **Devo/Prayer - Jesus Calm’s the COVID-19 Storm**
 
 ## A furious squall came up, and the waves broke over the boat, so that it was nearly swamped. _**Jesus was in the stern, sleeping on a cushion**_. The disciples woke him and said to him, "Teacher, don't you care if we drown?" _**He got up, rebuked the wind and said to the waves, "Quiet! Be still!"**_ Then the wind died down and it was completely calm. He said to his disciples, "Why are you so afraid? Do you still have no faith?" They were terrified and asked each other, _**"Who is this? Even the wind and the waves obey him!“**_ Mark 4:37-41
 
@@ -765,7 +765,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **ENGR2313 Materials Engineering Exam 3 Topics**
 
-**Three double sided 8.5X11” sheets of notes (Exam 1 sheet & Exam 2 sheets, plus one new sheet) – no prior exam problems**
+**Three double sided 8.5X11” sheets of notes (Exam 1 sheet & Exam 2 sheets, plus one new sheet) - no prior exam problems**
 
 - **Chapter 9: Phase Diagrams**
 - Know meaning (describe in words) and appearance on phase diagram of
@@ -782,7 +782,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 - Identify the phases present
 - Identify the concentration of elements in each phase present
 - Calculate the WT% or WT fraction of each phase present
-- Recognize what proeutectic alpha (AKA primary alpha) is – I will not ask you to calculate it
+- Recognize what proeutectic alpha (AKA primary alpha) is - I will not ask you to calculate it
 - Recognize the solubility limit of solvent alpha at various temperatures
 
 - **Chapter 10: Phase Transformations**
@@ -924,9 +924,9 @@ Adapted from Fig. 9.1,
 
 Callister & Rethwisch 8e.
 
-* Solution – solid, liquid, or gas solutions, single phase
+* Solution - solid, liquid, or gas solutions, single phase
 
-* Mixture – more than one phase
+* Mixture - more than one phase
 
 ![](./Lessons\ 17&18\ Phase\ Diagrams/img22.png)
 
@@ -1042,7 +1042,7 @@ a
 
 (darker
 
-Phase – in
+Phase - in
 
 this case)
 
@@ -1050,7 +1050,7 @@ b
 
 (lighter
 
-Phase – in
+Phase - in
 
 this case)
 
@@ -1086,7 +1086,7 @@ FCC
 0.1278
 
 -  Both have the same crystal structure (FCC) and have
-     similar electronegativities and atomic radii (W. Hume –
+     similar electronegativities and atomic radii (W. Hume -
      Rothery rules) suggesting high mutual solubility.
 
 Simple system (e.g., Ni-Cu solution)
@@ -1479,7 +1479,7 @@ TB
 
 # Slide 31 - **The Lever Rule**
 
-- Tie line – connects the phases in equilibrium with each other – also sometimes called an isotherm
+- Tie line - connects the phases in equilibrium with each other - also sometimes called an isotherm
 
 What fraction of each phase?
 Think of the tie line as a lever
@@ -2066,7 +2066,7 @@ L(CE) (CE) + (CE)
 ![](./Lessons\ 17&18\ Phase\ Diagrams/img35.png)
 
 
-# Slide 37 - **Microstructural Developments  in Eutectic Systems – Case 1**
+# Slide 37 - **Microstructural Developments  in Eutectic Systems - Case 1**
 
 * For alloys for which
 
@@ -2145,7 +2145,7 @@ Adapted from Fig. 9.11, Callister & Rethwisch 8e.
 ![](./Lessons\ 17&18\ Phase\ Diagrams/img36.png)
 
 
-# Slide 38 - **Microstructural Developments  in Eutectic Systems – Case 2**
+# Slide 38 - **Microstructural Developments  in Eutectic Systems - Case 2**
 
 * For alloys for which
 
@@ -2232,7 +2232,7 @@ a: C0 wt% Sn
 ![](./Lessons\ 17&18\ Phase\ Diagrams/img37.png)
 
 
-# Slide 39 - **Microstructural Developments  in Eutectic Systems – Case 3**
+# Slide 39 - **Microstructural Developments  in Eutectic Systems - Case 3**
 
 * For alloy of composition C0 = CE
 
@@ -2323,7 +2323,7 @@ Adapted from Figs. 9.14 & 9.15, Callister & Rethwisch 8e.
 ![](./Lessons\ 17&18\ Phase\ Diagrams/img39.png)
 
 
-# Slide 41 - **Microstructural Developments  in Eutectic Systems – Case 4**
+# Slide 41 - **Microstructural Developments  in Eutectic Systems - Case 4**
 
 * For alloys for which 18.3 wt% Sn < C0 < 61.9 wt% Sn
 
@@ -2498,7 +2498,7 @@ L
 
 # Slide 42 - **Eutectic, Eutectoid, & Peritectic (all transformations occur upon cooling)**
 
-- Eutectoid – one solid phase transforms to two other solid phases
+- Eutectoid - one solid phase transforms to two other solid phases
 
 S2 S1+S3
 
@@ -2945,7 +2945,7 @@ Wpearlite = Wg
 
 Wa’ = S/(R + S)
 
-W =(1 – Wa’)
+W =(1 - Wa’)
 
 Fe3C
 

@@ -52,7 +52,7 @@ _**mission field**_
 ![](./Lessons\ 26\ Polymer\ Structures/img4.png)
 
 
-# Slide 6 - **Easter – It’s Even More Than We Imagine**
+# Slide 6 - **Easter - It’s Even More Than We Imagine**
 
 _**In Jesus, God Frees Us From the Guilt, Condemnation, & Power of Sin…**_
 
@@ -67,7 +67,7 @@ Therefore go and make disciples of all nations, baptizing them in the name of th
 ![](./Lessons\ 26\ Polymer\ Structures/img5.png)
 
 
-# Slide 7 - **Lesson 26 Outline – Polymer Structures**
+# Slide 7 - **Lesson 26 Outline - Polymer Structures**
 
 - Devotional/Prayer
 - Structure & Chemical Characteristics
@@ -382,19 +382,19 @@ from that in metals and ceramics ?
 
 # Slide 11 - **Types of Materials**
 
-- Metals: Metallic bonding – sea of electrons
+- Metals: Metallic bonding - sea of electrons
 
 - Strong/stiff, ductile, usually crystalline
 - High thermal & electrical conductivity
 - Opaque, reflective.
 
-- Polymers/plastics: Covalent bonding – sharing of electrons
+- Polymers/plastics: Covalent bonding - sharing of electrons
 
 - Soft, ductile, usually non-crystalline, low strength, low density, lower melting temps, high coefficients of thermal expansion
 - Thermal & electrical insulators
 - Optically translucent or transparent.
 
-- Ceramics: ionic bonding – transfer of electrons
+- Ceramics: ionic bonding - transfer of electrons
 
 - Compounds of metallic & non-metallic elements (oxides, carbides, nitrides, sulfides)
 - Brittle, glassy
@@ -546,9 +546,9 @@ unit
 
 - Exist in nature
 
-- Wood – Rubber
-- Cotton – Wool
-- Leather – Silk
+- Wood - Rubber
+- Cotton - Wool
+- Leather - Silk
 
 - Oldest known uses
 
@@ -563,7 +563,7 @@ unit
 
 ## Most polymers are organic hydrocarbons
 
-## – i.e., made up of H and C
+## - i.e., made up of H and C
 
 - Saturated hydrocarbons
 
@@ -582,7 +582,7 @@ unit
 
 # Slide 16 - **Unsaturated Hydrocarbons**
 
-- Double & triple bonds somewhat unstable – can form new bonds
+- Double & triple bonds somewhat unstable - can form new bonds
 
 - Double bond found in ethylene or ethene - C2H4
 - Triple bond found in acetylene or ethyne - C2H2
@@ -687,9 +687,9 @@ Chain fraction
 ![](./Lessons\ 26\ Polymer\ Structures/img25.png)
 
 
-# Slide 27 - **Polymers – Molecular Shape**
+# Slide 27 - **Polymers - Molecular Shape**
 
-## Molecular Shape (or Conformation) – chain bending and twisting are possible by rotation of carbon atoms around their chain bonds
+## Molecular Shape (or Conformation) - chain bending and twisting are possible by rotation of carbon atoms around their chain bonds
 
 - note: not necessary to break chain bonds to alter molecular shape
 
@@ -728,7 +728,7 @@ bonding
 
 # Slide 30 - **Molecular Configurations for Polymers**
 
-## Configurations – to change, bonds must be broken
+## Configurations - to change, bonds must be broken
 
 - Stereoisomerism
 
@@ -756,7 +756,7 @@ mirror plane
 
 Stereoisomers are mirror
 
-images – can’t superimpose
+images - can’t superimpose
 
 without breaking a bond
 
@@ -788,12 +788,12 @@ H atom and CH3 group on opposite sides of chain
 
 ## two or more monomers polymerized together
 
-- random – A and B randomly positioned along chain
-- alternating – A and B alternate in polymer chain
-- block – large blocks of A units alternate with large blocks of B units
-- graft – chains of B units grafted onto A backbone
+- random - A and B randomly positioned along chain
+- alternating - A and B alternate in polymer chain
+- block - large blocks of A units alternate with large blocks of B units
+- graft - chains of B units grafted onto A backbone
 
-## A – B –
+## A - B -
 
 random
 
@@ -855,7 +855,7 @@ region
 ![](./Lessons\ 26\ Polymer\ Structures/img33.png)
 
 
-# Slide 35 - **Polymer Crystallinity – Chain Folded**
+# Slide 35 - **Polymer Crystallinity - Chain Folded**
 
 - Thin platelets with chains folding back and forth on themselves (folds at faces)
 - Single crystals (within amorphous material) occur for slow and carefully controlled growth rates
@@ -867,7 +867,7 @@ Adapted from Fig. 14.12, _Callister & Rethwisch 8e._
 ![](./Lessons\ 26\ Polymer\ Structures/img34.png)
 
 
-# Slide 36 - **Polymer Crystallinity – Spherulite**
+# Slide 36 - **Polymer Crystallinity - Spherulite**
 
 Spherulite surface
 
@@ -977,18 +977,18 @@ Manipulate and rotate polymer structures in 3-dimensions
 
 # Slide 41 - **Tacticity**
 
-## Tacticity – stereoregularity or spatial arrangement of R units along chain
+## Tacticity - stereoregularity or spatial arrangement of R units along chain
 
-isotactic – all R groups on same side of chain
+isotactic - all R groups on same side of chain
 
-syndiotactic – R groups alternate sides
+syndiotactic - R groups alternate sides
 
 ![](./Lessons\ 26\ Polymer\ Structures/img40.png)
 
 
 # Slide 42 - **Tacticity (cont.)**
 
-atactic – R groups randomly
+atactic - R groups randomly
 positioned
 
 ![](./Lessons\ 26\ Polymer\ Structures/img41.png)

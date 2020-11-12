@@ -7,7 +7,7 @@ _**mission field**_
 ![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img0.png)
 
 
-# Slide 2 - **Devo/Prayer – Salvation Made Simple**
+# Slide 2 - **Devo/Prayer - Salvation Made Simple**
 
 - God is Righteous
 
@@ -32,7 +32,7 @@ _**“This, then, is how you should pray: ‘Our Father in heaven, hallowed be y
 ![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img1.png)
 
 
-# Slide 3 - **Devo/Prayer – Salvation Made Simple**
+# Slide 3 - **Devo/Prayer - Salvation Made Simple**
 
 - God is Righteous
 
@@ -61,7 +61,7 @@ _**“This, then, is how you should pray: ‘Our Father in heaven, hallowed be y
 - God the Son DEMONSTRATED that love
 - God the Holy Spirit is His love LIVING WITHIN us…
 
-- God as a person – the Holy Spirit in me
+- God as a person - the Holy Spirit in me
 
 - “And I will ask the Father, and he will give you another advocate to help you and be with you forever—the Spirit of truth.” John 14:16
 
@@ -336,7 +336,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 ![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img4.png)
 
 
-# Slide 6 - **Lesson 3 Outline – Structure of Crystalline Solids**
+# Slide 6 - **Lesson 3 Outline - Structure of Crystalline Solids**
 
 - Questions From Last Lesson
 - Energy, Packing, Density
@@ -1288,7 +1288,7 @@ Anisotropic
 
 ## titanium
 
-## ( _α_, _β_–Ti)
+## ( _α_, _β_-Ti)
 
 ## carbon
 
@@ -1324,7 +1324,7 @@ iron system
 **Steps:**
 
 1. Determine coordinates of vector tail, pt. 1: _x_ 1, _y_ 1 _, & z_ 1; and vector head, pt. 2: _x_ 2, _y_ 2 _, & z_ 2.
-2. Tail point coordinates subtracted from head point coordinates (head – tail).
+2. Tail point coordinates subtracted from head point coordinates (head - tail).
 
 3. Normalize coordinate differences in terms of lattice parameters _a_, _b_, and _c_:
 
@@ -1829,9 +1829,9 @@ _a_ 1 _a_ 2 _a_ 3 _z_
 
 3\. Projections
 
-proceed – _a_/3 units along _a_ 1 axis to point _p_
+proceed - _a_/3 units along _a_ 1 axis to point _p_
 
-–2 _a_/3 units parallel to _a_ 2 axis to point _q_
+-2 _a_/3 units parallel to _a_ 2 axis to point _q_
 
 _a_/3 units parallel to _a_ 3 axis to point _r_
 
@@ -2215,12 +2215,12 @@ _b_
 ![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img47.png)
 
 
-# Slide 49 - **VMSE Screenshot – BCC Unit Cell**
+# Slide 49 - **VMSE Screenshot - BCC Unit Cell**
 
 ![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img48.png)
 
 
-# Slide 50 - **VMSE Screenshot – Stacking Sequence and Unit Cell for HCP**
+# Slide 50 - **VMSE Screenshot - Stacking Sequence and Unit Cell for HCP**
 
 ![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img49.png)
 
@@ -2252,12 +2252,12 @@ GE Superabrasives, Worthington, OH. Used with permission.)
 ![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img50.png)
 
 
-# Slide 52 - **VMSE Screenshot – [101] Direction**
+# Slide 52 - **VMSE Screenshot - [101] Direction**
 
 ![](./Lesson\ 3\ Structure\ of\ Crystalline\ Solids/img51.png)
 
 
-# Slide 53 - **VMSE Screenshot – Crystallographic Planes**
+# Slide 53 - **VMSE Screenshot - Crystallographic Planes**
 
 Additional practice on indexing crystallographic planes
 

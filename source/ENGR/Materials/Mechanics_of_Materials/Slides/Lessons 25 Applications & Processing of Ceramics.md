@@ -43,7 +43,7 @@ _**mission field**_
 ![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img4.png)
 
 
-# Slide 6 - **Lesson 25 Outline – Applications & Processing of Ceramics**
+# Slide 6 - **Lesson 25 Outline - Applications & Processing of Ceramics**
 
 - Devotional/Prayer
 - Classification and Application of Ceramics
@@ -634,7 +634,7 @@ external surface
 
 ## Advantages:
 
-- Operate at high temperatures – high efficiencies
+- Operate at high temperatures - high efficiencies
 - Low frictional losses
 - Operate without a cooling system
 - Lower weights than current engines
@@ -840,7 +840,7 @@ cooler
 
 # Slide 19 - **Sheet Glass Forming**
 
-- Sheet forming – continuous casting
+- Sheet forming - continuous casting
 
 - sheets are formed by floating the molten glass on a pool of molten tin
 
@@ -979,7 +979,7 @@ Hydroplastic forming (clays):
 # Slide 23 - **Drying and Firing**
 
 * Drying: as water is removed - interparticle spacings decrease
-– shrinkage
+- shrinkage
 
 Adapted from Fig. 13.13, _Callister & Rethwisch 8e_. (Fig. 13.13 is from W.D. Kingery, _Introduction to Ceramics_, John Wiley and Sons, Inc., 1960.)
 
@@ -997,7 +997,7 @@ completely dry
 900-1400ºC
 
 \-\- Vitrification: liquid glass forms
-from clay and flux – flows
+from clay and flux - flows
 between and bonds SiO2 particles. (Flux lowers melting temperature).
 
 Adapted from Fig. 13.14, _Callister & Rethwisch 8e_. (Fig. 13.14 is courtesy H.G. Brinkies, Swinburne University of Technology, Hawthorn Campus, Hawthorn, Victoria, Australia.)
@@ -1077,7 +1077,7 @@ Slip casting (clays):
 
 ## (50%) 1. Clay
 
-## (25%) 2. Filler – e.g. quartz (finely ground)
+## (25%) 2. Filler - e.g. quartz (finely ground)
 
 ## (25%) 3. Fluxing agent (Feldspar)  \-\- aluminosilicates plus K+, Na+, Ca+
 
@@ -1098,9 +1098,9 @@ layered sheets
 \-\- reduces degree of van der Waals
 bonding
 
-\-\- when external forces applied – clay
+\-\- when external forces applied - clay
 particles free to move past one
-another – becomes hydroplastic
+another - becomes hydroplastic
 
 * Structure of
 
@@ -1209,13 +1209,13 @@ Fig. 13.18, _Callister & Rethwisch 8e_.
 
 # Slide 30 - **Ceramic Fabrication Methods**
 
-* Hardening of a paste – paste formed by mixing cement
+* Hardening of a paste - paste formed by mixing cement
 material with water
 
 * Formation of rigid structures having varied and complex
 shapes
 
-* Hardening process – hydration (complex chemical
+* Hardening process - hydration (complex chemical
 reactions involving water and cement particles)
 
 GLASS
@@ -1227,7 +1227,7 @@ FORMING
 
 CEMENTATION
 
-* Portland cement – production of:
+* Portland cement - production of:
 
 \-\- Mix clay and lime-bearing minerals
 

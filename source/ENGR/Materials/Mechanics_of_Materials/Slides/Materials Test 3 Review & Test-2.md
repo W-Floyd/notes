@@ -185,7 +185,7 @@ _**mission field**_
 
 **Fall Break (15-16 Oct)**
 
-**Materials Engineering Journey – Section 3**
+**Materials Engineering Journey - Section 3**
 
 **17**
 
@@ -433,7 +433,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **Fall Break (15-16 Oct)**
 
-**Materials Engineering Journey – Section 1/2**
+**Materials Engineering Journey - Section 1/2**
 
 **17**
 
@@ -566,7 +566,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **ENGR2313 Materials Engineering Exam 3 Topics**
 
-**Three double sided 8.5X11” sheets of notes (Exam 1 sheet, Exam 2 sheet plus one new sheet) – no prior exam problems**
+**Three double sided 8.5X11” sheets of notes (Exam 1 sheet, Exam 2 sheet plus one new sheet) - no prior exam problems**
 
 **Chapter 9: Phase Diagrams**
 
@@ -584,7 +584,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 - Identify the phases present
 - Identify the concentration of elements in each phase present
 - Calculate the WT% or WT fraction of each phase present
-- Recognize what proeutectic alpha or cementite are (AKA primary alpha or cementite) – I will not ask you to calculate it
+- Recognize what proeutectic alpha or cementite are (AKA primary alpha or cementite) - I will not ask you to calculate it
 - Recognize the solubility limit of solvent alpha at various temperatures
 
 **Chapter 10: Phase Transformations**
@@ -599,7 +599,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 # Slide 9 - **Eutectic, Eutectoid, & Peritectic (all transformations are upon cooling)**
 
-- Eutectoid – one solid phase transforms to two other solid phases
+- Eutectoid - one solid phase transforms to two other solid phases
 
 S2 S1+S3
 
@@ -672,11 +672,11 @@ Primary α/β
 
 Eutectic α/β
 
-_**15 wt% Sn–85 wt% Pb**_
+_**15 wt% Sn-85 wt% Pb**_
 
 _**at 100°C**_
 
-_**30 wt% Sn–70 wt% Pb**_
+_**30 wt% Sn-70 wt% Pb**_
 
 _**at 150°C**_
 
@@ -802,7 +802,7 @@ L(CE) (CE) + (CE)
 ![](./Materials\ Test\ 3\ Review\ &\ Test-2/img12.png)
 
 
-# Slide 14 - **Microstructural Developments  in Eutectic Systems – Case 1**
+# Slide 14 - **Microstructural Developments  in Eutectic Systems - Case 1**
 
 * For alloys for which
 
@@ -881,7 +881,7 @@ Adapted from Fig. 9.11, Callister & Rethwisch 8e.
 ![](./Materials\ Test\ 3\ Review\ &\ Test-2/img13.png)
 
 
-# Slide 15 - **Microstructural Developments  in Eutectic Systems – Case 2**
+# Slide 15 - **Microstructural Developments  in Eutectic Systems - Case 2**
 
 * For alloys for which
 
@@ -968,7 +968,7 @@ a: C0 wt% Sn
 ![](./Materials\ Test\ 3\ Review\ &\ Test-2/img14.png)
 
 
-# Slide 16 - **Microstructural Developments  in Eutectic Systems – Case 3**
+# Slide 16 - **Microstructural Developments  in Eutectic Systems - Case 3**
 
 * For alloy of eutectic composition C0 = CE
 
@@ -1052,7 +1052,7 @@ L: C0 wt% Sn
 ![](./Materials\ Test\ 3\ Review\ &\ Test-2/img15.png)
 
 
-# Slide 17 - **Microstructural Developments  in Eutectic Systems – Case 4**
+# Slide 17 - **Microstructural Developments  in Eutectic Systems - Case 4**
 
 * For alloys for which 18.3 wt% Sn < C0 < 61.9 wt% Sn
 
@@ -1226,7 +1226,7 @@ L
 
 # Slide 18
 
-_**Cite the phases that are present and the phase compositions for an alloy consisting of 15 wt% Sn–85 wt% Pb at 100°C (212°F)**_
+_**Cite the phases that are present and the phase compositions for an alloy consisting of 15 wt% Sn-85 wt% Pb at 100°C (212°F)**_
 
 _**(a) Determine the phases present**_
 
@@ -1234,7 +1234,7 @@ _**(b) Determine the composition of each phase**_
 
 _**(c) Determine the relative amount of each phase**_
 
-_**A lead–tin alloy of composition 30 wt% Sn–70 wt% Pb is slowly heated from a temperature of 150°C (300°F).**_
+_**A lead-tin alloy of composition 30 wt% Sn-70 wt% Pb is slowly heated from a temperature of 150°C (300°F).**_
 
 _**(a) At what temperature does the first liquid phase form?**_
 
@@ -1248,7 +1248,7 @@ _**(d) What is the composition of the last solid remaining prior to complete mel
 
 # Slide 19
 
-_**Cite the phases that are present and the phase compositions for an alloy consisting of 15 wt% Sn–85 wt% Pb at 100°C (212°F)**_
+_**Cite the phases that are present and the phase compositions for an alloy consisting of 15 wt% Sn-85 wt% Pb at 100°C (212°F)**_
 
 _**(a) Determine the phases present**_
 
@@ -1266,7 +1266,7 @@ _**(c) Determine the relative amount of each phase**_
 
 **Wt%β = 1-89% = 11%**
 
-_**A lead–tin alloy of composition 30 wt% Sn–70 wt% Pb is slowly heated from a temperature of 150°C (300°F).**_
+_**A lead-tin alloy of composition 30 wt% Sn-70 wt% Pb is slowly heated from a temperature of 150°C (300°F).**_
 
 _**(a) At what temperature does the first liquid phase form? 183°C**_
 
@@ -1522,7 +1522,7 @@ Wpearlite = Wg
 
 Wa’ = S/(R + S)
 
-W =(1 – Wa’)
+W =(1 - Wa’)
 
 Fe3C
 
@@ -2020,7 +2020,7 @@ Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24 adapted fr
 
 # Slide 26
 
-_**Using the isothermal transformation diagram for an iron–carbon alloy of eutectoid composition, specify the nature of the final microstructure (in terms of microconstituents present and approximate percentages of each) of a small specimen that has been subjected to the following time–temperature treatments. In each case assume that the specimen begins at 760°C (1400°F) and that it has been held at this temperature long enough to have achieved a complete and homogeneous austenitic structure.**_
+_**Using the isothermal transformation diagram for an iron-carbon alloy of eutectoid composition, specify the nature of the final microstructure (in terms of microconstituents present and approximate percentages of each) of a small specimen that has been subjected to the following time-temperature treatments. In each case assume that the specimen begins at 760°C (1400°F) and that it has been held at this temperature long enough to have achieved a complete and homogeneous austenitic structure.**_
 
 _**(a) Cool rapidly to 350°C (660°F), hold for 103 s, then quench to room temperature.**_
 
