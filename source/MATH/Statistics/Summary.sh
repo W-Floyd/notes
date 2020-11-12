@@ -1,5 +1,10 @@
 #!/bin/bash
 
+if [ "${1}" == '-f' ]; then
+    echo '--filter pandoc-include'
+    exit
+fi
+
 echo '---
 title: Summary
 author: William Floyd
