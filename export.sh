@@ -28,7 +28,10 @@ readarray -t __target_files < <(
 
 readarray -t __source_scripts < <(
     find "${__source_dir}" -iname '*.sh' | while read -r __file; do
-        echo "${__file}"
+        if grep -vEq '^\.' <<<"$(basename "${__file}")"; then
+            echo "${__file}"
+        fi
+
     done
 )
 
@@ -62,6 +65,8 @@ for n in $(seq 0 $((${#__source_files[@]} - 1))); do
     popd &>/dev/null
 done
 
+__lua_dir='/home/william/Documents/git/clone/lua-filters'
+
 for n in $(seq 0 $((${#__source_scripts[@]} - 1))); do
     __source_dir_local="${__top_dir}/$(dirname "${__source_scripts[${n}]}")"
     __target_dir_local="${__top_dir}/$(dirname "${__target_scripts[${n}]}")"
@@ -75,7 +80,9 @@ for n in $(seq 0 $((${#__source_scripts[@]} - 1))); do
 
     for f in ${__output_formats[@]}; do
         {
-            pandoc -o "${__target_file_local}.${f}" --standalone --mathjax --filter pandoc-include <("./$(basename "${__source_file_local}")")
+            __filters="$("./$(basename "${__source_file_local}")" -f | sed "s|%lua_dir%|${__lua_dir}|g")"
+            readarray -t __filters_array <<<"${__filters}"
+            pandoc -o "${__target_file_local}.${f}" --standalone --mathjax ${__filters_array[@]} <("./$(basename "${__source_file_local}")")
             echo
             echo "${__target_scripts[${n}]}.${f}"
         } #&
