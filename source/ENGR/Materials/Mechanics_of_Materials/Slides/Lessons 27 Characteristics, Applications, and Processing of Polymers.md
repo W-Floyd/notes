@@ -118,46 +118,7 @@ Craze formation prior to cracking
 # Slide 15 - **Mechanisms of Deformation—Elastomers**
 
 - Heavily kinked/coiled with cross-links to provide elasticity
-
-  - Contrasts with brittle behavior of aligned, crosslinked & network polymers
-
-and plastic behavior of semicrystalline polymers
-
-Stress-strain curves adapted from Fig. 15.1, _Callister & Rethwisch 8e._ Inset figures along elastomer curve (green) adapted from Fig. 15.15, _Callister & Rethwisch 8e_. (Fig. 15.15 is from Z.D. Jastrzebski, _The Nature and Properties of Engineering Materials_, 3rd ed., John Wiley and Sons, 1987.)
-
-s
-
-(MPa)
-
-e
-
-initial: amorphous chains are
-
-kinked, cross-linked.
-
-x
-
-final: chains
-
-are straighter,
-
-still
-
-cross-linked
-
-elastomer
-
-deformation
-
-is reversible (elastic)!
-
-brittle failure
-
-plastic failure
-
-x
-
-x
+  - Contrasts with brittle behavior of aligned, crosslinked & network polymers and plastic behavior of semicrystalline polymers
 
 ![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img14.png>)
 
@@ -165,7 +126,7 @@ x
 
 ## What factors affect _Tm_ and _Tg_?
 
-- Both _Tm and Tg_ increase with increasing chain stiffness
+- Both $T_m$ and $T_g$ increase with increasing chain stiffness
 - Chain stiffness increased by presence of
 
 - Bulky sidegroups
