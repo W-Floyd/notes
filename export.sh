@@ -6,12 +6,10 @@ __target_dir='./export/'
 find "${__target_dir}" -type f -delete
 find "${__target_dir}" -type l -delete
 
-
-
 if [ "${#}" == 0 ]; then
-__output_formats=('pdf' 'html')
+    __output_formats=('pdf' 'html')
 else
-__output_formats=${@}
+    __output_formats=${@}
 fi
 
 readarray -t __source_files < <(
