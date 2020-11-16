@@ -60,12 +60,13 @@ for n in $(seq 0 $((${#__source_files[@]} - 1))); do
             pandoc -o "${__target_file_local}.${f}" --standalone --mathjax --filter pandoc-include "$(basename "${__source_file_local}")"
             echo
             echo "${__target_files[${n}]}.${f}"
-        } #&
+        } &
     done
     popd &>/dev/null
 done
 
 __lua_dir='/home/william/Documents/git/clone/lua-filters'
+__lua_dir_custom='/home/william/Documents/git/original/lua-filters'
 
 for n in $(seq 0 $((${#__source_scripts[@]} - 1))); do
     __source_dir_local="${__top_dir}/$(dirname "${__source_scripts[${n}]}")"
@@ -80,12 +81,12 @@ for n in $(seq 0 $((${#__source_scripts[@]} - 1))); do
 
     for f in ${__output_formats[@]}; do
         {
-            __filters="$("./$(basename "${__source_file_local}")" -f | sed "s|%lua_dir%|${__lua_dir}|g")"
+            __filters="$("./$(basename "${__source_file_local}")" -f | sed -e "s|%lua_dir%|${__lua_dir}|g" -e "s|%lua_dir_custom%|${__lua_dir_custom}|g")"
             readarray -t __filters_array <<<"${__filters}"
             pandoc -o "${__target_file_local}.${f}" --standalone --mathjax ${__filters_array[@]} <("./$(basename "${__source_file_local}")")
             echo
             echo "${__target_scripts[${n}]}.${f}"
-        } #&
+        } &
     done
 
     popd &>/dev/null
