@@ -33,3 +33,8 @@ $$
 $$
 \underbrace{S_{2}-S_{1}}_\text{entropy change}=\underbrace{\int_{1}^{2}\left(\frac{\delta Q}{T}\right)_{\mathrm{b}}}_\text{entropy transfer}+ \underbrace{\sigma}_\text{entropy production}
 $$
+
+## Turbine
+
+Max power from turbine can be found assuming it is reversible, which means that $s_1=s_2$.
+Match across to find $h_{2s}$.
