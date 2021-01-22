@@ -3,17 +3,22 @@
 __source_dir='./source/'
 __target_dir='./export/'
 
-find "${__target_dir}" -type f -delete
-find "${__target_dir}" -type l -delete
+if [ -d "${__target_dir}" ]; then
+    find "${__target_dir}" -type f -delete
+    find "${__target_dir}" -type l -delete
+else
+    mkdir "${__target_dir}"
+fi
 
 if [ "${#}" == 0 ]; then
+    # __output_formats=('pdf' 'html')
     __output_formats=('pdf' 'html')
 else
     __output_formats=${@}
 fi
 
 readarray -t __source_files < <(
-    find "${__source_dir}" -iname '*.md' | while read -r __file; do
+    find "${__source_dir}" -iname '*.md' -not -iname '\.*' | while read -r __file; do
         echo "${__file}"
     done
 )
@@ -44,6 +49,7 @@ readarray -t __target_scripts < <(
 )
 
 __top_dir="$(pwd)"
+__img_temp='img'
 
 for n in $(seq 0 $((${#__source_files[@]} - 1))); do
     __source_dir_local="${__top_dir}/$(dirname "${__source_files[${n}]}")"
@@ -54,19 +60,27 @@ for n in $(seq 0 $((${#__source_files[@]} - 1))); do
 
     ln -s "${__source_file_local}" "${__target_file_local}.md"
 
-    pushd "${__source_dir_local}" &>/dev/null
-    for f in ${__output_formats[@]}; do
-        {
-            pandoc -o "${__target_file_local}.${f}" --standalone --mathjax --filter pandoc-include "$(basename "${__source_file_local}")"
-            echo
-            echo "${__target_files[${n}]}.${f}"
-        } &
-    done
-    popd &>/dev/null
-done
+    pushd "${__source_dir_local}" &>/dev/null && {
 
-__lua_dir='/home/william/Documents/git/clone/lua-filters'
-__lua_dir_custom='/home/william/Documents/git/original/lua-filters'
+        if ! [ -d "${__target_dir_local}/${__img_temp}" ]; then
+            mkdir "${__target_dir_local}/${__img_temp}"
+        fi
+
+        for f in "${__output_formats[@]}"; do
+            {
+                pp -img="${__target_dir_local}/${__img_temp}" "$(basename "${__source_file_local}")" |
+                    pandoc -o "${__target_file_local}.${f}" \
+                        --template="${__top_dir}/templates/template" \
+                        --standalone \
+                        --mathjax
+                echo "${__target_files[${n}]}.${f}"
+            } &
+        done
+
+        popd &>/dev/null || { echo 'Something is very wrong'; }
+
+    }
+done
 
 for n in $(seq 0 $((${#__source_scripts[@]} - 1))); do
     __source_dir_local="${__top_dir}/$(dirname "${__source_scripts[${n}]}")"
@@ -77,19 +91,27 @@ for n in $(seq 0 $((${#__source_scripts[@]} - 1))); do
 
     ln -s "${__source_file_local}" "${__target_file_local}.sh"
 
-    pushd "${__source_dir_local}" &>/dev/null
+    pushd "${__source_dir_local}" &>/dev/null && {
 
-    for f in ${__output_formats[@]}; do
-        {
-            __filters="$("./$(basename "${__source_file_local}")" -f | sed -e "s|%lua_dir%|${__lua_dir}|g" -e "s|%lua_dir_custom%|${__lua_dir_custom}|g")"
-            readarray -t __filters_array <<<"${__filters}"
-            pandoc -o "${__target_file_local}.${f}" --standalone --mathjax ${__filters_array[@]} <("./$(basename "${__source_file_local}")")
-            echo
-            echo "${__target_scripts[${n}]}.${f}"
-        } &
-    done
+        if ! [ -d "${__target_dir_local}/${__img_temp}" ]; then
+            mkdir "${__target_dir_local}/${__img_temp}"
+        fi
 
-    popd &>/dev/null
+        for f in "${__output_formats[@]}"; do
+            {
+                pp -img="${__target_dir_local}/${__img_temp}" <("./$(basename "${__source_file_local}")") |
+                    pandoc -o "${__target_file_local}.${f}" \
+                        --template="${__top_dir}/templates/template" \
+                        --standalone \
+                        --mathjax
+                echo
+                echo "${__target_scripts[${n}]}.${f}"
+            } &
+        done
+
+        popd &>/dev/null || { echo 'Something is very wrong'; }
+
+    }
 done
 
 wait
