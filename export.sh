@@ -15,6 +15,10 @@ __compare() {
     fi
 }
 
+__pp() {
+    pp -img="${__target_dir_local}/${__img_temp}" "${@}"
+}
+
 ###
 
 __source_dir='./source/'
@@ -108,7 +112,7 @@ for n in $(seq 0 $((${#__source_files[@]} - 1))); do
         for f in "${__output_formats[@]}"; do
             {
                 __output=''
-                __newhash="$(__hash <"./$(basename "${__source_file_local}")")"
+                __newhash="$(__hash < <(__pp < "./$(basename "${__source_file_local}")"))"
                 if ! [ -e "${__hash_file_local}" ]; then
                     mkdir -p "$(dirname "${__hash_file_local}")"
                     touch "${__hash_file_local}"
@@ -116,7 +120,7 @@ for n in $(seq 0 $((${#__source_files[@]} - 1))); do
                 __oldhash="$(cat "${__hash_file_local}")"
                 if ! __compare "${__newhash}" "${__oldhash}" || (! [ -e "${__old_file_local}.${f}" ]); then
                     echo "${__newhash}" >"${__hash_file_local}"
-                    pp -img="${__target_dir_local}/${__img_temp}" "$(basename "${__source_file_local}")" |
+                    __pp "$(basename "${__source_file_local}")" |
                         pandoc -o "${__target_file_local}.${f}" \
                             --template="${__top_dir}/templates/template" \
                             --standalone \
@@ -156,7 +160,7 @@ for n in $(seq 0 $((${#__source_scripts[@]} - 1))); do
 
             {
                 __output=''
-                __newhash="$(__hash <<<"./$(basename "${__source_file_local}")")"
+                __newhash="$(__pp <<<"$("./$(basename "${__source_file_local}")")" | __hash)"
                 if ! [ -e "${__hash_file_local}" ]; then
                     mkdir -p "$(dirname "${__hash_file_local}")"
                     touch "${__hash_file_local}"
@@ -164,7 +168,7 @@ for n in $(seq 0 $((${#__source_scripts[@]} - 1))); do
                 __oldhash="$(cat "${__hash_file_local}")"
                 if ! __compare "${__newhash}" "${__oldhash}" || (! [ -e "${__old_file_local}.${f}" ]); then
                     echo "${__newhash}" >"${__hash_file_local}"
-                    pp -img="${__target_dir_local}/${__img_temp}" <("./$(basename "${__source_file_local}")") |
+                    __pp <("./$(basename "${__source_file_local}")") |
                         pandoc -o "${__target_file_local}.${f}" \
                             --template="${__top_dir}/templates/template" \
                             --standalone \
