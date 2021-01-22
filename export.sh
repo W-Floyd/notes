@@ -1,6 +1,8 @@
 #!/bin/bash
 
 __export_version='0'
+__top_dir="$(pwd)"
+__img_temp='img'
 
 __hash() {
     echo -n "${__export_version}"
@@ -17,6 +19,15 @@ __compare() {
 
 __pp() {
     pp -img="${__target_dir_local}/${__img_temp}" "${@}"
+}
+
+__check_file() {
+    if ! [ -e "${1}" ]; then
+        touch "${1}"
+        echo "${1}" >>"${__top_dir}/.no_output"
+        sort "${__top_dir}/.no_output" | uniq >"${__top_dir}/.no_output2"
+        mv "${__top_dir}/.no_output2" "${__top_dir}/.no_output"
+    fi
 }
 
 ###
@@ -89,9 +100,6 @@ readarray -t __target_scripts < <(
     )
 )
 
-__top_dir="$(pwd)"
-__img_temp='img'
-
 for n in $(seq 0 $((${#__source_files[@]} - 1))); do
     __source_dir_local="${__top_dir}/$(dirname "${__source_files[${n}]}")"
     __target_dir_local="${__top_dir}/$(dirname "${__target_files[${n}]}")"
@@ -112,7 +120,7 @@ for n in $(seq 0 $((${#__source_files[@]} - 1))); do
         for f in "${__output_formats[@]}"; do
             {
                 __output=''
-                __newhash="$(__hash < <(__pp < "./$(basename "${__source_file_local}")"))"
+                __newhash="$(__hash < <(__pp <"./$(basename "${__source_file_local}")"))"
                 if ! [ -e "${__hash_file_local}" ]; then
                     mkdir -p "$(dirname "${__hash_file_local}")"
                     touch "${__hash_file_local}"
@@ -125,6 +133,7 @@ for n in $(seq 0 $((${#__source_files[@]} - 1))); do
                             --template="${__top_dir}/templates/template" \
                             --standalone \
                             --mathjax
+                    __check_file "${__target_file_local}.${f}"
                     __output='BUILT  - '
                 else
                     cp "${__old_file_local}.${f}" "${__target_file_local}.${f}"
@@ -173,6 +182,7 @@ for n in $(seq 0 $((${#__source_scripts[@]} - 1))); do
                             --template="${__top_dir}/templates/template" \
                             --standalone \
                             --mathjax
+                    __check_file "${__target_file_local}.${f}"
                     __output='BUILT  - '
                 else
                     cp "${__old_file_local}.${f}" "${__target_file_local}.${f}"
