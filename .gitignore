@@ -1,3 +1,4 @@
 *.html
 thumb[0-9]*.png
 /export/
+/.hashes/
