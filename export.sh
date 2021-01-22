@@ -26,6 +26,7 @@ __pp() {
 __check_file() {
     if ! [ -e "${1}" ]; then
         touch "${1}"
+        touch "${__top_dir}/.no_output"
         echo "${1}" >>"${__top_dir}/.no_output"
         sort "${__top_dir}/.no_output" | uniq >"${__top_dir}/.no_output2"
         mv "${__top_dir}/.no_output2" "${__top_dir}/.no_output"
@@ -43,7 +44,8 @@ if [ -d "${__target_dir}" ]; then
     mv "${__target_dir}" "${__target_temp_dir}"
 fi
 
-mkdir "${__target_dir}"
+cp -r "${__source_dir}" "${__target_dir}"
+find "${__target_dir}" \( -name "*.sh" -or -name "*.md" \) \( -type l -o -type f \) -delete
 
 if ! [ -d "${__hash_dir}" ]; then
     mkdir "${__hash_dir}"
