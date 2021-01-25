@@ -124,7 +124,7 @@ for n in $(seq 0 $((${#__source_files[@]} - 1))); do
         for f in "${__output_formats[@]}"; do
             {
                 __output=''
-                __newhash="$(__hash < <(__pp <"./$(basename "${__source_file_local}")"))"
+                __newhash="$(__hash < <(cat "./$(basename "${__source_file_local}")"; __pp <"./$(basename "${__source_file_local}")"))"
                 if ! [ -e "${__hash_file_local}" ]; then
                     mkdir -p "$(dirname "${__hash_file_local}")"
                     touch "${__hash_file_local}"
