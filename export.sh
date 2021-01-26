@@ -33,6 +33,10 @@ __check_file() {
     fi
 }
 
+__date() {
+    date '+%Y-%m-%d %k:%M:%S'
+}
+
 ###
 
 __source_dir='./source/'
@@ -138,11 +142,11 @@ for n in $(seq 0 $((${#__source_files[@]} - 1))); do
                             --standalone \
                             --mathjax
                     __check_file "${__target_file_local}.${f}"
-                    echo "BUILT  - ${__output}${__target_files[${n}]}.${f}"
+                    echo "$(__date)  BUILT - ${__output}${__target_files[${n}]}.${f}"
                 else
                     cp "${__old_file_local}.${f}" "${__target_file_local}.${f}"
                     if [ "${__quiet}" != 'true' ]; then
-                        echo "COPIED - ${__output}${__target_files[${n}]}.${f}"
+                        echo "$(__date) COPIED - ${__output}${__target_files[${n}]}.${f}"
                     fi
                 fi
             } &
@@ -188,11 +192,11 @@ for n in $(seq 0 $((${#__source_scripts[@]} - 1))); do
                             --standalone \
                             --mathjax
                     __check_file "${__target_file_local}.${f}"
-                    echo "BUILT  - ${__output}${__target_scripts[${n}]}.${f}"
+                    echo "$(__date) BUILT  - ${__output}${__target_scripts[${n}]}.${f}"
                 else
                     cp "${__old_file_local}.${f}" "${__target_file_local}.${f}"
                     if [ "${__quiet}" != 'true' ]; then
-                        echo "COPIED - ${__output}${__target_scripts[${n}]}.${f}"
+                        echo "$(__date) COPIED - ${__output}${__target_scripts[${n}]}.${f}"
                     fi
                 fi
             } &
