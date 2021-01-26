@@ -125,7 +125,7 @@ for n in $(seq 0 $((${#__source_files[@]} - 1))); do
             mkdir "${__target_dir_local}/${__img_temp}"
         fi
 
-        for f in "${__output_formats[@]}"; do
+        for f in ${__output_formats[@]}; do
             {
                 __output=''
                 __newhash="$(__hash < <(cat "./$(basename "${__source_file_local}")"; __pp <"./$(basename "${__source_file_local}")"))"
@@ -174,7 +174,7 @@ for n in $(seq 0 $((${#__source_scripts[@]} - 1))); do
             mkdir "${__target_dir_local}/${__img_temp}"
         fi
 
-        for f in "${__output_formats[@]}"; do
+        for f in ${__output_formats[@]}; do
 
             {
                 __output=''
