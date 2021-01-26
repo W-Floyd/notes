@@ -1,8 +1,17 @@
 #!/bin/bash
 
+source '.env.sh'
+
 __dir="$(dirname "${0}")"
 __script_name="$(basename "${0}")"
 __name="$(basename "${__script_name}" '.sh')"
+
+__date() {
+    {
+        grep -E "^${__name}," '../dates.csv' | sed 's/.*,//'
+        date +%Y-%m-%d
+    } | sort -n | head -n 1
+}
 
 pushd "${__dir}" &>/dev/null
 
@@ -10,9 +19,9 @@ if [ -d "./${__name}" ]; then
     pushd "./${__name}" &>/dev/null
     echo "---
 title: \"${__name}\"
-subtitle: \"Heat Transfer (MEGR4723-01)\\\\linebreak Dr. File\"
+subtitle: \"${subject}\\\\linebreak ${professor}\"
 documentclass: article
-date: \"$(date +%Y-%m-%d)\"
+date: \"$(__date)\"
 author: \"William Floyd\"
 include-before: |
     \newpage
