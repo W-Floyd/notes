@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source '.env.sh'
+source '../.env.sh'
 
 __dir="$(dirname "${0}")"
 __script_name="$(basename "${0}")"
