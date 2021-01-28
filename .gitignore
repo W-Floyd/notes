@@ -3,3 +3,4 @@ thumb[0-9]*.png
 /export/
 /.hashes/
 /.no_output
+/.tmp_export/
