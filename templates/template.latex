@@ -327,6 +327,7 @@ $endif$
 % Custom includes
 \usepackage{cancel}
 \usepackage{mathtools}
+\usepackage{csquotes}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 $for(header-includes)$
