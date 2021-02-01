@@ -96,11 +96,12 @@ Seeing through the eyes of another how they approached their faith, I am reminde
 
 3. What stood out to you as questionable, or you might disagree with it?
 
+Nothing stood out to me as questionable, but what could be an issue is the lack of discussion surrounding the deeper aspects of the faith.
+While necessary in an introductory book of this type, it does mean that the reader will not find answers for more nuanced questions.
 
+4. What key point(s) or action(s) would make the most positive impact on your leadership (or interpersonal effectiveness) if you implemented it?
 
-4. What key point(s) or action(s) would make the most positive impact on your leadership (or interpersonal effectiveness) if implemented it?
-
-
+I believe that a deep personal understanding of my faith would be helpful, for the sake of my witness to others.
 
 5. Express a personal thought not in the list above.
 
