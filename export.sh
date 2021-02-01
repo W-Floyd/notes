@@ -110,6 +110,8 @@ readarray -t __target_scripts < <(
     )
 )
 
+echo "$(__date)  BUILDING" 
+
 for n in $(seq 0 $((${#__source_files[@]} - 1))); do
     __source_dir_local="${__top_dir}/$(dirname "${__source_files[${n}]}")"
     __target_dir_local="${__top_dir}/$(dirname "${__target_files[${n}]}")"
