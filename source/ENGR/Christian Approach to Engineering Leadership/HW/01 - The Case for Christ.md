@@ -102,7 +102,10 @@ While necessary in an introductory book of this type, it does mean that the read
 4. What key point(s) or action(s) would make the most positive impact on your leadership (or interpersonal effectiveness) if you implemented it?
 
 I believe that a deep personal understanding of my faith would be helpful, for the sake of my witness to others.
+Without it, I lose credibility on account of not knowing why I believe something, and doubly so if I attempt to suggest others should follow my lead.
 
 5. Express a personal thought not in the list above.
 
-
+While I find the book convincing personally, I think that it is only effective if the reader is open to the idea of God being real.
+Should an atheist read it with no intent of keeping an open mind, I'm certain they would find the evidence insufficient to convince them.
+As humans, we are altogether too good at convincing ourselves of something before giving it a fair evaluation.
