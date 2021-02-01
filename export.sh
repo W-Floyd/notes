@@ -22,7 +22,7 @@ __compare() {
 __pp() {
     __format="${1}"
     shift
-    pp "-${__format}" -img="${__target_dir_local}/${__img_temp}" "${@}"
+    pp "-Dtopdir=${__top_dir}/source" "-${__format}" -img="${__target_dir_local}/${__img_temp}" "${@}"
 }
 
 __check_file() {
