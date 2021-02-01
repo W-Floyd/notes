@@ -17,36 +17,6 @@ header-includes: |
 fontsize: 11pt
 ---
 
-<!--
-
-3 pages, 11 pt font, double spaced. No personal pronouns except for question responses.
-
-Discussion of Main Points (2 to 2.5 pages)
-
-Questions: (Personal pronouns appropriate here (0.5 to 1 pages)
-
-1. What stood out to you as new/unique?
-2. What stood out to as you already knew it, but you often don’t do it?
-3. What stood out to you as questionable, or you might disagree with it?
-4. What key point(s) or action(s) would make the most positive impact on your leadership (or interpersonal effectiveness) if implemented it?
-5. Express a personal thought not in the list above.
-
--->
-
-<!-- Write about what the case of christ is about broadly
-
-In here, give a brief outline of the book
-
-1. What's wrong with me?
-2. Did Jesus Really Think He Was God?
-3. Was Jesus Crazy to Claim to be God?
-4. Did Jesus Match the Identity of the Messiah?
-5. Can You Trust Christ's Biographies?
-6. Is There a Case for Christ Outside the Bible?
-7. Did Jesus Fake His Death?
-8. What Happened to the Body?
-9. What Did Jesus Do after Easter? -->
-
 Lee Strobel begins "The Case For Christ" by explaining his past experiences, beliefs, and prejudices against Christianity.
 Though raised in a Christian household, he never accepted Christ for himself and ultimately rejected the faith entirely.
 Though he was happy fir a time, he would eventually come to realize he was not a good person, and his life was unfulfilling.
@@ -96,4 +66,42 @@ In fact, the text practically calls for people of the time to talk to those who 
 If the author wished to fool others, they would not make such bold claims - this was a declaration of truth, to be checked and confirmed by others, not taken on face value.
 
 Strobel's conclusion is finally that Jesus was indeed the Son of God, was the Messiah, that He truly did live, was crucified and died, was raised after three days, and appeared before others.
+
+<!--
+
+3 pages, 11 pt font, double spaced. No personal pronouns except for question responses.
+
+Discussion of Main Points (2 to 2.5 pages)
+
+Questions: (Personal pronouns appropriate here (0.5 to 1 pages)
+
+1. What stood out to you as new/unique?
+2. What stood out to as you already knew it, but you often don’t do it?
+3. What stood out to you as questionable, or you might disagree with it?
+4. What key point(s) or action(s) would make the most positive impact on your leadership (or interpersonal effectiveness) if implemented it?
+5. Express a personal thought not in the list above.
+
+-->
+
+1. What stood out to you as new/unique?
+
+What stood out to me was how simply a largely complete and logical argument for Christ could be conveyed.
+Having grown up in the church and come to Christ at a reasonably young age, I never wrestled with these questions for myself.
+To have such a clear breakdown of the logical arguments from an outside perspective was new to me.
+
+2. What stood out to as you already knew it, but you often don’t do it?
+
+Not answering the question directly, but I feel the responsibility to take charge of my own faith has been something I know I need to do, but do not always do well.
+Seeing through the eyes of another how they approached their faith, I am reminded that I need to take my faith seriously also and put time and thought into it. 
+
+3. What stood out to you as questionable, or you might disagree with it?
+
+
+
+4. What key point(s) or action(s) would make the most positive impact on your leadership (or interpersonal effectiveness) if implemented it?
+
+
+
+5. Express a personal thought not in the list above.
+
 
