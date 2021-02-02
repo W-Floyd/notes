@@ -22,7 +22,12 @@ __compare() {
 __pp() {
     __format="${1}"
     shift
-    pp "-Dtopdir=${__top_dir}/source" "-${__format}" -img="${__target_dir_local}/${__img_temp}" "${@}"
+    pp \
+        "-Dtopdir=${__top_dir}/source" \
+        '-DAboxed=!ifeq(!format)(html)(\boxed{!1!2!3})(\Aboxed{!1&!2!3})' \
+        "-${__format}" \
+        -img="${__target_dir_local}/${__img_temp}" \
+        "${@}"
 }
 
 __check_file() {
@@ -110,7 +115,7 @@ readarray -t __target_scripts < <(
     )
 )
 
-echo "$(__date)  BUILDING" 
+echo "$(__date)  BUILDING"
 
 for n in $(seq 0 $((${#__source_files[@]} - 1))); do
     __source_dir_local="${__top_dir}/$(dirname "${__source_files[${n}]}")"
@@ -189,9 +194,9 @@ for n in $(seq 0 $((${#__source_scripts[@]} - 1))); do
                     mkdir -p "$(dirname "${__hash_file_local}")"
                     touch "${__hash_file_local}"
                 fi
-                __oldhash="$(cat "${__hash_file_local}")"
+                __oldhash="$(cat "${__hash_file_local}.${f}")"
                 if ! __compare "${__newhash}" "${__oldhash}" || (! [ -e "${__old_file_local}.${f}" ]); then
-                    echo "${__newhash}" >"${__hash_file_local}"
+                    echo "${__newhash}" >"${__hash_file_local}.${f}"
                     __pp "${f}" <("./$(basename "${__source_file_local}")") |
                         pandoc -o "${__target_file_local}.${f}" \
                             --template="${__top_dir}/templates/template" \
