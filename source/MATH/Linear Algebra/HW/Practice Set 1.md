@@ -21,8 +21,8 @@ $$
 2x&=4y\\
 x&=2y\\\\
 \text{let} y&=t\\
-\therefore \Aboxed{x&=2t}\\
-\Aboxed{y&=t}
+\therefore !Aboxed{x}{=}{2t}\\
+!Aboxed{y}{=}{t}
 \end{aligned}
 $$
 

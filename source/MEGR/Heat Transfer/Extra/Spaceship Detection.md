@@ -34,7 +34,7 @@ q_1 \cdot r_1^2 &= q_2 \cdot r_2^2\\
 r_2^2 &= \frac{q_1\cdot r_1^2}{q_2}\\
 r_2 &= \sqrt{\frac{q_1\cdot r_1^2}{q_2}}\\
 r_2 &= \sqrt{\frac{1 \cdot 1000 \cdot \left( 2 \right)^2}{0.0001}}\\
-\Aboxed{r_2 &= 6324.6 \mathrm{m}}
+!Aboxed{r_2}{=}{6324.6 \mathrm{m}}
 \end{aligned}
 $$
 
