@@ -190,9 +190,9 @@ for n in $(seq 0 $((${#__source_scripts[@]} - 1))); do
 
             {
                 __newhash="$(__pp "${f}" <<<"$("./$(basename "${__source_file_local}")")" | __hash)"
-                if ! [ -e "${__hash_file_local}" ]; then
-                    mkdir -p "$(dirname "${__hash_file_local}")"
-                    touch "${__hash_file_local}"
+                if ! [ -e "${__hash_file_local}.${f}" ]; then
+                    mkdir -p "$(dirname "${__hash_file_local}.${f}")"
+                    touch "${__hash_file_local}.${f}"
                 fi
                 __oldhash="$(cat "${__hash_file_local}.${f}")"
                 if ! __compare "${__newhash}" "${__oldhash}" || (! [ -e "${__old_file_local}.${f}" ]); then
