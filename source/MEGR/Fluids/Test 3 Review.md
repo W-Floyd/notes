@@ -24,7 +24,7 @@ If the Reynolds number is "large", viscous effects will be negligible, but will 
 
 # Internal Flow Characteristics
 
-![](https://cdn.mathpix.com/snip/images/8kfwynkxotI0ly8QRkAskiRrFLUuplsHYxLT8WKJ3p0.original.fullsize.png)
+![](!imgdir/4ff50d19295079c8404ba41dbaadcfd719485342.png)
 
 ## Roughness for Pipes of Common Engineering Materials
 

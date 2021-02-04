@@ -27,7 +27,7 @@
 
     - Can draw histogram:
 
-    ![](https://cdn.mathpix.com/snip/images/C7wvZ5Dgdt_P5VccOsk51g-V6DRNydfo3eETKeaYOAo.original.fullsize.png)
+    ![](!imgdir/df8bf8cb1c3df42ec8277bf0f339ddecad692ce9.png)
 
 2. Finding cumulative distribution function (cdf) from pmf.  
 

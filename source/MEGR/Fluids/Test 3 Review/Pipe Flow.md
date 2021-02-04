@@ -21,11 +21,11 @@ Loss coefficient is for a given joint, find in table.
 
 
 ### Minor Loss Coefficients for Pipe Entrances
-![](https://cdn.mathpix.com/snip/images/oiuZH5n2zpBXEkbP-eIB9Y4oot1K9GYXntpSfTAPqKk.original.fullsize.png)
-![](https://cdn.mathpix.com/snip/images/FvDHtirthWlft5cUdwRT7LG1myFHGrTgrE0YHG8U6sk.original.fullsize.png)
+![](!imgdir/3a971b00b29c60c164b33711d4242970ab66e6d3.png)
+![](!imgdir/bbdd9d7f5c715b2006067498442cbbe9bb19aa99.png)
 
 ### Representative Loss Coefficients for Fittings and Valves
-![](https://cdn.mathpix.com/snip/images/rx2nDaxo0Olu8U5SqZGIh-d2S4VGIKSRPxDqcyVO3Gk.original.fullsize.png)
+![](!imgdir/963902e83fe1de7780b25753ac80f719790c6ed7.png)
 
 ### Loss Coefficients (K) for Gradual Contractions: Round and Rectangular Ducts
-![](https://cdn.mathpix.com/snip/images/hC82CH8nXuS1zhpEeSqFN1l-O2oOjmjZXkZmQ1D9QtU.original.fullsize.png)
+![](!imgdir/e37588739cf89a148e681b246050c202382b900a.png)
