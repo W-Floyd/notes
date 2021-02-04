@@ -24,6 +24,7 @@ __pp() {
     shift
     pp \
         "-Dtopdir=${__top_dir}/source" \
+        "-Dimgdir=${__top_dir}/source/img" \
         '-DAboxed=!ifeq(!format)(html)(\boxed{!1!2!3})(\Aboxed{!1&!2!3})' \
         "-${__format}" \
         -img="${__target_dir_local}/${__img_temp}" \
