@@ -52,6 +52,8 @@ __target_dir='./export/'
 __target_temp_dir='./.tmp_export/'
 __hash_dir='./.hashes/'
 
+'./tools/image-localizer.sh'
+
 if [ -d "${__target_dir}" ]; then
     mv "${__target_dir}" "${__target_temp_dir}"
 fi
