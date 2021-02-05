@@ -45,7 +45,11 @@ __date() {
     date '+%Y-%m-%d %k:%M:%S'
 }
 
-###
+################################################################################
+
+# __template_map - output formats to use a template for, default will be no template.
+declare -A __template_map
+__template_map['pdf']='true'
 
 __source_dir='./source/'
 __target_dir='./export/'
@@ -151,11 +155,18 @@ for n in $(seq 0 $((${#__source_files[@]} - 1))); do
                 __oldhash="$(cat "${__hash_file_local_format}")"
                 if ! __compare "${__newhash}" "${__oldhash}" || (! [ -e "${__old_file_local}.${f}" ]); then
                     echo "${__newhash}" >"${__hash_file_local_format}"
-                    __pp "${f}" "$(basename "${__source_file_local}")" |
-                        pandoc -o "${__target_file_local}.${f}" \
-                            --template="${__top_dir}/templates/template" \
-                            --standalone \
-                            --mathjax
+                    __pp "${f}" "$(basename "${__source_file_local}")" | {
+                        if [ "${__template_map[${f}]}" == 'true' ]; then
+                            pandoc -o "${__target_file_local}.${f}" \
+                                --template="${__top_dir}/templates/template" \
+                                --standalone \
+                                --mathjax
+                        else
+                            pandoc -o "${__target_file_local}.${f}" \
+                                --standalone \
+                                --mathjax
+                        fi
+                    }
                     __check_file "${__target_file_local}.${f}"
                     echo "$(__date)  BUILT - ${__target_files[${n}]}.${f}"
                 else
@@ -200,11 +211,19 @@ for n in $(seq 0 $((${#__source_scripts[@]} - 1))); do
                 __oldhash="$(cat "${__hash_file_local}.${f}")"
                 if ! __compare "${__newhash}" "${__oldhash}" || (! [ -e "${__old_file_local}.${f}" ]); then
                     echo "${__newhash}" >"${__hash_file_local}.${f}"
-                    __pp "${f}" <("./$(basename "${__source_file_local}")") |
-                        pandoc -o "${__target_file_local}.${f}" \
-                            --template="${__top_dir}/templates/template" \
-                            --standalone \
-                            --mathjax
+                    __pp "${f}" <("./$(basename "${__source_file_local}")") | {
+                        if [ "${__template_map[${f}]}" == 'true' ]; then
+                            pandoc -o "${__target_file_local}.${f}" \
+                                --template="${__top_dir}/templates/template" \
+                                --standalone \
+                                --mathjax
+                        else
+                            pandoc -o "${__target_file_local}.${f}" \
+                                --standalone \
+                                --mathjax
+                        fi
+                    }
+
                     __check_file "${__target_file_local}.${f}"
                     echo "$(__date)  BUILT - ${__output}${__target_scripts[${n}]}.${f}"
                 else
