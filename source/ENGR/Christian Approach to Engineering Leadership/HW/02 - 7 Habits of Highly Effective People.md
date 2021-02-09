@@ -17,6 +17,7 @@ header-includes: |
     \fancyfoot[CE,CO]{}
     \fancyhead[RE,RO]{}
     \fancyhead[LE,LO]{}
+    \fancyhead[CE,CO]{}
     \usepackage{setspace}
     \doublespacing
 fontsize: 11pt
