@@ -18,7 +18,7 @@ pushd "${__dir}" &>/dev/null
 if [ -d "./${__name}" ]; then
     pushd "./${__name}" &>/dev/null
     echo "---
-title: \"${__name}\"
+title: \"$(sed -e 's/\([0-9]\)/ \1/' <<< "${__name}")\"
 subtitle: \"${subject}\\\\linebreak ${professor}\"
 documentclass: article
 date: \"$(__date)\"
