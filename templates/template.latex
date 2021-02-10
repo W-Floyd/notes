@@ -328,6 +328,8 @@ $endif$
 \usepackage{cancel}
 \usepackage{mathtools}
 \usepackage{csquotes}
+\usepackage{nicematrix}
+\NiceMatrixOptions{transparent}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 $for(header-includes)$
