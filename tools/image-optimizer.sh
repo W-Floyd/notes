@@ -12,8 +12,11 @@ find . -type f -iname '*.png' -not -iname '\.*' | while read -r __file; do
 done
 
 find . -iname '_opt_*' | while read -r __file; do
-    sha1sum <"${__file}" >>'.optimized'
     mv "${__file}" "${__file/*_opt_/}"
 done
+
+find . -type f -not -iname '\.*' | while read -r __file; do
+    sha1sum <"${__file}"
+done | sort >'.optimized'
 
 exit
