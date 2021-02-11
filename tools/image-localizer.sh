@@ -16,4 +16,12 @@ grep -rEl '!\[[^]]*\]\([http|https][^)]*\)' | while read -r __file; do
     done
 done
 
+find "${__img_dir}" -type f -not -iname '\.*' |
+    sed -e 's|.*/||' |
+    sort |
+    grep -vxFf <(grep -roE '(!imgdir/[^)]*)' | sed -e 's|.*/||' | sort) |
+    while read -r __file; do
+        rm "${__img_dir}/${__file}"
+    done
+
 exit
