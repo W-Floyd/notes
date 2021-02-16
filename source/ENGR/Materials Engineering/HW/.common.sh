@@ -18,7 +18,7 @@ if [ -d "./${__name}" ]; then
 title: \"${__name}\"
 subtitle: \"Materials Engineering (ENGR2313-01)\\\\linebreak Prof. Olson\"
 documentclass: scrartcl
-date: \"$(date +%Y-%m-%d)\"
+date: \"FIXED\"
 author: \"William Floyd\"
 include-before: |
     \newpage
