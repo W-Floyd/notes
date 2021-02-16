@@ -1,9 +1,14 @@
 #!/bin/bash
 
-cd './source/img/' || {
+touch '.hold'
+
+pushd './source/img/' || {
     echo 'Not in the right directory, run from root of notes folder'
+    rm '.hold'
     exit 1
 }
+
+touch '.optimized'
 
 find . -type f -iname '*.png' -not -iname '\.*' | while read -r __file; do
     if ! grep -Fxq "$(sha1sum <"${__file}")" <'.optimized'; then
@@ -18,5 +23,9 @@ done
 find . -type f -not -iname '\.*' | while read -r __file; do
     sha1sum <"${__file}"
 done | sort >'.optimized'
+
+popd
+
+rm '.hold'
 
 exit

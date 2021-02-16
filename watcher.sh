@@ -12,6 +12,10 @@ __wait() {
 
 __wait
 while inotifywait -e modify -qq -r source; do
+    sleep 0.01s
+    while [ -e '.hold' ]; do
+        sleep 0.05s
+    done
     ./export.sh "${@}"
     __wait
 done
