@@ -16,13 +16,30 @@ find . -type f -iname '*.png' -not -iname '\.*' | while read -r __file; do
     fi
 done
 
+find . -type f -iname '*.jpg' -not -iname '\.*' | while read -r __file; do
+    if ! grep -Fxq "$(sha1sum <"${__file}")" <'.optimized'; then
+        __target="_opt_${__file/\.\//}"
+        __old_size="$(stat -c '%s' "${__file}")"
+        jpegtran -copy none -optimize -outfile "${__target}" "${__file}"
+        __new_size="$(stat -c '%s' "${__target}")"
+        echo "Old Size: ${__old_size}"
+        if ! [ "${__new_size}" -lt "${__old_size}" ]; then
+            echo "New Size: ${__old_size}"
+            cp "${__file}" "${__target}"
+        else
+            echo "New Size: ${__new_size}"
+        fi
+
+    fi
+done
+
 find . -iname '_opt_*' | while read -r __file; do
     mv "${__file}" "${__file/*_opt_/}"
 done
 
-find . -type f -not -iname '\.*' | while read -r __file; do
-    sha1sum <"${__file}"
-done | sort >'.optimized'
+# find . -type f -not -iname '\.*' | while read -r __file; do
+#     sha1sum <"${__file}"
+# done | sort >'.optimized'
 
 popd
 

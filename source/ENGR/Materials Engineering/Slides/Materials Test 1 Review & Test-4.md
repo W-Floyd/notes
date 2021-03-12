@@ -1,19 +1,21 @@
 # Slide 1
 
-_**Claiming every workplace in every nation as our**_
+***Claiming every workplace in every nation as our***
 
-_**mission field**_
+***mission field***
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img0.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img0.png)
 
 # Slide 2 - **Devo/Prayer - Even Jesus Was Tested!**
 
-- “Jesus, full of the Holy Spirit, left the Jordan and was led by the Spirit into the wilderness, where for forty days he was tempted by the devil”…..Jesus returned to Galilee in the power of the Spirit, and news about him spread through the whole countryside.”
+-   "Jesus, full of the Holy Spirit, left the Jordan and was led by the
+    Spirit into the wilderness, where for forty days he was tempted by
+    the devil".....Jesus returned to Galilee in the power of the Spirit,
+    and news about him spread through the whole countryside."
 
 ## Luke 4:1-2, 14
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img1.png)
+![](./Materials%20Test%201%20Review%20&%20Test-4/img1.png)
 
 # Slide 3
 
@@ -73,13 +75,13 @@ _**mission field**_
 
 **Diffusion**
 
-_**7**_
+***7***
 
-_**T**_
+***T***
 
-_**4 Feb**_
+***4 Feb***
 
-_**Flex / Review**_
+***Flex / Review***
 
 **8**
 
@@ -273,40 +275,41 @@ _**Flex / Review**_
 
 **Final Exam**
 
-_**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
+***Rejoice always, pray continually, give thanks in all circumstances 1
+Thes 5:16-18***
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img2.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img2.png)
 
 # Slide 4 - **Testing Rules of Engagement**
 
-- Put everything away except pencil, eraser, calculator, & 8 ½ x 11 notes sheet
+-   Put everything away except pencil, eraser, calculator, & 8 ½ x 11
+    notes sheet
 
-- Put name on part 1 and 2 **and** Scantron
+-   Put name on part 1 and 2 **and** Scantron
 
-- Pray
-- Work with diligence and dependence on Christ
-- Repeat #2 & #3 for 75 min or until you’re finished
+-   Pray
 
-## _**“Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.” Colossians 3:23**_
+-   Work with diligence and dependence on Christ
 
-## _**“You will keep in perfect peace those whose minds are steadfast,**_
+-   Repeat \#2 & \#3 for 75 min or until you're finished
 
-## _**because they trust in you. Trust in the Lord forever,**_
+## ***"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters." Colossians 3:23***
 
-## _**for the Lord, the Lord himself, is the Rock eternal.” Isaiah 26:3-4**_
+## ***"You will keep in perfect peace those whose minds are steadfast,***
 
-## _**“If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.” James 1:5**_
+## ***because they trust in you. Trust in the Lord forever,***
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img3.png)
+## ***for the Lord, the Lord himself, is the Rock eternal." Isaiah 26:3-4***
 
+## ***"If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you." James 1:5***
 
-# Slide 5 - **Test 1 Review    _Materials Engineering Matters!_**
+![](./Materials%20Test%201%20Review%20&%20Test-4/img3.png)
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img4.png)
+# Slide 5 - **Test 1 Review *Materials Engineering Matters!***
 
+![](./Materials%20Test%201%20Review%20&%20Test-4/img4.png)
 
-# Slide 6 - **Materials Engineering Test 1 Review  (allowed one double sided 8.5X11” sheet of notes/equations)**
+# Slide 6 - **Materials Engineering Test 1 Review (allowed one double sided 8.5X11" sheet of notes/equations)**
 
 ## **Chapter 1: Introduction**
 
@@ -348,7 +351,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 ## Covalent bonds- sharing of electrons - polymers and some ceramics
 
-## Metallic bonding- valence electrons form a “sea of electrons” - metals
+## Metallic bonding- valence electrons form a "sea of electrons" - metals
 
 Secondary Bonding or van der Waals
 
@@ -364,7 +367,8 @@ Crystal structure
 
 Unit cells
 
-Metallic crystal structures, Simple Cubic, Face Centered Cubic, Body Centered Cubic, Hexagonal Close Packed (just know it exists)
+Metallic crystal structures, Simple Cubic, Face Centered Cubic, Body
+Centered Cubic, Hexagonal Close Packed (just know it exists)
 
 Unit cell edge length= Lattice Constant= Lattice Parameter
 
@@ -376,11 +380,13 @@ Polymorphisms/Allotropy
 
 Crystallographic points 001 - no commas, no parentheses, no brackets
 
-Crystallographic directions [111]
+Crystallographic directions \[111\]
 
-Crystallographic planes (111) - Miller indexes, parallel planes are the same
+Crystallographic planes (111) - Miller indexes, parallel planes are the
+same
 
-Linear (diameters per unit length) and planar (circle areas per unit area) densities
+Linear (diameters per unit length) and planar (circle areas per unit
+area) densities
 
 Grain boundaries
 
@@ -390,8 +396,7 @@ X-Ray Diffraction compare to Energy Dispersive X-Ray
 
 Noncystalline Solids - amorphous
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img5.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img5.png)
 
 # Slide 7 - **Materials Engineering Exam 1 Review (continued)**
 
@@ -413,9 +418,9 @@ Noncystalline Solids - amorphous
 
 ## Microscopy
 
-## Optical ~1500X maximum
+## Optical \~1500X maximum
 
-## Scanning Electron Microscopy (SEM) ~ 10 t0 50,000X - large depth of field (DOF)
+## Scanning Electron Microscopy (SEM) \~ 10 t0 50,000X - large depth of field (DOF)
 
 ## Transmission Electron Microscopy (TEM) up to 1,000,000X - very thin samples
 
@@ -427,9 +432,9 @@ Noncystalline Solids - amorphous
 
 ## Diffusion mechanisms - vacancy, interstitial
 
-## Steady state diffusion - Fick’s First Law
+## Steady state diffusion - Fick's First Law
 
-## Non-Steady State Diffusion - Fick’s Second Law
+## Non-Steady State Diffusion - Fick's Second Law
 
 ## Error Function (ERF)
 
@@ -439,43 +444,52 @@ Noncystalline Solids - amorphous
 
 ## Semi-Conductors
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img6.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img6.png)
 
 # Slide 8 - **Types of Materials**
 
-- Metals: Metallic bonding - sea of electrons
+-   Metals: Metallic bonding - sea of electrons
 
-- Strong/stiff, ductile, usually crystalline
-- High thermal & electrical conductivity
-- Opaque, reflective.
+-   Strong/stiff, ductile, usually crystalline
 
-- Polymers/plastics: Covalent bonding - sharing of electrons
+-   High thermal & electrical conductivity
 
-- Soft, ductile, usually non-crystalline, low strength, low density, low melting temps, high coefficients of thermal expansion
-- Thermal & electrical insulators
-- Optically translucent or transparent.
+-   Opaque, reflective.
 
-- Ceramics: ionic bonding - transfer of electrons
+-   Polymers/plastics: Covalent bonding - sharing of electrons
 
-- Compounds of metallic & non-metallic elements (oxides, carbides, nitrides, sulfides)
-- Brittle, glassy
-- Non-conducting (insulators)
+-   Soft, ductile, usually non-crystalline, low strength, low density,
+    low melting temps, high coefficients of thermal expansion
 
-- Composites: combination of two or more individual materials/phases to obtain a more desirable combination of properties than can be obtained with each individual material (e.g., low density and high strength)
+-   Thermal & electrical insulators
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img7.png)
+-   Optically translucent or transparent.
 
+-   Ceramics: ionic bonding - transfer of electrons
+
+-   Compounds of metallic & non-metallic elements (oxides, carbides,
+    nitrides, sulfides)
+
+-   Brittle, glassy
+
+-   Non-conducting (insulators)
+
+-   Composites: combination of two or more individual materials/phases
+    to obtain a more desirable combination of properties than can be
+    obtained with each individual material (e.g., low density and high
+    strength)
+
+![](./Materials%20Test%201%20Review%20&%20Test-4/img7.png)
 
 # Slide 9 - **The Materials Selection Process**
 
-1.
+1.  
 
 Pick Application
 
 Determine required Properties
 
-Processing: changes _structure_ and overall _shape_
+Processing: changes *structure* and overall *shape*
 
 ex: casting, sintering, vapor deposition, doping
 
@@ -489,32 +503,36 @@ magnetic, optical, deteriorative.
 
 Material: structure, composition.
 
-2.
+2.  
 
 Properties
 
 Identify candidate Material(s)
 
-3.
+3.  
 
 Material
 
 Identify required Processing
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img8.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img8.png)
 
 # Slide 10 - **Processing, Structure, Properties, Performance**
 
 ex: hardness vs structure of steel
 
-* Properties depend on structure
+-   Properties depend on structure
 
-Data obtained from Figs. 10.31(a) and 10.32 with 4 wt% C composition, and from Fig. 11.15, _Callister & Rethwisch 9e_. Micrographs adapted from (a) Fig. 10.19; (b) Fig. 9.30; (c) Fig. 10.33; and (d) Fig. 10.21, _Callister & Rethwisch 9e_. (Figures 10.19, 10.21, & 10.33 copyright 1971 by United States Steel Corporation. Figure 9.30 courtesy of Republic Steel Corporation.)
+Data obtained from Figs. 10.31(a) and 10.32 with 4 wt% C composition,
+and from Fig. 11.15, *Callister & Rethwisch 9e*. Micrographs adapted
+from (a) Fig. 10.19; (b) Fig. 9.30; (c) Fig. 10.33; and (d) Fig. 10.21,
+*Callister & Rethwisch 9e*. (Figures 10.19, 10.21, & 10.33 copyright
+1971 by United States Steel Corporation. Figure 9.30 courtesy of
+Republic Steel Corporation.)
 
 ex: structure vs cooling rate of steel
 
-* Processing can change structure
+-   Processing can change structure
 
 Hardness (BHN)
 
@@ -554,24 +572,23 @@ Cooling Rate (ºC/s)
 
 1000
 
-(d)
+(d) 
 
 30 μm
 
-(c)
+(c) 
 
 4 μm
 
-(b)
+(b) 
 
 30 μm
 
-(a)
+(a) 
 
 30 μm
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img9.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img9.png)
 
 # Slide 11 - **Electronegativity**
 
@@ -591,48 +608,46 @@ Readily acquire electrons
 
 to become - ions.
 
-give up 1 _e_-
+give up 1 *e*-
 
-give up 2 _e_-
+give up 2 *e*-
 
-accept 1 _e_-
+accept 1 *e*-
 
-accept 2 _e_-
+accept 2 *e*-
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img10.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img10.png)
 
 # Slide 12 - **Bonding Forces & Energy**
 
-- Energy - minimum energy most stable
+-   Energy - minimum energy most stable
 
-- Energy balance of attractive and repulsive terms
+-   Energy balance of attractive and repulsive terms
 
-Attractive energy _EA_
+Attractive energy *EA*
 
-Net energy _EN_
+Net energy *EN*
 
-Repulsive energy _ER_
+Repulsive energy *ER*
 
-Interatomic separation _r_
+Interatomic separation *r*
 
-_r_
+*r*
 
-_A_
+*A*
 
-_n_
+*n*
 
-_r_
+*r*
 
-_B_
+*B*
 
-_EN_ = _EA + ER_ =
+*EN* = *EA + ER* =
 
-+
+-   
+-   
 
--
-
-Adapted from Fig. 2.10(b), _Callister & Rethwisch 9e._
+Adapted from Fig. 2.10(b), *Callister & Rethwisch 9e.*
 
 **Attractive forces depend on type of bonding**
 
@@ -640,32 +655,30 @@ Adapted from Fig. 2.10(b), _Callister & Rethwisch 9e._
 
 Equilibrium spacing
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img11.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img11.png)
 
 # Slide 13 - **Electronic Structure**
 
-- Electrons have wavelike and particulate properties
+-   Electrons have wavelike and particulate properties
 
-- Electrons are in orbitals defined by a probability
-- Each orbital discrete energy level is determined by quantum numbers describing size/shape/orientation
+-   Electrons are in orbitals defined by a probability
 
-- Tend to occupy lowest available energy state
+-   Each orbital discrete energy level is determined by quantum numbers
+    describing size/shape/orientation
 
-
+-   Tend to occupy lowest available energy state
 
 ## Quantum \#Designation
 
-## _n_ = principal (energy level-shell) _K_, _L_, _M_, _N_, _O_ (1, 2, 3, etc.)
+## *n* = principal (energy level-shell) *K*, *L*, *M*, *N*, *O* (1, 2, 3, etc.)
 
-## l = subsidiary (sub-shells) _s_, _p_, _d_, _f_ (0, 1, 2, 3,…, _n_-1)
+## l = subsidiary (sub-shells) *s*, *p*, *d*, *f* (0, 1, 2, 3,..., *n*-1)
 
-## _ml_ = magnetic (orbitals per sub-shell) 1, 3, 5, 7 (-l to +l)
+## *ml* = magnetic (orbitals per sub-shell) 1, 3, 5, 7 (-l to +l)
 
-## _ms_ = electron spin moment ½, -½
+## *ms* = electron spin moment ½, -½
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img12.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img12.png)
 
 # Slide 14 - **Electronic Structure & Energy States**
 
@@ -673,8 +686,7 @@ s subshell
 
 p subshells
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img13.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img13.png)
 
 # Slide 15 - **Electronic Configurations - Iron Example**
 
@@ -686,56 +698,58 @@ valence
 
 electrons
 
-Adapted from Fig. 2.4, _Callister & Rethwisch 8e._
+Adapted from Fig. 2.4, *Callister & Rethwisch 8e.*
 
-1 _s_
+1 *s*
 
-2 _s_
+2 *s*
 
-2 _p_
+2 *p*
 
-_K_-shell _n_ = 1
+*K*-shell *n* = 1
 
-_L_-shell _n_ = 2
+*L*-shell *n* = 2
 
-3 _s_
+3 *s*
 
-3 _p_
+3 *p*
 
-_M_-shell _n_ = 3
+*M*-shell *n* = 3
 
-3 _d_
+3 *d*
 
-4 _s_
+4 *s*
 
-4 _p_
+4 *p*
 
-4 _d_
+4 *d*
 
 Energy
 
-_N_-shell _n_ = 4
+*N*-shell *n* = 4
 
-1 _s_ 2 2 _s_ 2 2 _p_ 6 3 _s_ 2 3 _p_ 6
+1 *s* 2 2 *s* 2 2 *p* 6 3 *s* 2 3 *p* 6
 
-3 _d_ 6 4 _s_ 2
+3 *d* 6 4 *s* 2
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img14.png)
+![](./Materials%20Test%201%20Review%20&%20Test-4/img14.png)
 
 # Slide 16
 
-- Carbon can form _sp_ 3 hybrid orbitals (Diamond) - extremely strong
+-   Carbon can form *sp* 3 hybrid orbitals (Diamond) - extremely strong
 
-Fig. 2.13, _Callister & Rethwisch 9e._
+Fig. 2.13, *Callister & Rethwisch 9e.*
 
-Fig. 2.14, _Callister & Rethwisch 9e._(Adapted from J.E. Brady and F. Senese, _Chemistry: Matter and Its Changes_, 4th edition. Reprinted with permission of John Wiley and Sons, Inc.)
+Fig. 2.14, *Callister & Rethwisch 9e.*(Adapted from J.E. Brady and F.
+Senese, *Chemistry: Matter and Its Changes*, 4th edition. Reprinted with
+permission of John Wiley and Sons, Inc.)
 
 **Covalent Bond Hybridization**
 
-- Carbon can also form _sp2_ bond (Graphite) - much weaker interplanar bonds
+-   Carbon can also form *sp2* bond (Graphite) - much weaker interplanar
+    bonds
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img15.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img15.png)
 
 # Slide 17 - **Bonding Summary**
 
@@ -785,8 +799,7 @@ inter-chain (polymer)
 
 inter-molecular
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img16.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img16.png)
 
 # Slide 18 - **Bonding Summary**
 
@@ -796,11 +809,11 @@ Ceramics
 
 Large bond energy
 
-large _Tm_
+large *Tm*
 
-large _E_
+large *E*
 
-small _α_
+small *α*
 
 Metals
 
@@ -808,11 +821,11 @@ Metals
 
 Variable bond energy
 
-moderate _Tm_
+moderate *Tm*
 
-moderate _E_
+moderate *E*
 
-moderate _α_
+moderate *α*
 
 Polymers
 
@@ -820,27 +833,25 @@ Polymers
 
 Secondary bonding dominates
 
-small _Tm_
+small *Tm*
 
-small _E_
+small *E*
 
-large _α_
+large *α*
 
 secondary bonding
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img17.png)
+![](./Materials%20Test%201%20Review%20&%20Test-4/img17.png)
 
+# Slide 19 - **table_03_02**
 
-# Slide 19 - **table\_03\_02**
+**table_03_02**
 
-**table\_03\_02**
+***Focus of***
 
-_**Focus of**_
+***This Course***
 
-_**This Course**_
-
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img18.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img18.png)
 
 # Slide 20 - **Atomic Packing Factor: BCC**
 
@@ -850,13 +861,13 @@ APF =
 
 3
 
-_π_
+*π*
 
 (
 
 3
 
-_a_/4
+*a*/4
 
 )
 
@@ -872,7 +883,7 @@ atom
 
 volume
 
-_a_
+*a*
 
 3
 
@@ -880,42 +891,41 @@ unit cell
 
 volume
 
-length = 4 _R_ =
+length = 4 *R* =
 
 Close-packed directions:
 
-3 _a_
+3 *a*
 
-* APF for a body-centered cubic structure = 0.68
+-   APF for a body-centered cubic structure = 0.68
 
-_a_
+*a*
 
-_R_
+*R*
 
 Adapted from
 
-Fig. 3.2(a), _Callister & Rethwisch 9e._
+Fig. 3.2(a), *Callister & Rethwisch 9e.*
 
-_a_
+*a*
 
-_a_
+*a*
 
 2
 
-_a_
+*a*
 
 3
 
 = 0.68
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img19.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img19.png)
 
 # Slide 21 - **Atomic Packing Factor: FCC**
 
-* APF for a face-centered cubic structure = 0.74
+-   APF for a face-centered cubic structure = 0.74
 
-_**Maximum Achievable APF**_
+***Maximum Achievable APF***
 
 APF =
 
@@ -923,13 +933,13 @@ APF =
 
 3
 
-_π_
+*π*
 
 (
 
 2
 
-_a_/4
+*a*/4
 
 )
 
@@ -945,7 +955,7 @@ atom
 
 volume
 
-_a_
+*a*
 
 3
 
@@ -955,9 +965,9 @@ volume
 
 Close-packed directions:
 
-length = 4 _R_ =
+length = 4 *R* =
 
-2 _a_
+2 *a*
 
 Unit cell contains:
 
@@ -967,63 +977,63 @@ Unit cell contains:
 
 4 atoms/unit cell
 
-_a_
+*a*
 
-2 _a_
+2 *a*
 
 Adapted from
 
 Fig. 3.1(a),
 
-_Callister & Rethwisch 9e._
+*Callister & Rethwisch 9e.*
 
-_a_
+*a*
 
-_a_
+*a*
 
 2
 
-_a_
+*a*
 
 = 0.74
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img20.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img20.png)
 
 # Slide 22 - **Crystallographic Directions (BCC, FCC)**
 
 **Steps:**
 
-1. Determine coordinates of vector tail, pt. 1: _x_ 1, _y_ 1 _, & z_ 1; and vector head, pt. 2: _x_ 2, _y_ 2 _, & z_ 2.
-2. Tail point coordinates subtracted from head point coordinates (head - tail).
+1. Determine coordinates of vector tail, pt. 1: *x* 1, *y* 1 *, & z* 1;
+and vector head, pt. 2: *x* 2, *y* 2 *, & z* 2. 2. Tail point
+coordinates subtracted from head point coordinates (head - tail).
 
-3. Normalize coordinate differences in terms of lattice parameters _a_, _b_, and _c_:
+3. Normalize coordinate differences in terms of lattice parameters *a*,
+*b*, and *c*:
 
-4\. Adjust to smallest integer values
-5. Enclose in square brackets, no commas
+4\. Adjust to smallest integer values 5. Enclose in square brackets, no
+commas
 
-[ _uvw_]
+\[ *uvw*\]
 
-_z_
+*z*
 
-_x_
+*x*
 
-_y_
+*y*
 
-Example 1:
-pt. 1 _x_ 1 _=_ 0, _y_ 1 = 0, _z_ 1 = 0
+Example 1: pt. 1 *x* 1 *=* 0, *y* 1 = 0, *z* 1 = 0
 
 =\> 1, 0, 1/2
 
-=\> [ 201 ]
+=\> \[ 201 \]
 
 =\> 2, 0, 1
 
-pt. 2 head
+pt. 2 head
 
-pt. 1 tail
+pt. 1 tail
 
-pt. 2 _x_ 2 _= a_, _y_ 2 = 0, _z_ 2 = _c_/2
+pt. 2 *x* 2 *= a*, *y* 2 = 0, *z* 2 = *c*/2
 
 a
 
@@ -1031,29 +1041,25 @@ b
 
 c
 
-[111]
+\[111\]
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img21.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img21.png)
 
 # Slide 23 - **Linear Density**
 
-ex: linear density of Al in [110]
-direction
-_a_ = 0.405 nm
+ex: linear density of Al in \[110\] direction *a* = 0.405 nm
 
-- Linear Density of Atoms (LD) =
+-   Linear Density of Atoms (LD) =
 
+*a*
 
-_a_
-
-[110]
+\[110\]
 
 Adapted from
 
 Fig. 3.1(a),
 
-_Callister & Rethwisch 9e._
+*Callister & Rethwisch 9e.*
 
 Unit length of direction vector
 
@@ -1067,7 +1073,7 @@ length
 
 3.5 nm
 
-_a_
+*a*
 
 2
 
@@ -1075,34 +1081,34 @@ _a_
 
 LD
 
--
+-   
 
 =
 
 =
 
-[011]
+\[011\]
 
 **\_**
 
-[101]
+\[101\]
 
 **\_**
 
-**Equivalent directions have equivalent densities and are grouped as _<uvw>_ families**
+**Equivalent directions have equivalent densities and are grouped as
+*`<uvw>`{=html}* families**
 
-**[110]=[101]=[011], etc = <110>**
+**\[110\]=\[101\]=\[011\], etc = \<110\>**
 
 **\_**
 
 **\_**
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img22.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img22.png)
 
 # Slide 24 - **Crystals as Building Blocks**
 
-* Single Crystals
+-   Single Crystals
 
 -Properties vary with
 
@@ -1110,11 +1116,13 @@ direction: anisotropic
 
 -Example: the modulus
 
-of elasticity ( _E_) in BCC iron
+of elasticity ( *E*) in BCC iron
 
-Data from Table 3.4, _Callister & Rethwisch 9e_. (Source of data is R.W. Hertzberg, _Deformation and Fracture Mechanics of Engineering Materials_, 3rd ed., John Wiley and Sons, 1989.)
+Data from Table 3.4, *Callister & Rethwisch 9e*. (Source of data is R.W.
+Hertzberg, *Deformation and Fracture Mechanics of Engineering
+Materials*, 3rd ed., John Wiley and Sons, 1989.)
 
-* Polycrystals (> 1 crystal)
+-   Polycrystals (\> 1 crystal)
 
 -Properties may/may not
 
@@ -1124,7 +1132,7 @@ vary with direction
 
 oriented: isotropic
 
-( _E_ poly iron = 210 GPa)
+( *E* poly iron = 210 GPa)
 
 -If grains are textured:
 
@@ -1132,15 +1140,17 @@ anisotropic
 
 200 μm
 
-Adapted from Fig. 4.15(b), _Callister & Rethwisch 9e_.
+Adapted from Fig. 4.15(b), *Callister & Rethwisch 9e*.
 
-[Fig. 4.15(b) is courtesy of L.C. Smith and C. Brady, the National Bureau of Standards, Washington, DC (now the National Institute of Standards and Technology, Gaithersburg, MD).]
+\[Fig. 4.15(b) is courtesy of L.C. Smith and C. Brady, the National
+Bureau of Standards, Washington, DC (now the National Institute of
+Standards and Technology, Gaithersburg, MD).\]
 
-_E_ (diagonal) = 273 GPa
+*E* (diagonal) = 273 GPa
 
-_E_ (edge) = 125 GPa
+*E* (edge) = 125 GPa
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img23.png)
+![](./Materials%20Test%201%20Review%20&%20Test-4/img23.png)
 
 # Slide 25
 
@@ -1178,11 +1188,11 @@ B
 
 sites
 
-* ABCABC... Stacking Sequence
+-   ABCABC... Stacking Sequence
 
-* 2D Projection
+-   2D Projection
 
-* 3D Projection
+-   3D Projection
 
 (FCC Unit Cell)
 
@@ -1228,22 +1238,21 @@ B
 
 C
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img24.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img24.png)
 
 # Slide 26 - **Crystallographic Planes**
 
-_z_
+*z*
 
-_x_
+*x*
 
-_y_
+*y*
 
-_a_
+*a*
 
-_b_
+*b*
 
-_c_
+*c*
 
 4\. Miller Indices (634)
 
@@ -1253,7 +1262,7 @@ Example 2
 
 1/2 1 3/4
 
-_a b c_
+*a b c*
 
 2\. Reciprocals
 
@@ -1269,7 +1278,7 @@ _a b c_
 
 **(010),**
 
-**Equivalent planes are grouped as families: { _hkl_}**
+**Equivalent planes are grouped as families: { *hkl*}**
 
 **(100),**
 
@@ -1283,8 +1292,7 @@ _a b c_
 
 **Along Direction of Greatest Atomic Packing**
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img25.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img25.png)
 
 # Slide 27 - **Planar Density of (100) BCC Iron**
 
@@ -1292,62 +1300,60 @@ _a b c_
 
 **Along Direction of Greatest Atomic Packing**
 
-length = 4 _R_ =
+length = 4 *R* =
 
 Close-packed directions:
 
-3 _a_
+3 *a*
 
-4 _R_
-
-3
-
-_a_ =
-
-4 _R_
+4 *R*
 
 3
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img26.png)
+*a* =
 
+4 *R*
+
+3
+
+![](./Materials%20Test%201%20Review%20&%20Test-4/img26.png)
 
 # Slide 28 - **Solid Solution Composition**
 
-## \- Weight percent
+## - Weight percent
 
-_m1_ = mass of component 1
+*m1* = mass of component 1
 
-_nm1_ = number of moles of component 1
+*nm1* = number of moles of component 1
 
 \- Atom percent
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img27.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img27.png)
 
 # Slide 29 - **Solid Solution Composition**
 
-## \- Converting atom% to weight%
+## - Converting atom% to weight%
 
 \- Converting weight% to atom%
 
-_C1/2 =_ wt% component 1/2
+*C1/2 =* wt% component 1/2
 
-_C’1/2 =_ at% component 1/2
+*C'1/2 =* at% component 1/2
 
-_A1_ = atomic wt of component 1
+*A1* = atomic wt of component 1
 
-_A2 =_ atomic wt of component 2
+*A2 =* atomic wt of component 2
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img28.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img28.png)
 
 # Slide 30 - **Point Defects: Substitutional & Interstitial Atoms in Solid Solutions**
 
 Two outcomes if impurity (B) added to host (A):
 
-* Solid solution of B in A (i.e., random dist. of point defects)
+-   Solid solution of B in A (i.e., random dist. of point defects)
 
-* Solid solution of B in A as a new phase (usually for a larger amount of B)
+-   Solid solution of B in A as a new phase (usually for a larger amount
+    of B)
 
 OR
 
@@ -1363,8 +1369,7 @@ Interstitial solid soln.
 
 \- Often different structure
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img29.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img29.png)
 
 # Slide 31 - **Determining Equilibrium Number of Vacancies**
 
@@ -1388,11 +1393,11 @@ x
 
 eV/atom-K)
 
-_N_
+*N*
 
-_v_
+*v*
 
-_N_
+*N*
 
 =
 
@@ -1400,13 +1405,13 @@ exp
 
 
 
-_Q_
+*Q*
 
-_v_
+*v*
 
-_k_
+*k*
 
-_T_
+*T*
 
 è
 
@@ -1434,14 +1439,14 @@ is a potential
 
 vacancy site
 
-*** Equilibrium concentration increases exponentially with temperature**
+\*\*\* Equilibrium concentration increases exponentially with
+temperature\*\*
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img30.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img30.png)
 
 # Slide 32 - **Linear Defects: Mixed Dislocations**
 
-Adapted from Fig. 4.5, _Callister & Rethwisch 8e._
+Adapted from Fig. 4.5, *Callister & Rethwisch 8e.*
 
 Edge
 
@@ -1449,31 +1454,35 @@ Screw
 
 Mixed
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img31.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img31.png)
 
 # Slide 33 - **Area Defects: Grain Boundaries**
 
-- Regions between crystals
-- Transition from lattice of one region to that of the other
-- Slightly disordered
-- Low density in grain boundaries
-- Inhibit dislocation motion
+-   Regions between crystals
 
-- Must change direction due to misorientation
-- Discontinuity of slip planes from one grain too another
+-   Transition from lattice of one region to that of the other
 
-Adapted from Fig. 4.7, _Callister & Rethwisch 8e._
+-   Slightly disordered
+
+-   Low density in grain boundaries
+
+-   Inhibit dislocation motion
+
+-   Must change direction due to misorientation
+
+-   Discontinuity of slip planes from one grain too another
+
+Adapted from Fig. 4.7, *Callister & Rethwisch 8e.*
 
 ASTM grain
 
 size number
 
-_N_
+*N*
 
 = 2
 
-_n_
+*n*
 
 -1
 
@@ -1483,31 +1492,34 @@ at 100x
 
 magnification
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img32.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img32.png)
 
 # Slide 34 - **Imperfections Summary**
 
-* Point, Line, and Area defects exist in solids
+-   Point, Line, and Area defects exist in solids
 
-* The number and type of defects can be varied
+-   The number and type of defects can be varied
 
-and controlled (e.g., _T_ controls vacancy concentration)
+and controlled (e.g., *T* controls vacancy concentration)
 
--  Defects affect material properties and may be desirable or undesirable
+-   Defects affect material properties and may be desirable or
+    undesirable
 
-- Vacancies allow solutions to occur which can lead to desirable alloys
-- Dislocation movement allows plastic deformation (warning for impending failure)
-- Grain boundaries impede crystal slip
+-   Vacancies allow solutions to occur which can lead to desirable
+    alloys
+
+-   Dislocation movement allows plastic deformation (warning for
+    impending failure)
+
+-   Grain boundaries impede crystal slip
 
 **Materials Engineering is About Defect Management!**
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img33.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img33.png)
 
 # Slide 35 - **Steady-State Diffusion Rate**
 
-Fick’s first law of diffusion
+Fick's first law of diffusion
 
 C1
 
@@ -1529,16 +1541,15 @@ Rate of diffusion independent of time
 
 Flux proportional to concentration gradient =
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img34.png)
+![](./Materials%20Test%201%20Review%20&%20Test-4/img34.png)
 
+# Slide 36 - **Solution to Fick's Second Law:**
 
-# Slide 36 - **Solution to Fick’s Second Law:**
+## *C*( *x*, *t*) = Conc. at point *x* at time *t*
 
-## _C_( _x_, _t_) = Conc. at point _x_ at   time _t_
+## erf ( *z*) = error function
 
-## erf ( _z_) = error function
-
-## erf( _z_) values are given in Table 5.1
+## erf( *z*) values are given in Table 5.1
 
 CS
 
@@ -1550,12 +1561,11 @@ Adapted from Fig. 5.5, Callister & Rethwisch 8e.
 
 **Non-steady State Diffusion**
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img35.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img35.png)
 
 # Slide 37 - **Diffusion and Temperature**
 
-* Diffusion coefficient increases with increasing T
+-   Diffusion coefficient increases with increasing T
 
 D
 
@@ -1577,7 +1587,7 @@ exp
 
 
 
--
+-   
 
 Qd
 
@@ -1585,15 +1595,15 @@ R
 
 T
 
-= pre-exponential [m2/s]
+= pre-exponential \[m2/s\]
 
-= diffusion coefficient [m2/s]
+= diffusion coefficient \[m2/s\]
 
-= activation energy for diffusion [J/mol or eV/atom]
+= activation energy for diffusion \[J/mol or eV/atom\]
 
-= gas constant [8.314 J/mol-K]
+= gas constant \[8.314 J/mol-K\]
 
-= absolute temperature [K]
+= absolute temperature \[K\]
 
 D
 
@@ -1617,18 +1627,15 @@ ln D
 
 1/T
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img36.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img36.png)
 
 # Slide 38 - **Example Problems**
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img37.png)
+![](./Materials%20Test%201%20Review%20&%20Test-4/img37.png)
 
 # Slide 39
 
-
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img38.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img38.png)
 
 # Slide 40 - **Crystallographic Planes**
 
@@ -1642,7 +1649,7 @@ Plane A
 
 1/2 1 -1
 
-_x y z_
+*x y z*
 
 3\. Reciprocals
 
@@ -1654,16 +1661,15 @@ _x y z_
 
 1\. Move Origin (one unit cell up)
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img39.png)
+![](./Materials%20Test%201%20Review%20&%20Test-4/img39.png)
 
 # Slide 41
 
-
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img40.png)
+![](./Materials%20Test%201%20Review%20&%20Test-4/img40.png)
 
 # Slide 42
 
-**4.19 _Convert the following atom percent compositions to weight percent:_** _**44.8 at% Ag, 46.2 at% Au, and 9.0 at% Cu**_
+**4.19 *Convert the following atom percent compositions to weight
+percent:*** ***44.8 at% Ag, 46.2 at% Au, and 9.0 at% Cu***
 
-![](./Materials\ Test\ 1\ Review\ &\ Test-4/img41.png)
-
+![](./Materials%20Test%201%20Review%20&%20Test-4/img41.png)

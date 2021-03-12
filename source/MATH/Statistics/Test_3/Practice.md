@@ -11,7 +11,8 @@ e^{-\left(y_{1}+y_{2}\right)}, & y_{1}>0, y_{2}>0 \\
 \end{array}\right.
 $$
 
-a) What is $P\left(Y_{1}<3, Y_{2}>4\right) ?$ (Round your answer to four decimal places.)
+a)  What is $P\left(Y_{1}<3, Y_{2}>4\right) ?$ (Round your answer to
+    four decimal places.)
 
 $$
 \begin{aligned}
@@ -21,7 +22,8 @@ P&=0.0174
 \end{aligned}
 $$
 
-b) What is $P\left(Y_{1}+Y_{2}<4\right) ?$ (Round your answer to four decimal places.)
+b)  What is $P\left(Y_{1}+Y_{2}<4\right) ?$ (Round your answer to four
+    decimal places.)
 
 $$
 \begin{aligned}
@@ -32,11 +34,12 @@ $$
 \end{aligned}
 $$
 
----
+------------------------------------------------------------------------
 
 ## Problem 2
 
-Let $Y_{1}$ and $Y_{2}$ have the joint probability density function given by
+Let $Y_{1}$ and $Y_{2}$ have the joint probability density function
+given by
 
 $$
 f\left(y_{1}, y_{2}\right)=\left\{\begin{array}{ll}
@@ -45,7 +48,8 @@ k\left(1-y_{2}\right), & 0 \leq y_{1} \leq y_{2} \leq 1 \\
 \end{array}\right.
 $$
 
-a) Find the value of $k$ that makes this a probability density function.
+a)  Find the value of $k$ that makes this a probability density
+    function.
 
 $$
 \begin{aligned}
@@ -55,7 +59,8 @@ $$
 \end{aligned}
 $$
 
-b) Find $P\left(Y_{1} \leq \frac{7}{8}, Y_{2} \geq \frac{1}{2}\right)$ (Round your answer to four decimal places.)
+b)  Find $P\left(Y_{1} \leq \frac{7}{8}, Y_{2} \geq \frac{1}{2}\right)$
+    (Round your answer to four decimal places.)
 
 $$
 \begin{aligned}
@@ -65,7 +70,7 @@ P\left(y_{1} \leq \frac{7}{8}, y_{2} \geq \frac{1}{2}\right) &=P\left(y_{1} \leq
 \end{aligned}
 $$
 
----
+------------------------------------------------------------------------
 
 ## Problem 3
 
@@ -80,7 +85,7 @@ $$
 
 is a valid joint probability density function.
 
-a) Find the marginal density function for $Y_{1}$.
+a)  Find the marginal density function for $Y_{1}$.
 
 $$
 \begin{aligned}
@@ -91,9 +96,12 @@ f_{2}\left(y_{2}\right)&=\int_{0}^{y_{1}} 6\left(1-y_{2}\right) d y_{1} &,
 \end{aligned}
 $$
 
-b) Find $P\left(Y_{2} \leq \frac{1}{2} \mid Y_{1} \leq \frac{7}{8}\right) .$ (Skip this problem)
+b)  Find
+    $P\left(Y_{2} \leq \frac{1}{2} \mid Y_{1} \leq \frac{7}{8}\right) .$
+    (Skip this problem)
 
-c) Find the conditional density function of $Y_{1}$ given $Y_{2}=y_{2}$.
+c)  Find the conditional density function of $Y_{1}$ given
+    $Y_{2}=y_{2}$.
 
 $$
 \begin{aligned}
@@ -103,7 +111,8 @@ f\left(y_{1} \mid {y_{2}}\right) &=\frac{6\left(1-y_{2}\right)}{-6 \cdot y_{2}\l
 \end{aligned}
 $$
 
-d) Find the conditional density function of $Y_{2}$ given $Y_{1}=y_{1}$.
+d)  Find the conditional density function of $Y_{2}$ given
+    $Y_{1}=y_{1}$.
 
 $$
 \begin{aligned}
@@ -112,7 +121,8 @@ f\left(y_{2} \mid y_{1}\right) &=\frac{6\left(1-y_{2}\right)}{3 \cdot\left(y_{1}
 \end{aligned}
 $$
 
-e) Find $P\left(Y_{2} \geq \frac{3}{4} \mid Y_{1}=\frac{1}{2}\right)$. (Enter your probability as a fraction.)
+e)  Find $P\left(Y_{2} \geq \frac{3}{4} \mid Y_{1}=\frac{1}{2}\right)$.
+    (Enter your probability as a fraction.)
 
 $$
 \begin{aligned}
@@ -123,11 +133,16 @@ P\left(Y_{2} \geq \frac{3}{4} \mid Y_{1}=\frac{1}{2}\right)&=\frac{f\left(y_{2},
 \end{aligned}
 $$
 
----
+------------------------------------------------------------------------
 
 ## Problem 4
 
-A service station has both self-service and full-service islands. On each island, there is a single regular unleaded pump with two hoses. Let $X$ denote the number of hoses being used on the self-service island at a particular time, and let $Y$ denote the number of hoses on the full-service island in use at that time. The joint pmf of $X$ and $Y$ appears in the accompanying tabulation
+A service station has both self-service and full-service islands. On
+each island, there is a single regular unleaded pump with two hoses. Let
+$X$ denote the number of hoses being used on the self-service island at
+a particular time, and let $Y$ denote the number of hoses on the
+full-service island in use at that time. The joint pmf of $X$ and $Y$
+appears in the accompanying tabulation
 
 $$
 \begin{array}{ll|lll}
@@ -139,11 +154,11 @@ x & 1 & 0.07 & 0.20 & 0.07 \\
 \end{array}
 $$
 
-a) What is $P(X=1$ and $Y=1)$?
+a)  What is $P(X=1$ and $Y=1)$?
 
 $$P(X=1 \text{ and } Y=1)=0.20$$
 
-b) Compute $P(X \leq 1$ and $Y \leq 1)$
+b)  Compute $P(X \leq 1$ and $Y \leq 1)$
 
 $$
 \begin{aligned}
@@ -152,12 +167,12 @@ P(X \leq 1 \text { and } Y \leq 1) &=0.10+0.05+0.07+0.20 \\
 \end{aligned}
 $$
 
-c) Give a word description of the event $\{X \neq 0$ and $Y \neq 0\}$.
+c)  Give a word description of the event $\{X \neq 0$ and $Y \neq 0\}$.
 
-- [ ] One hose is in use on both islands.
-- [ ] One hose is in use on one island.
-- [ ] At most one hose is in use at both islands.
-- [x] **At least one hose is in use at both islands.**
+-   [ ] One hose is in use on both islands.
+-   [ ] One hose is in use on one island.
+-   [ ] At most one hose is in use at both islands.
+-   [x] **At least one hose is in use at both islands.**
 
 Compute the probability of this event.
 
@@ -168,7 +183,7 @@ P(X \neq 0 \text{ and } Y \neq 0)&=0.20 + 0.14 + 0.07 + 0.30 \\
 \end{aligned}
 $$
 
-d) Compute the marginal pmf of $X$.
+d)  Compute the marginal pmf of $X$.
 
 $$
 \begin{aligned}
@@ -187,7 +202,6 @@ x & 0 & 1 & 2 \\
 \hline p_{X}(x) & 0.16 & 0.34 & 0.50
 \end{array}
 $$
-
 
 Compute the marginal pmf of $Y$.
 
@@ -221,18 +235,25 @@ P(X \leq 1) &=0.16+0.34 \\
 \end{aligned}
 $$
 
+e)  Are $X$ and $Y$ independent rv's? Explain.
 
-e) Are $X$ and $Y$ independent rv's? Explain.
-- [x] **$X$ and $Y$ are not independent because $P(x, y) \neq p_{X}(x) \cdot p_{Y}(y)$.**
-- [ ] $X$ and $Y$ are independent because $P(x, y) \neq p_{X}(x) \cdot p_{Y}(y)$
-- [ ] $X$ and $Y$ are independent because $P(x, y)=p_{X}(x) \cdot p_{Y}(y)$
-- [ ] $X$ and $Y$ are not independent because $P(x, y)=p_{X}(x) \cdot p_{Y}(y)$
+-   [x] **$X$ and $Y$ are not independent because
+    $P(x, y) \neq p_{X}(x) \cdot p_{Y}(y)$.**
+-   [ ] $X$ and $Y$ are independent because
+    $P(x, y) \neq p_{X}(x) \cdot p_{Y}(y)$
+-   [ ] $X$ and $Y$ are independent because
+    $P(x, y)=p_{X}(x) \cdot p_{Y}(y)$
+-   [ ] $X$ and $Y$ are not independent because
+    $P(x, y)=p_{X}(x) \cdot p_{Y}(y)$
 
----
+------------------------------------------------------------------------
 
 ## Problem 5
 
-Each front tire on a particular type of vehicle is supposed to be filled to a pressure of 26 psi. Suppose the actual air pressure in each tire is a random variable --- $X$ for the right tire and $Y$ for the left tire, with joint pdf given below.
+Each front tire on a particular type of vehicle is supposed to be filled
+to a pressure of 26 psi. Suppose the actual air pressure in each tire is
+a random variable --- $X$ for the right tire and $Y$ for the left tire,
+with joint pdf given below.
 
 $$
 f(x, y)=\left\{\begin{array}{cl}
@@ -241,7 +262,8 @@ K\left(x^{2}+y^{2}\right) & 22 \leq x \leq 32,22 \leq y \leq 32 \\
 \end{array}\right.
 $$
 
-a)  Compute the covariance between $X$ and $Y$. (Round your answer to four decimal places.)
+a)  Compute the covariance between $X$ and $Y$. (Round your answer to
+    four decimal places.)
 
 $$
 \begin{aligned}
@@ -269,7 +291,8 @@ $$
 \end{aligned}
 $$
 
-b) Compute the correlation coefficient $\rho$ for this $X$ and $Y$. (Round your answer to four decimal places.)
+b)  Compute the correlation coefficient $\rho$ for this $X$ and $Y$.
+    (Round your answer to four decimal places.)
 
 $$
 \begin{aligned}
@@ -302,15 +325,14 @@ $$
 \end{aligned}
 $$
 
----
+------------------------------------------------------------------------
 
 ## Problem 6
 
-Contracts for two construction jobs are randomly assigned to one or more of three firms, A, B, and C. The joint distribution of
-$Y_1$,
-the number of contracts awarded to firm A, and
-$Y_2$,
-the number of contracts awarded to firm B, is given by the entries in the following table.
+Contracts for two construction jobs are randomly assigned to one or more
+of three firms, A, B, and C. The joint distribution of $Y_1$, the number
+of contracts awarded to firm A, and $Y_2$, the number of contracts
+awarded to firm B, is given by the entries in the following table.
 
 $$
 \begin{array}{|c|c|c|c|}
@@ -323,7 +345,8 @@ $$
 \end{array}
 $$
 
-Find $\operatorname{Cov}\left(Y_{1}, Y_{2}\right)$. (Round your answer to three decimal places.)
+Find $\operatorname{Cov}\left(Y_{1}, Y_{2}\right)$. (Round your answer
+to three decimal places.)
 
 $$
 \begin{aligned}
@@ -344,18 +367,32 @@ E[Y_1Y_2] &=0\cdot0 \cdot \frac{1}{4}+0\cdot1 \cdot \frac{2}{4}+\cdots+1 \cdot 1
 \end{aligned}
 $$
 
-Does the sign of $\operatorname{Cov}\left(Y_{1}, Y_{2}\right)$ surprise you? Why?
+Does the sign of $\operatorname{Cov}\left(Y_{1}, Y_{2}\right)$ surprise
+you? Why?
 
-- [ ] For larger values of $y_{1},$ the joint distribution increases as $y_{2}$ increases, so we should expect $\operatorname{Cov}\left(Y_{1}, Y_{2}\right)$ to be positive.
-- [x] **For larger values of $y_{1},$ the joint distribution decreases as $y_{2}$ increases, so we should expect $\operatorname{Cov}\left(Y_{1}, Y_{2}\right)$ to be negative.**
-- [ ] For larger values of $y_{1},$ the joint distribution increases as $y_{2}$ increases, so we should expect $\operatorname{Cov}\left(Y_{1}, Y_{2}\right)$ to be negative.
-- [ ] For larger values of $y_{1},$ the joint distribution decreases as $y_{2}$ increases, so we should expect $\operatorname{cov}\left(Y_{1}, Y_{2}\right)$ to be positive.
+-   [ ] For larger values of $y_{1},$ the joint distribution increases
+    as $y_{2}$ increases, so we should expect
+    $\operatorname{Cov}\left(Y_{1}, Y_{2}\right)$ to be positive.
+-   [x] **For larger values of $y_{1},$ the joint distribution decreases
+    as $y_{2}$ increases, so we should expect
+    $\operatorname{Cov}\left(Y_{1}, Y_{2}\right)$ to be negative.**
+-   [ ] For larger values of $y_{1},$ the joint distribution increases
+    as $y_{2}$ increases, so we should expect
+    $\operatorname{Cov}\left(Y_{1}, Y_{2}\right)$ to be negative.
+-   [ ] For larger values of $y_{1},$ the joint distribution decreases
+    as $y_{2}$ increases, so we should expect
+    $\operatorname{cov}\left(Y_{1}, Y_{2}\right)$ to be positive.
 
----
+------------------------------------------------------------------------
 
 ## Problem 7
 
-A shipping company handles containers in three different sizes: (1) $27 \mathrm{ft}^{3}(3 \times 3 \times 3)$, (2) $125 \mathrm{ft}^{3}$, and (3) $512 \mathrm{ft}^{3}$. Let $X_{i}(i=1,2,3)$ denote the number of type $i$ containers shipped during a given week. With $\mu_{i}=E\left(x_{i}\right)$ and $\sigma_{i}^{2}=V\left(X_{i}\right)$, suppose that the mean values and standard deviations are as follows:
+A shipping company handles containers in three different sizes: (1)
+$27 \mathrm{ft}^{3}(3 \times 3 \times 3)$, (2) $125 \mathrm{ft}^{3}$,
+and (3) $512 \mathrm{ft}^{3}$. Let $X_{i}(i=1,2,3)$ denote the number of
+type $i$ containers shipped during a given week. With
+$\mu_{i}=E\left(x_{i}\right)$ and $\sigma_{i}^{2}=V\left(X_{i}\right)$,
+suppose that the mean values and standard deviations are as follows:
 
 $$
 \begin{array}{lll}
@@ -364,7 +401,9 @@ $$
 \end{array}
 $$
 
-a) Assuming that $X_{1}, X_{2}, X_{3}$ are independent, calculate the expected value and variance of the total volume shipped. [Hint: Volume $=27 X_{1}+125 X_{2}+512 X_{3}$. ]
+a)  Assuming that $X_{1}, X_{2}, X_{3}$ are independent, calculate the
+    expected value and variance of the total volume shipped. \[Hint:
+    Volume $=27 X_{1}+125 X_{2}+512 X_{3}$. \]
 
 $$
 \begin{array}{l}
@@ -404,19 +443,27 @@ $$
 \end{aligned}
 $$
 
-b) Would your calculations necessarily be correct if the $X_{i}$ 's were not independent? Explain.
-- [ ] The expected value would not be correct, but the variance would be correct.
-- [x] **The expected value would be correct, but the variance would not be correct.**
-- [ ] Both the expected value and the variance would be correct.
-- [ ] Neither the expected value nor the variance would be correct.
+b)  Would your calculations necessarily be correct if the $X_{i}$ 's
+    were not independent? Explain.
 
----
+-   [ ] The expected value would not be correct, but the variance would
+    be correct.
+-   [x] **The expected value would be correct, but the variance would
+    not be correct.**
+-   [ ] Both the expected value and the variance would be correct.
+-   [ ] Neither the expected value nor the variance would be correct.
+
+------------------------------------------------------------------------
 
 ## Problem 8
 
-Young's modulus is a quantitative measure of stiffess of an elastic material. Suppose that for metal sheets of a particular type, its mean value and standard deviation are $85 \mathrm{GPa}$ and $1.9 \mathrm{GPa}$, respectively. Suppose the distribution is normal. (Round your answers to four decimal places.)
+Young's modulus is a quantitative measure of stiffess of an elastic
+material. Suppose that for metal sheets of a particular type, its mean
+value and standard deviation are $85 \mathrm{GPa}$ and
+$1.9 \mathrm{GPa}$, respectively. Suppose the distribution is normal.
+(Round your answers to four decimal places.)
 
-a) Calculate $P(84 \leq \bar{X} \leq 86)$ when $n=9$.
+a)  Calculate $P(84 \leq \bar{X} \leq 86)$ when $n=9$.
 
 $$
 \begin{aligned}
@@ -426,7 +473,8 @@ P(84 \leq \bar{X} \leq 86) =& \int_{84}^{86} n\left(x ; 85, \frac{1.9}{\sqrt{9}}
 \end{aligned}
 $$
 
-b) How likely is it that the sample mean diameter exceeds 86 when $n=16$?
+b)  How likely is it that the sample mean diameter exceeds 86 when
+    $n=16$?
 
 $$
 \begin{aligned}
@@ -435,11 +483,16 @@ P(86 \leq \bar{X}) =& \int_{86}^{\infty} n\left(x ; 86, \frac{1.9}{\sqrt{16}}\ri
 \end{aligned}
 $$
 
----
+------------------------------------------------------------------------
 
 ## Problem 9
 
-An anthropologist wishes to estimate the average height of men for a certain race of people. If the population standard deviation is assumed to be 2.8 inches and if she randomly samples 100 men, find the probability that the difference between the sample mean and the true population mean will not exceed 0.7 inch. (Round your answer to four decimal places.)
+An anthropologist wishes to estimate the average height of men for a
+certain race of people. If the population standard deviation is assumed
+to be 2.8 inches and if she randomly samples 100 men, find the
+probability that the difference between the sample mean and the true
+population mean will not exceed 0.7 inch. (Round your answer to four
+decimal places.)
 
 $$
 \begin{aligned}

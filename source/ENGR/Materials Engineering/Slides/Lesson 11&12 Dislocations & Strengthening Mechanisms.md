@@ -1,85 +1,104 @@
 # Slide 1
 
-_**Claiming every workplace in every nation as our**_
+***Claiming every workplace in every nation as our***
 
-_**mission field**_
+***mission field***
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img0.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img0.png)
 
 # Slide 2 - **Devo/Prayer - First Metallurgist**
 
-- “The Lord God took the man and put him in the Garden of Eden to work it and keep it.” (Gen 2:15)
-- “Zillah also had a son, Tubal-Cain, who forged all kinds of tools out of _**bronze and iron**_.” (Gen 4:22)
+-   "The Lord God took the man and put him in the Garden of Eden to work
+    it and keep it." (Gen 2:15)
+-   "Zillah also had a son, Tubal-Cain, who forged all kinds of tools
+    out of ***bronze and iron***." (Gen 4:22)
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img1.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img1.png)
 
 # Slide 3 - **Devo/Prayer - Security in Christ**
 
-- “Does Job fear God for nothing?” Satan replied.  “Have you not put a hedge around him and his household and everything he has? You have blessed the work of his hands, so that his flocks and herds are spread throughout the land. But now stretch out your hand and strike everything he has, and he will surely curse you to your face.”The Lord said to Satan, “Very well, then, everything he has is in your power, but on the man himself do not lay a finger.”
+-   "Does Job fear God for nothing?" Satan replied.  "Have you not put a
+    hedge around him and his household and everything he has? You have
+    blessed the work of his hands, so that his flocks and herds are
+    spread throughout the land. But now stretch out your hand and strike
+    everything he has, and he will surely curse you to your
+    face."The Lord said to Satan, "Very well, then, everything he has is
+    in your power, but on the man himself do not lay a finger."
 
 ## Job 1:9-12
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img2.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img2.png)
 
 # Slide 4 - **Devo/Prayer**
 
-- For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, **nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord**.
+-   For I am convinced that neither death nor life, neither angels nor
+    demons, neither the present nor the future, nor any powers, neither
+    height nor depth, **nor anything else in all creation, will be able
+    to separate us from the love of God that is in Christ Jesus our
+    Lord**.
 
 ## Romans 8:38-39
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img3.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img3.png)
 
 # Slide 5 - **Lesson 11/12 Outline - Dislocations & Strengthening Mechanisms**
 
-- Devotional/Prayer
-- Dislocation Motion/Slip
-- Strengthening of Metals
+-   Devotional/Prayer
 
-- Decreasing Grain Size
-- Solid Solution Strengthening
-- Cold Working
-- Impact of Heat Treatments
-- Precipitation Strengthening
+-   Dislocation Motion/Slip
 
-- Summary/Wrap up
+-   Strengthening of Metals
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img4.png)
+-   Decreasing Grain Size
 
+-   Solid Solution Strengthening
+
+-   Cold Working
+
+-   Impact of Heat Treatments
+
+-   Precipitation Strengthening
+
+-   Summary/Wrap up
+
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img4.png)
 
 # Slide 6 - **Devo/Prayer**
 
-- Trinity in simple Professor Olson terms
+-   Trinity in simple Professor Olson terms
 
-- God the Father IS love
-- God the Son DEMONSTRATED that love by dying for my sin
-- God the Holy Spirit is His love LIVING WITHIN me…
+-   God the Father IS love
 
-- God as a person - the Holy Spirit in me
+-   God the Son DEMONSTRATED that love by dying for my sin
 
-- “And I will ask the Father, and he will give you another advocate to help you and be with you forever—the Spirit of truth.” John 14:16
+-   God the Holy Spirit is His love LIVING WITHIN me...
 
-## [https://www.youtube.com/watch?v=RM3ccY55KLs](https://www.youtube.com/watch?v=RM3ccY55KLs)
+-   God as a person - the Holy Spirit in me
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img5.png)
+-   "And I will ask the Father, and he will give you another advocate to
+    help you and be with you forever---the Spirit of truth." John 14:16
 
+## <https://www.youtube.com/watch?v=RM3ccY55KLs>
 
-# Slide 7 - **Devo/Prayer - Patience &  Assurance in God’s Plan**
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img5.png)
 
-- “Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.”
+# Slide 7 - **Devo/Prayer - Patience & Assurance in God's Plan**
+
+-   "Being confident of this, that he who began a good work in you will
+    carry it on to completion until the day of Christ Jesus."
 
 ## Philippians 1:6
 
-- Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us, to him be glory in the church and in Christ Jesus throughout all generations, for ever and ever!
+-   Now to him who is able to do immeasurably more than all we ask or
+    imagine, according to his power that is at work within us, to him be
+    glory in the church and in Christ Jesus throughout all generations,
+    for ever and ever!
 
 ## Eph 3:20-21
 
-_**9 years / 7 schools / 3 majors…**_
+***9 years / 7 schools / 3 majors...***
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img6.png)
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img6.png)
 
 # Slide 8
 
@@ -91,9 +110,12 @@ _**9 years / 7 schools / 3 majors…**_
 
 **Time**
 
-_**Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything.**_
+***Consider it pure joy, my brothers and sisters, whenever you face
+trials of many kinds, because you know that the testing of your faith
+produces perseverance. Let perseverance finish its work so that you may
+be mature and complete, not lacking anything.***
 
-_**James 1:2-4**_
+***James 1:2-4***
 
 **Time**
 
@@ -103,7 +125,7 @@ _**James 1:2-4**_
 
 F=ꭍ T2dt
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img7.png)
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img7.png)
 
 # Slide 9
 
@@ -195,21 +217,21 @@ F=ꭍ T2dt
 
 **Mechanical Properties of Metals**
 
-_**11**_
+***11***
 
-_**T**_
+***T***
 
-_**22 Sep**_
+***22 Sep***
 
-_**Dislocations and Strengthening Mechanisms**_
+***Dislocations and Strengthening Mechanisms***
 
-_**12**_
+***12***
 
-_**R**_
+***R***
 
-_**24 Sep**_
+***24 Sep***
 
-_**Dislocations and Strengthening Mechanisms**_
+***Dislocations and Strengthening Mechanisms***
 
 **13**
 
@@ -327,9 +349,10 @@ _**Dislocations and Strengthening Mechanisms**_
 
 **Final Exam**
 
-_**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
+***Rejoice always, pray continually, give thanks in all circumstances 1
+Thes 5:16-18***
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img8.png)
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img8.png)
 
 # Slide 10
 
@@ -421,21 +444,21 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **Mechanical Properties of Metals**
 
-_**11**_
+***11***
 
-_**T**_
+***T***
 
-_**19 Feb**_
+***19 Feb***
 
-_**Dislocations and Strengthening Mechanisms**_
+***Dislocations and Strengthening Mechanisms***
 
-_**12**_
+***12***
 
-_**R**_
+***R***
 
-_**21 Feb**_
+***21 Feb***
 
-_**Dislocations and Strengthening Mechanisms**_
+***Dislocations and Strengthening Mechanisms***
 
 **13**
 
@@ -589,24 +612,24 @@ _**Dislocations and Strengthening Mechanisms**_
 
 **Final Exam**
 
-_**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
+***Rejoice always, pray continually, give thanks in all circumstances 1
+Thes 5:16-18***
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img9.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img9.png)
 
 # Slide 11 - **Dislocations & Strengthening Mechanisms**
 
 **ISSUES TO ADDRESS...**
 
-* Why are the number of dislocations present
+-   Why are the number of dislocations present
 
 greatest in metals?
 
-* How are strength and dislocation motion related?
+-   How are strength and dislocation motion related?
 
-* Why does heating alter strength and other properties?
+-   Why does heating alter strength and other properties?
 
-* How can metals be strengthened?
+-   How can metals be strengthened?
 
 Decrease grain size
 
@@ -616,107 +639,86 @@ Cold working
 
 Precipitation hardening
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img10.png)
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img10.png)
 
 # Slide 12
 
 **Big Picture**
 
-* Plastic deformation requires moving of dislocations (edge, screw or mixed) in crystal structure
+-   Plastic deformation requires moving of dislocations (edge, screw or
+    mixed) in crystal structure
 
-_**Anything that hinders dislocation movement through the crystal will increase the yield strength and hardness of a material**_
+***Anything that hinders dislocation movement through the crystal will
+increase the yield strength and hardness of a material***
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img11.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img11.png)
 
 # Slide 13 - **Dislocation Motion**
 
 ## Dislocation motion & plastic deformation
 
-- Metals - plastic deformation occurs by slip - an edge dislocation (extra half-plane of atoms) slides over adjacent plane half-planes of atoms.
+-   Metals - plastic deformation occurs by slip - an edge dislocation
+    (extra half-plane of atoms) slides over adjacent plane half-planes
+    of atoms.
 
--  If dislocations can't move,
-     plastic deformation doesn't occur!
+-   If dislocations can't move, plastic deformation doesn't occur!
 
-Adapted from Fig. 7.1, _Callister & Rethwisch 8e._
+Adapted from Fig. 7.1, *Callister & Rethwisch 8e.*
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img12.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img12.png)
 
 # Slide 14 - **Dislocation Motion**
 
-- A dislocation moves along a slip plane in a slip direction perpendicular to the dislocation line
-- The slip direction is the same as the Burgers vector direction
+-   A dislocation moves along a slip plane in a slip direction
+    perpendicular to the dislocation line
+-   The slip direction is the same as the Burgers vector direction
 
 **Edge dislocation**
 
 **Screw dislocation**
 
-Adapted from Fig. 7.2, _Callister & Rethwisch 8e._
+Adapted from Fig. 7.2, *Callister & Rethwisch 8e.*
 
-[**https://www.youtube.com/watch?v=7qgBMKS\_fyo**](https://www.youtube.com/watch?v=7qgBMKS_fyo)
+[**https://www.youtube.com/watch?v=7qgBMKS_fyo**](https://www.youtube.com/watch?v=7qgBMKS_fyo)
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img13.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img13.png)
 
 # Slide 15 - **Dislocations & Material Types**
 
-* Covalent Ceramics
+-   Covalent Ceramics
 
 (Si, diamond): Motion difficult
 
 \- directional (angular) bonding
 
-* Ionic Ceramics (NaCl):
+-   Ionic Ceramics (NaCl):
 
 Motion difficult
 
-\- need to avoid nearest
-neighbors of like sign (- and +)
+\- need to avoid nearest neighbors of like sign (- and +)
 
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
-* Metals (Cu, Al):
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   Metals (Cu, Al):
 
 Dislocation motion easiest
 
@@ -730,127 +732,102 @@ electron cloud
 
 ion cores
 
-+
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
 
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img14.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img14.png)
 
 # Slide 16 - **Deformation Mechanisms**
 
-## Slip System (where least “atomic distortion” occurs)
+## Slip System (where least "atomic distortion" occurs)
 
-- Slip plane - plane on which easiest slippage occurs
+-   Slip plane - plane on which easiest slippage occurs
 
-- Highest planar densities (and large interplanar spacings)
+-   Highest planar densities (and large interplanar spacings)
 
-- Slip directions - directions of movement
+-   Slip directions - directions of movement
 
-- Highest linear densities
+-   Highest linear densities
 
-Adapted from Fig. 7.6, _Callister & Rethwisch 8e._
+Adapted from Fig. 7.6, *Callister & Rethwisch 8e.*
 
--  FCC Slip occurs on {111} planes (close-packed) in <110>
-     directions (close-packed)
+-   FCC Slip occurs on {111} planes (close-packed) in \<110\> directions
+    (close-packed)
 
 =\> total of 12 slip systems in FCC
 
--  For BCC has comparable number of slip systems and HCP has fewer.
+-   For BCC has comparable number of slip systems and HCP has fewer.
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img15.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img15.png)
 
 # Slide 17 - **Single Crystal Slip**
 
-Adapted from Fig. 7.8, _Callister & Rethwisch 8e._
+Adapted from Fig. 7.8, *Callister & Rethwisch 8e.*
 
-**Zinc Single Crystal** Adapted from Fig. 7.9, _Callister & Rethwisch 8e._
+**Zinc Single Crystal** Adapted from Fig. 7.9, *Callister & Rethwisch
+8e.*
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img16.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img16.png)
 
 # Slide 18 - **Stress and Dislocation Motion for Single Crystal**
 
-* Internal resolved shear stress, t _R_
+-   Internal resolved shear stress, t *R*
 
--  Results from applied tensile stresses
+-   Results from applied tensile stresses
 
 slip plane
 
-normal, _ns_
+normal, *ns*
 
 Resolved shear
 
 stress:
 
-t _R_
+t *R*
 
 =
 
-_F_
+*F*
 
-_s_
+*s*
 
-/ _A_
+/ *A*
 
-_s_
+*s*
 
 slip
 
 direction
 
-_AS_
+*AS*
 
-t _R_
+t *R*
 
-t _R_
+t *R*
 
-_FS_
+*FS*
 
 slip
 
@@ -862,23 +839,23 @@ s
 
 and
 
-t _R_
+t *R*
 
-t _R_
+t *R*
 
 =
 
-_FS_
+*FS*
 
-/ _AS_
+/ *AS*
 
-_F_
+*F*
 
 cos
 
 l
 
-_A_
+*A*
 
 /
 
@@ -888,23 +865,23 @@ f
 
 l
 
-_F_
+*F*
 
-_FS_
+*FS*
 
 f
 
-_nS_
+*nS*
 
-_AS_
+*AS*
 
-_A_
+*A*
 
 Applied tensile
 
 stress:
 
-= _F_/ _A_
+= *F*/ *A*
 
 s
 
@@ -912,24 +889,23 @@ slip
 
 direction
 
-_F_
+*F*
 
-_A_
+*A*
 
-_F_
+*F*
 
 slip
 
 plane
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img17.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img17.png)
 
 # Slide 19 - **Critical Resolved Shear Stress (Ƭcrss )**
 
-* Condition for dislocation motion:
+-   Condition for dislocation motion:
 
-* Ease of dislocation motion depends
+-   Ease of dislocation motion depends
 
 on crystallographic orientation ( vs )
 
@@ -939,7 +915,7 @@ typically
 
  maximum at  =  = 45º
 
-t _R_
+t *R*
 
 = 0
 
@@ -949,7 +925,7 @@ l
 
 s
 
-t _R_
+t *R*
 
 =
 
@@ -967,7 +943,7 @@ f
 
 s
 
-t _R_
+t *R*
 
 = 0
 
@@ -977,8 +953,7 @@ f
 
 s
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img18.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img18.png)
 
 # Slide 20 - **Example: Deformation of single crystal**
 
@@ -990,43 +965,43 @@ s
 
 crss = 20.7 MPa
 
-a) Will the single crystal yield?
+a)  Will the single crystal yield?
 
-b) If not, what stress is needed?
+b)  If not, what stress is needed?
 
  = 45 MPa
 
-Adapted from Fig. 7.7, _Callister & Rethwisch 8e._
+Adapted from Fig. 7.7, *Callister & Rethwisch 8e.*
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img19.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img19.png)
 
 # Slide 21 - **Example: Deformation of single crystal**
 
-What stress _is_ necessary (i.e., what is the yield stress, s _y_)?
+What stress *is* necessary (i.e., what is the yield stress, s *y*)?
 
-So for deformation to occur the applied stress must be greater than or equal to the yield stress
+So for deformation to occur the applied stress must be greater than or
+equal to the yield stress
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img20.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img20.png)
 
 # Slide 22 - **Slip Motion in Polycrystals**
 
-Adapted from Fig. 7.10, _Callister & Rethwisch 8e._
+Adapted from Fig. 7.10, *Callister & Rethwisch 8e.*
 
-(Fig. 7.10 is courtesy of C. Brady, National Bureau of Standards [now the National Institute of Standards and Technology, Gaithersburg, MD].)
+(Fig. 7.10 is courtesy of C. Brady, National Bureau of Standards \[now
+the National Institute of Standards and Technology, Gaithersburg, MD\].)
 
 s
 
 300 mm
 
-*** Polycrystals stronger than single**
+\*\*\* Polycrystals stronger than single\*\*
 
 **crystals - grain boundaries are**
 
 **barriers to dislocation motion**
 
-*** Polycrystal means crystal**
+\*\*\* Polycrystal means crystal\*\*
 
 **orientations change**
 
@@ -1034,28 +1009,29 @@ s
 
 **change from one grain to another**
 
-*** Internal resolved shear stress (t _R_) will vary from one grain to another**
+\*\*\* Internal resolved shear stress (t *R*) will vary from one grain
+to another\*\*
 
-*** The grain with the largest t _R_**
+\*\*\* The grain with the largest t *R*\*\*
 
 **yields first**
 
-*** Less favorably oriented**
+\*\*\* Less favorably oriented\*\*
 
-**grains yield later (yield of material occurs when t _R_ exceeded for all grains)**
+**grains yield later (yield of material occurs when t *R* exceeded for
+all grains)**
 
 **σy is Higher for Polycrystals**
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img21.png)
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img21.png)
 
+# Slide 23 - **Four Strategies for Strengthening: 1: Reduce Grain Size**
 
-# Slide 23 - **Four Strategies for Strengthening:  1: Reduce Grain Size**
-
-* Grain boundaries are
+-   Grain boundaries are
 
 barriers to slip.
 
-* Barrier "strength"
+-   Barrier "strength"
 
 increases with
 
@@ -1063,101 +1039,103 @@ Increasing angle of
 
 misorientation.
 
-* Smaller grain size:
+-   Smaller grain size:
 
 more barriers to slip.
 
-* Hall-Petch Equation:
+-   Hall-Petch Equation:
 
-Adapted from Fig. 7.14, _Callister & Rethwisch 8e._ (Fig. 7.14 is from _A Textbook of Materials Technology_, by Van Vlack, Pearson Education, Inc., Upper Saddle River, NJ.)
+Adapted from Fig. 7.14, *Callister & Rethwisch 8e.* (Fig. 7.14 is from
+*A Textbook of Materials Technology*, by Van Vlack, Pearson Education,
+Inc., Upper Saddle River, NJ.)
 
 Constants for given material
 
 Avg Grain Diameter
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img22.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img22.png)
 
 # Slide 24 - **Grain Size Influences Properties**
 
-- Metals having small grains - relatively strong and tough at low temperatures
-- Metals having large grains - good creep resistance at relatively high temperatures
+-   Metals having small grains - relatively strong and tough at low
+    temperatures
+-   Metals having large grains - good creep resistance at relatively
+    high temperatures
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img23.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img23.png)
 
 # Slide 25 - **Grain Misalignment**
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img24.png)
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img24.png)
 
+# Slide 26 - **Four Strategies for Strengthening: 2: Form Solid Solutions**
 
-# Slide 26 - **Four Strategies for Strengthening:  2: Form Solid Solutions**
-
-* Smaller substitutional
+-   Smaller substitutional
 
 impurity
 
-Impurity generates local stress at **A** and **B** that opposes dislocation motion to the right.
+Impurity generates local stress at **A** and **B** that opposes
+dislocation motion to the right.
 
 **A**
 
 **B**
 
-* Larger substitutional
+-   Larger substitutional
 
 impurity
 
-Impurity generates local stress at **C** and **D** that opposes dislocation motion to the right.
+Impurity generates local stress at **C** and **D** that opposes
+dislocation motion to the right.
 
 **C**
 
 **D**
 
-* Impurity atoms distort the lattice & generate lattice strains.
+-   Impurity atoms distort the lattice & generate lattice strains.
 
-* These strains can act as barriers to dislocation motion.
+-   These strains can act as barriers to dislocation motion.
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img25.png)
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img25.png)
 
+# Slide 27 - **Strengthening by Solid Solution Alloying**
 
-# Slide 27 - **Strengthening by Solid  Solution Alloying**
+-   Small impurities tend to concentrate at dislocations (create regions
+    of tensile strain) - partial cancellation of dislocation and
+    impurity atom compressive strains
+-   Reduce mobility of dislocations and increase strength
 
-- Small impurities tend to concentrate at dislocations (create regions of tensile strain) - partial cancellation of dislocation and impurity atom compressive strains
-- Reduce mobility of dislocations and increase strength
+Adapted from Fig. 7.17, *Callister & Rethwisch 8e.*
 
-Adapted from Fig. 7.17, _Callister & Rethwisch 8e._
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img26.png)
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img26.png)
+# Slide 28 - **Strengthening by Solid Solution Alloying**
 
+-   Large impurities tend to concentrate at dislocations (create regions
+    of compressive strain)
+-   Reduce mobility of dislocations and increase strength
 
-# Slide 28 - **Strengthening by Solid  Solution Alloying**
+Adapted from Fig. 7.18, *Callister & Rethwisch 8e.*
 
-- Large impurities tend to concentrate at dislocations (create regions of compressive strain)
-- Reduce mobility of dislocations and increase strength
-
-Adapted from Fig. 7.18, _Callister & Rethwisch 8e._
-
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img27.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img27.png)
 
 # Slide 29 - **VMSE Solid-Solution Strengthening Tutorial**
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img28.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img28.png)
 
 # Slide 30 - **Example: Solid Solution Strengthening in Copper**
 
-* Yield strength & tensile strenght increase with wt% Ni.
+-   Yield strength & tensile strenght increase with wt% Ni.
 
-* Empirical relation:
+-   Empirical relation:
 
-* Alloying increases s _y_ and _TS_.
+-   Alloying increases s *y* and *TS*.
 
-Adapted from Fig. 7.16(a) and (b), _Callister & Rethwisch 8e._
+Adapted from Fig. 7.16(a) and (b), *Callister & Rethwisch 8e.*
 
 Tensile strength (MPa)
 
-wt.% Ni, (Concentration _C_)
+wt.% Ni, (Concentration *C*)
 
 200
 
@@ -1179,7 +1157,7 @@ wt.% Ni, (Concentration _C_)
 
 Yield strength (MPa)
 
-wt.%Ni, (Concentration _C_)
+wt.%Ni, (Concentration *C*)
 
 60
 
@@ -1199,33 +1177,31 @@ wt.%Ni, (Concentration _C_)
 
 50
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img29.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img29.png)
 
 # Slide 31 - **Initial Class Survey**
 
 **Material Choice Matters!**
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img30.png)
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img30.png)
 
+# Slide 32 - **Four Strategies for Strengthening: 3: Cold Work (Strain Hardening)**
 
-# Slide 32 - **Four Strategies for Strengthening:  3: Cold Work (Strain Hardening)**
+-   Deformation at room temperature (for most metals).
 
-* Deformation at room temperature (for most metals).
+-   Common forming operations reduce the cross-sectional area:
 
-* Common forming operations reduce the cross-sectional area:
-
-Adapted from Fig. 11.8, _Callister & Rethwisch 8e._
+Adapted from Fig. 11.8, *Callister & Rethwisch 8e.*
 
 -Forging
 
-_A_
+*A*
 
-_o_
+*o*
 
-_A_
+*A*
 
-_d_
+*d*
 
 force
 
@@ -1241,13 +1217,13 @@ tensile
 
 force
 
-_A_
+*A*
 
-_o_
+*o*
 
-_A_
+*A*
 
-_d_
+*d*
 
 die
 
@@ -1269,13 +1245,13 @@ die holder
 
 die
 
-_A_
+*A*
 
-_o_
+*o*
 
-_A_
+*A*
 
-_d_
+*d*
 
 extrusion
 
@@ -1283,107 +1259,103 @@ extrusion
 
 roll
 
-_A_
+*A*
 
-_o_
+*o*
 
-_A_
+*A*
 
-_d_
+*d*
 
 roll
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img31.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img31.png)
 
 # Slide 33 - **Dislocation Structures Change During Cold Working**
 
-* Dislocation structure in Ti after cold working.
+-   Dislocation structure in Ti after cold working.
 
-* Dislocations entangle with one another during cold work.
+-   Dislocations entangle with one another during cold work.
 
-* Dislocation motion
+-   Dislocation motion
 
 becomes more difficult.
 
-Fig. 4.6, _Callister & Rethwisch 8e._
+Fig. 4.6, *Callister & Rethwisch 8e.*
 
-(Fig. 4.6 is courtesy of M.R. Plichta, Michigan Technological University.)
+(Fig. 4.6 is courtesy of M.R. Plichta, Michigan Technological
+University.)
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img32.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img32.png)
 
 # Slide 34 - **Lattice Strains Around Dislocations**
 
-Adapted from Fig. 7.4, _Callister & Rethwisch 8e._
+Adapted from Fig. 7.4, *Callister & Rethwisch 8e.*
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img33.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img33.png)
 
 # Slide 35 - **Dislocation Density Increases During Cold Working**
 
 Dislocation density =
 
-- Carefully grown single crystals
+-   Carefully grown single crystals
 
  103 mm-2
 
-- Deforming sample increases density
+-   Deforming sample increases density
 
  109-1010 mm-2
 
-- Heat treatment reduces density
+-   Heat treatment reduces density
 
  105-106 mm-2
 
-* Yield stress increases as r _d_ increases:
+-   Yield stress increases as r *d* increases:
 
 total dislocation length
 
 unit volume
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img34.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img34.png)
 
 # Slide 36 - **Impact of Cold Work**
 
-Adapted from Fig. 7.20, _Callister & Rethwisch 8e._
+Adapted from Fig. 7.20, *Callister & Rethwisch 8e.*
 
-* Yield strength (s _**y**_) increases.
+-   Yield strength (s ***y***) increases.
 
-* Tensile strength ( _TS_) increases.
+-   Tensile strength ( *TS*) increases.
 
-* Ductility (% _EL_ or % _AR_) decreases.
+-   Ductility (% *EL* or % *AR*) decreases.
 
 As cold work is increased
 
 low carbon steel
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img35.png)
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img35.png)
 
+# Slide 37 - **Mechanical Property Alterations Due to Cold Working - Example Problem**
 
-# Slide 37 - **Mechanical Property Alterations  Due to Cold Working - Example Problem**
+-   What are the values of yield strength, tensile strength & ductility
+    after cold working Cu?
 
-* What are the values of yield strength, tensile strength & ductility after cold working Cu?
-
-_D_ o= 15.2 mm
+*D* o= 15.2 mm
 
 Cold
 
 Work
 
-_Dd_ = 12.2 mm
+*Dd* = 12.2 mm
 
 Copper
 
-<number>
+`<number>`{=html}
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img36.png)
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img36.png)
 
+# Slide 38 - **Mechanical Property Alterations Due to Cold Working**
 
-# Slide 38 - **Mechanical Property Alterations  Due to Cold Working**
-
-% Cold Work
+\% Cold Work
 
 100
 
@@ -1407,7 +1379,7 @@ sy= 300 MPa
 
 300 MPa
 
-% Cold Work
+\% Cold Work
 
 200
 
@@ -1427,7 +1399,7 @@ Cu
 
 60
 
-% Cold Work
+\% Cold Work
 
 20
 
@@ -1449,36 +1421,44 @@ Cu
 
 340 MPa
 
-_TS_ = 340 MPa
+*TS* = 340 MPa
 
 7%
 
-% _EL =_ 7%
+\% *EL =* 7%
 
-* What are the values of yield strength, tensile strength & ductility for Cu for %CW = 35.6%?
+-   What are the values of yield strength, tensile strength & ductility
+    for Cu for %CW = 35.6%?
 
 yield strength (MPa)
 
 tensile strength (MPa)
 
-ductility (% _EL_)
+ductility (% *EL*)
 
-<number>
+`<number>`{=html}
 
-Adapted from Fig. 7.19, _Callister & Rethwisch 8e._(Fig. 7.19 is adapted from _Metals Handbook: Properties and Selection: Iron and Steels_, Vol. 1, 9th ed., B. Bardes (Ed.), American Society for Metals, 1978, p. 226; and _Metals Handbook: Properties and Selection: Nonferrous Alloys and Pure Metals_, Vol. 2, 9th ed., H. Baker (Managing Ed.), American Society for Metals, 1979, p. 276 and 327.)
+Adapted from Fig. 7.19, *Callister & Rethwisch 8e.*(Fig. 7.19 is adapted
+from *Metals Handbook: Properties and Selection: Iron and Steels*, Vol.
+1, 9th ed., B. Bardes (Ed.), American Society for Metals, 1978, p. 226;
+and *Metals Handbook: Properties and Selection: Nonferrous Alloys and
+Pure Metals*, Vol. 2, 9th ed., H. Baker (Managing Ed.), American Society
+for Metals, 1979, p. 276 and 327.)
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img37.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img37.png)
 
 # Slide 39 - **Effect of Heat Treating After Cold Working**
 
-* 1 hour treatment at _Tanneal_...
+-   1 hour treatment at *Tanneal*...
 
-decreases _TS_ and increases % _EL_.
+decreases *TS* and increases % *EL*.
 
-* Effects of cold work are nullified!
+-   Effects of cold work are nullified!
 
-Adapted from Fig. 7.22, _Callister & Rethwisch 8e._(Fig. 7.22 is adapted from G. Sachs and K.R. van Horn, _Practical Metallurgy, Applied Metallurgy, and the Industrial Processing of Ferrous and Nonferrous Metals and Alloys_, American Society for Metals, 1940, p. 139.)
+Adapted from Fig. 7.22, *Callister & Rethwisch 8e.*(Fig. 7.22 is adapted
+from G. Sachs and K.R. van Horn, *Practical Metallurgy, Applied
+Metallurgy, and the Industrial Processing of Ferrous and Nonferrous
+Metals and Alloys*, American Society for Metals, 1940, p. 139.)
 
 tensile strength (MPa)
 
@@ -1528,27 +1508,27 @@ annealing temperature (ºC)
 
 700
 
-* Three Annealing stages:
+-   Three Annealing stages:
 
-- Recovery
-- Recrystallization
-- Grain Growth
+-   Recovery
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img38.png)
+-   Recrystallization
 
+-   Grain Growth
+
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img38.png)
 
 # Slide 40 - **Lattice Strain Interactions Between Dislocations**
 
-Adapted from Fig. 7.5, _Callister & Rethwisch 8e._
+Adapted from Fig. 7.5, *Callister & Rethwisch 8e.*
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img39.png)
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img39.png)
 
+# Slide 41 - **Three Stages During Heat Treatment: 1. Recovery**
 
-# Slide 41 - **Three Stages During Heat Treatment: 1\. Recovery**
+-   Scenario 1
 
-* Scenario 1
-
-* Scenario 2
+-   Scenario 2
 
 4\. opposite dislocations
 
@@ -1588,30 +1568,31 @@ of tension
 
 vacancy diffusion
 
-allowing disl. to “climb”
+allowing disl. to "climb"
 
-t _R_
+t *R*
 
 1\. dislocation blocked;
 
-can’t move to the right
+can't move to the right
 
 Obstacle
 
 3
 
-. “Climbed” disl. can now
+. "Climbed" disl. can now
 
 move on new slip plane
 
-Reduction of dislocation density by enhanced diffusion leading to annihilation (half planes become full planes)…
+Reduction of dislocation density by enhanced diffusion leading to
+annihilation (half planes become full planes)...
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img40.png)
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img40.png)
 
+# Slide 42 - **Three Stages During Heat Treatment: 2. Recrystallization**
 
-# Slide 42 - **Three Stages During Heat Treatment: 2\. Recrystallization**
-
-Adapted from Fig. 7.21(a),(b), _Callister & Rethwisch 8e._(Fig. 7.21(a),(b) are courtesy of J.E. Burke, General Electric Company.)
+Adapted from Fig. 7.21(a),(b), *Callister & Rethwisch 8e.*(Fig.
+7.21(a),(b) are courtesy of J.E. Burke, General Electric Company.)
 
 33% cold
 
@@ -1623,28 +1604,30 @@ New crystals
 
 nucleate after
 
-3 sec. at 580C.
+3 sec. at 580C.
 
 0.6 mm
 
 0.6 mm
 
-* New grains are formed due to energy difference between strained and unstrained areas after recovery
+-   New grains are formed due to energy difference between strained and
+    unstrained areas after recovery
 
-\-\- Strain-free grains with lower dislocation densities
+\-- Strain-free grains with lower dislocation densities
 
-\-\- Small in size
+\-- Small in size
 
-\-\- Consume and replace parent cold-worked grains (transition from high energy to low energy - more stable)
+\-- Consume and replace parent cold-worked grains (transition from high
+energy to low energy - more stable)
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img41.png)
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img41.png)
 
+# Slide 43 - **As Recrystallization Continues...**
 
-# Slide 43 - **As Recrystallization Continues…**
+-   All cold-worked grains are eventually consumed/replaced.
 
-* All cold-worked grains are eventually consumed/replaced.
-
-Adapted from Fig. 7.21(c),(d), _Callister & Rethwisch 8e._(Fig. 7.21(c),(d) are courtesy of J.E. Burke, General Electric Company.)
+Adapted from Fig. 7.21(c),(d), *Callister & Rethwisch 8e.*(Fig.
+7.21(c),(d) are courtesy of J.E. Burke, General Electric Company.)
 
 After 4
 
@@ -1658,14 +1641,14 @@ seconds
 
 0.6 mm
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img42.png)
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img42.png)
 
+# Slide 44 - **Three Stages During Heat Treatment: 3. Grain Growth**
 
-# Slide 44 - **Three Stages During Heat Treatment: 3\. Grain Growth**
+Adapted from Fig. 7.21(d),(e), *Callister & Rethwisch 8e.*(Fig.
+7.21(d),(e) are courtesy of J.E. Burke, General Electric Company.)
 
-Adapted from Fig. 7.21(d),(e), _Callister & Rethwisch 8e._(Fig. 7.21(d),(e) are courtesy of J.E. Burke, General Electric Company.)
-
-* With longer times at higher temp, average grain size increases.
+-   With longer times at higher temp, average grain size increases.
 
 After 8 s,
 
@@ -1679,77 +1662,78 @@ After 15 min,
 
 0.6 mm
 
-* Empirical Relation:
+-   Empirical Relation:
 
 elapsed time
 
 coefficient dependent
 
-on material and _T_.
+on material and *T*.
 
 grain diam.
 
 at time t.
 
-exponent typ. ~ 2
+exponent typ. \~ 2
 
-\-\- Small grains shrink (and ultimately disappear)
+\-- Small grains shrink (and ultimately disappear)
 
-\-\- Large grains continue to grow (yield strength reduced)
+\-- Large grains continue to grow (yield strength reduced)
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img43.png)
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img43.png)
 
 # Slide 45
 
-_**TR**_
+***TR***
 
-Adapted from Fig. 7.22, _Callister & Rethwisch 8e._
+Adapted from Fig. 7.22, *Callister & Rethwisch 8e.*
 
-_TR_ = recrystallization
-temperature
+*TR* = recrystallization temperature
 
 º
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img44.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img44.png)
 
 # Slide 46 - **Recrystallization Temperature**
 
-_TR_ = recrystallization temperature = temperature at which recrystallization reaches completion in 1 h
+*TR* = recrystallization temperature = temperature at which
+recrystallization reaches completion in 1 h
 
-0.3 _Tm < TR <_ 0.6 _Tm_ _Tm = melting temp_
+0.3 *Tm \< TR \<* 0.6 *Tm* *Tm = melting temp*
 
-For a specific metal/alloy, _TR_ depends on:
+For a specific metal/alloy, *TR* depends on:
 
-- %CW -- _TR_ decreases with increasing %CW
-- Purity of metal -- _TR_ decreases with increasing purity
+-   %CW -- *TR* decreases with increasing %CW
+-   Purity of metal -- *TR* decreases with increasing purity
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img45.png)
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img45.png)
 
+# Slide 47 - **Cold Working vs. Hot Working**
 
-# Slide 47 - **Cold Working vs. Hot Working**
+-   Hot working  deformation above *TR*
 
-- Hot working  deformation above _TR_
+-   Cold working  deformation below *TR*
 
-- Cold working  deformation below _TR_
-
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img46.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img46.png)
 
 # Slide 48 - **Diameter Reduction Procedure - Problem**
 
-A cylindrical rod of brass originally 10 mm (0.39 in) in diameter is to be cold worked by drawing. The circular cross section (shape) will be maintained during deformation. A cold-worked tensile strength in excess of 380 MPa (55,000 psi) and a ductility of at least 15 % _EL_ are desired. Furthermore, the final diameter must be 7.5 mm (0.30 in). Explain how this may be accomplished.
+A cylindrical rod of brass originally 10 mm (0.39 in) in diameter is to
+be cold worked by drawing. The circular cross section (shape) will be
+maintained during deformation. A cold-worked tensile strength in excess
+of 380 MPa (55,000 psi) and a ductility of at least 15 % *EL* are
+desired. Furthermore, the final diameter must be 7.5 mm (0.30 in).
+Explain how this may be accomplished.
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img47.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img47.png)
 
 # Slide 49 - **Diameter Reduction Procedure - Solution**
 
 What are the consequences of directly drawing to the final diameter?
 
-_D_
+*D*
 
-_o_
+*o*
 
 = 10 mm
 
@@ -1759,22 +1743,21 @@ Cold
 
 Work
 
-_D_
+*D*
 
-_f_
+*f*
 
 = 7.5 mm
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img48.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img48.png)
 
 # Slide 50 - **Diameter Reduction Procedure - Solution**
 
 What are the consequences of directly drawing to the final diameter?
 
-_D_
+*D*
 
-_o_
+*o*
 
 = 10 mm
 
@@ -1784,41 +1767,40 @@ Cold
 
 Work
 
-_D_
+*D*
 
-_f_
+*f*
 
 = 7.5 mm
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img49.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img49.png)
 
 # Slide 51 - **Diameter Reduction Procedure - Solution (cont.)**
 
-Adapted from Fig. 7.19, _Callister & Rethwisch 8e._
+Adapted from Fig. 7.19, *Callister & Rethwisch 8e.*
 
-- For %CW = 43.8%
+-   For %CW = 43.8%
 
 540
 
 420
 
--  _y_ = 420 MPa
+-    *y* = 420 MPa
 
-- _TS_ = 540 MPa > 380 MPa
+-   *TS* = 540 MPa \> 380 MPa
 
 6
 
-- % _EL_ = 6 < 15 (too low)
+-   \% *EL* = 6 \< 15 (too low)
 
-- This doesn’t satisfy criteria… what other options are possible? (assume heat treating alone won’t achieve both criteria)
+-   This doesn't satisfy criteria... what other options are possible?
+    (assume heat treating alone won't achieve both criteria)
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img50.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img50.png)
 
 # Slide 52 - **Diameter Reduction Procedure - Solution (cont.)**
 
-Adapted from Fig. 7.19, _Callister & Rethwisch 8e._
+Adapted from Fig. 7.19, *Callister & Rethwisch 8e.*
 
 **380**
 
@@ -1828,69 +1810,66 @@ Adapted from Fig. 7.19, _Callister & Rethwisch 8e._
 
 **27**
 
-For % _EL_ \> 15
+For % *EL* \> 15
 
-For _TS_ \> 380 MPa
+For *TS* \> 380 MPa
 
 \> 12 %CW
 
-< 27 %CW
+\< 27 %CW
 
- our working range is limited to 12 < %CW < 27
+ our working range is limited to 12 \< %CW \< 27
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img51.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img51.png)
 
 # Slide 53 - **Diameter Reduction Procedure - Solution (cont.)**
 
 Cold work, then anneal to nullify, then cold work again
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img52.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img52.png)
 
 # Slide 54 - **Diameter Reduction Procedure - Solution (cont.)**
 
 Cold work, then anneal to nullify, then cold work again
 
-- For objective we need a cold work of 12 < %CW < 27
+-   For objective we need a cold work of 12 \< %CW \< 27
 
-- We’ll use 20 %CW
+-   We'll use 20 %CW
 
-- Calculate _intermediate_ diameter, _D_ 02, (after first, but before 2nd cold work stage):
+-   Calculate *intermediate* diameter, *D* 02, (after first, but before
+    2nd cold work stage):
 
 ****
 
 Intermediate diameter =
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img53.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img53.png)
 
 # Slide 55 - **Diameter Reduction Procedure - Summary**
 
 Stage 1: Cold work - reduce diameter from 10 mm to 8.39 mm
 
-Stage 2: Heat treat (allow recrystallization—nullifies cold work)
+Stage 2: Heat treat (allow recrystallization---nullifies cold work)
 
 Stage 3: Cold work (20%) - reduce diameter from 8.39 mm to 7.5 mm
 
-_**All Criteria Satisfied**_
+***All Criteria Satisfied***
 
 ****
 
 Using Fig 7.19
 
-%
+\%
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img54.png)
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img54.png)
 
+# Slide 56 - **Four Strategies for Strengthening: 4: Precipitation Hardening**
 
-# Slide 56 - **Four Strategies for Strengthening:  4: Precipitation Hardening**
-
-* Hard precipitates form lattice strains which are difficult to shear.
+-   Hard precipitates form lattice strains which are difficult to shear.
 
 Ex: Ceramics in metals (SiC in Iron or Aluminum).
 
-* Result: Increase in yield strength
+-   Result: Increase in yield strength
 
 Large shear stress needed
 
@@ -1900,13 +1879,13 @@ precipitate and shear it.
 
 Dislocation
 
-“advances” but
+"advances" but
 
 precipitates act as
 
-“pinning” sites with
+"pinning" sites with
 
-_S_
+*S*
 
 .
 
@@ -1918,26 +1897,28 @@ Slipped part of slip plane
 
 Unslipped part of slip plane
 
-_S_
+*S*
 
 spacing
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img55.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img55.png)
 
 # Slide 57 - **Application: Precipitation Hardening**
 
-* Internal wing structure on Boeing 767
+-   Internal wing structure on Boeing 767
 
-* Aluminum is strengthened with precipitates formed
+-   Aluminum is strengthened with precipitates formed
 
 by alloying.
 
-Adapted from Fig. 11.26, _Callister & Rethwisch 8e._(Fig. 11.26 is courtesy of G.H. Narayanan and A.G. Miller, Boeing Commercial Airplane Company.)
+Adapted from Fig. 11.26, *Callister & Rethwisch 8e.*(Fig. 11.26 is
+courtesy of G.H. Narayanan and A.G. Miller, Boeing Commercial Airplane
+Company.)
 
 1.5mm
 
-Adapted from chapter-opening photograph, Chapter 11, _Callister & Rethwisch 3e._(courtesy of G.H. Narayanan and A.G. Miller, Boeing Commercial Airplane Company.)
+Adapted from chapter-opening photograph, Chapter 11, *Callister &
+Rethwisch 3e.*(courtesy of G.H. Narayanan and A.G. Miller, Boeing
+Commercial Airplane Company.)
 
-![](./Lesson\ 11&12\ Dislocations\ &\ Strengthening\ Mechanisms/img56.png)
-
+![](./Lesson%2011&12%20Dislocations%20&%20Strengthening%20Mechanisms/img56.png)

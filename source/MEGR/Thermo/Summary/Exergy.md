@@ -1,11 +1,14 @@
 # Exergy
 
-**Exergy** is the property that quantifies potential for use. The foregoing example illustrates that, unlike energy, exergy is not
+**Exergy** is the property that quantifies potential for use. The
+foregoing example illustrates that, unlike energy, exergy is not
 conserved but is destroyed by irreversibilities.
 
 ## Definition
 
-**Exergy** is the maximum theoretical work obtainable from an overall system consisting of a system and the environment as the system comes into equilibrium with the environment (passes to the dead state).
+**Exergy** is the maximum theoretical work obtainable from an overall
+system consisting of a system and the environment as the system comes
+into equilibrium with the environment (passes to the dead state).
 
 $$
 \mathrm{E}=\left(U-U_{0}\right)+p_{0}\left(V-V_{0}\right)-T_{0}\left(S-S_{0}\right)+\mathrm{KE}+\mathrm{PE}
@@ -19,11 +22,16 @@ $$
 
 ## Environment
 
-The **environment** is regarded to be a simple compressible system that is large in extent and uniform in temperature, $T_{0},$ and pressure, $p_{0}$.
+The **environment** is regarded to be a simple compressible system that
+is large in extent and uniform in temperature, $T_{0},$ and pressure,
+$p_{0}$.
 
 ## Dead State
 
-When a system of interest is at $T_{0}$ and $p_{0}$ and at rest relative to the environment, we say the system is at the **dead state**. At the dead state there can be no interaction between system and environment and, thus, no potential for developing work.
+When a system of interest is at $T_{0}$ and $p_{0}$ and at rest relative
+to the environment, we say the system is at the **dead state**. At the
+dead state there can be no interaction between system and environment
+and, thus, no potential for developing work.
 
 ## Closed System Balance
 
@@ -31,7 +39,7 @@ $$
 \underbrace{\mathrm{E}_{2}-\mathrm{E}_{1}}_{\text{exergy change}}=\underbrace{\int_{1}^{2}\left(1-\frac{T_{0}}{T_{\mathrm{b}}}\right) \delta Q-\left[W-p_{0}\left(V_{2}-V_{1}\right)\right]}_{\text{exergy transfers}}- \underbrace{T_{0} \sigma}_{\text{exergy destruction}}
 $$
 
----
+------------------------------------------------------------------------
 
 Alternatively:
 
@@ -57,7 +65,7 @@ $$
 \end{aligned}
 $$
 
----
+------------------------------------------------------------------------
 
 $$
 \mathrm{E}_{\mathrm{d}}:\left\{\begin{array}{ll}
@@ -80,7 +88,8 @@ $$
 
 where:
 
-$\dot{\sigma}_{CV}$ is the rate of entropy production evaluated from an entropy rate balance.
+$\dot{\sigma}_{CV}$ is the rate of entropy production evaluated from an
+entropy rate balance.
 
 ## Steady State Rate Balance
 

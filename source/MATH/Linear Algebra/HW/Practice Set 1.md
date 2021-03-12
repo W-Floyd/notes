@@ -1,11 +1,41 @@
-!bash(./.header.sh 'Practice Set 1')
+---
+author: William Floyd
+date: 2021-01-27
+documentclass: article
+header-includes: |
+  ```{=tex}
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyfoot[LO,LE]{William Floyd}
+  \fancyfoot[CE,CO]{Practice Set 1}
+  \fancyfoot[RE,RO]{Pg. \thepage}
+  ```
+include-before: |
+  ```{=tex}
+  \newpage
+  ```
+subtitle: Linear Algebra (MATH2303-01)`\linebreak `{=tex}Dr. Knouse
+title: Practice Set 1
+---
 
-Sec. 1.1, pg. 10
-\# 7-10, 37, 41, 47, 48, 49, 53, 63
+```{=tex}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyfoot[LO,LE]{William Floyd}
+\fancyfoot[CE,CO]{Practice Set 1}
+\fancyfoot[RE,RO]{Pg. \thepage}
+```
+
+```{=tex}
+\newpage
+```
+
+Sec. 1.1, pg. 10 \# 7-10, 37, 41, 47, 48, 49, 53, 63
 
 # 7-10
 
-In Exercises $7-10,$ find a parametric representation of the solution set of the linear equation.
+In Exercises $7-10,$ find a parametric representation of the solution
+set of the linear equation.
 
 ## 7
 
@@ -21,8 +51,8 @@ $$
 2x&=4y\\
 x&=2y\\\\
 \text{let} y&=t\\
-\therefore !Aboxed{x}{=}{2t}\\
-!Aboxed{y}{=}{t}
+\therefore \Aboxed{x&=2t}\\
+\Aboxed{y&=t}
 \end{aligned}
 $$
 
@@ -64,8 +94,6 @@ x_{1}-x_{2} &= 0 \\
 $$
 
 ### Solution
-
-
 
 ## 41
 
@@ -127,7 +155,9 @@ $$
 
 # 63-66
 
-In Exercises $63-66$, state why the system of equations must have at least one solution. Then solve the system and determine whether it has exactly one solution or infinitely many solutions.
+In Exercises $63-66$, state why the system of equations must have at
+least one solution. Then solve the system and determine whether it has
+exactly one solution or infinitely many solutions.
 
 ## 63
 

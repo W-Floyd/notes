@@ -71,7 +71,7 @@ fi
 
 if [ "${#}" == 0 ]; then
     # __output_formats=('pdf' 'html')
-    __output_formats=('pdf')
+    __output_formats=('pdf' 'md')
 else
     __output_formats=${@}
 fi
@@ -132,8 +132,6 @@ for n in $(seq 0 $((${#__source_files[@]} - 1))); do
     __hash_file_local="${__top_dir}/${__hash_files[${n}]}"
     __old_file_local="${__top_dir}/$(sed -e "s|^${__target_dir}|${__target_temp_dir}|" <<<"${__target_files[${n}]}")"
     mkdir -p "${__target_dir_local}"
-
-    ln -s "${__source_file_local}" "${__target_file_local}.md"
 
     pushd "${__source_dir_local}" &>/dev/null && {
 

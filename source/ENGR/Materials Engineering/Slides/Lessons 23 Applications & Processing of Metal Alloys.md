@@ -1,97 +1,109 @@
 # Slide 0
 
-_**Claiming every workplace in every nation as our**_
+***Claiming every workplace in every nation as our***
 
-_**mission field**_
+***mission field***
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img0.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img0.png)
 
 # Slide 1 - **Devo/Prayer**
 
-## Humble yourselves, therefore, under God’s mighty hand, that he may lift you up in due time. **Cast all your anxiety on him because He cares for you.**
+## Humble yourselves, therefore, under God's mighty hand, that he may lift you up in due time. **Cast all your anxiety on him because He cares for you.**
 
-## _1 Peter 5:6-7_
+## *1 Peter 5:6-7*
 
 ## If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.
 
-## _James 1:5_
+## *James 1:5*
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img1.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img1.png)
 
 # Slide 2 - **Lesson 22/23 Outline - Applications & Processing of Metal Alloys**
 
-- Devotional/Prayer
-- Steels, Cast Irons, Ferrous Alloys
-- Nonferrous Alloys
-- Metal Fabrication Methods
-- Strengthening Mechanisms
-- Summary/Wrap up
+-   Devotional/Prayer
+-   Steels, Cast Irons, Ferrous Alloys
+-   Nonferrous Alloys
+-   Metal Fabrication Methods
+-   Strengthening Mechanisms
+-   Summary/Wrap up
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img2.png)
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img2.png)
 
+# Slide 3 - **Easter - It's More Than You Think**
 
-# Slide 3 - **Easter - It’s More Than You Think**
+***In Jesus, God Frees Us From the Guilt, Condemnation, & Power of
+Sin...***
 
-_**In Jesus, God Frees Us From the Guilt, Condemnation, & Power of Sin…**_
-
-“But He was pierced for our transgressions, He was crushed for our iniquities; the punishment that brought us peace was on Him, and by His wounds we are healed.”
+"But He was pierced for our transgressions, He was crushed for our
+iniquities; the punishment that brought us peace was on Him, and by His
+wounds we are healed."
 
 **Isaiah 53:5**
 
-“Let any one of you who is without sin be the first to throw a stone at her.”
+"Let any one of you who is without sin be the first to throw a stone at
+her."
 
-“Woman, where are they? Has no one condemned you?” “No one, sir,” she said. “Then neither do I condemn you,” Jesus declared. “Go now and leave your life of sin.”
+"Woman, where are they? Has no one condemned you?" "No one, sir," she
+said. "Then neither do I condemn you," Jesus declared. "Go now and leave
+your life of sin."
 
 **John 8:7, 10-11**
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img3.png)
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img3.png)
 
+# Slide 4 - **Veteran's Day Prayer**
 
-# Slide 4 - **Veteran’s Day Prayer**
-
-## **“Lord hear our cry”**
+## **"Lord hear our cry"**
 
 ## Natl Day of Prayer Experience
 
-## **“If my people, who are called by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and I will forgive their sin and will heal their land.”**
+## **"If my people, who are called by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and I will forgive their sin and will heal their land."**
 
 ## **2 Chronicles 7:14**
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img4.png)
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img4.png)
 
+# Slide 5 - **Devo/Prayer - Faith: God's Part & Our Part**
 
-# Slide 5 - **Devo/Prayer - Faith: God’s Part & Our Part**
-
-## “Sir,” the invalid replied, “I have no one to help me into the pool when the water is stirred. While I am trying to get in, someone else goes down ahead of me.” Then Jesus said to him, **“Get up! Pick up your mat and walk.”**  At once the man was cured; he picked up his mat and walked.
+## "Sir," the invalid replied, "I have no one to help me into the pool when the water is stirred. While I am trying to get in, someone else goes down ahead of me." Then Jesus said to him, **"Get up! Pick up your mat and walk."**  At once the man was cured; he picked up his mat and walked.
 
 ## John 5:7-9
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img5.png)
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img5.png)
 
 # Slide 6
 
-David Russell, LETU ’82
+David Russell, LETU '82
 
-- LeTourneau Engineering Academy member
-- President/CEO of SonSet Solutions
-- International Technical Consultant
+-   LeTourneau Engineering Academy member
 
-- Satellite design and deployment
-- Ministry partnerships for technical solutions to advance the gospel
+-   President/CEO of SonSet Solutions
 
-The mission of SonSet Solutions is to provide technology-based solutions to advance the gospel worldwide. Today, SonSet Solutions’ staff serves the technical needs of well over 100 different ministry organizations.
+-   International Technical Consultant
+
+-   Satellite design and deployment
+
+-   Ministry partnerships for technical solutions to advance the gospel
+
+The mission of SonSet Solutions is to provide technology-based solutions
+to advance the gospel worldwide. Today, SonSet Solutions' staff serves
+the technical needs of well over 100 different ministry organizations.
 
 Glaske C103 April 11, 11am
 
-Mr. Russell has a passion to leverage technology to overcome barriers that stand in the way of people hearing about new life in the Lord Jesus Christ
+Mr. Russell has a passion to leverage technology to overcome barriers
+that stand in the way of people hearing about new life in the Lord Jesus
+Christ
 
-Come hear Mr. Russell describe what it is like to devote his technical skills and abilities to advance the gospel and what kind of opportunities exist for you to consider doing the same, at some point in your career, either at SonSet Solutions or at any number of other technical ministries
+Come hear Mr. Russell describe what it is like to devote his technical
+skills and abilities to advance the gospel and what kind of
+opportunities exist for you to consider doing the same, at some point in
+your career, either at SonSet Solutions or at any number of other
+technical ministries
 
 [www.sonsetsolutions.org](http://www.sonsetsolutions.org/)
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img6.png)
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img6.png)
 
 # Slide 7
 
@@ -283,13 +295,13 @@ Come hear Mr. Russell describe what it is like to devote his technical skills an
 
 **Test 3 (Ch 9-10)**
 
-_**23**_
+***23***
 
-_**T**_
+***T***
 
-_**9 Apr**_
+***9 Apr***
 
-_**Applications & Processing of Metal Alloys**_
+***Applications & Processing of Metal Alloys***
 
 **24**
 
@@ -351,88 +363,110 @@ _**Applications & Processing of Metal Alloys**_
 
 **Final Exam**
 
-_**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
+***Rejoice always, pray continually, give thanks in all circumstances 1
+Thes 5:16-18***
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img7.png)
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img7.png)
 
 # Slide 8
 
 ## **Materials Engineering Chapters 11-17 Review Sheet**
 
-## **(** allowed one double sided 8.5X11” sheet of notes/equations - no prior exam problems)
+## **(** allowed one double sided 8.5X11" sheet of notes/equations - no prior exam problems)
 
-- This material is mainly presented as an overview, so it will be tested at a less detailed level than previous chapters (don’t panic)
-- At most, it will comprise 25% of the final
+-   This material is mainly presented as an overview, so it will be
+    tested at a less detailed level than previous chapters (don't panic)
+-   At most, it will comprise 25% of the final
 
 ## **Chapter 11: Applications & Processing of Alloys**
 
-- Know the characteristics and differences between different types of Ferrous and Nonferrous alloys
-- Understand why ferrous alloys are used so extensively
-- Distinguish between various metal fabrication techniques (forming, casting, etc)
-- Understand how cold working, annealing/heat treatment, and precipitation hardening effect material properties of metal alloys
+-   Know the characteristics and differences between different types of
+    Ferrous and Nonferrous alloys
+-   Understand why ferrous alloys are used so extensively
+-   Distinguish between various metal fabrication techniques (forming,
+    casting, etc)
+-   Understand how cold working, annealing/heat treatment, and
+    precipitation hardening effect material properties of metal alloys
 
 ## **Chapter 12: Structures & Properties of Ceramics**
 
-- Understand how the characteristics of component ions come together to determine the crystal structures of common ceramics (sodium chloride, cesium chloride, zinc blende, diamond cubic, fluorite, and perovskite)
+-   Understand how the characteristics of component ions come together
+    to determine the crystal structures of common ceramics (sodium
+    chloride, cesium chloride, zinc blende, diamond cubic, fluorite, and
+    perovskite)
 
-- Given the chemical formula and ionic radii of a ceramic compound, be able to predict its crystal structure
+-   Given the chemical formula and ionic radii of a ceramic compound, be
+    able to predict its crystal structure
 
-- Understand why there is normally significant scatter in the fracture strength for identical specimens of the same ceramic material
-- Explain why ceramics are normally brittle
-- Be able to compute the flexural strength of a ceramic specimen that has been bent to fracture in three-point loading
-- Understand the relationship between tensile strength and crack length for ceramics
+-   Understand why there is normally significant scatter in the fracture
+    strength for identical specimens of the same ceramic material
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img8.png)
+-   Explain why ceramics are normally brittle
+
+-   Be able to compute the flexural strength of a ceramic specimen that
+    has been bent to fracture in three-point loading
+
+-   Understand the relationship between tensile strength and crack
+    length for ceramics
+
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img8.png)
 
 # Slide 9
 
 ## **Chapter 13: Applications & Processing of Ceramics**
 
-- Understand how various ceramics are processed (glasses, clay, refractories, abrasives, cements, carbons)
-- Describe the methods of forming glass pieces and how they can be tempered
-- Describe the drying and firing processes for clay-based ceramics
+-   Understand how various ceramics are processed (glasses, clay,
+    refractories, abrasives, cements, carbons)
+-   Describe the methods of forming glass pieces and how they can be
+    tempered
+-   Describe the drying and firing processes for clay-based ceramics
 
 ## **Chapter 14: Polymer Structures**
 
-- Understand typical polymer molecular structure and repeating units
-- Be able to calculate number-average and weight-average molecular weights and degree of polymerization
-- Describe the differences in behavior and molecular structure for thermoplastic and thermosetting polymers
-- Understand crystalline states of polymers
+-   Understand typical polymer molecular structure and repeating units
+-   Be able to calculate number-average and weight-average molecular
+    weights and degree of polymerization
+-   Describe the differences in behavior and molecular structure for
+    thermoplastic and thermosetting polymers
+-   Understand crystalline states of polymers
 
 ## **Chapter 15: Characteristics, Applications and processing of Polymers**
 
-- Describe stress/strain and elastic/plastic behavior for polymers
-- Understand the influence of molecular weight and degree of crystallinity on the tensile strength of polymers
-- Understand the characteristics that affect a polymer’s melting and glass transition temperature
-- Describe the different types of polymers according to their use (plastics, fibers, coatings, adhesives, films, foams, and advanced materials)
+-   Describe stress/strain and elastic/plastic behavior for polymers
+-   Understand the influence of molecular weight and degree of
+    crystallinity on the tensile strength of polymers
+-   Understand the characteristics that affect a polymer's melting and
+    glass transition temperature
+-   Describe the different types of polymers according to their use
+    (plastics, fibers, coatings, adhesives, films, foams, and advanced
+    materials)
 
 ## **Chapter 16: Composites**
 
-- Distinguish between the four main divisions of composites
-- Understand the mechanical properties of the different types of composites and various strengthening mechanisms
+-   Distinguish between the four main divisions of composites
+-   Understand the mechanical properties of the different types of
+    composites and various strengthening mechanisms
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img9.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img9.png)
 
 # Slide 10 - **Applications and Processing of Metal Alloys**
 
 **Why Does it Matter...**
 
-* How are metal alloys classified and what are their
-common applications?
+-   How are metal alloys classified and what are their common
+    applications?
 
-* What are some of the common fabrication techniques
+-   What are some of the common fabrication techniques
 
 for metals?
 
-* What heat treatment procedures are used to improve the
+-   What heat treatment procedures are used to improve the
 
 mechanical properties of both ferrous and nonferrous alloys?
 
-[https://www.youtube.com/watch?v=9l7JqonyoKA](https://www.youtube.com/watch?v=9l7JqonyoKA)
+<https://www.youtube.com/watch?v=9l7JqonyoKA>
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img10.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img10.png)
 
 # Slide 11 - **Refinement of Steel from Ore**
 
@@ -454,7 +488,7 @@ Fe2O3
 
 C
 
-+
+-   
 
 O2
 
@@ -464,7 +498,7 @@ CO2
 
 CO2
 
-+
+-   
 
 C
 
@@ -508,14 +542,15 @@ refractory
 
 vessel
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img11.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img11.png)
 
 # Slide 12 - **Classification of Metal Alloys**
 
-Adapted from Fig. 9.24, _Callister & Rethwisch 8e._ (Fig. 9.24 adapted from _Binary Alloy Phase Diagrams_, 2nd ed., Vol. 1, T.B. Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 1990.)
+Adapted from Fig. 9.24, *Callister & Rethwisch 8e.* (Fig. 9.24 adapted
+from *Binary Alloy Phase Diagrams*, 2nd ed., Vol. 1, T.B. Massalski
+(Ed.-in-Chief), ASM International, Materials Park, OH, 1990.)
 
-Adapted from Fig. 11.1, _Callister & Rethwisch 8e._
+Adapted from Fig. 11.1, *Callister & Rethwisch 8e.*
 
 Metal
 
@@ -529,7 +564,7 @@ Nonferrous
 
 Cast Irons
 
-<1.4wt%C
+\<1.4wt%C
 
 3-4.5
 
@@ -537,7 +572,7 @@ wt%C
 
 Steels
 
-<1.4 wt% C
+\<1.4 wt% C
 
 Cast Irons
 
@@ -589,7 +624,7 @@ austenite
 
 g
 
-+ _L_
+-   *L*
 
 g
 
@@ -605,17 +640,17 @@ a
 
 a
 
-+
+-   
 
 g
 
-_L_ +Fe3C
+*L* +Fe3C
 
 d
 
 (Fe)
 
-_Co_ , wt% C
+*Co* , wt% C
 
 Eutectic:
 
@@ -629,18 +664,18 @@ Eutectoid:
 
 1148ºC
 
-_T_(ºC)
+*T*(ºC)
 
 microstructure: ferrite,
 
 graphite/cementite
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img12.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img12.png)
 
 # Slide 13 - **Steels**
 
-Based on data provided in Tables 11.1(b), 11.2(b), 11.3, and 11.4, _Callister & Rethwisch 8e._
+Based on data provided in Tables 11.1(b), 11.2(b), 11.3, and 11.4,
+*Callister & Rethwisch 8e.*
 
 Low Alloy
 
@@ -648,7 +683,7 @@ High Alloy
 
 low carbon
 
-<0.25 wt% C
+\<0.25 wt% C
 
 Med carbon
 
@@ -776,9 +811,8 @@ Hardenability
 
 0
 
-+
-
-+
+-   
+-   
 
 ++
 
@@ -790,15 +824,15 @@ varies
 
 TS
 
--
+-   
 
 0
 
-+
+-   
 
 ++
 
-+
+-   
 
 ++
 
@@ -806,15 +840,13 @@ varies
 
 EL
 
-+
-
-+
+-   
+-   
 
 0
 
--
-
--
+-   
+-   
 
 --
 
@@ -822,8 +854,7 @@ EL
 
 increasing strength, cost, decreasing ductility
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img13.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img13.png)
 
 # Slide 14 - **Ferrous Alloys**
 
@@ -837,7 +868,7 @@ increasing strength, cost, decreasing ductility
 
 ## 15xx Mn (1.00 - 1.65%)
 
-## 40xx Mo (0.20 ~ 0.30%)
+## 40xx Mo (0.20 \~ 0.30%)
 
 ## 43xx Ni (1.65 - 2.00%), Cr (0.40 - 0.90%), Mo (0.20 - 0.30%)
 
@@ -847,27 +878,27 @@ increasing strength, cost, decreasing ductility
 
 ## example: 1060 steel - plain carbon steel with 0.60 wt% C
 
-## Stainless Steel >11% Cr
+## Stainless Steel \>11% Cr
 
-* Steels
+-   Steels
 
-* Cast Irons
+-   Cast Irons
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img14.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img14.png)
 
 # Slide 15 - **Fe-C True Equilibrium Diagram**
 
 Graphite formation (vs cementite) promoted by
 
--  Si > 1 wt%
--  slow cooling
+-   Si \> 1 wt%
+-   slow cooling
 
-Adapted from Fig. 11.2, _Callister & Rethwisch 8e._
+Adapted from Fig. 11.2, *Callister & Rethwisch 8e.*
 
-[Fig. 11.2 adapted from _Binary Alloy Phase Diagrams_, 2nd ed.,
+\[Fig. 11.2 adapted from *Binary Alloy Phase Diagrams*, 2nd ed.,
 
-Vol. 1, T.B. Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 1990.]
+Vol. 1, T.B. Massalski (Ed.-in-Chief), ASM International, Materials
+Park, OH, 1990.\]
 
 1600
 
@@ -895,13 +926,13 @@ Vol. 1, T.B. Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 19
 
 90
 
-_L_
+*L*
 
 g
 
-+ _L_
+-   *L*
 
- \+ Graphite
+ + Graphite
 
 Liquid +
 
@@ -909,15 +940,15 @@ Graphite
 
 (Fe)
 
-_C_, wt% C
+*C*, wt% C
 
 0.65
 
 740ºC
 
-_T_(ºC)
+*T*(ºC)
 
- \+ Graphite
+ + Graphite
 
 100
 
@@ -931,105 +962,102 @@ Austenite
 
 a + g
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img15.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img15.png)
 
 # Slide 16 - **Cast Irons**
 
-- Ferrous alloys with > 2.1 wt% C
+-   Ferrous alloys with \> 2.1 wt% C
 
-- more commonly 3 - 4.5 wt% C
+-   more commonly 3 - 4.5 wt% C
 
-- Low melting - relatively easy to cast
-- Generally brittle
-- Cementite decomposes to ferrite + graphite
+-   Low melting - relatively easy to cast
 
-- Fe3C  3 Fe () + C (graphite)
-- Generally a slow process
+-   Generally brittle
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img16.png)
+-   Cementite decomposes to ferrite + graphite
 
+-   Fe3C  3 Fe () + C (graphite)
+
+-   Generally a slow process
+
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img16.png)
 
 # Slide 17 - **Types of Cast Iron**
 
 ## Gray iron
 
-- graphite flakes
-- weak & brittle in tension
-- stronger in compression
-- excellent vibrational dampening
-- wear resistant
+-   graphite flakes
+-   weak & brittle in tension
+-   stronger in compression
+-   excellent vibrational dampening
+-   wear resistant
 
 ## Ductile iron
 
-- add Mg and/or Ce
-- graphite as nodules not flakes
-- matrix often pearlite - stronger but less ductile
+-   add Mg and/or Ce
+-   graphite as nodules not flakes
+-   matrix often pearlite - stronger but less ductile
 
-Adapted from Fig. 11.3(a) & (b), _Callister & Rethwisch 8e._
+Adapted from Fig. 11.3(a) & (b), *Callister & Rethwisch 8e.*
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img17.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img17.png)
 
 # Slide 18 - **Types of Cast Iron (cont.)**
 
 ## White iron
 
-- < 1 wt% Si
-- pearlite + cementite
-- very hard and brittle
+-   \< 1 wt% Si
+-   pearlite + cementite
+-   very hard and brittle
 
 ## Malleable iron
 
-- heat treat white iron at 800-900ºC
-- graphite in rosettes
-- reasonably strong and ductile
+-   heat treat white iron at 800-900ºC
+-   graphite in rosettes
+-   reasonably strong and ductile
 
-Adapted from Fig. 11.3(c) & (d), _Callister & Rethwisch 8e._
+Adapted from Fig. 11.3(c) & (d), *Callister & Rethwisch 8e.*
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img18.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img18.png)
 
 # Slide 19 - **Types of Cast Iron (cont.)**
 
 ## Compacted graphite iron
 
-- relatively high thermal conductivity
-- good resistance to thermal shock
-- lower oxidation at elevated temperatures
+-   relatively high thermal conductivity
+-   good resistance to thermal shock
+-   lower oxidation at elevated temperatures
 
-Adapted from Fig. 11.3(e), _Callister & Rethwisch 8e._
+Adapted from Fig. 11.3(e), *Callister & Rethwisch 8e.*
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img19.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img19.png)
 
 # Slide 20 - **Production of Cast Irons**
 
-Adapted from Fig.11.5, _Callister & Rethwisch 8e._
+Adapted from Fig.11.5, *Callister & Rethwisch 8e.*
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img20.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img20.png)
 
 # Slide 21 - **Limitations of Ferrous Alloys**
 
-- Relatively high densities
-- Relatively low electrical conductivities
-- Generally poor corrosion resistance
+-   Relatively high densities
+-   Relatively low electrical conductivities
+-   Generally poor corrosion resistance
 
-## So….
+## So....
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img21.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img21.png)
 
 # Slide 22 - **Nonferrous Alloys**
 
-Based on discussion and data provided in Section 11.3, _Callister & Rethwisch 3e._
+Based on discussion and data provided in Section 11.3, *Callister &
+Rethwisch 3e.*
 
 NonFerrous
 
 Alloys
 
-* Al Alloys
+-   Al Alloys
 
 -low r: 2.7 g/cm3
 
@@ -1043,47 +1071,47 @@ aircraft parts
 
 & packaging)
 
-* Mg Alloys
+-   Mg Alloys
 
 -very low
 
 r
 
-: 1.7g/cm3
+:   1.7g/cm3
 
 -ignites easily
 
--
+-   
 
 aircraft, missiles
 
-* Refractory metals
+-   Refractory metals
 
--high melting _T’s_
+-high melting *T's*
 
 -Nb, Mo, W, Ta
 
-* Noble metals
+-   Noble metals
 
 -Ag, Au, Pt
 
--
+-   
 
 oxid./corr. resistant
 
-* Ti Alloys
+-   Ti Alloys
 
 -relatively low r: 4.5 g/cm3
 
 vs 7.9 for steel
 
--reactive at high _T’s_
+-reactive at high *T's*
 
--
+-   
 
 space applic.
 
-* Cu Alloys
+-   Cu Alloys
 
 Brass:Zn is subst. impurity
 
@@ -1093,7 +1121,7 @@ corrosion resistant)
 
 Bronze
 
-: Sn, Al, Si, Ni are
+:   Sn, Al, Si, Ni are
 
 subst. impurities
 
@@ -1109,39 +1137,35 @@ precip. hardened
 
 for strength
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img22.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img22.png)
 
 # Slide 23 - **Metal Fabrication**
 
-- How do we fabricate metals?
+-   How do we fabricate metals?
 
-- Blacksmith - hammer (forged)
-- Cast molten metal into mold
+-   Blacksmith - hammer (forged)
 
-- Forming Operations
+-   Cast molten metal into mold
 
-- Rough stock formed to final shape
+-   Forming Operations
 
-## Hot working vs. Cold working
+-   Rough stock formed to final shape
 
-* Deformation temperature
-high enough for
-recrystallization
+## Hot working vs. Cold working
 
-* Large deformations
+-   Deformation temperature high enough for recrystallization
 
-* Deformation below
+-   Large deformations
 
-recrystallization
-temperature
+-   Deformation below
 
-* Strain hardening occurs
+recrystallization temperature
 
-* Small deformations
+-   Strain hardening occurs
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img23.png)
+-   Small deformations
 
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img23.png)
 
 # Slide 24 - **Metal Fabrication Methods**
 
@@ -1149,27 +1173,27 @@ FORMING
 
 roll
 
-_A_
+*A*
 
-_o_
+*o*
 
-_A_
+*A*
 
-_d_
+*d*
 
 roll
 
-* Rolling (Hot or Cold Rolling)
+-   Rolling (Hot or Cold Rolling)
 
 (I-beams, rails, sheet & plate)
 
-_A_
+*A*
 
-_o_
+*o*
 
-_A_
+*A*
 
-_d_
+*d*
 
 force
 
@@ -1179,15 +1203,15 @@ blank
 
 force
 
-* Forging (Hammering; Stamping)
+-   Forging (Hammering; Stamping)
 
 (wrenches, crankshafts)
 
 often at
 
-elev. _T_
+elev. *T*
 
-Adapted from Fig. 11.8, _Callister & Rethwisch 8e._
+Adapted from Fig. 11.8, *Callister & Rethwisch 8e.*
 
 ram
 
@@ -1203,39 +1227,39 @@ die holder
 
 die
 
-_A_
+*A*
 
-_o_
+*o*
 
-_A_
+*A*
 
-_d_
+*d*
 
 extrusion
 
-* Extrusion
+-   Extrusion
 
 (rods, tubing)
 
-ductile metals, e.g. Cu, Al (hot)
+ductile metals, e.g. Cu, Al (hot)
 
 tensile
 
 force
 
-_A_
+*A*
 
-_o_
+*o*
 
-_A_
+*A*
 
-_d_
-
-die
+*d*
 
 die
 
-* Drawing
+die
+
+-   Drawing
 
 (rods, wire, tubing)
 
@@ -1245,8 +1269,7 @@ CASTING
 
 MISCELLANEOUS
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img24.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img24.png)
 
 # Slide 25 - **Metal Fabrication Methods**
 
@@ -1254,31 +1277,35 @@ FORMING
 
 CASTING
 
-- Casting- mold is filled with molten metal
+-   Casting- mold is filled with molten metal
 
-- metal melted in furnace, perhaps alloying elements added, then cast in a mold
-- common and inexpensive
-- gives good production of shapes
-- weaker products, internal defects
-- good option for brittle materials
+-   metal melted in furnace, perhaps alloying elements added, then cast
+    in a mold
+
+-   common and inexpensive
+
+-   gives good production of shapes
+
+-   weaker products, internal defects
+
+-   good option for brittle materials
 
 MISCELLANEOUS
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img25.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img25.png)
 
 # Slide 26 - **Metal Fabrication Methods**
 
-* Sand Casting
+-   Sand Casting
 
 (large parts, e.g.,
 
 auto engine blocks)
 
-- What material will withstand _T_ >1600ºC
-    and is inexpensive and easy to mold?
-- Answer: sand!!!
-- To create mold, pack sand around form (pattern) of desired shape
+-   What material will withstand *T* \>1600ºC and is inexpensive and
+    easy to mold?
+-   Answer: sand!!!
+-   To create mold, pack sand around form (pattern) of desired shape
 
 Sand
 
@@ -1292,21 +1319,18 @@ CASTING
 
 MISCELLANEOUS
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img26.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img26.png)
 
 # Slide 27 - **Metal Fabrication Methods**
 
--  Stage I — Mold formed by pouring
-     plaster of paris around wax pattern.
-     Plaster allowed to harden.
+-   Stage I --- Mold formed by pouring plaster of paris around wax
+    pattern. Plaster allowed to harden.
 
-* Stage II — Wax is melted and then
+-   Stage II --- Wax is melted and then
 
-poured from mold—hollow mold
-cavity remains.
+poured from mold---hollow mold cavity remains.
 
-* Stage III — Molten metal is poured
+-   Stage III --- Molten metal is poured
 
 into mold and allowed to solidify.
 
@@ -1316,7 +1340,7 @@ CASTING
 
 MISCELLANEOUS
 
-* Investment Casting
+-   Investment Casting
 
 (low volume, complex shapes
 
@@ -1330,14 +1354,13 @@ II
 
 III
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img27.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img27.png)
 
 # Slide 28 - **Metal Fabrication Methods**
 
-* Continuous Casting
+-   Continuous Casting
 
-\-\- simple shapes
+\-- simple shapes
 
 (e.g., rectangular slabs,
 
@@ -1353,15 +1376,13 @@ CASTING
 
 MISCELLANEOUS
 
-* Die Casting
+-   Die Casting
 
-\-\- high volume
+\-- high volume
 
-\-\- for alloys having low melting
-temperatures
+\-- for alloys having low melting temperatures
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img28.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img28.png)
 
 # Slide 29 - **Metal Fabrication Methods**
 
@@ -1369,7 +1390,7 @@ MISCELLANEOUS
 
 CASTING
 
-* Powder Metallurgy
+-   Powder Metallurgy
 
 (metals w/low ductilities)
 
@@ -1379,7 +1400,7 @@ heat
 
 point contact
 
-at low _T_
+at low *T*
 
 Increase density
 
@@ -1391,13 +1412,13 @@ contact
 
 densify
 
-* Welding
+-   Welding
 
 (when fabrication of one large
 
 part is impractical)
 
-* Heat-affected zone:
+-   Heat-affected zone:
 
 (region in which the
 
@@ -1405,9 +1426,10 @@ microstructure has been
 
 changed).
 
-Adapted from Fig. 11.9, _Callister & Rethwisch 8e._
+Adapted from Fig. 11.9, *Callister & Rethwisch 8e.*
 
-(Fig. 11.9 from _Iron Castings Handbook_, C.F. Walton and T.J. Opar (Ed.), 1981.)
+(Fig. 11.9 from *Iron Castings Handbook*, C.F. Walton and T.J. Opar
+(Ed.), 1981.)
 
 piece 1
 
@@ -1429,20 +1451,19 @@ heat-affected zone
 
 FORMING
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img29.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img29.png)
 
 # Slide 30 - **Thermal Processing of Metals**
 
-Annealing: Heat to _T_ anneal, then cool slowly.
+Annealing: Heat to *T* anneal, then cool slowly.
 
-Based on discussion in Section 11.7, _Callister & Rethwisch 8e_.
+Based on discussion in Section 11.7, *Callister & Rethwisch 8e*.
 
 Types of
 
 Annealing
 
-*
+-   
 
 Process Anneal:
 
@@ -1454,7 +1475,7 @@ cold working by
 
 recrystallization)
 
-*
+-   
 
 Stress Relief: Reduce
 
@@ -1466,7 +1487,7 @@ stresses resulting from:
 
 \- phase transform.
 
-*
+-   
 
 Normalize
 
@@ -1478,7 +1499,7 @@ treat to allow recrystallization
 
 and formation of smaller grains.
 
-*
+-   
 
 Full Anneal
 
@@ -1496,7 +1517,7 @@ g
 
 to obtain coarse pearlite.
 
-*
+-   
 
 Spheroidize
 
@@ -1506,22 +1527,21 @@ Make very soft steels for
 
 good machining. Heat just
 
-below _T_ eutectoid & hold for
+below *T* eutectoid & hold for
 
 15-25 h.
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img30.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img30.png)
 
 # Slide 31 - **Heat Treatment Temperature-Time Paths**
 
-- Full Annealing
+-   Full Annealing
 
-- Quenching
+-   Quenching
 
-c)
+c)  
 
-- Tempering (Tempered Martensite)
+-   Tempering (Tempered Martensite)
 
 P
 
@@ -1537,28 +1557,28 @@ A
 
 A
 
-a)
-
-b)
+a)  
+b)  
 
 Fig. 10.25,
 
-_Callister & Rethwisch 8e_.
+*Callister & Rethwisch 8e*.
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img31.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img31.png)
 
 # Slide 32 - **Hardenability -- Steels**
 
-* Hardenability - measure of the ability to form martensite
+-   Hardenability - measure of the ability to form martensite
 
-* Jominy end quench test used to measure hardenability.
+-   Jominy end quench test used to measure hardenability.
 
-* Plot hardness versus distance from the quenched end.
+-   Plot hardness versus distance from the quenched end.
 
-Adapted from Fig. 11.11, _Callister & Rethwisch 8e_. (Fig. 11.11 adapted from A.G. Guy, _Essentials of Materials Science_, McGraw-Hill Book Company, New York, 1978.)
+Adapted from Fig. 11.11, *Callister & Rethwisch 8e*. (Fig. 11.11 adapted
+from A.G. Guy, *Essentials of Materials Science*, McGraw-Hill Book
+Company, New York, 1978.)
 
-Adapted from Fig. 11.12, _Callister & Rethwisch 8e_.
+Adapted from Fig. 11.12, *Callister & Rethwisch 8e*.
 
 24ºC water
 
@@ -1570,21 +1590,21 @@ phase field)
 
 flat ground
 
-Rockwell C
-hardness tests
+Rockwell C hardness tests
 
 Hardness, HRC
 
 Distance from quenched end
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img32.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img32.png)
 
 # Slide 33 - **Reason Why Hardness Changes with Distance**
 
-* The cooling rate decreases with distance from quenched end.
+-   The cooling rate decreases with distance from quenched end.
 
-Adapted from Fig. 11.13, _Callister & Rethwisch 8e_. (Fig. 11.13 adapted from H. Boyer (Ed.) _Atlas of Isothermal Transformation and Cooling Transformation Diagrams_, American Society for Metals, 1977, p. 376.)
+Adapted from Fig. 11.13, *Callister & Rethwisch 8e*. (Fig. 11.13 adapted
+from H. Boyer (Ed.) *Atlas of Isothermal Transformation and Cooling
+Transformation Diagrams*, American Society for Metals, 1977, p. 376.)
 
 distance from quenched end (in)
 
@@ -1632,9 +1652,9 @@ P
 
 1000
 
-_T_(ºC)
+*T*(ºC)
 
-_M_(start)
+*M*(start)
 
 Time (s)
 
@@ -1644,7 +1664,7 @@ Time (s)
 
 100%
 
-_M_(finish)
+*M*(finish)
 
 Martensite
 
@@ -1654,36 +1674,36 @@ Fine Pearlite
 
 Pearlite
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img33.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img33.png)
 
 # Slide 34 - **Hardenability vs Alloy Composition**
 
-* Hardenability curves for
+-   Hardenability curves for
 
 five alloys each with,
 
-_C_ = 0.4 wt% C
+*C* = 0.4 wt% C
 
-* "Alloy Steels"
+-   "Alloy Steels"
 
 (4140, 4340, 5140, 8640)
 
-\-\- contain Ni, Cr, Mo
+\-- contain Ni, Cr, Mo
 
 (0.2 to 2 wt%)
 
-\-\- these elements shift
+\-- these elements shift
 
 the "nose" to longer times
 
 (from A to B)
 
-\-\- martensite is easier
+\-- martensite is easier
 
 to form
 
-Adapted from Fig. 11.14, _Callister & Rethwisch 8e_. (Fig. 11.14 adapted from figure furnished courtesy Republic Steel Corporation.)
+Adapted from Fig. 11.14, *Callister & Rethwisch 8e*. (Fig. 11.14 adapted
+from figure furnished courtesy Republic Steel Corporation.)
 
 Cooling rate (ºC/s)
 
@@ -1731,7 +1751,7 @@ Distance from quenched end (mm)
 
 100
 
-% _M_
+\% *M*
 
 4340
 
@@ -1763,22 +1783,21 @@ T(ºC)
 
 Time (s)
 
-_M_(start)
+*M*(start)
 
-_M_(90%)
+*M*(90%)
 
 B
 
 A
 
-_TE_
+*TE*
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img34.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img34.png)
 
 # Slide 35 - **Influences of Quenching Medium & Specimen Geometry**
 
-* Effect of quenching medium:
+-   Effect of quenching medium:
 
 Medium
 
@@ -1804,13 +1823,13 @@ moderate
 
 high
 
-* Effect of specimen geometry:
+-   Effect of specimen geometry:
 
 When surface area-to-volume ratio increases:
 
-\-\- cooling rate throughout interior increases
+\-- cooling rate throughout interior increases
 
-\-\- hardness throughout interior increases
+\-- hardness throughout interior increases
 
 Position
 
@@ -1830,8 +1849,7 @@ low
 
 high
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img35.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img35.png)
 
 # Slide 36 - **Precipitation Hardening**
 
@@ -1849,9 +1867,9 @@ high
 
 wt% Cu
 
-_L_
+*L*
 
-+ _L_
++ *L*
 
 a
 
@@ -1859,7 +1877,7 @@ a+q
 
 q
 
-+ _L_
++ *L*
 
 300
 
@@ -1873,7 +1891,7 @@ q
 
 (Al)
 
-_T_(ºC)
+*T*(ºC)
 
 composition range
 
@@ -1883,37 +1901,33 @@ CuAl2
 
 A
 
-Adapted from Fig. 11.24, _Callister & Rethwisch 8e_. (Fig. 11.24 adapted from J.L. Murray, _International Metals Review_ **30**, p.5, 1985.)
+Adapted from Fig. 11.24, *Callister & Rethwisch 8e*. (Fig. 11.24 adapted
+from J.L. Murray, *International Metals Review* **30**, p.5, 1985.)
 
-* Particles impede dislocation motion.
+-   Particles impede dislocation motion.
 
-* Ex: Al-Cu system
+-   Ex: Al-Cu system
 
-* Procedure:
+-   Procedure:
 
-Adapted from Fig. 11.22, _Callister & Rethwisch 8e_.
+Adapted from Fig. 11.22, *Callister & Rethwisch 8e*.
 
-\-\- Pt B: quench to room temp.
-(retain a solid solution)
+\-- Pt B: quench to room temp. (retain a solid solution)
 
-\-\- Pt C: reheat to nucleate
-small q particles within
-a phase.
+\-- Pt C: reheat to nucleate small q particles within a phase.
 
--  Other alloys that precipitation
-     harden:
-     * Cu-Be
-     * Cu-Sn
-     * Mg-Al
+-   Other alloys that precipitation harden:
+    -   Cu-Be
+    -   Cu-Sn
+    -   Mg-Al
 
 Temp.
 
 Time
 
-\-\- Pt A: solution heat treat
-(get a solid solution)
+\-- Pt A: solution heat treat (get a solid solution)
 
-Pt A (sol’n heat treat)
+Pt A (sol'n heat treat)
 
 B
 
@@ -1923,32 +1937,34 @@ C
 
 Pt C (precipitate )
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img36.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img36.png)
 
 # Slide 37 - **Part 1 - Impact of heat treatment on Al properties**
 
-[1] LETU Data. 14-Nov-2018
+\[1\] LETU Data. 14-Nov-2018
 
-**[1]**
+**\[1\]**
 
-- **6061-T6, with and without solutionizing (1 hr at 950 oF, water quench)**
-- _**Why?**_
+-   **6061-T6, with and without solutionizing (1 hr at 950 oF, water
+    quench)**
+-   ***Why?***
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img37.png)
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img37.png)
 
+# Slide 38 - **Influence of Precipitation Heat Treatment on *TS*, % *EL***
 
-# Slide 38 - **Influence of Precipitation Heat Treatment on _TS_, % _EL_**
+-   2014 Al Alloy:
 
-* 2014 Al Alloy:
+-   Maxima on *TS* curves.
 
-* Maxima on _TS_ curves.
-
-* Increasing _T_ accelerates
+-   Increasing *T* accelerates
 
 process.
 
-Adapted from Fig. 11.27, _Callister & Rethwisch 8e_. (Fig. 11.27 adapted from _Metals Handbook: Properties and Selection: Nonferrous Alloys and Pure Metals_, Vol. 2, 9th ed., H. Baker (Managing Ed.), American Society for Metals, 1979. p. 41.)
+Adapted from Fig. 11.27, *Callister & Rethwisch 8e*. (Fig. 11.27 adapted
+from *Metals Handbook: Properties and Selection: Nonferrous Alloys and
+Pure Metals*, Vol. 2, 9th ed., H. Baker (Managing Ed.), American Society
+for Metals, 1979. p. 41.)
 
 precipitation heat treat time
 
@@ -1982,19 +1998,19 @@ many small
 
 precipitates
 
-“aged”
+"aged"
 
 fewer large
 
 precipitates
 
-“overaged”
+"overaged"
 
 149ºC
 
-* Minima on % _EL_ curves.
+-   Minima on % *EL* curves.
 
-% _EL_ (2 in sample)
+\% *EL* (2 in sample)
 
 10
 
@@ -2020,5 +2036,4 @@ precipitates
 
 precipitation heat treat time
 
-![](Lessons\ 23\ Applications\ &\ Processing\ of\ Metal\ Alloys\ /img38.png)
-
+![](Lessons%2023%20Applications%20&%20Processing%20of%20Metal%20Alloys%20/img38.png)

@@ -1,25 +1,25 @@
 # Slide 1
 
-_**Claiming every workplace in every nation as our**_
+***Claiming every workplace in every nation as our***
 
-_**mission field**_
+***mission field***
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img0.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img0.png)
 
 # Slide 2 - **Devo/Prayer - The Greatest Engineer!**
 
-_**By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible.**_
+***By faith we understand that the universe was formed at God's command,
+so that what is seen was not made out of what was visible.***
 
-_**Hebrews 11:3**_
+***Hebrews 11:3***
 
-_**He is before all things, and in him all things hold together.**_
+***He is before all things, and in him all things hold together.***
 
-_**Colossians 1:17**_
+***Colossians 1:17***
 
-[https://micro.magnet.fsu.edu/primer/java/scienceopticsu/powersof10/](https://micro.magnet.fsu.edu/primer/java/scienceopticsu/powersof10/)
+<https://micro.magnet.fsu.edu/primer/java/scienceopticsu/powersof10/>
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img1.png)
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img1.png)
 
 # Slide 3
 
@@ -39,13 +39,13 @@ _**Colossians 1:17**_
 
 **Course Introduction**
 
-_**2**_
+***2***
 
-_**R**_
+***R***
 
-_**20 Aug**_
+***20 Aug***
 
-_**Atomic Structure and Interatomic Bonding**_
+***Atomic Structure and Interatomic Bonding***
 
 **3**
 
@@ -243,9 +243,10 @@ _**Atomic Structure and Interatomic Bonding**_
 
 **Final Exam**
 
-_**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
+***Rejoice always, pray continually, give thanks in all circumstances 1
+Thes 5:16-18***
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img2.png)
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img2.png)
 
 # Slide 4
 
@@ -265,13 +266,13 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **Course Introduction**
 
-_**2**_
+***2***
 
-_**R**_
+***R***
 
-_**16 Jan**_
+***16 Jan***
 
-_**Atomic Structure and Interatomic Bonding**_
+***Atomic Structure and Interatomic Bonding***
 
 **3**
 
@@ -505,12 +506,12 @@ _**Atomic Structure and Interatomic Bonding**_
 
 **Final Exam**
 
-_**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
+***Rejoice always, pray continually, give thanks in all circumstances 1
+Thes 5:16-18***
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img3.png)
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img3.png)
 
-
-# Slide 5 - **Materials Engineering Test 1 Review  (allowed one double sided 8.5X11” sheet of notes/equations)**
+# Slide 5 - **Materials Engineering Test 1 Review (allowed one double sided 8.5X11" sheet of notes/equations)**
 
 ## **Chapter 1: Introduction**
 
@@ -552,7 +553,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 ## Covalent bonds- sharing of electrons - polymers and some ceramics
 
-## Metallic bonding- valence electrons form a “sea of electrons” - metals
+## Metallic bonding- valence electrons form a "sea of electrons" - metals
 
 Secondary Bonding or van der Waals
 
@@ -568,7 +569,8 @@ Crystal structure
 
 Unit cells
 
-Metallic crystal structures, Simple Cubic, Face Centered Cubic, Body Centered Cubic, Hexagonal Close Packed (just know it exists)
+Metallic crystal structures, Simple Cubic, Face Centered Cubic, Body
+Centered Cubic, Hexagonal Close Packed (just know it exists)
 
 Unit cell edge length= Lattice Constant= Lattice Parameter
 
@@ -580,11 +582,13 @@ Polymorphisms/Allotropy
 
 Crystallographic points 001 - no commas, no parentheses, no brackets
 
-Crystallographic directions [111]
+Crystallographic directions \[111\]
 
-Crystallographic planes (111) - Miller indexes, parallel planes are the same
+Crystallographic planes (111) - Miller indexes, parallel planes are the
+same
 
-Linear (diameters per unit length) and planar (circle areas per unit area) densities
+Linear (diameters per unit length) and planar (circle areas per unit
+area) densities
 
 Grain boundaries
 
@@ -594,8 +598,7 @@ X-Ray Diffraction compare to Energy Dispersive X-Ray
 
 Noncystalline Solids - amorphous
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img4.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img4.png)
 
 # Slide 6 - **Materials Engineering Exam 1 Review (continued)**
 
@@ -617,9 +620,9 @@ Noncystalline Solids - amorphous
 
 ## Microscopy
 
-## Optical ~1500X maximum
+## Optical \~1500X maximum
 
-## Scanning Electron Microscopy (SEM) ~ 10 t0 50,000X - large depth of field (DOF)
+## Scanning Electron Microscopy (SEM) \~ 10 t0 50,000X - large depth of field (DOF)
 
 ## Transmission Electron Microscopy (TEM) up to 1,000,000X - very thin samples
 
@@ -631,9 +634,9 @@ Noncystalline Solids - amorphous
 
 ## Diffusion mechanisms - vacancy, interstitial
 
-## Steady state diffusion - Fick’s First Law
+## Steady state diffusion - Fick's First Law
 
-## Non-Steady State Diffusion - Fick’s Second Law
+## Non-Steady State Diffusion - Fick's Second Law
 
 ## Error Function (ERF)
 
@@ -643,76 +646,74 @@ Noncystalline Solids - amorphous
 
 ## Semi-Conductors
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img5.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img5.png)
 
 # Slide 7 - **Atomic Structure**
 
-- Atom electrons - 9.11 x 10-31 kg
-     protons
-     neutrons
+-   Atom electrons - 9.11 x 10-31 kg protons neutrons
 
-- Atomic number = # of protons in nucleus of atom
-     = # of electrons in neutral species
-- Atomic mass = mass of protons & neutrons
-- Atomic mass unit = amu = 1/12 mass of carbon 12 isotope (atomic mass of 12.0 g/mol)
-- Atomic wt = mass of 6.022 x 1023 molecules/atoms (Avagadro’s Number)
+-   Atomic number = \# of protons in nucleus of atom = \# of electrons
+    in neutral species
 
-     1 amu/atom = 1 g/mol
+-   Atomic mass = mass of protons & neutrons
 
+-   Atomic mass unit = amu = 1/12 mass of carbon 12 isotope (atomic mass
+    of 12.0 g/mol)
+
+-   Atomic wt = mass of 6.022 x 1023 molecules/atoms (Avagadro's Number)
+
+    1 amu/atom = 1 g/mol
 
 ## Hydrogen (H): 1.008 amu/atom = 1.008 g/mol
 
 ## Iron (Fe): 55.845 amu/atom = 55.845 g/mol
 
-- Electronic structure impacts chemical, electrical, thermal, and optical properties
+-   Electronic structure impacts chemical, electrical, thermal, and
+    optical properties
 
 } 1.67 x 10-27 kg
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img6.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img6.png)
 
 # Slide 8 - **The Periodic Table**
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img7.png)
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img7.png)
 
+# Slide 9 - **fig_02_03**
 
-# Slide 9 - **fig\_02\_03**
-
-**fig\_02\_03**
+**fig_02_03**
 
 Bohr Model vs Wave-Mechanical Model
 
-Electron locations are described by a probability function - not deterministic
+Electron locations are described by a probability function - not
+deterministic
 
-**fig\_02\_01**
+**fig_02_01**
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img8.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img8.png)
 
 # Slide 10 - **Electronic Structure**
 
-- Electrons have wavelike and particulate properties
+-   Electrons have wavelike and particulate properties
 
-- Electrons are in orbitals defined by a probability
-- Each orbital discrete energy level is determined by quantum numbers describing size/shape/orientation
+-   Electrons are in orbitals defined by a probability
 
-- Tend to occupy lowest available energy state
+-   Each orbital discrete energy level is determined by quantum numbers
+    describing size/shape/orientation
 
-
+-   Tend to occupy lowest available energy state
 
 ## Quantum \#Designation
 
-## _n_ = principal (energy level-shell) _K_, _L_, _M_, _N_, _O_ (1, 2, 3, etc.)
+## *n* = principal (energy level-shell) *K*, *L*, *M*, *N*, *O* (1, 2, 3, etc.)
 
-## l = subsidiary (sub-shells) _s_, _p_, _d_, _f_ (0, 1, 2, 3,…, _n_-1)
+## l = subsidiary (sub-shells) *s*, *p*, *d*, *f* (0, 1, 2, 3,..., *n*-1)
 
-## _ml_ = magnetic (orbitals per sub-shell) 1, 3, 5, 7 (-l to +l)
+## *ml* = magnetic (orbitals per sub-shell) 1, 3, 5, 7 (-l to +l)
 
-## _ms_ = electron spin moment ½, -½
+## *ms* = electron spin moment ½, -½
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img9.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img9.png)
 
 # Slide 11 - **Electronic Structure & Energy States**
 
@@ -720,8 +721,7 @@ s subshell
 
 p subshells
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img10.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img10.png)
 
 # Slide 12 - **Electronic Configurations - Iron Example**
 
@@ -733,47 +733,48 @@ valence
 
 electrons
 
-Adapted from Fig. 2.4, _Callister & Rethwisch 8e._
+Adapted from Fig. 2.4, *Callister & Rethwisch 8e.*
 
-1 _s_
+1 *s*
 
-2 _s_
+2 *s*
 
-2 _p_
+2 *p*
 
-_K_-shell _n_ = 1
+*K*-shell *n* = 1
 
-_L_-shell _n_ = 2
+*L*-shell *n* = 2
 
-3 _s_
+3 *s*
 
-3 _p_
+3 *p*
 
-_M_-shell _n_ = 3
+*M*-shell *n* = 3
 
-3 _d_
+3 *d*
 
-4 _s_
+4 *s*
 
-4 _p_
+4 *p*
 
-4 _d_
+4 *d*
 
 Energy
 
-_N_-shell _n_ = 4
+*N*-shell *n* = 4
 
-1 _s_ 2 2 _s_ 2 2 _p_ 6 3 _s_ 2 3 _p_ 6
+1 *s* 2 2 *s* 2 2 *p* 6 3 *s* 2 3 *p* 6
 
-3 _d_ 6 4 _s_ 2
+3 *d* 6 4 *s* 2
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img11.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img11.png)
 
 # Slide 13 - **Survey of Elements**
 
-- For most elements, the electron configuration is not stable since outer (valence) shells are usually not filled
-- **Valence electrons are available for bonding and tend to control chemical properties**
+-   For most elements, the electron configuration is not stable since
+    outer (valence) shells are usually not filled
+-   **Valence electrons are available for bonding and tend to control
+    chemical properties**
 
 Electron configuration
 
@@ -783,23 +784,23 @@ Electron configuration
 
 ...
 
-1 _s_
+1 *s*
 
 2
 
-2 _s_
+2 *s*
 
 2
 
-2 _p_
+2 *p*
 
 6
 
-3 _s_
+3 *s*
 
 2
 
-3 _p_
+3 *p*
 
 6
 
@@ -807,41 +808,41 @@ Electron configuration
 
 ...
 
-1 _s_
+1 *s*
 
 2
 
-2 _s_
+2 *s*
 
 2
 
-2 _p_
+2 *p*
 
 6
 
-3 _s_
+3 *s*
 
 2
 
-3 _p_
+3 *p*
 
 6
 
-3 _d_
+3 *d*
 
 10
 
-4 _s_
+4 *s*
 
 2
 
-4 _p_
+4 *p*
 
 6
 
 (stable)
 
-Atomic #
+Atomic \#
 
 18
 
@@ -851,7 +852,7 @@ Atomic #
 
 Element
 
-1 _s_
+1 *s*
 
 1
 
@@ -859,7 +860,7 @@ Element
 
 Hydrogen
 
-1 _s_
+1 *s*
 
 2
 
@@ -867,11 +868,11 @@ Hydrogen
 
 Helium
 
-1 _s_
+1 *s*
 
 2
 
-2 _s_
+2 *s*
 
 1
 
@@ -879,11 +880,11 @@ Helium
 
 Lithium
 
-1 _s_
+1 *s*
 
 2
 
-2 _s_
+2 *s*
 
 2
 
@@ -891,15 +892,15 @@ Lithium
 
 Beryllium
 
-1 _s_
+1 *s*
 
 2
 
-2 _s_
+2 *s*
 
 2
 
-2 _p_
+2 *p*
 
 1
 
@@ -907,15 +908,15 @@ Beryllium
 
 Boron
 
-1 _s_
+1 *s*
 
 2
 
-2 _s_
+2 *s*
 
 2
 
-2 _p_
+2 *p*
 
 2
 
@@ -925,15 +926,15 @@ Carbon
 
 ...
 
-1 _s_
+1 *s*
 
 2
 
-2 _s_
+2 *s*
 
 2
 
-2 _p_
+2 *p*
 
 6
 
@@ -943,19 +944,19 @@ Carbon
 
 Neon
 
-1 _s_
+1 *s*
 
 2
 
-2 _s_
+2 *s*
 
 2
 
-2 _p_
+2 *p*
 
 6
 
-3 _s_
+3 *s*
 
 1
 
@@ -963,19 +964,19 @@ Neon
 
 Sodium
 
-1 _s_
+1 *s*
 
 2
 
-2 _s_
+2 *s*
 
 2
 
-2 _p_
+2 *p*
 
 6
 
-3 _s_
+3 *s*
 
 2
 
@@ -983,23 +984,23 @@ Sodium
 
 Magnesium
 
-1 _s_
+1 *s*
 
 2
 
-2 _s_
+2 *s*
 
 2
 
-2 _p_
+2 *p*
 
 6
 
-3 _s_
+3 *s*
 
 2
 
-3 _p_
+3 *p*
 
 1
 
@@ -1015,42 +1016,40 @@ Argon
 
 Krypton
 
-Adapted from Table 2.2, _Callister & Rethwisch 9e._
+Adapted from Table 2.2, *Callister & Rethwisch 9e.*
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img12.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img12.png)
 
 # Slide 14 - **Bonding Forces & Energy**
 
-- Energy - balance of attractive and repulsive terms
+-   Energy - balance of attractive and repulsive terms
 
-- Minimum potential energy most stable (equilibrium)
+-   Minimum potential energy most stable (equilibrium)
 
-Attractive energy _EA_
+Attractive energy *EA*
 
-Net energy _EN_
+Net energy *EN*
 
-Repulsive energy _ER_
+Repulsive energy *ER*
 
-Interatomic separation _r_
+Interatomic separation *r*
 
-_r_
+*r*
 
-_A_
+*A*
 
-_n_
+*n*
 
-_r_
+*r*
 
-_B_
+*B*
 
-_EN_ = _EA + ER_ =
+*EN* = *EA + ER* =
 
-+
+-   
+-   
 
--
-
-Adapted from Fig. 2.10(b), _Callister & Rethwisch 9e._
+Adapted from Fig. 2.10(b), *Callister & Rethwisch 9e.*
 
 **Repulsive forces arise from electron cloud interactions**
 
@@ -1058,7 +1057,7 @@ Adapted from Fig. 2.10(b), _Callister & Rethwisch 9e._
 
 Equilibrium spacing (ro)
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img13.png)
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img13.png)
 
 # Slide 15
 
@@ -1068,14 +1067,13 @@ Equilibrium spacing (ro)
 
 **MgO**
 
-- Electron transfer between + and - ions - Nondirectional
+-   Electron transfer between + and - ions - Nondirectional
 
-- Large difference in electronegativity required (coulombic force)
+-   Large difference in electronegativity required (coulombic force)
 
-- Strong bond (predominant bonding in ceramics)
+-   Strong bond (predominant bonding in ceramics)
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img14.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img14.png)
 
 # Slide 16 - **Electronegativity**
 
@@ -1095,22 +1093,24 @@ Readily acquire electrons
 
 to become - ions.
 
-give up 1 _e_-
+give up 1 *e*-
 
-give up 2 _e_-
+give up 2 *e*-
 
-accept 1 _e_-
+accept 1 *e*-
 
-accept 2 _e_-
+accept 2 *e*-
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img15.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img15.png)
 
 # Slide 17 - **Ionic Bonding Examples**
 
-* Predominant bonding in Ceramics
+-   Predominant bonding in Ceramics
 
-Adapted from Fig. 2.7, _Callister & Rethwisch 8e._ (Fig. 2.7 is adapted from Linus Pauling, _The Nature of the Chemical Bond_, 3rd edition, Copyright 1939 and 1940, 3rd edition. Copyright 1960 by Cornell University.
+Adapted from Fig. 2.7, *Callister & Rethwisch 8e.* (Fig. 2.7 is adapted
+from Linus Pauling, *The Nature of the Chemical Bond*, 3rd edition,
+Copyright 1939 and 1940, 3rd edition. Copyright 1960 by Cornell
+University.
 
 Give up electrons (Electropositive)
 
@@ -1126,16 +1126,15 @@ CaF
 
 CsCl
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img16.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img16.png)
 
 # Slide 18 - **Primary Bonding Types: Covalent**
 
-C: has 4 valence _e-_
+C: has 4 valence *e-*
 
 needs 4 more
 
-H: has 1 valence _e-_
+H: has 1 valence *e-*
 
 needs 1 more
 
@@ -1143,11 +1142,12 @@ Electronegativities
 
 are comparable
 
-Adapted from Fig. 2.10, _Callister & Rethwisch 8e._
+Adapted from Fig. 2.10, *Callister & Rethwisch 8e.*
 
-- Similar electronegativity  share electrons
-- Bonds determined by valence - _s_ & _p_ orbitals dominate bonding - Directional, may be strong or weak
-- Common in polymers, semiconductors
+-   Similar electronegativity  share electrons
+-   Bonds determined by valence - *s* & *p* orbitals dominate bonding -
+    Directional, may be strong or weak
+-   Common in polymers, semiconductors
 
 Example: CH4
 
@@ -1175,18 +1175,20 @@ CH
 
 4
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img17.png)
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img17.png)
 
 # Slide 19
 
 **Covalent Bond Hybridization (Methane)**
 
-- Mixing/combining of orbitals
-- Carbon can form _sp_ 3 hybrid orbitals
+-   Mixing/combining of orbitals
+-   Carbon can form *sp* 3 hybrid orbitals
 
-Fig. 2.13, _Callister & Rethwisch 9e._
+Fig. 2.13, *Callister & Rethwisch 9e.*
 
-Fig. 2.14, _Callister & Rethwisch 9e._(Adapted from J.E. Brady and F. Senese, _Chemistry: Matter and Its Changes_, 4th edition. Reprinted with permission of John Wiley and Sons, Inc.)
+Fig. 2.14, *Callister & Rethwisch 9e.*(Adapted from J.E. Brady and F.
+Senese, *Chemistry: Matter and Its Changes*, 4th edition. Reprinted with
+permission of John Wiley and Sons, Inc.)
 
 **CH**
 
@@ -1194,39 +1196,41 @@ Fig. 2.14, _Callister & Rethwisch 9e._(Adapted from J.E. Brady and F. Senese, _C
 
 (Methane)
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img18.png)
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img18.png)
 
 # Slide 20
 
-- Carbon can form _sp_ 3 hybrid orbitals (extremely strong)
+-   Carbon can form *sp* 3 hybrid orbitals (extremely strong)
 
-Fig. 2.13, _Callister & Rethwisch 9e._
+Fig. 2.13, *Callister & Rethwisch 9e.*
 
-Fig. 2.14, _Callister & Rethwisch 9e._(Adapted from J.E. Brady and F. Senese, _Chemistry: Matter and Its Changes_, 4th edition. Reprinted with permission of John Wiley and Sons, Inc.)
+Fig. 2.14, *Callister & Rethwisch 9e.*(Adapted from J.E. Brady and F.
+Senese, *Chemistry: Matter and Its Changes*, 4th edition. Reprinted with
+permission of John Wiley and Sons, Inc.)
 
 **Covalent Bond Hybridization (Diamond)**
 
-- Carbon can also form _sp2_ bond (Graphite) - much weaker interplanar bonds
+-   Carbon can also form *sp2* bond (Graphite) - much weaker interplanar
+    bonds
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img19.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img19.png)
 
 # Slide 21 - **Primary Bonding Types: Metallic**
 
-- Electrons not bound to particular atom (ion cores with electron cloud) - Nondirectional, may be strong or weak
-- Good conductors of heat and electricity
-- Predominant bonding in metals and their alloys
+-   Electrons not bound to particular atom (ion cores with electron
+    cloud) - Nondirectional, may be strong or weak
+-   Good conductors of heat and electricity
+-   Predominant bonding in metals and their alloys
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img20.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img20.png)
 
 # Slide 22 - **Secondary (van der Waals) Bonding**
 
 Arises from interaction between dipoles - Directional
 
-* Permanent dipoles-molecule induced
+-   Permanent dipoles-molecule induced
 
-* Fluctuating dipoles
+-   Fluctuating dipoles
 
 -general case:
 
@@ -1236,19 +1240,16 @@ Arises from interaction between dipoles - Directional
 
 Adapted from Fig. 2.20 & 2.22,
 
-_Callister & Rethwisch 9e._
+*Callister & Rethwisch 9e.*
 
 asymmetric electron
 
 clouds
 
-+
-
--
-
-+
-
--
+-   
+-   
+-   
+-   
 
 secondary
 
@@ -1294,69 +1295,64 @@ secondary
 
 bonding
 
-+
-
--
-
-+
-
--
+-   
+-   
+-   
+-   
 
 secondary bonding
 
 secondary bonding
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img21.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img21.png)
 
 # Slide 23 - **Properties From Bonding: Melting Temperature**
 
-* Bond length, _r_
+-   Bond length, *r*
 
-* Bond energy, _E_ o
+-   Bond energy, *E* o
 
-* Melting Temperature, _Tm_
+-   Melting Temperature, *Tm*
 
-_Tm_ is higher if _E_ o is larger.
+*Tm* is higher if *E* o is larger.
 
-_r_
+*r*
 
 o
 
-_r_
+*r*
 
 Energy
 
-_r_
+*r*
 
-larger _Tm_
+larger *Tm*
 
-smaller _Tm_
+smaller *Tm*
 
-_E_ o
+*E* o
 
 =
 
-“bond energy”
+"bond energy"
 
 Energy
 
-_r_
+*r*
 
 o
 
-_r_
+*r*
 
 unstretched length
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img22.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img22.png)
 
 # Slide 24 - **Properties From Bonding: Thermal Expansion**
 
-* Coefficient of thermal expansion, a
+-   Coefficient of thermal expansion, a
 
-a is larger if _E_ o is smaller.
+a is larger if *E* o is smaller.
 
 =
 
@@ -1364,13 +1360,13 @@ a
 
 (
 
-_T_
+*T*
 
 2
 
--
+-   
 
-_T_
+*T*
 
 1
 
@@ -1378,9 +1374,9 @@ _T_
 
 D
 
-_L_
+*L*
 
-_L_
+*L*
 
 o
 
@@ -1388,27 +1384,27 @@ coeff. thermal expansion
 
 D
 
-_L_
+*L*
 
 length,
 
-_L_
+*L*
 
 o
 
-unheated, _T_
+unheated, *T*
 
 1
 
-heated, _T_
+heated, *T*
 
 2
 
-_r_
+*r*
 
 o
 
-_r_
+*r*
 
 smaller a
 
@@ -1418,17 +1414,15 @@ Energy
 
 unstretched length
 
-_Eo_
+*Eo*
 
-_Eo_
+*Eo*
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img23.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img23.png)
 
 # Slide 25 - **Mixed Bonding (real world)**
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img24.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img24.png)
 
 # Slide 26 - **Summary - Types of Bonds**
 
@@ -1478,8 +1472,7 @@ inter-chain (polymer)
 
 inter-molecular
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img25.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img25.png)
 
 # Slide 27 - **Summary - Types of Material Types & Bonds**
 
@@ -1489,11 +1482,11 @@ Ceramics
 
 Large bond energy
 
-large _E_
+large *E*
 
-large _Tm_
+large *Tm*
 
-small _α_
+small *α*
 
 Metals
 
@@ -1501,11 +1494,11 @@ Metals
 
 Variable bond energy
 
-moderate _E_
+moderate *E*
 
-moderate _Tm_
+moderate *Tm*
 
-moderate _α_
+moderate *α*
 
 Polymers
 
@@ -1513,13 +1506,12 @@ Polymers
 
 Secondary bonding dominates
 
-small _E_
+small *E*
 
-small _Tm_
+small *Tm*
 
-large _α_
+large *α*
 
 secondary bonding
 
-![](./Lesson\ 2\ Atomic\ Structure\ &\ Interatomic\ Bonding/img26.png)
-
+![](./Lesson%202%20Atomic%20Structure%20&%20Interatomic%20Bonding/img26.png)

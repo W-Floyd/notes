@@ -2,56 +2,56 @@
 
 **Why it Matters...**
 
-- What are the tensile properties of polymers and how
-  are they affected by basic microstructural features?
+-   What are the tensile properties of polymers and how are they
+    affected by basic microstructural features?
 
-- How does the elevated temperature mechanical
+-   How does the elevated temperature mechanical
 
 response of polymers compare to ceramics and metals?
 
-- What are the primary polymer processing methods?
+-   What are the primary polymer processing methods?
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img5.png>)
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img5.png)
 
 # Slide 7 - **Polymer Types**
 
-- Plastics (thermoplastic, thermosetting)
-- Elastomers (rubbers)
-- Fibers
-- Coatings
-- Adhesives
-- Films
-- Foams
+-   Plastics (thermoplastic, thermosetting)
+-   Elastomers (rubbers)
+-   Fibers
+-   Coatings
+-   Adhesives
+-   Films
+-   Foams
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img6.png>)
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img6.png)
 
 # Slide 8 - **Mechanical Properties of Polymers - Stress-Strain Behavior**
 
-- Fracture strengths of polymers ~ 10% of those for metals
-- Deformation strains for polymers > 1000%
-  - for most metals, deformation strains < 10%
+-   Fracture strengths of polymers \~ 10% of those for metals
+-   Deformation strains for polymers \> 1000%
+    -   for most metals, deformation strains \< 10%
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img7.png>)
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img7.png)
 
-# Slide 9 - **Mechanisms of Deformation— Crosslinked and Network (Brittle) Polymers**
+# Slide 9 - **Mechanisms of Deformation--- Crosslinked and Network (Brittle) Polymers**
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img8.png>)
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img8.png)
 
-# Slide 10 - **Mechanisms of Deformation — Semicrystalline (Plastic) Polymers**
+# Slide 10 - **Mechanisms of Deformation --- Semicrystalline (Plastic) Polymers**
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img9.png>)
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img9.png)
 
 # Slide 11 - **Predeformation by Drawing**
 
-- Drawing…(ex: monofilament fishline)
+-   Drawing...(ex: monofilament fishline)
 
-  - Stretches the polymer prior to use
+    -   Stretches the polymer prior to use
 
-  - Aligns chains in the stretching direction
+    -   Aligns chains in the stretching direction
 
-- Results of drawing:
+-   Results of drawing:
 
-  - Increases the elastic modulus ( _E_) in the
+    -   Increases the elastic modulus ( *E*) in the
 
 stretching direction
 
@@ -61,87 +61,95 @@ stretching direction
 
     * Decreases ductility (% _EL_)
 
-- Annealing after drawing...
+-   Annealing after drawing...
 
-      * Decreases chain alignment
+        * Decreases chain alignment
 
-      * Reverses effects of drawing (reduces _E_ and
+        * Reverses effects of drawing (reduces _E_ and
 
-  _TS_, enhances %EL)
+    *TS*, enhances %EL)
 
-- Similar to effects of cold working in metals
+-   Similar to effects of cold working in metals
 
-Adapted from Fig. 15.13, _Callister & Rethwisch 8e_. (Fig. 15.13 is from J.M. Schultz, _Polymer Materials Science_, Prentice-Hall, Inc., 1974, pp. 500-501.)
+Adapted from Fig. 15.13, *Callister & Rethwisch 8e*. (Fig. 15.13 is from
+J.M. Schultz, *Polymer Materials Science*, Prentice-Hall, Inc., 1974,
+pp. 500-501.)
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img10.png>)
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img10.png)
 
 # Slide 12 - **Thermoplastics vs Thermosetting**
 
-- Thermoplastics:
+-   Thermoplastics:
 
-  - Little crosslinking
-  - Ductile
-  - Soften w/heating
-  - Polyethylene  
-    Polypropylene  
-    Polycarbonate  
-    Polystyrene
+    -   Little crosslinking
+    -   Ductile
+    -   Soften w/heating
+    -   Polyethylene\
+        Polypropylene\
+        Polycarbonate\
+        Polystyrene
 
-- Thermosets:
-  - Significant crosslinking (10 to 50% of repeat units)
-  - Hard and brittle
-  - Do NOT soften w/heating
-  - Vulcanized rubber, epoxies, polyester resin, phenolic resin
+-   Thermosets:
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img11.png>)
+    -   Significant crosslinking (10 to 50% of repeat units)
+    -   Hard and brittle
+    -   Do NOT soften w/heating
+    -   Vulcanized rubber, epoxies, polyester resin, phenolic resin
 
-# Slide 13 - **Influence of _T_ and Strain Rate on Thermoplastics**
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img11.png)
 
-- Decreasing _T_...
-  - Increases _E_
-  - Increases _TS_
-  - Decreases % _EL_
-- Increasing strain rate...
-  - Same effects as decreasing _T_
+# Slide 13 - **Influence of *T* and Strain Rate on Thermoplastics**
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img12.png>)
+-   Decreasing *T*...
+    -   Increases *E*
+    -   Increases *TS*
+    -   Decreases % *EL*
+-   Increasing strain rate...
+    -   Same effects as decreasing *T*
+
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img12.png)
 
 # Slide 14 - **Crazing During Fracture of Thermoplastic Polymers**
 
 Craze formation prior to cracking
 
-- During crazing, plastic deformation of spherulites
-- and formation of microvoids and fibrillar bridges
+-   During crazing, plastic deformation of spherulites
+-   and formation of microvoids and fibrillar bridges
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img13.png>)
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img13.png)
 
-# Slide 15 - **Mechanisms of Deformation—Elastomers**
+# Slide 15 - **Mechanisms of Deformation---Elastomers**
 
-- Heavily kinked/coiled with cross-links to provide elasticity
-  - Contrasts with brittle behavior of aligned, crosslinked & network polymers and plastic behavior of semicrystalline polymers
+-   Heavily kinked/coiled with cross-links to provide elasticity
+    -   Contrasts with brittle behavior of aligned, crosslinked &
+        network polymers and plastic behavior of semicrystalline
+        polymers
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img14.png>)
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img14.png)
 
 # Slide 16 - **Melting & Glass Transition Temps**
 
-## What factors affect _Tm_ and _Tg_?
+## What factors affect *Tm* and *Tg*?
 
-- Both $T_m$ and $T_g$ increase with increasing chain stiffness
-- Chain stiffness increased by presence of
+-   Both $T_m$ and $T_g$ increase with increasing chain stiffness
 
-- Bulky sidegroups
-- Polar groups or sidegroups
-- Chain double bonds and aromatic chain groups
+-   Chain stiffness increased by presence of
 
-- Regularity of repeat unit arrangements - affects _Tm_ only
+-   Bulky sidegroups
 
-Adapted from Fig. 15.18, _Callister & Rethwisch 8e._
+-   Polar groups or sidegroups
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img15.png>)
+-   Chain double bonds and aromatic chain groups
+
+-   Regularity of repeat unit arrangements - affects *Tm* only
+
+Adapted from Fig. 15.18, *Callister & Rethwisch 8e.*
+
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img15.png)
 
 # Slide 17 - **Time-Dependent Deformation**
 
-- Representative _Tg_ values (C):
+-   Representative *Tg* values (C):
 
 PE (low density)
 
@@ -163,19 +171,19 @@ PC
 
 +150
 
-Selected values from Table 15.2, _Callister & Rethwisch 8e_.
+Selected values from Table 15.2, *Callister & Rethwisch 8e*.
 
-- Stress relaxation test:
+-   Stress relaxation test:
 
-      * strain in tension to eo
+        * strain in tension to eo
 
-  and hold.
+    and hold.
 
-      * observe decrease in
+        * observe decrease in
 
 stress with time.
 
-- Relaxation modulus:
+-   Relaxation modulus:
 
 time
 
@@ -185,17 +193,19 @@ tensile test
 
 eo
 
-s( _t_)
+s( *t*)
 
-- There is a large decrease in _Er_
+-   There is a large decrease in *Er*
 
-for _T_ \> _Tg_.
+for *T* \> *Tg*.
 
 (amorphous
 
 polystyrene)
 
-Adapted from Fig. 15.7, _Callister & Rethwisch 8e_. (Fig. 15.7 is from A.V. Tobolsky, _Properties and Structures of Polymers_, John Wiley and Sons, Inc., 1960.)
+Adapted from Fig. 15.7, *Callister & Rethwisch 8e*. (Fig. 15.7 is from
+A.V. Tobolsky, *Properties and Structures of Polymers*, John Wiley and
+Sons, Inc., 1960.)
 
 10
 
@@ -233,11 +243,11 @@ transition
 
 region
 
-_T_(ºC)
+*T*(ºC)
 
-_Tg_
+*Tg*
 
-_Er_ (10 s)
+*Er* (10 s)
 
 in MPa
 
@@ -245,199 +255,226 @@ viscous liquid
 
 (large relax)
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img16.png>)
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img16.png)
 
 # Slide 18 - **Polymer Processing - Formation Addition (chain) Polymerization**
 
-- **Initiation**
+-   **Initiation**
 
-- **Propagation**
+-   **Propagation**
 
-- **Termination**
+-   **Termination**
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img17.png>)
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img17.png)
 
 # Slide 19 - **Polymer Processing - Formation Condensation (step) Polymerization**
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img18.png>)
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img18.png)
 
 # Slide 20 - **Polymer Processing - Thermoplastic vs Thermoset**
 
-- Thermoplastic
+-   Thermoplastic
 
-- Can be reversibly cooled & reheated, i.e. recycled
-- Heat until soft, shape as desired, then cool
-- ex: polyethylene, polypropylene, polystyrene.
+-   Can be reversibly cooled & reheated, i.e. recycled
 
-- Thermoset
+-   Heat until soft, shape as desired, then cool
 
-- When heated forms a molecular network
-  (chemical reaction)
-- Degrades (doesn’t melt) when heated
-- A prepolymer molded into desired shape, then
-  chemical reaction occurs
-- ex: urethane, epoxy
+-   ex: polyethylene, polypropylene, polystyrene.
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img19.png>)
+-   Thermoset
+
+-   When heated forms a molecular network (chemical reaction)
+
+-   Degrades (doesn't melt) when heated
+
+-   A prepolymer molded into desired shape, then chemical reaction
+    occurs
+
+-   ex: urethane, epoxy
+
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img19.png)
 
 # Slide 21 - **Other Polymer Types (classified by use)**
 
-## Fibers - length/diameter >100
+## Fibers - length/diameter \>100
 
-- Primary use is in textiles.
-- Fiber characteristics:
+-   Primary use is in textiles.
 
-- high tensile strengths
-- high degrees of crystallinity
-- structures containing polar groups
+-   Fiber characteristics:
 
-- Formed by spinning
+-   high tensile strengths
 
-- extrude polymer through a spinneret (a die
-  containing many small orifices)
-- the spun fibers are drawn under tension
-- leads to highly aligned chains - fibrillar structure
+-   high degrees of crystallinity
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img20.png>)
+-   structures containing polar groups
+
+-   Formed by spinning
+
+-   extrude polymer through a spinneret (a die containing many small
+    orifices)
+
+-   the spun fibers are drawn under tension
+
+-   leads to highly aligned chains - fibrillar structure
+
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img20.png)
 
 # Slide 22 - **Other Polymer Types (classified by use)**
 
-- Coatings - thin polymer films applied to surfaces - i.e., paints, varnishes
+-   Coatings - thin polymer films applied to surfaces - i.e., paints,
+    varnishes
 
-- protects from corrosion/degradation
-- decorative - improves appearance
-- can provide electrical insulation
+-   protects from corrosion/degradation
 
-- Adhesives - bonds two solid materials (adherands)
+-   decorative - improves appearance
 
-- bonding types:
+-   can provide electrical insulation
 
-- Secondary - van der Waals forces
-- Mechanical - penetration into pores/crevices
+-   Adhesives - bonds two solid materials (adherands)
 
-- Films - produced by blown film extrusion
+-   bonding types:
 
-- Foams - gas bubbles incorporated into plastic
+-   Secondary - van der Waals forces
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img21.png>)
+-   Mechanical - penetration into pores/crevices
+
+-   Films - produced by blown film extrusion
+
+-   Foams - gas bubbles incorporated into plastic
+
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img21.png)
 
 # Slide 23 - **Polymer Processing - Compression Molding**
 
 ## Thermoplastics and thermosets
 
-- Polymer and additives placed in mold cavity
-- Mold heated and pressure applied
-- Fluid polymer assumes shape of mold
+-   Polymer and additives placed in mold cavity
+-   Mold heated and pressure applied
+-   Fluid polymer assumes shape of mold
 
-Fig. 15.23, _Callister & Rethwisch 8e_. (Fig. 15.23 is from F.W. Billmeyer, Jr., _Textbook of Polymer Science,_ 3rd ed., John Wiley & Sons, 1984.)
+Fig. 15.23, *Callister & Rethwisch 8e*. (Fig. 15.23 is from F.W.
+Billmeyer, Jr., *Textbook of Polymer Science,* 3rd ed., John Wiley &
+Sons, 1984.)
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img22.png>)
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img22.png)
 
 # Slide 24 - **Polymer Processing - Injection Molding**
 
-Fig. 15.24, _Callister & Rethwisch 8e_. (Fig. 15.24 is from F.W. Billmeyer, Jr., _Textbook of Polymer Science,_ 2nd edition, John Wiley & Sons, 1971.)
+Fig. 15.24, *Callister & Rethwisch 8e*. (Fig. 15.24 is from F.W.
+Billmeyer, Jr., *Textbook of Polymer Science,* 2nd edition, John Wiley &
+Sons, 1971.)
 
 Thermoplastics and some thermosets
 
-- When ram retracts, plastic pellets drop from hopper into barrel
-- Ram forces plastic into the heating chamber (around the spreader) where the plastic melts as it moves forward
-- Molten plastic is forced under pressure (injected) into the mold cavity where it assumes the shape of the mold
+-   When ram retracts, plastic pellets drop from hopper into barrel
+-   Ram forces plastic into the heating chamber (around the spreader)
+    where the plastic melts as it moves forward
+-   Molten plastic is forced under pressure (injected) into the mold
+    cavity where it assumes the shape of the mold
 
 Barrel
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img23.png>)
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img23.png)
 
 # Slide 25 - **Polymer Processing - Extrusion**
 
-Fig. 15.25, _Callister & Rethwisch 8e_. (Fig. 15.25 is from _Encyclopædia Britannica,_ 1997.)
+Fig. 15.25, *Callister & Rethwisch 8e*. (Fig. 15.25 is from
+*Encyclopædia Britannica,* 1997.)
 
 Thermoplastics
 
-- Plastic pellets drop from hopper onto the turning screw
-- Plastic pellets melt as the turning screw pushes them forward by the heaters
-- Molten polymer is forced under pressure through the shaping die to form the final product (extrudate)
+-   Plastic pellets drop from hopper onto the turning screw
+-   Plastic pellets melt as the turning screw pushes them forward by the
+    heaters
+-   Molten polymer is forced under pressure through the shaping die to
+    form the final product (extrudate)
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img24.png>)
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img24.png)
 
-# Slide 26 - **Polymer Processing - Blown-Film Extrusion [https://www.youtube.com/watch?v=qn16JtE_vLc&t=74s](https://www.youtube.com/watch?v=qn16JtE_vLc&t=74s)**
+# Slide 26 - **Polymer Processing - Blown-Film Extrusion <https://www.youtube.com/watch?v=qn16JtE_vLc&t=74s>**
 
-Fig. 15.26, _Callister & Rethwisch 8e_. (Fig. 15.26 is from _Encyclopædia Britannica,_ 1997.)
+Fig. 15.26, *Callister & Rethwisch 8e*. (Fig. 15.26 is from
+*Encyclopædia Britannica,* 1997.)
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img25.png>)
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img25.png)
 
 # Slide 27 - **Polymer Additives**
 
 ## Improve mechanical properties, processability, durability, etc.
 
-- Fillers
+-   Fillers
 
-- Added to improve tensile strength & abrasion resistance, toughness & decrease cost
-- ex: carbon black, silica gel, wood flour, glass, limestone, talc, etc.
+-   Added to improve tensile strength & abrasion resistance, toughness &
+    decrease cost
 
-- Plasticizers
+-   ex: carbon black, silica gel, wood flour, glass, limestone, talc,
+    etc.
 
-- Added to reduce the glass transition
+-   Plasticizers
 
-temperature _Tg_ below room temperature
+-   Added to reduce the glass transition
 
-- Presence of plasticizer transforms brittle polymer to a
-  ductile one
-- Commonly added to PVC - otherwise it is brittle
+temperature *Tg* below room temperature
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img26.png>)
+-   Presence of plasticizer transforms brittle polymer to a ductile one
+-   Commonly added to PVC - otherwise it is brittle
+
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img26.png)
 
 # Slide 28 - **Polymer Additives (cont)**
 
-- Stabilizers
-  - Antioxidants
-  - UV protectants
-- Lubricants
-  - Added to allow easier processing
-  - polymer “slides” through dies easier
-  - ex: sodium stearate
-- Colorants
-  - Dyes and pigments
-- Flame Retardants
-  - Substances containing chlorine, fluorine, and boron
+-   Stabilizers
+    -   Antioxidants
+    -   UV protectants
+-   Lubricants
+    -   Added to allow easier processing
+    -   polymer "slides" through dies easier
+    -   ex: sodium stearate
+-   Colorants
+    -   Dyes and pigments
+-   Flame Retardants
+    -   Substances containing chlorine, fluorine, and boron
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img27.png>)
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img27.png)
 
 # Slide 29 - **Advanced Polymers**
 
-- Molecular weight ca. 4 x 106 g/mol
-- Outstanding properties
-  - High impact strength
-  - Resistance to wear/abrasion
-  - Low coefficient of friction
-  - Self-lubricating surface
-- Important applications
-  - Bullet-proof vests
-  - Golf ball covers
-  - Hip implants (acetabular cup)
+-   Molecular weight ca. 4 x 106 g/mol
+-   Outstanding properties
+    -   High impact strength
+    -   Resistance to wear/abrasion
+    -   Low coefficient of friction
+    -   Self-lubricating surface
+-   Important applications
+    -   Bullet-proof vests
+    -   Golf ball covers
+    -   Hip implants (acetabular cup)
 
 Ultrahigh Molecular Weight Polyethylene (UHMWPE)
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img28.png>)
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img28.png)
 
 # Slide 30 - **Advanced Polymers**
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img29.png>)
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img29.png)
 
 # Slide 31 - **Summary**
 
-- Limitations of polymers:
-  - $E$, $\sigma_y$, $K_c$, $T_\text{application}$ are generally small.
-  - Deformation is often time and temperature dependent.
-- Thermoplastics (PE, PS, PP, PC):
-  - Smaller _E_, s _y_, _T_ application
-  - Larger _Kc_
-  - Easier to form and recycle
-- Elastomers (rubber):
-  - Large reversible strains!
-- Thermosets (epoxies, polyesters):
-  - Larger _E_, s _y_, _T_ application
-  - Smaller _Kc_
+-   Limitations of polymers:
+    -   $E$, $\sigma_y$, $K_c$, $T_\text{application}$ are generally
+        small.
+    -   Deformation is often time and temperature dependent.
+-   Thermoplastics (PE, PS, PP, PC):
+    -   Smaller *E*, s *y*, *T* application
+    -   Larger *Kc*
+    -   Easier to form and recycle
+-   Elastomers (rubber):
+    -   Large reversible strains!
+-   Thermosets (epoxies, polyesters):
+    -   Larger *E*, s *y*, *T* application
+    -   Smaller *Kc*
 
-Saa Table 15.3 for a good overview of applications and trade names of polymers.
+Saa Table 15.3 for a good overview of applications and trade names of
+polymers.
 
-![](<./Lessons\ 27\ Characteristics,\ Applications,\ and\ Processing\ of\ Polymers/img30.png>)
+![](./Lessons%2027%20Characteristics,%20Applications,%20and%20Processing%20of%20Polymers/img30.png)

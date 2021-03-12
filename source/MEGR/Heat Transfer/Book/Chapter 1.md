@@ -1,9 +1,11 @@
 # Definitions
 
 ## Closed System
+
 A system of fixed mass.
 
 ## Open System or Control Volume
+
 A system with mass transfer across it's boundaries.
 
 ## Heat Flux

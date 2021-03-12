@@ -1,18 +1,30 @@
 ---
-title: Heat Transfer
-subtitle: Book Summary
 author: William Floyd
+subtitle: Book Summary
+title: Heat Transfer
 toc: true
 ---
 
-!bash
-~~~
-find . -maxdepth 1 -iname '*.md' -not -name 'Summary.md' | sort -n | while read -r __line; do
-    echo
-    echo "${__line%.md}" | sed -e 's|^\./|# |' 
-    echo
-    cat "${__line}" | sed -e 's/^#/##/'
 
-    echo '\newpage'
-done
-~~~
+
+# Chapter 1
+
+## Definitions
+
+### Closed System
+
+A system of fixed mass.
+
+### Open System or Control Volume
+
+A system with mass transfer across it's boundaries.
+
+### Heat Flux
+
+$\dot{q}$ is rate of heat transfer per unit area.
+
+## First Law of Thermodynamics
+
+$$
+E_{\text{in}}-E_{\text{out}}=\Delta E_{\text{system}}
+$$`\newpage`{=tex}

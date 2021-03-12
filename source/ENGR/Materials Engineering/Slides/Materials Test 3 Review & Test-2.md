@@ -1,49 +1,46 @@
 # Slide 1
 
-_**Claiming every workplace in every nation as our**_
+***Claiming every workplace in every nation as our***
 
-_**mission field**_
+***mission field***
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img0.png)
-
+![](./Materials%20Test%203%20Review%20&%20Test-2/img0.png)
 
 # Slide 2 - **Devo/Prayer**
 
-## Humble yourselves, therefore, under God’s mighty hand, that he may lift you up in due time. **Cast all your anxiety on him because He cares for you.**
+## Humble yourselves, therefore, under God's mighty hand, that he may lift you up in due time. **Cast all your anxiety on him because He cares for you.**
 
-## _1 Peter 5:6-7_
+## *1 Peter 5:6-7*
 
 ## I can do all things through Christ who strengthens me.
 
-## _Philippians 4:13_
+## *Philippians 4:13*
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img1.png)
-
+![](./Materials%20Test%203%20Review%20&%20Test-2/img1.png)
 
 # Slide 3 - **Devo/Prayer**
 
 ## Now faith is confidence in what we hope for and assurance about what we do not see.
 
-## By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible.
+## By faith we understand that the universe was formed at God's command, so that what is seen was not made out of what was visible.
 
 ## And without faith it is impossible to please God, because anyone who comes to him must believe that he exists and that he rewards those who **earnestly seek him**.
 
-## _Hebrews 11:1,3,6_
+## *Hebrews 11:1,3,6*
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img2.png)
+![](./Materials%20Test%203%20Review%20&%20Test-2/img2.png)
 
+# Slide 4 - **Veteran's Day Prayer**
 
-# Slide 4 - **Veteran’s Day Prayer**
-
-## **“Lord hear our cry”**
+## **"Lord hear our cry"**
 
 ## Natl Day of Prayer Experience
 
-## **“If my people, who are called by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and I will forgive their sin and will heal their land.”**
+## **"If my people, who are called by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and I will forgive their sin and will heal their land."**
 
 ## **2 Chronicles 7:14**
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img3.png)
+![](./Materials%20Test%203%20Review%20&%20Test-2/img3.png)
 
 # Slide 5
 
@@ -203,21 +200,21 @@ _**mission field**_
 
 **Phase Diagrams**
 
-_**19**_
+***19***
 
-_**W**_
+***W***
 
-_**24 Oct**_
+***24 Oct***
 
-_**Phase Transformation**_
+***Phase Transformation***
 
-_**20**_
+***20***
 
-_**M**_
+***M***
 
-_**29 Oct**_
+***29 Oct***
 
-_**Phase Transformation / Review**_
+***Phase Transformation / Review***
 
 **21**
 
@@ -289,9 +286,10 @@ _**Phase Transformation / Review**_
 
 **Final Exam**
 
-_**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
+***Rejoice always, pray continually, give thanks in all circumstances 1
+Thes 5:16-18***
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img4.png)
+![](./Materials%20Test%203%20Review%20&%20Test-2/img4.png)
 
 # Slide 6
 
@@ -451,21 +449,21 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **Phase Diagrams**
 
-_**19**_
+***19***
 
-_**R**_
+***R***
 
-_**25 Oct**_
+***25 Oct***
 
-_**Phase Transformation**_
+***Phase Transformation***
 
-_**20**_
+***20***
 
-_**T**_
+***T***
 
-_**30 Oct**_
+***30 Oct***
 
-_**Phase Transformation / Review**_
+***Phase Transformation / Review***
 
 **21**
 
@@ -537,73 +535,92 @@ _**Phase Transformation / Review**_
 
 **Final Exam**
 
-_**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
+***Rejoice always, pray continually, give thanks in all circumstances 1
+Thes 5:16-18***
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img5.png)
-
+![](./Materials%20Test%203%20Review%20&%20Test-2/img5.png)
 
 # Slide 7 - **Test 3 Rules of Engagement**
 
-- Put everything away except pencil, eraser, calculator, and three 8 ½ x 11 sheets of notes/equations
+-   Put everything away except pencil, eraser, calculator, and three 8 ½
+    x 11 sheets of notes/equations
 
-- Put name on part 1 and 2 **and** Scantron
+-   Put name on part 1 and 2 **and** Scantron
 
-- Pray
-- Work with diligence and dependence on Christ
-- Repeat #2 & #3 for 75 min
+-   Pray
 
-## _**“You will keep in perfect peace those whose minds are steadfast,**_
+-   Work with diligence and dependence on Christ
 
-## _**because they trust in you. Trust in the Lord forever,**_
+-   Repeat \#2 & \#3 for 75 min
 
-## _**for the Lord, the Lord himself, is the Rock eternal.” Is 26:3-4**_
+## ***"You will keep in perfect peace those whose minds are steadfast,***
 
-## _**“If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.” James 1:5**_
+## ***because they trust in you. Trust in the Lord forever,***
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img6.png)
+## ***for the Lord, the Lord himself, is the Rock eternal." Is 26:3-4***
+
+## ***"If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you." James 1:5***
+
+![](./Materials%20Test%203%20Review%20&%20Test-2/img6.png)
 
 # Slide 8
 
 **ENGR2313 Materials Engineering Exam 3 Topics**
 
-**Three double sided 8.5X11” sheets of notes (Exam 1 sheet, Exam 2 sheet plus one new sheet) - no prior exam problems**
+**Three double sided 8.5X11" sheets of notes (Exam 1 sheet, Exam 2 sheet
+plus one new sheet) - no prior exam problems**
 
 **Chapter 9: Phase Diagrams**
 
-- Know meaning (describe in words) and appearance on phase diagram of
+-   Know meaning (describe in words) and appearance on phase diagram of
 
-- Eutectic
-- Eutectoid
-- Peritectic
-- Hypoeutectic/hypereutectic
-- Hypoeutectoid/hypereutectoid
+-   Eutectic
 
-- Predict and recognize phase structure micrographs based on component concentration and temperature (eg., hypoeutectic and hypereutectic)
-- Given a point on a phase diagram
+-   Eutectoid
 
-- Identify the phases present
-- Identify the concentration of elements in each phase present
-- Calculate the WT% or WT fraction of each phase present
-- Recognize what proeutectic alpha or cementite are (AKA primary alpha or cementite) - I will not ask you to calculate it
-- Recognize the solubility limit of solvent alpha at various temperatures
+-   Peritectic
+
+-   Hypoeutectic/hypereutectic
+
+-   Hypoeutectoid/hypereutectoid
+
+-   Predict and recognize phase structure micrographs based on component
+    concentration and temperature (eg., hypoeutectic and hypereutectic)
+
+-   Given a point on a phase diagram
+
+-   Identify the phases present
+
+-   Identify the concentration of elements in each phase present
+
+-   Calculate the WT% or WT fraction of each phase present
+
+-   Recognize what proeutectic alpha or cementite are (AKA primary alpha
+    or cementite) - I will not ask you to calculate it
+
+-   Recognize the solubility limit of solvent alpha at various
+    temperatures
 
 **Chapter 10: Phase Transformations**
 
-- Phase Transformations
+-   Phase Transformations
 
-- Given a temperature and hold time, predict the amounts of each phase present (may be a multistep temper process)
-- Know which phase is preferred for qualitative ranges of hardness and ductility (spheroidite, course pearlite, fine perlite, bainite, temperered martensite, martensite)
+-   Given a temperature and hold time, predict the amounts of each phase
+    present (may be a multistep temper process)
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img7.png)
+-   Know which phase is preferred for qualitative ranges of hardness and
+    ductility (spheroidite, course pearlite, fine perlite, bainite,
+    temperered martensite, martensite)
 
+![](./Materials%20Test%203%20Review%20&%20Test-2/img7.png)
 
 # Slide 9 - **Eutectic, Eutectoid, & Peritectic (all transformations are upon cooling)**
 
-- Eutectoid - one solid phase transforms to two other solid phases
+-   Eutectoid - one solid phase transforms to two other solid phases
 
 S2 S1+S3
 
-  \+ Fe3C (For Fe-C, 727ºC, 0.76 wt% C)
+  + Fe3C (For Fe-C, 727ºC, 0.76 wt% C)
 
 intermetallic compound - cementite
 
@@ -611,26 +628,26 @@ cool
 
 heat
 
-- Eutectic - liquid transforms to two solid phases
+-   Eutectic - liquid transforms to two solid phases
 
-## _L_  \+  (For Pb-Sn, 183ºC, 61.9 wt% Sn)
-
-cool
-
-heat
+## *L*  +  (For Pb-Sn, 183ºC, 61.9 wt% Sn)
 
 cool
 
 heat
 
-- Peritectic - liquid and one solid phase transform to a single solid phase
+cool
+
+heat
+
+-   Peritectic - liquid and one solid phase transform to a single solid
+    phase
 
 S1 + L S2
 
- \+ L  (For Fe-C, 1493ºC, 0.16 wt% C)
+ + L  (For Fe-C, 1493ºC, 0.16 wt% C)
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img8.png)
-
+![](./Materials%20Test%203%20Review%20&%20Test-2/img8.png)
 
 # Slide 10 - **Eutectoid & Peritectic**
 
@@ -642,7 +659,7 @@ Eutectoid transformation   + 
 
 Peritectic transformation  + L 
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img9.png)
+![](./Materials%20Test%203%20Review%20&%20Test-2/img9.png)
 
 # Slide 11
 
@@ -654,7 +671,7 @@ Mg-Pb Phase Diagram
 
 **L  + Mg2Pb**
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img10.png)
+![](./Materials%20Test%203%20Review%20&%20Test-2/img10.png)
 
 # Slide 12
 
@@ -672,16 +689,15 @@ Primary α/β
 
 Eutectic α/β
 
-_**15 wt% Sn-85 wt% Pb**_
+***15 wt% Sn-85 wt% Pb***
 
-_**at 100°C**_
+***at 100°C***
 
-_**30 wt% Sn-70 wt% Pb**_
+***30 wt% Sn-70 wt% Pb***
 
-_**at 150°C**_
+***at 150°C***
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img11.png)
-
+![](./Materials%20Test%203%20Review%20&%20Test-2/img11.png)
 
 # Slide 13 - **Binary-Eutectic Systems**
 
@@ -693,25 +709,25 @@ with a min. melting T.
 
 Adapted from Fig. 9.7, Callister & Rethwisch 8e.
 
-* 3 single phase regions
+-   3 single phase regions
 
 (L, a, b)
 
-* Limited solubility:
+-   Limited solubility:
 
 a: mostly Cu
 
 b: mostly Ag
 
-* TE
+-   TE
 
 : No liquid below TE
 
-: Composition at
+:   Composition at
 
 temperature TE
 
-* CE
+-   CE
 
 Ex.: Cu-Ag system
 
@@ -731,7 +747,7 @@ a
 
 L
 
-+
+-   
 
 b
 
@@ -791,7 +807,7 @@ cooling
 
 heating
 
-* **Eutectic reaction**
+-   **Eutectic reaction**
 
 L(CE) (CE) + (CE)
 
@@ -799,18 +815,17 @@ L(CE) (CE) + (CE)
 
 **L  + **
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img12.png)
+![](./Materials%20Test%203%20Review%20&%20Test-2/img12.png)
 
+# Slide 14 - **Microstructural Developments in Eutectic Systems - Case 1**
 
-# Slide 14 - **Microstructural Developments  in Eutectic Systems - Case 1**
+-   For alloys for which
 
-* For alloys for which
+C0 \< 2 wt% Sn
 
-C0 < 2 wt% Sn
+-   Result: at room temperature
 
-* Result: at room temperature
-
-\-\- polycrystalline with grains of
+\-- polycrystalline with grains of
 
 a phase having
 
@@ -820,7 +835,7 @@ composition C0
 
 L
 
-+
+-   
 
 a
 
@@ -854,7 +869,7 @@ a
 
 a
 
-+
+-   
 
 b
 
@@ -878,20 +893,19 @@ a: C0 wt% Sn
 
 Adapted from Fig. 9.11, Callister & Rethwisch 8e.
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img13.png)
+![](./Materials%20Test%203%20Review%20&%20Test-2/img13.png)
 
+# Slide 15 - **Microstructural Developments in Eutectic Systems - Case 2**
 
-# Slide 15 - **Microstructural Developments  in Eutectic Systems - Case 2**
+-   For alloys for which
 
-* For alloys for which
+2 wt% Sn \< C0 \< 18.3 wt% Sn
 
-2 wt% Sn < C0 < 18.3 wt% Sn
-
-* Result:
+-   Result:
 
 at temperatures in a + b range
 
-\-\- polycrystalline with a grains
+\-- polycrystalline with a grains
 
 and small b-phase particles
 
@@ -939,7 +953,7 @@ a
 
 a
 
-+
+-   
 
 b
 
@@ -965,21 +979,19 @@ b
 
 a: C0 wt% Sn
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img14.png)
+![](./Materials%20Test%203%20Review%20&%20Test-2/img14.png)
 
+# Slide 16 - **Microstructural Developments in Eutectic Systems - Case 3**
 
-# Slide 16 - **Microstructural Developments  in Eutectic Systems - Case 3**
+-   For alloy of eutectic composition C0 = CE
 
-* For alloy of eutectic composition C0 = CE
+-   Result: Eutectic microstructure (lamellar structure)
 
-* Result: Eutectic microstructure (lamellar structure)
-
-\-\- Alternating layers (lamellae) of a and b phases (“pearlite”)
+\-- Alternating layers (lamellae) of a and b phases ("pearlite")
 
 Adapted from Fig. 9.13, Callister & Rethwisch 8e.
 
-Adapted from Fig. 9.14,
-Callister & Rethwisch 8e.
+Adapted from Fig. 9.14, Callister & Rethwisch 8e.
 
 160 m
 
@@ -1049,14 +1061,13 @@ CE
 
 L: C0 wt% Sn
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img15.png)
+![](./Materials%20Test%203%20Review%20&%20Test-2/img15.png)
 
+# Slide 17 - **Microstructural Developments in Eutectic Systems - Case 4**
 
-# Slide 17 - **Microstructural Developments  in Eutectic Systems - Case 4**
+-   For alloys for which 18.3 wt% Sn \< C0 \< 61.9 wt% Sn
 
-* For alloys for which 18.3 wt% Sn < C0 < 61.9 wt% Sn
-
-* Result: a phase particles and a eutectic microconstituent
+-   Result: a phase particles and a eutectic microconstituent
 
 18.3
 
@@ -1118,9 +1129,9 @@ Wa
 
 = 0.50
 
-* Just above TE :
+-   Just above TE :
 
-* Just below TE :
+-   Just below TE :
 
 C
 
@@ -1164,7 +1175,7 @@ system
 
 L
 
-+
+-   
 
 
 
@@ -1196,7 +1207,7 @@ b
 
 L
 
-+
+-   
 
 
 
@@ -1204,7 +1215,7 @@ L
 
 
 
-+
+-   
 
 
 
@@ -1222,62 +1233,68 @@ L
 
 
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img16.png)
+![](./Materials%20Test%203%20Review%20&%20Test-2/img16.png)
 
 # Slide 18
 
-_**Cite the phases that are present and the phase compositions for an alloy consisting of 15 wt% Sn-85 wt% Pb at 100°C (212°F)**_
+***Cite the phases that are present and the phase compositions for an
+alloy consisting of 15 wt% Sn-85 wt% Pb at 100°C (212°F)***
 
-_**(a) Determine the phases present**_
+***(a) Determine the phases present***
 
-_**(b) Determine the composition of each phase**_
+***(b) Determine the composition of each phase***
 
-_**(c) Determine the relative amount of each phase**_
+***(c) Determine the relative amount of each phase***
 
-_**A lead-tin alloy of composition 30 wt% Sn-70 wt% Pb is slowly heated from a temperature of 150°C (300°F).**_
+***A lead-tin alloy of composition 30 wt% Sn-70 wt% Pb is slowly heated
+from a temperature of 150°C (300°F).***
 
-_**(a) At what temperature does the first liquid phase form?**_
+***(a) At what temperature does the first liquid phase form?***
 
-_**(b) What is the composition of this liquid phase?**_
+***(b) What is the composition of this liquid phase?***
 
-_**(c) At what temperature does complete melting of the alloy occur?**_
+***(c) At what temperature does complete melting of the alloy occur?***
 
-_**(d) What is the composition of the last solid remaining prior to complete melting?**_
+***(d) What is the composition of the last solid remaining prior to
+complete melting?***
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img17.png)
+![](./Materials%20Test%203%20Review%20&%20Test-2/img17.png)
 
 # Slide 19
 
-_**Cite the phases that are present and the phase compositions for an alloy consisting of 15 wt% Sn-85 wt% Pb at 100°C (212°F)**_
+***Cite the phases that are present and the phase compositions for an
+alloy consisting of 15 wt% Sn-85 wt% Pb at 100°C (212°F)***
 
-_**(a) Determine the phases present**_
+***(a) Determine the phases present***
 
-_**α and β**_
+***α and β***
 
-_**(b) Determine the composition of each phase**_
+***(b) Determine the composition of each phase***
 
-_**Cα**_ **= 5 wt% Sn-95 wt% Pb**
+***Cα*** **= 5 wt% Sn-95 wt% Pb**
 
-_**Cβ**_ **= 98 wt% Sn-2 wt% Pb**
+***Cβ*** **= 98 wt% Sn-2 wt% Pb**
 
-_**(c) Determine the relative amount of each phase**_
+***(c) Determine the relative amount of each phase***
 
 **Wt%α = (98-15) / (98-5) = 89%**
 
 **Wt%β = 1-89% = 11%**
 
-_**A lead-tin alloy of composition 30 wt% Sn-70 wt% Pb is slowly heated from a temperature of 150°C (300°F).**_
+***A lead-tin alloy of composition 30 wt% Sn-70 wt% Pb is slowly heated
+from a temperature of 150°C (300°F).***
 
-_**(a) At what temperature does the first liquid phase form? 183°C**_
+***(a) At what temperature does the first liquid phase form? 183°C***
 
-_**(b) What is the composition of this liquid phase? CL = 61.9 wt% Sn**_
+***(b) What is the composition of this liquid phase? CL = 61.9 wt% Sn***
 
-_**(c) At what temperature does complete melting of the alloy occur? 260°C**_
+***(c) At what temperature does complete melting of the alloy occur?
+260°C***
 
-_**(d) What is the composition of the last solid remaining prior to complete melting? 13 wt% Sn**_
+***(d) What is the composition of the last solid remaining prior to
+complete melting? 13 wt% Sn***
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img18.png)
-
+![](./Materials%20Test%203%20Review%20&%20Test-2/img18.png)
 
 # Slide 20 - **Hypoeutectoid Steel**
 
@@ -1357,7 +1374,9 @@ C0
 
 Adapted from Figs. 9.24 and 9.29,Callister & Rethwisch 8e.
 
-(Fig. 9.24 adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1, T.B. Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 1990.)
+(Fig. 9.24 adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1,
+T.B. Massalski (Ed.-in-Chief), ASM International, Materials Park, OH,
+1990.)
 
 Adapted from Fig. 9.30, Callister & Rethwisch 8e.
 
@@ -1409,8 +1428,7 @@ g
 
 Proeutectoid α
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img19.png)
-
+![](./Materials%20Test%203%20Review%20&%20Test-2/img19.png)
 
 # Slide 21 - **Hypoeutectoid Steel**
 
@@ -1520,15 +1538,17 @@ pearlite
 
 Wpearlite = Wg
 
-Wa’ = S/(R + S)
+Wa' = S/(R + S)
 
-W =(1 - Wa’)
+W =(1 - Wa')
 
 Fe3C
 
 Adapted from Figs. 9.24 and 9.29,Callister & Rethwisch 8e.
 
-(Fig. 9.24 adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1, T.B. Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 1990.)
+(Fig. 9.24 adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1,
+T.B. Massalski (Ed.-in-Chief), ASM International, Materials Park, OH,
+1990.)
 
 Adapted from Fig. 9.30, Callister & Rethwisch 8e.
 
@@ -1542,8 +1562,7 @@ Hypoeutectoid
 
 steel
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img20.png)
-
+![](./Materials%20Test%203%20Review%20&%20Test-2/img20.png)
 
 # Slide 22 - **Hypereutectoid Steel**
 
@@ -1611,7 +1630,9 @@ T(ºC)
 
 a
 
-Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24 adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1, T.B. Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 1990.)
+Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24
+adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1, T.B.
+Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 1990.)
 
 (Fe-C
 
@@ -1663,10 +1684,9 @@ pearlite
 
 +
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img21.png)
+![](./Materials%20Test%203%20Review%20&%20Test-2/img21.png)
 
-
-# Slide 23 - **Hypereutectoid Steel (Co = 3.0 wt% C) The 3 questions…**
+# Slide 23 - **Hypereutectoid Steel (Co = 3.0 wt% C) The 3 questions...**
 
 Fe3C (cementite)
 
@@ -1762,14 +1782,15 @@ steel
 
 **pearlite**
 
-Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24 adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1, T.B. Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 1990.)
+Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24
+adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1, T.B.
+Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 1990.)
 
 +
 
 Proeutectoid Fe3C
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img22.png)
-
+![](./Materials%20Test%203%20Review%20&%20Test-2/img22.png)
 
 # Slide 24 - **Hypereutectoid Steel (Co = 3.0 wt% C)**
 
@@ -1877,7 +1898,9 @@ steel
 
 **pearlite**
 
-Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24 adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1, T.B. Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 1990.)
+Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24
+adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1, T.B.
+Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 1990.)
 
 +
 
@@ -1889,8 +1912,7 @@ Cg = 1.2% C
 
 CFe3C = 6.7% C
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img23.png)
-
+![](./Materials%20Test%203%20Review%20&%20Test-2/img23.png)
 
 # Slide 25 - **Hypereutectoid Steel**
 
@@ -1992,7 +2014,7 @@ Wa = X/(V + X)
 
 W =(1 - Wa)
 
-Fe3C’
+Fe3C'
 
 W =(1-Wg)
 
@@ -2012,30 +2034,42 @@ steel
 
 **pearlite**
 
-Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24 adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1, T.B. Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 1990.)
+Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24
+adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1, T.B.
+Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 1990.)
 
 +
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img24.png)
+![](./Materials%20Test%203%20Review%20&%20Test-2/img24.png)
 
 # Slide 26
 
-_**Using the isothermal transformation diagram for an iron-carbon alloy of eutectoid composition, specify the nature of the final microstructure (in terms of microconstituents present and approximate percentages of each) of a small specimen that has been subjected to the following time-temperature treatments. In each case assume that the specimen begins at 760°C (1400°F) and that it has been held at this temperature long enough to have achieved a complete and homogeneous austenitic structure.**_
+***Using the isothermal transformation diagram for an iron-carbon alloy
+of eutectoid composition, specify the nature of the final microstructure
+(in terms of microconstituents present and approximate percentages of
+each) of a small specimen that has been subjected to the following
+time-temperature treatments. In each case assume that the specimen
+begins at 760°C (1400°F) and that it has been held at this temperature
+long enough to have achieved a complete and homogeneous austenitic
+structure.***
 
-_**(a) Cool rapidly to 350°C (660°F), hold for 103 s, then quench to room temperature.**_
+***(a) Cool rapidly to 350°C (660°F), hold for 103 s, then quench to
+room temperature.***
 
-_**(b) Rapidly cool to 625°C (1160°F), hold for 10 s, then quench to room temperature.**_
+***(b) Rapidly cool to 625°C (1160°F), hold for 10 s, then quench to
+room temperature.***
 
-_**(c) Rapidly cool to 600°C (1110°F), hold for 4 s, rapidly cool to 450°C (840°F), hold for 10 s, then quench to room temperature.**_
+***(c) Rapidly cool to 600°C (1110°F), hold for 4 s, rapidly cool to
+450°C (840°F), hold for 10 s, then quench to room temperature.***
 
-_**(d) Reheat the specimen in part (c) to 700°C (1290°F) for 20 h.**_
+***(d) Reheat the specimen in part (c) to 700°C (1290°F) for 20 h.***
 
-_**(e) Rapidly cool to 300°C (570°F), hold for 20 s, then quench to room temperature in water. Reheat to 425°C (800°F) for 103 s and slowly cool to room temperature.**_
+***(e) Rapidly cool to 300°C (570°F), hold for 20 s, then quench to room
+temperature in water. Reheat to 425°C (800°F) for 103 s and slowly cool
+to room temperature.***
 
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img25.png)
+![](./Materials%20Test%203%20Review%20&%20Test-2/img25.png)
 
 # Slide 27
 
-
-![](./Materials\ Test\ 3\ Review\ &\ Test-2/img26.png)
-
+![](./Materials%20Test%203%20Review%20&%20Test-2/img26.png)

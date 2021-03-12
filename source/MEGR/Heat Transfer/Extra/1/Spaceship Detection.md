@@ -1,6 +1,12 @@
 # Prompt
 
-WALL-E has just been launched from the Axiom in a life-pod, roughly modeled as a sphere with radius $r=2m$. He has accidentally disabled all radio signal, so EVE must track his heat signature. Her sensors require at least $0.0001 \frac{\mathrm{W}}{\mathrm{m}^2}$ to detect him. The built-in heaters in the pod result in a heat flux of $1 \frac{\mathrm{kW}}{{m}^2}$ on the outer surface of the ship. From what distance away could EVE detect WALL-E?
+WALL-E has just been launched from the Axiom in a life-pod, roughly
+modeled as a sphere with radius $r=2m$. He has accidentally disabled all
+radio signal, so EVE must track his heat signature. Her sensors require
+at least $0.0001 \frac{\mathrm{W}}{\mathrm{m}^2}$ to detect him. The
+built-in heaters in the pod result in a heat flux of
+$1 \frac{\mathrm{kW}}{{m}^2}$ on the outer surface of the ship. From
+what distance away could EVE detect WALL-E?
 
 # Solution
 
@@ -22,8 +28,8 @@ $$
 \end{aligned}
 $$
 
-The total power through the surface of a sphere of any radius around the ship remains constant.
-Therefore, we can say:
+The total power through the surface of a sphere of any radius around the
+ship remains constant. Therefore, we can say:
 
 $$
 \begin{aligned}
@@ -34,8 +40,8 @@ q_1 \cdot r_1^2 &= q_2 \cdot r_2^2\\
 r_2^2 &= \frac{q_1\cdot r_1^2}{q_2}\\
 r_2 &= \sqrt{\frac{q_1\cdot r_1^2}{q_2}}\\
 r_2 &= \sqrt{\frac{1 \cdot 1000 \cdot \left( 2 \right)^2}{0.0001}}\\
-!Aboxed{r_2}{=}{6324.6 \mathrm{m}}
+\Aboxed{r_2&=6324.6 \mathrm{m}}
 \end{aligned}
 $$
 
-![Life-pod](./Spaceship Detection.jpeg)
+![Life-pod](./Spaceship%20Detection.jpeg)

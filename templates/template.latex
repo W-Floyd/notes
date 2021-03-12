@@ -330,6 +330,8 @@ $endif$
 \usepackage{csquotes}
 \usepackage{nicematrix}
 \NiceMatrixOptions{transparent}
+\DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
+\let\scr\mathpzc
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 $for(header-includes)$

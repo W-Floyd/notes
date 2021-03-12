@@ -1,21 +1,26 @@
 # Slide 1
 
-_**Claiming every workplace in every nation as our**_
+***Claiming every workplace in every nation as our***
 
-_**mission field**_
+***mission field***
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img0.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img0.png)
 
 # Slide 2 - **Devo/Prayer - Faith Journey**
 
-- I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing. (Jn 15:5)
-- Whatever you do, work at it with all your heart, as working for the Lord, not for human masters. (Col 3:23)
-- Yet you, Lord, are our Father. We are the clay, you are the potter; we are all the work of your hand. (Is 64:8)
-- Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us, to him be glory in the church and in Christ Jesus throughout all generations, for ever and ever! (Eph 3:20-21)
+-   I am the vine; you are the branches. If you remain in me and I in
+    you, you will bear much fruit; apart from me you can do nothing. (Jn
+    15:5)
+-   Whatever you do, work at it with all your heart, as working for the
+    Lord, not for human masters. (Col 3:23)
+-   Yet you, Lord, are our Father. We are the clay, you are the potter;
+    we are all the work of your hand. (Is 64:8)
+-   Now to him who is able to do immeasurably more than all we ask or
+    imagine, according to his power that is at work within us, to him be
+    glory in the church and in Christ Jesus throughout all generations,
+    for ever and ever! (Eph 3:20-21)
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img1.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img1.png)
 
 # Slide 3 - **Devo/Prayer - Running YOUR Race**
 
@@ -23,38 +28,43 @@ _**mission field**_
 
 ## **Hebrews 12:1-2**
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img2.png)
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img2.png)
 
+# Slide 4 - **Devo/Prayer - "What do you do for a living?"**
 
-# Slide 4 - **Devo/Prayer - “What do you do for a living?”**
-
-- “But SEEK FIRST his KINGDOM and his righteousness, and all these things will be given to you as well.”
+-   "But SEEK FIRST his KINGDOM and his righteousness, and all these
+    things will be given to you as well."
 
 ## Matthew 6:33
 
-- “Delight yourself in the Lord, and He will give you the desires of your heart.”
+-   "Delight yourself in the Lord, and He will give you the desires of
+    your heart."
 
 ## Psalm 37:4
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img3.png)
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img3.png)
 
+# Slide 5 - **Devo/Prayer - Assurance in God's Plan**
 
-# Slide 5 - **Devo/Prayer - Assurance in God’s Plan**
-
-- “Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.”  Philippians 1:6
-- Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us, to him be glory in the church and in Christ Jesus throughout all generations, for ever and ever! Eph 3:20-21
+-   "Being confident of this, that he who began a good work in you will
+    carry it on to completion until the day of Christ Jesus." 
+    Philippians 1:6
+-   Now to him who is able to do immeasurably more than all we ask or
+    imagine, according to his power that is at work within us, to him be
+    glory in the church and in Christ Jesus throughout all generations,
+    for ever and ever! Eph 3:20-21
 
 F=ꭍ T2dt
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img4.png)
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img4.png)
 
 # Slide 6
 
-_**Devo**_
+***Devo***
 
-_**Rod**_
+***Rod***
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img5.png)
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img5.png)
 
 # Slide 7
 
@@ -130,21 +140,21 @@ _**Rod**_
 
 **Test 1 (Ch 1-5)**
 
-_**9**_
+***9***
 
-_**T**_
+***T***
 
-_**11 Feb**_
+***11 Feb***
 
-_**Mechanical Properties of Metals**_
+***Mechanical Properties of Metals***
 
-_**10**_
+***10***
 
-_**R**_
+***R***
 
-_**13 Feb**_
+***13 Feb***
 
-_**Mechanical Properties of Metals**_
+***Mechanical Properties of Metals***
 
 **11**
 
@@ -314,9 +324,10 @@ _**Mechanical Properties of Metals**_
 
 **Final Exam**
 
-_**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
+***Rejoice always, pray continually, give thanks in all circumstances 1
+Thes 5:16-18***
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img6.png)
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img6.png)
 
 # Slide 8
 
@@ -392,21 +403,21 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **Test 1 (Ch 1-5)**
 
-_**9**_
+***9***
 
-_**T**_
+***T***
 
-_**15 Sep**_
+***15 Sep***
 
-_**Mechanical Properties of Metals**_
+***Mechanical Properties of Metals***
 
-_**10**_
+***10***
 
-_**R**_
+***R***
 
-_**17 Sep**_
+***17 Sep***
 
-_**Mechanical Properties of Metals**_
+***Mechanical Properties of Metals***
 
 **11**
 
@@ -540,201 +551,255 @@ _**Mechanical Properties of Metals**_
 
 **Final Exam**
 
-_**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
+***Rejoice always, pray continually, give thanks in all circumstances 1
+Thes 5:16-18***
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img7.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img7.png)
 
 # Slide 9 - **Materials Engineering Test 2 Review Sheet**
 
 **Chapter 6: Mechanical Properties of Materials**
 
-- Stress
-- Strain
--  Axial and shear
-- Tension and compression
-- Elastic modulus
-- Bulk modulus
-- Poisson’s ratio = - lateral strain/longitudinal strain
-- Plastic deformation
-- Yield strength
-- Stress/strain curves - shapes and comparison
-- Necking
-- Ductility - % elongation and % area reduction
-- Anelasticity - time dependent elastic behavior e.g. viscoelsticity
-- Resilience - ability to absorb energy elastically and recover the energy upon unloading (area under the elastic portion of stress - strain curve)
-- Toughness - ability to absorb energy and plastically deform without fracturing in (are under total stress-strain curve, includes both elastic and plastic portions)
-- True stress and true strain
-- Elastic recovery after plastic deformation
-- Hardness testing overview
+-   Stress
 
-- Measurement scales
-- Hardness correlates with yield strength and tensile strength
+-   Strain
 
-- Variability of material properties
-- Factor of safety
+-   Axial and shear
+
+-   Tension and compression
+
+-   Elastic modulus
+
+-   Bulk modulus
+
+-   Poisson's ratio = - lateral strain/longitudinal strain
+
+-   Plastic deformation
+
+-   Yield strength
+
+-   Stress/strain curves - shapes and comparison
+
+-   Necking
+
+-   Ductility - % elongation and % area reduction
+
+-   Anelasticity - time dependent elastic behavior e.g. viscoelsticity
+
+-   Resilience - ability to absorb energy elastically and recover the
+    energy upon unloading (area under the elastic portion of stress -
+    strain curve)
+
+-   Toughness - ability to absorb energy and plastically deform without
+    fracturing in (are under total stress-strain curve, includes both
+    elastic and plastic portions)
+
+-   True stress and true strain
+
+-   Elastic recovery after plastic deformation
+
+-   Hardness testing overview
+
+-   Measurement scales
+
+-   Hardness correlates with yield strength and tensile strength
+
+-   Variability of material properties
+
+-   Factor of safety
 
 **Chapter 7: Dislocations and Strengthening Mechanisms**
 
-- Edge, screw and mixed dislocations
-- Lattice strains- tension and compression
-- Slip systems- miller indices
-- Resolved shear stress - concept not math
-- Perfect crystals and slip planes
-- Mechanisms of strengthening
+-   Edge, screw and mixed dislocations
 
-- Grain size reduction
-- Solid solution strengthening (substitutional and interstitial)
-- Precipitation strengthening
-- Strain hardening AKA cold working (increases dislocation density)
+-   Lattice strains- tension and compression
 
-- Stages and effects of annealing on cold worked materials
+-   Slip systems- miller indices
 
-- Recovery
-- Recrystallization
+-   Resolved shear stress - concept not math
 
-- Recrystallization temp 0.3 to 0.6 T melt (absolute)
+-   Perfect crystals and slip planes
 
-- Grain growth - driven by total grain boundary area reduction and associated energy reduction
+-   Mechanisms of strengthening
 
-- Dislocation annihilation
+-   Grain size reduction
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img8.png)
+-   Solid solution strengthening (substitutional and interstitial)
 
+-   Precipitation strengthening
+
+-   Strain hardening AKA cold working (increases dislocation density)
+
+-   Stages and effects of annealing on cold worked materials
+
+-   Recovery
+
+-   Recrystallization
+
+-   Recrystallization temp 0.3 to 0.6 T melt (absolute)
+
+-   Grain growth - driven by total grain boundary area reduction and
+    associated energy reduction
+
+-   Dislocation annihilation
+
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img8.png)
 
 # Slide 10 - **Materials Engineering Exam 2 Review Sheet (continued)**
 
 **Chapter 8: Failure (Intro to Fracture Mechanics Concepts)**
 
-- Ductile vs. brittle fracture
+-   Ductile vs. brittle fracture
 
-- Fracture sample appearance
-- Transgranuar vs. intergranular
+-   Fracture sample appearance
 
-- Maximum stress / stress concentration due to crack/defect
-- Fracture toughness testing
+-   Transgranuar vs. intergranular
 
-- Charpy
-- Izod
+-   Maximum stress / stress concentration due to crack/defect
 
-- Ductile to brittle temperature transition (DBTT)
-- Fatigue
-- Cyclic stress
-- S-N curves
+-   Fracture toughness testing
 
-- Fatigue limit/endurance limit - stress at which life is infinite
-- Fatigue strength - stress at which failure will occur at a specified number of cycles
+-   Charpy
 
-- Crack initiation and propagation
-- Surface treatments to reduce crack initiation
+-   Izod
 
-- Shot peening
-- Case hardening - carburizing or nitriding
+-   Ductile to brittle temperature transition (DBTT)
 
-- Both produce a residual compressive stress
+-   Fatigue
 
-- Creep - time depending and permanent deformation
+-   Cyclic stress
 
-- For metals - Creep becomes active at .4 Tmelt (absolute)
-- Primary, secondary and tertiary creep
-- Rupture (creep breakage)
-- Creep strain rate increases as temp increases
-- Larger grains resist creep better - less grain boundary area for sliding (creep) to occur
-- Stainless steel alloys for creep resistance
+-   S-N curves
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img9.png)
+-   Fatigue limit/endurance limit - stress at which life is infinite
 
+-   Fatigue strength - stress at which failure will occur at a specified
+    number of cycles
+
+-   Crack initiation and propagation
+
+-   Surface treatments to reduce crack initiation
+
+-   Shot peening
+
+-   Case hardening - carburizing or nitriding
+
+-   Both produce a residual compressive stress
+
+-   Creep - time depending and permanent deformation
+
+-   For metals - Creep becomes active at .4 Tmelt (absolute)
+
+-   Primary, secondary and tertiary creep
+
+-   Rupture (creep breakage)
+
+-   Creep strain rate increases as temp increases
+
+-   Larger grains resist creep better - less grain boundary area for
+    sliding (creep) to occur
+
+-   Stainless steel alloys for creep resistance
+
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img9.png)
 
 # Slide 11 - **Types of Materials**
 
-- Metals: Metallic bonding - sea of electrons
+-   Metals: Metallic bonding - sea of electrons
 
-- Strong/stiff, ductile, usually crystalline
-- High thermal & electrical conductivity
-- Opaque, reflective
+-   Strong/stiff, ductile, usually crystalline
 
-- Polymers/plastics: Covalent bonding - sharing of electrons
+-   High thermal & electrical conductivity
 
-- Soft, ductile, usually non-crystalline, low strength, low density, lower melting temps, high coefficients of thermal expansion
-- Thermal & electrical insulators
-- Optically translucent or transparent
+-   Opaque, reflective
 
-- Ceramics: ionic bonding - transfer of electrons
+-   Polymers/plastics: Covalent bonding - sharing of electrons
 
-- Compounds of metallic & non-metallic elements (oxides, carbides, nitrides, sulfides)
-- Brittle, glassy
-- Non-conducting (insulators)
+-   Soft, ductile, usually non-crystalline, low strength, low density,
+    lower melting temps, high coefficients of thermal expansion
 
-- Composites: combination of two or more individual materials/phases to obtain a more desirable combination of properties than can be obtained with each individual material (e.g., low density and high strength)
+-   Thermal & electrical insulators
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img10.png)
+-   Optically translucent or transparent
 
+-   Ceramics: ionic bonding - transfer of electrons
+
+-   Compounds of metallic & non-metallic elements (oxides, carbides,
+    nitrides, sulfides)
+
+-   Brittle, glassy
+
+-   Non-conducting (insulators)
+
+-   Composites: combination of two or more individual materials/phases
+    to obtain a more desirable combination of properties than can be
+    obtained with each individual material (e.g., low density and high
+    strength)
+
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img10.png)
 
 # Slide 12 - **Mechanical Properties of Materials**
 
-* Stress and strain: What are they and why are
+-   Stress and strain: What are they and why are
 
 they used instead of load and deformation?
 
-* Elastic behavior: When loads are small, how much
+-   Elastic behavior: When loads are small, how much
 
 deformation occurs? What materials deform least?
 
-* Plastic behavior: At what point does permanent
-deformation occur? What materials are most
-resistant to permanent deformation?
+-   Plastic behavior: At what point does permanent deformation occur?
+    What materials are most resistant to permanent deformation?
 
-* Toughness and ductility: What are they and how
+-   Toughness and ductility: What are they and how
 
 do we measure them?
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img11.png)
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img11.png)
 
 # Slide 13
 
 **Typical Stress/Strain Diagram**
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img12.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img12.png)
 
 # Slide 14 - **Engineering Stress**
 
- Stress has units:
-N/m2 or lbf /in2
+ Stress has units: N/m2 or lbf /in2
 
-* Shear stress, t:
+-   Shear stress, t:
 
-Area, _Ao_
+Area, *Ao*
 
-_F_
+*F*
 
-_F_
+*F*
 
-_F_
+*F*
 
-_s_
+*s*
 
-_F_
+*F*
 
-_F_
+*F*
 
-_F_
+*F*
 
-_s_
+*s*
 
 t
 
 =
 
-_F_
+*F*
 
-_s_
+*s*
 
-_A_
+*A*
 
-_o_
+*o*
 
-* Tensile stress, s:
+-   Tensile stress, s:
 
 original area
 
@@ -744,11 +809,11 @@ s
 
 =
 
-_F_
+*F*
 
-_A_
+*A*
 
-_o_
+*o*
 
 2
 
@@ -768,83 +833,81 @@ lb
 
 =
 
-Area, _Ao_
+Area, *Ao*
 
-_F_
+*F*
 
-_F_
+*F*
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img13.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img13.png)
 
 # Slide 15 - **Common States of Stress**
 
-*** Simple tension: cable**
+\*\*\* Simple tension: cable\*\*
 
-Note: t = _M_/ _AcR_ here.
+Note: t = *M*/ *AcR* here.
 
-_o_
+*o*
 
 s
 
 =
 
-_F_
+*F*
 
-_A_
+*A*
 
-_o_
+*o*
 
 t
 
 =
 
-_F_
+*F*
 
-_s_
+*s*
 
-_A_
-
-s
+*A*
 
 s
 
-_M_
+s
 
-_M_
+*M*
 
-_A_
+*M*
 
-_o_
+*A*
 
-2 _R_
+*o*
 
-_F_
+2 *R*
 
-_s_
+*F*
 
-_A_
+*s*
 
-_c_
+*A*
 
-*** Torsion (a form of shear): drive shaft**
+*c*
+
+\*\*\* Torsion (a form of shear): drive shaft\*\*
 
 Ski lift (photo courtesy P.M. Anderson)
 
-_A_
+*A*
 
-_o_
+*o*
 
 = cross sectional
 
 area (when unloaded)
 
-_F_
+*F*
 
-_F_
+*F*
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img14.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img14.png)
 
 # Slide 16 - **Common States of Stress**
 
@@ -852,48 +915,47 @@ _F_
 
 Canyon Bridge, Los Alamos, NM
 
-_o_
+*o*
 
 s
 
 =
 
-_F_
+*F*
 
-_A_
+*A*
 
-*** Simple compression:**
+\*\*\* Simple compression:\*\*
 
 Note: compressive
 
 structure member
 
-(s < 0 here).
+(s \< 0 here).
 
 (photo courtesy P.M. Anderson)
 
-_A_
+*A*
 
-_o_
+*o*
 
 Balanced Rock, Arches
 
 National Park
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img15.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img15.png)
 
 # Slide 17 - **Common States of Stress**
 
-*** Bi-axial tension:**
+\*\*\* Bi-axial tension:\*\*
 
-*** Hydrostatic compression:**
+\*\*\* Hydrostatic compression:\*\*
 
 Pressurized tank
 
-s < 0
+s \< 0
 
-_h_
+*h*
 
 (photo courtesy
 
@@ -907,7 +969,7 @@ Fish under water
 
 s
 
-_z_
+*z*
 
 \> 0
 
@@ -917,22 +979,21 @@ q
 
 \> 0
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img16.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img16.png)
 
 # Slide 18 - **Engineering Strain**
 
-*** Tensile (longitudinal)**
+\*\*\* Tensile (longitudinal)\*\*
 
 **strain:**
 
-*** Lateral strain:**
+\*\*\* Lateral strain:\*\*
 
 **Strain is always**
 
 **dimensionless.**
 
-*** Shear strain:**
+\*\*\* Shear strain:\*\*
 
 q
 
@@ -940,13 +1001,13 @@ q
 
 90º - q
 
-_y_
+*y*
 
- _**x**_
+ ***x***
 
 q
 
-g = D _x_/ _y_ = tan (in radians)
+g = D *x*/ *y* = tan (in radians)
 
 e
 
@@ -954,48 +1015,47 @@ e
 
 d
 
-_L_
+*L*
 
-_o_
+*o*
 
-Adapted from Fig. 6.1(a) and (c), _Callister & Rethwisch 8e._
+Adapted from Fig. 6.1(a) and (c), *Callister & Rethwisch 8e.*
 
 d
 
 /2
 
-_L_
+*L*
 
-_o_
+*o*
 
-_w_
+*w*
 
-_o_
+*o*
 
--
+-   
 
 d
 
 e
 
-_L_
+*L*
 
 =
 
-_L_
+*L*
 
-_w_
+*w*
 
-_o_
+*o*
 
 d
 
-_L_
+*L*
 
 /2
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img17.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img17.png)
 
 # Slide 19 - **Elastic Deformation**
 
@@ -1003,7 +1063,7 @@ Elastic means reversible!
 
 2\. Small load
 
-_F_
+*F*
 
 d
 
@@ -1019,7 +1079,7 @@ return to
 
 initial
 
-_F_
+*F*
 
 d
 
@@ -1031,20 +1091,19 @@ Non-Linear-
 
 elastic
 
-- [https://www.youtube.com/watch?v=qe6wc-jxOaM](https://www.youtube.com/watch?v=qe6wc-jxOaM)
+-   <https://www.youtube.com/watch?v=qe6wc-jxOaM>
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img18.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img18.png)
 
 # Slide 20 - **Linear Elastic Properties**
 
-*** Modulus of Elasticity, _E - stiffness of a material_**
+\*\*\* Modulus of Elasticity, *E - stiffness of a material*\*\*
 
 **(also known as Young's modulus)**
 
-*** Hooke's Law**
+\*\*\* Hooke's Law\*\*
 
-s = _E_ e
+s = *E* e
 
 s
 
@@ -1052,13 +1111,13 @@ Linear-
 
 elastic
 
-_E_
+*E*
 
 e
 
-_F_
+*F*
 
-_F_
+*F*
 
 simple
 
@@ -1066,24 +1125,24 @@ tension
 
 test
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img19.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img19.png)
 
 # Slide 21 - **Poisson's ratio, n**
 
-*** Poisson's ratio, n**
+\*\*\* Poisson's ratio, n\*\*
 
-**How much the width shrinks (per unit length) when the length elongates (per unit length)**
+**How much the width shrinks (per unit length) when the length elongates
+(per unit length)**
 
 Units:
 
-_E_: [GPa] or [psi]
+*E*: \[GPa\] or \[psi\]
 
 n: dimensionless
 
- < 0.50 no volume change
+ \< 0.50 no volume change
 
-e _L_
+e *L*
 
 e
 
@@ -1095,32 +1154,29 @@ n
 
 =
 
--
+-   
 
-_L_
+*L*
 
 e
 
-metals: n ~ 0.33
-ceramics: n ~ 0.25
-polymers: n ~ 0.40
+metals: n \~ 0.33 ceramics: n \~ 0.25 polymers: n \~ 0.40
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img20.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img20.png)
 
 # Slide 22 - **Other Elastic Properties**
 
-*** Elastic Shear**
+\*\*\* Elastic Shear\*\*
 
-**modulus, _G_:**
+**modulus, *G*:**
 
 t
 
-_G_
+*G*
 
 g
 
-**t = _G_ g**
+**t = *G* g**
 
 simple
 
@@ -1128,29 +1184,29 @@ torsion
 
 test
 
-_M_
+*M*
 
-_M_
+*M*
 
-*** Special relations for isotropic materials:**
+\*\*\* Special relations for isotropic materials:\*\*
 
 **2(1 +** n **)**
 
-_**E**_
+***E***
 
-_**G**_
+***G***
 
 =
 
 **3(1 - 2** n **)**
 
-_**E**_
+***E***
 
-_**K**_
+***K***
 
 =
 
-*** Elastic Bulk**
+\*\*\* Elastic Bulk\*\*
 
 **modulus, K:**
 
@@ -1158,94 +1214,93 @@ pressure
 
 test: Init.
 
-vol = _Vo_.
+vol = *Vo*.
 
 Vol chg.
 
-= D _V_
+= D *V*
 
-_P_
+*P*
 
-_P_
+*P*
 
-_P_
+*P*
 
-_P_ = -
+*P* = -
 
-_K_
-
-D
-
-_V_
-
-_V_
-
-_o_
-
-_P_
+*K*
 
 D
 
-_V_
+*V*
 
-_K_
+*V*
 
-_V_
+*o*
 
-_o_
+*P*
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img21.png)
+D
 
+*V*
+
+*K*
+
+*V*
+
+*o*
+
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img21.png)
 
 # Slide 23 - **Useful Linear Elastic Relationships**
 
-*** Simple tension:**
+\*\*\* Simple tension:\*\*
 
 d
 
 =
 
-_FL_
+*FL*
 
-_o_
+*o*
 
-_E_
+*E*
 
-_A_
+*A*
 
-_o_
+*o*
 
 d
 
-_L_
+*L*
 
 =
 
--
+-   
 
 n
 
-_Fw_
+*Fw*
 
-_o_
+*o*
 
-_E_
+*E*
 
-_A_
+*A*
 
-_o_
+*o*
 
-* Material, geometric, and loading parameters all
+-   Material, geometric, and loading parameters all
 
 contribute to deflection.
 
-* Larger elastic moduli minimize elastic deflection.
+-   Larger elastic moduli minimize elastic deflection.
 
-_F_
+*F*
 
-_A_
+*A*
 
-_o_
+*o*
 
 d
 
@@ -1253,17 +1308,17 @@ d
 
 d
 
-_L_
+*L*
 
 /2
 
-_Lo_
+*Lo*
 
-_w_
+*w*
 
-_o_
+*o*
 
-*** Simple torsion:**
+\*\*\* Simple torsion:\*\*
 
 a
 
@@ -1271,34 +1326,33 @@ a
 
 2
 
-_ML_
+*ML*
 
-_o_
+*o*
 
 
 
-_r_
+*r*
 
-_o_
+*o*
 
 4
 
-_G_
+*G*
 
-_M_ = moment
+*M* = moment
 
 a
 
 = angle of twist
 
-2 _ro_
+2 *ro*
 
-_Lo_
+*Lo*
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img22.png)
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img22.png)
 
-
-# Slide 24 - **Young’s Modulus: Comparison**
+# Slide 24 - **Young's Modulus: Comparison**
 
 Metals
 
@@ -1316,11 +1370,11 @@ Composites
 
 /fibers
 
-_E_(GPa)
+*E*(GPa)
 
 Based on data in Table B.2,
 
-_Callister & Rethwisch 8e._
+*Callister & Rethwisch 8e.*
 
 Composite data based on
 
@@ -1370,7 +1424,7 @@ Si crystal
 
 Glass
 
--
+-   
 
 soda
 
@@ -1466,9 +1520,9 @@ Cu alloys
 
 Tungsten
 
-<100>
+\<100\>
 
-<111>
+\<111\>
 
 Si carbide
 
@@ -1514,14 +1568,13 @@ C
 
 FRE(\|\| fibers)\*
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img23.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img23.png)
 
 # Slide 25 - **Plastic Deformation**
 
-(at lower temperatures, i.e. _T_ < _Tmelt_/3)
+(at lower temperatures, i.e. *T* \< *Tmelt*/3)
 
-* Simple tension test:
+-   Simple tension test:
 
 engineering stress, s
 
@@ -1531,7 +1584,7 @@ Elastic+Plastic
 
 at larger stress
 
-e _p_
+e *p*
 
 plastic strain
 
@@ -1541,7 +1594,7 @@ initially
 
 Adapted from Fig. 6.10(a),
 
-_Callister & Rethwisch 8e._
+*Callister & Rethwisch 8e.*
 
 permanent (plastic)
 
@@ -1555,13 +1608,13 @@ Planes remained
 
 sheared
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img24.png)
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img24.png)
 
 # Slide 26
 
 Plastic means permanent!
 
-_F_
+*F*
 
 d
 
@@ -1589,7 +1642,7 @@ still
 
 sheared
 
-_F_
+*F*
 
 d
 
@@ -1609,28 +1662,27 @@ plastic
 
 **Plastic Deformation**
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img25.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img25.png)
 
 # Slide 27 - **Yield Strength, sy**
 
-*** Stress at which _noticeable_ plastic deformation has**
+\*\*\* Stress at which *noticeable* plastic deformation has\*\*
 
 **occurred.**
 
-when e _p_ = 0.002
+when e *p* = 0.002
 
- _y_ = yield strength
+ *y* = yield strength
 
 Note: for 2 inch sample (z)
 
-if  _z_ = 0.004 in
+if  *z* = 0.004 in
 
- =  _z_/ _z =_ 0.002
+ =  *z*/ *z =* 0.002
 
 Adapted from Fig. 6.10(a),
 
-_Callister & Rethwisch 8e._
+*Callister & Rethwisch 8e.*
 
 tensile stress,
 
@@ -1640,18 +1692,17 @@ engineering strain,
 
 e
 
-s _y_
+s *y*
 
-e _p_
+e *p*
 
 = 0.002
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img26.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img26.png)
 
 # Slide 28 - **Elastic Strain Recovery (after plastic deformation)**
 
-Adapted from Fig. 6.17, _Callister & Rethwisch 8e._
+Adapted from Fig. 6.17, *Callister & Rethwisch 8e.*
 
 Stress
 
@@ -1663,7 +1714,7 @@ load
 
 2\. Unload
 
-_D_
+*D*
 
 Elastic strain
 
@@ -1671,54 +1722,54 @@ recovery
 
 1\. Load
 
-s _yo_
+s *yo*
 
-s _yi_
+s *yi*
 
-An increase in s _y_ due to plastic deformation is due to “strain hardening”
+An increase in s *y* due to plastic deformation is due to "strain
+hardening"
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img27.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img27.png)
 
 # Slide 29 - **Strain Hardening (cold working)**
 
-* Curve fit to the stress-strain response:
+-   Curve fit to the stress-strain response:
 
 s
 
-_T_
+*T*
 
 =
 
-_K_
+*K*
 
 e
 
-_T_
+*T*
 
 (
 
 )
 
-_n_
+*n*
 
-“true” stress ( _F_/ _A_)
+"true" stress ( *F*/ *A*)
 
-“true” strain: ln( _L_/ _Lo_)
+"true" strain: ln( *L*/ *Lo*)
 
 hardening exponent:
 
-_n_ =
+*n* =
 
 0.15 (some steels)
 
-to _n_ =
+to *n* =
 
 0.5 (some coppers)
 
-* An increase in s _y_ due to plastic deformation.
+-   An increase in s *y* due to plastic deformation.
 
-_s_
+*s*
 
 e
 
@@ -1728,28 +1779,27 @@ small hardening
 
 s
 
-_y_
+*y*
 
 0
 
 s
 
-_y_
+*y*
 
 1
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img28.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img28.png)
 
 # Slide 30 - **Tensile Strength, TS**
 
-* Metals: occurs when noticeable necking starts.
+-   Metals: occurs when noticeable necking starts.
 
-* Polymers: occurs when polymer backbone chains are
+-   Polymers: occurs when polymer backbone chains are
 
 aligned and about to break.
 
-Adapted from Fig. 6.11, _Callister & Rethwisch 8e._
+Adapted from Fig. 6.11, *Callister & Rethwisch 8e.*
 
 **y**
 
@@ -1757,45 +1807,44 @@ strain
 
 Typical response of a metal
 
-_F_ = fracture or
+*F* = fracture or
 
 ultimate
 
 strength
 
-Neck - acts
-as stress concentrator
+Neck - acts as stress concentrator
 
 engineering
 
-_TS_
+*TS*
 
 stress
 
 engineering strain
 
-* Maximum stress on engineering stress-strain curve.
+-   Maximum stress on engineering stress-strain curve.
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img29.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img29.png)
 
 # Slide 31 - **Stress-Strain Testing**
 
-*** Typical tensile test
-machine**
+\*\*\* Typical tensile test machine\*\*
 
-Adapted from Fig. 6.3, _Callister & Rethwisch 8e._ (Fig. 6.3 is taken from H.W. Hayden, W.G. Moffatt, and J. Wulff, _The Structure and Properties of Materials_, Vol. III, _Mechanical Behavior_, p. 2, John Wiley and Sons, New York, 1965.)
+Adapted from Fig. 6.3, *Callister & Rethwisch 8e.* (Fig. 6.3 is taken
+from H.W. Hayden, W.G. Moffatt, and J. Wulff, *The Structure and
+Properties of Materials*, Vol. III, *Mechanical Behavior*, p. 2, John
+Wiley and Sons, New York, 1965.)
 
 specimen
 
 extensometer
 
-*** Typical tensile
-specimen**
+\*\*\* Typical tensile specimen\*\*
 
 Adapted from Fig. 6.2,
 
-_Callister & Rethwisch 8e._
+*Callister & Rethwisch 8e.*
 
 gauge
 
@@ -1803,17 +1852,15 @@ length
 
 [**https://www.youtube.com/watch?v=I28m4FZzqro**](https://www.youtube.com/watch?v=I28m4FZzqro)
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img30.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img30.png)
 
 # Slide 32 - **Yield Strength: Comparison**
 
-Room temperature
-values
+Room temperature values
 
 Based on data in Table B.4,
 
-_Callister & Rethwisch 8e._
+*Callister & Rethwisch 8e.*
 
 a = annealed
 
@@ -1847,7 +1894,7 @@ Yield strength,
 
 s
 
-_y_
+*y*
 
 (MPa)
 
@@ -1899,19 +1946,19 @@ Tin (pure)
 
 Al
 
-(6061)
+(6061) 
 
 a
 
 Al
 
-(6061)
+(6061) 
 
 ag
 
 Cu
 
-(71500)
+(71500) 
 
 hr
 
@@ -1927,25 +1974,25 @@ a
 
 Steel
 
-(1020)
+(1020) 
 
 hr
 
 Steel
 
-(1020)
+(1020) 
 
 cd
 
 Steel
 
-(4140)
+(4140) 
 
 a
 
 Steel
 
-(4140)
+(4140) 
 
 qt
 
@@ -1963,7 +2010,7 @@ Mo (pure)
 
 Cu
 
-(71500)
+(71500) 
 
 cw
 
@@ -1989,14 +2036,13 @@ PET
 
 ¨
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img31.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img31.png)
 
 # Slide 33 - **Tensile Strength: Comparison**
 
 Si crystal
 
-<100>
+\<100\>
 
 Graphite/
 
@@ -2016,7 +2062,7 @@ Polymers
 
 Tensile
 
-strength, _TS_
+strength, *TS*
 
 (MPa)
 
@@ -2036,19 +2082,19 @@ Nylon 6,6
 
 Al
 
-(6061)
+(6061) 
 
 a
 
 Al
 
-(6061)
+(6061) 
 
 ag
 
 Cu
 
-(71500)
+(71500) 
 
 hr
 
@@ -2064,17 +2110,17 @@ a
 
 Steel
 
-(1020)
+(1020) 
 
 Steel
 
-(4140)
+(4140) 
 
 a
 
 Steel
 
-(4140)
+(4140) 
 
 qt
 
@@ -2090,7 +2136,7 @@ W
 
 Cu
 
-(71500)
+(71500) 
 
 cw
 
@@ -2182,7 +2228,7 @@ fib
 
 Based on data in Table B.4,
 
-_Callister & Rethwisch 8e._
+*Callister & Rethwisch 8e.*
 
 a = annealed
 
@@ -2206,41 +2252,38 @@ composites, with 60 vol%
 
 fibers.
 
-Room temperature
-values
+Room temperature values
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img32.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img32.png)
 
 # Slide 34 - **VSME Output - Metals**
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img33.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img33.png)
 
 # Slide 35 - **VSME Output - Polymers**
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img34.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img34.png)
 
 # Slide 36 - **Resilience**
 
-- Ability of a material to store energy while being elastically deformed (area under elastic part of stress-strain curve)
+-   Ability of a material to store energy while being elastically
+    deformed (area under elastic part of stress-strain curve)
 
 If we assume a linear stress-strain curve this simplifies to
 
-Adapted from Fig. 6.15, _Callister & Rethwisch 8e._
+Adapted from Fig. 6.15, *Callister & Rethwisch 8e.*
 
-_y_
+*y*
 
-_y_
+*y*
 
-_r_
+*r*
 
 2
 
 1
 
-_U_
+*U*
 
 e
 
@@ -2248,12 +2291,11 @@ s
 
 @
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img35.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img35.png)
 
 # Slide 37 - **Ductility**
 
-* Amount of plastic deformation before failure
+-   Amount of plastic deformation before failure
 
 (% elongation or % reduction in area)
 
@@ -2261,57 +2303,57 @@ s
 
 x
 
-_A_
+*A*
 
-_A_
+*A*
 
-_A_
+*A*
 
-_RA_
+*RA*
 
-%
+\%
 
-_o_
+*o*
 
-_f_
+*f*
 
-_o_
+*o*
 
--
+-   
 
 =
 
 x 100
 
-_L_
+*L*
 
-_L_
+*L*
 
-_L_
+*L*
 
-_EL_
+*EL*
 
-%
+\%
 
-_o_
+*o*
 
-_o_
+*o*
 
-_f_
+*f*
 
--
+-   
 
 =
 
-_Lf_
+*Lf*
 
-_Ao_
+*Ao*
 
-_Af_
+*Af*
 
-_Lo_
+*Lo*
 
-Adapted from Fig. 6.13, _Callister & Rethwisch 8e._
+Adapted from Fig. 6.13, *Callister & Rethwisch 8e.*
 
 Engineering tensile strain, e
 
@@ -2323,23 +2365,23 @@ tensile
 
 stress, s
 
-smaller % _EL_
+smaller % *EL*
 
-larger % _EL_
+larger % *EL*
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img36.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img36.png)
 
 # Slide 38 - **Toughness**
 
-* Total energy required to cause fracture for a material (approximated by the area under the stress-strain curve)
+-   Total energy required to cause fracture for a material (approximated
+    by the area under the stress-strain curve)
 
-\- “Tough” materials have both strength and ductility
+\- "Tough" materials have both strength and ductility
 
-Brittle fracture: elastic energy
-Ductile fracture: elastic + plastic energy
+Brittle fracture: elastic energy Ductile fracture: elastic + plastic
+energy
 
-Adapted from Fig. 6.13, _Callister & Rethwisch 8e._
+Adapted from Fig. 6.13, *Callister & Rethwisch 8e.*
 
 very small toughness
 
@@ -2359,20 +2401,19 @@ small toughness (ceramics)
 
 large toughness (metals)
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img37.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img37.png)
 
 # Slide 39 - **Hardness**
 
-* Resistance to permanently indenting the surface.
+-   Resistance to permanently indenting the surface.
 
-* Large hardness means:
+-   Large hardness means:
 
-\-\- resistance to plastic deformation or cracking in
+\-- resistance to plastic deformation or cracking in
 
 compression.
 
-\-\- better wear properties.
+\-- better wear properties.
 
 e.g.,
 
@@ -2386,9 +2427,9 @@ of indent after
 
 removing load
 
-_d_
+*d*
 
-_D_
+*D*
 
 Smaller indents
 
@@ -2422,43 +2463,44 @@ steels
 
 diamond
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img38.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img38.png)
 
 # Slide 40 - **Hardness: Measurement**
 
-- Rockwell (most common)
+-   Rockwell (most common)
 
-- No major sample damage
-- Each scale runs to 130 but only useful in range 20-100.
-- Minor load 10 kg
-- Major load 60 (A), 100 (B) & 150 (C) kg
+-   No major sample damage
 
-- A = diamond, B = 1/16 in. steel ball, C = diamond
+-   Each scale runs to 130 but only useful in range 20-100.
 
-- HB = Brinell Hardness
+-   Minor load 10 kg
 
-- _TS_ (psia) = 500 x HB
-- _TS_(MPa) = 3.45 x HB
+-   Major load 60 (A), 100 (B) & 150 (C) kg
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img39.png)
+-   A = diamond, B = 1/16 in. steel ball, C = diamond
 
+-   HB = Brinell Hardness
+
+-   *TS* (psia) = 500 x HB
+
+-   *TS*(MPa) = 3.45 x HB
+
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img39.png)
 
 # Slide 41 - **Hardness: Measurement**
 
 Table 6.5
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img40.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img40.png)
 
 # Slide 42 - **True Stress & Strain**
 
 ## Note: Dimensions change when sample is stretched (necking)
 
-- True stress
-- True strain
+-   True stress
+-   True strain
 
-Adapted from Fig. 6.16, _Callister & Rethwisch 8e._
+Adapted from Fig. 6.16, *Callister & Rethwisch 8e.*
 
 **Note: i = instantaneous**
 
@@ -2466,35 +2508,35 @@ Adapted from Fig. 6.16, _Callister & Rethwisch 8e._
 
 **Begins**
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img41.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img41.png)
 
 # Slide 43 - **Variability in Material Properties**
 
-- Material properties vary due to flaws (defects, etc.)
-- Statistics used to account for large sample variability
+-   Material properties vary due to flaws (defects, etc.)
 
-- Mean
-- Standard Deviation
+-   Statistics used to account for large sample variability
 
-where _n_ is the number of data points
+-   Mean
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img42.png)
+-   Standard Deviation
 
+where *n* is the number of data points
+
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img42.png)
 
 # Slide 44 - **Design or Safety Factors**
 
-* Design uncertainties mean we do not push the limit.
+-   Design uncertainties mean we do not push the limit.
 
-* Factor of safety, _N_
+-   Factor of safety, *N*
 
-Often _N_ is
+Often *N* is
 
 between
 
 1.2 and 4
 
-* Example: Calculate a diameter, _d_, to ensure that yield does
+-   Example: Calculate a diameter, *d*, to ensure that yield does
 
 not occur in the 1045 carbon steel rod below. Use a
 
@@ -2508,38 +2550,37 @@ carbon steel:
 
 s
 
-_y_
+*y*
 
 = 310 MPa
 
-_TS_ = 565 MPa
+*TS* = 565 MPa
 
-_F_ = 220,000N
+*F* = 220,000N
 
-_d_
+*d*
 
-_L_
+*L*
 
-_o_
+*o*
 
-_d_ = 0.067 m = 6.7 cm
+*d* = 0.067 m = 6.7 cm
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img43.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img43.png)
 
 # Slide 45 - **Design or Safety Factors**
 
-* Design uncertainties mean we do not push the limit.
+-   Design uncertainties mean we do not push the limit.
 
-* Factor of safety, _N_
+-   Factor of safety, *N*
 
-Often _N_ is
+Often *N* is
 
 between
 
 1.2 and 4
 
-* Example: Calculate a diameter, _d_, to ensure that yield does
+-   Example: Calculate a diameter, *d*, to ensure that yield does
 
 not occur in the 1045 carbon steel rod below. Use a
 
@@ -2553,57 +2594,54 @@ carbon steel:
 
 s
 
-_y_
+*y*
 
 = 310 MPa
 
-_TS_ = 565 MPa
+*TS* = 565 MPa
 
-_F_ = 220,000N
+*F* = 220,000N
 
-_d_
+*d*
 
-_L_
+*L*
 
-_o_
+*o*
 
-_d_ = 0.067 m = 6.7 cm
+*d* = 0.067 m = 6.7 cm
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img44.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img44.png)
 
 # Slide 46 - **Summary**
 
-* Stress and strain: These are size-independent
+-   Stress and strain: These are size-independent
 
 measures of load and displacement, respectively.
 
-* Elastic behavior: This reversible behavior often
+-   Elastic behavior: This reversible behavior often
 
 shows a linear relation between stress and strain.
 
 To minimize deformation, select a material with a
 
-large elastic modulus ( _E_ or _G_).
+large elastic modulus ( *E* or *G*).
 
-* Toughness: The energy needed to break a unit
+-   Toughness: The energy needed to break a unit
 
 volume of material.
 
-* Ductility: The plastic strain at failure.
+-   Ductility: The plastic strain at failure.
 
-* Plastic behavior: This permanent deformation
+-   Plastic behavior: This permanent deformation
 
 behavior occurs when the tensile (or compressive)
 
-uniaxial stress reaches s _y_.
+uniaxial stress reaches s *y*.
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img45.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img45.png)
 
 # Slide 47 - **Initial Class Survey**
 
 **Material Choice Matters!**
 
-![](./Lesson\ 9&10\ Mechanical\ Properties\ of\ Metals/img46.png)
-
+![](./Lesson%209&10%20Mechanical%20Properties%20of%20Metals/img46.png)

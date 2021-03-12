@@ -1,9 +1,9 @@
 4 problems:
 
-* Pipe flow
-* Similitude
-* Buckingham Pi
-* Hydraulic.
+-   Pipe flow
+-   Similitude
+-   Buckingham Pi
+-   Hydraulic.
 
 # Reynolds Number
 
@@ -20,7 +20,11 @@ L &= \text{Typical or "Characteristic" size scale of the flow}\\
 \end{aligned}
 $$
 
-If the Reynolds number is "large", viscous effects will be negligible, but will still have important consequences, at least in most of the flow; if the Reynolds number is small, viscous effects will be dominant. Finally, if the Reynolds number is neither large nor small, no general conclusions can be drawn.
+If the Reynolds number is "large", viscous effects will be negligible,
+but will still have important consequences, at least in most of the
+flow; if the Reynolds number is small, viscous effects will be dominant.
+Finally, if the Reynolds number is neither large nor small, no general
+conclusions can be drawn.
 
 # Internal Flow Characteristics
 
@@ -47,16 +51,21 @@ $$
 
 ## Laminar Flow
 
-Under normal conditions, transition to turbulence occurs at $\operatorname{Re} \approx 2300$ for flow in pipes. This is not a hard rule, but approximate, under most circumstances.
+Under normal conditions, transition to turbulence occurs at
+$\operatorname{Re} \approx 2300$ for flow in pipes. This is not a hard
+rule, but approximate, under most circumstances.
 
-Higher density leads to a sooner transition to turbulence.  
-Lower viscosity leads to a sooner transition to turbulence.  
+Higher density leads to a sooner transition to turbulence.\
+Lower viscosity leads to a sooner transition to turbulence.
 
 $$
 \frac{L}{D} \simeq 0.06 \frac{\rho \bar{V} D}{\mu}
 $$
 
-where $\bar{V} \equiv Q / A$ is the average velocity (because flow rate $Q=A \bar{V}=A U_{0}$, we have $\left.\bar{V}=U_{0}\right) .$ Laminar flow in a pipe may be expected only for Reynolds numbers less than 2300 . Thus the entrance length for laminar pipe flow may be as long as
+where $\bar{V} \equiv Q / A$ is the average velocity (because flow rate
+$Q=A \bar{V}=A U_{0}$, we have $\left.\bar{V}=U_{0}\right) .$ Laminar
+flow in a pipe may be expected only for Reynolds numbers less than 2300
+. Thus the entrance length for laminar pipe flow may be as long as
 
 $$
 L \simeq 0.06 \operatorname{ReD} \leq(0.06)(2300) D=138 D
@@ -70,9 +79,48 @@ $$
 
 ## Turbulent Flow
 
-If the flow is turbulent, enhanced mixing among fluid layers causes more rapid growth of the boundary layer. Experiments show that the mean velocity profile becomes fully developed within 25 to 40 pipe diameters from the entrance. However, the details of the turbulent motion may not be fully developed for 80 or more pipe diameters. We are now ready to study laminar internal flows (Part A), as well as laminar and turbulent flows in pipes and ducts (Part B). For these we will be focusing on what happens after the entrance region, i.e., fully developed flows.
+If the flow is turbulent, enhanced mixing among fluid layers causes more
+rapid growth of the boundary layer. Experiments show that the mean
+velocity profile becomes fully developed within 25 to 40 pipe diameters
+from the entrance. However, the details of the turbulent motion may not
+be fully developed for 80 or more pipe diameters. We are now ready to
+study laminar internal flows (Part A), as well as laminar and turbulent
+flows in pipes and ducts (Part B). For these we will be focusing on what
+happens after the entrance region, i.e., fully developed flows.
 
-!include(./Test 3 Review/Pipe Flow.md)
+# Pipe Flow
+
+## Head Loss
+
+$$
+\frac{p_1-p_2}{\rho}+\frac{V_1^2-V_2^2}{2}+g\left(z_1-z_2\right) = \sum\left(f\frac{L}{D}\frac{V^2}{2}\right)+\sum K_L \frac{V^2}{2}
+$$
+
+Where:
+
+$$
+\begin{aligned}
+f &= \text{Friction Factor} \\
+K &= \text{Loss Coefficient} \\
+\end{aligned}
+$$
+
+There are equations for friction factor, or pull from Moody diagram.
+
+Loss coefficient is for a given joint, find in table.
+
+### Minor Loss Coefficients for Pipe Entrances
+
+![](!imgdir/3a971b00b29c60c164b33711d4242970ab66e6d3.png)
+![](!imgdir/bbdd9d7f5c715b2006067498442cbbe9bb19aa99.png)
+
+### Representative Loss Coefficients for Fittings and Valves
+
+![](!imgdir/963902e83fe1de7780b25753ac80f719790c6ed7.png)
+
+### Loss Coefficients (K) for Gradual Contractions: Round and Rectangular Ducts
+
+![](!imgdir/e37588739cf89a148e681b246050c202382b900a.png)
 
 # Colebrook Equation
 

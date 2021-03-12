@@ -1,10 +1,8 @@
 # Ideal Gas
 
-From Chemistry we remember:
-$$PV = nRT$$
+From Chemistry we remember: $$PV = nRT$$
 
-In thermo this becomes:
-$$ pv = RT $$
+In thermo this becomes: $$ pv = RT $$
 
 where
 

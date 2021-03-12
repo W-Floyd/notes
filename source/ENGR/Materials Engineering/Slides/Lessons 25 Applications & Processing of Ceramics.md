@@ -1,11 +1,10 @@
 # Slide 1
 
-_**Claiming every workplace in every nation as our**_
+***Claiming every workplace in every nation as our***
 
-_**mission field**_
+***mission field***
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img0.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img0.png)
 
 # Slide 2 - **Devo/Prayer**
 
@@ -13,26 +12,23 @@ _**mission field**_
 
 ## **Philippians 4:4-7**
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img1.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img1.png)
 
 # Slide 3 - **Holiday Devo**
 
-## **Then he turned toward the woman and said to Simon, “Do you see this woman? I came into your house. You did not give me any water for my feet, but she wet my feet with her tears and wiped them with her hair.  You did not give me a kiss, but this woman, from the time I entered, has not stopped kissing my feet.  You did not put oil on my head, but she has poured perfume on my feet.  Therefore, I tell you, her many sins have been forgiven—as her great love has shown.**
+## **Then he turned toward the woman and said to Simon, "Do you see this woman? I came into your house. You did not give me any water for my feet, but she wet my feet with her tears and wiped them with her hair.  You did not give me a kiss, but this woman, from the time I entered, has not stopped kissing my feet.  You did not put oil on my head, but she has poured perfume on my feet.  Therefore, I tell you, her many sins have been forgiven---as her great love has shown.**
 
 ## **Luke 7:44-47**
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img2.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img2.png)
 
 # Slide 4 - **Devo/Prayer**
 
-## Humble yourselves, therefore, under God’s mighty hand, that he may lift you up in due time. **Cast all your anxiety on him because He cares for you.**
+## Humble yourselves, therefore, under God's mighty hand, that he may lift you up in due time. **Cast all your anxiety on him because He cares for you.**
 
-## _1 Peter 5:6-7_
+## *1 Peter 5:6-7*
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img3.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img3.png)
 
 # Slide 5 - **Devo/Prayer**
 
@@ -40,18 +36,17 @@ _**mission field**_
 
 ## **James 1:2-4**
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img4.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img4.png)
 
 # Slide 6 - **Lesson 25 Outline - Applications & Processing of Ceramics**
 
-- Devotional/Prayer
-- Classification and Application of Ceramics
-- Ceramic Fabrication Techniques
-- Heat Treating Ceramics
-- Summary/Wrap up
+-   Devotional/Prayer
+-   Classification and Application of Ceramics
+-   Ceramic Fabrication Techniques
+-   Heat Treating Ceramics
+-   Summary/Wrap up
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img5.png)
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img5.png)
 
 # Slide 7
 
@@ -259,13 +254,13 @@ _**mission field**_
 
 **Structure and Properties of Ceramics**
 
-_**25**_
+***25***
 
-_**T**_
+***T***
 
-_**16 Apr**_
+***16 Apr***
 
-_**Applications and Processing of Ceramics**_
+***Applications and Processing of Ceramics***
 
 **26**
 
@@ -311,25 +306,24 @@ _**Applications and Processing of Ceramics**_
 
 **Final Exam**
 
-_**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
+***Rejoice always, pray continually, give thanks in all circumstances 1
+Thes 5:16-18***
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img6.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img6.png)
 
 # Slide 8 - **Applications and Processing of Ceramics**
 
 **Why it Matters...**
 
-* How do we classify ceramics?
+-   How do we classify ceramics?
 
-* What are some applications of ceramics?
+-   What are some applications of ceramics?
 
-* How is processing of ceramics different than for metals?
+-   How is processing of ceramics different than for metals?
 
-[https://www.youtube.com/watch?v=9DopxIV4Css](https://www.youtube.com/watch?v=9DopxIV4Css)
+<https://www.youtube.com/watch?v=9DopxIV4Css>
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img7.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img7.png)
 
 # Slide 9 - **Classification of Ceramics**
 
@@ -371,7 +365,7 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **-Bricks for**
 
-**high _T_**
+**high *T***
 
 **(furnaces)**
 
@@ -395,31 +389,30 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **-Nanocarbons**
 
-Adapted from Fig. 13.1 and discussion in Section 13.2-8, _Callister & Rethwisch 8e._
+Adapted from Fig. 13.1 and discussion in Section 13.2-8, *Callister &
+Rethwisch 8e.*
 
 Ceramic Materials
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img8.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img8.png)
 
 # Slide 10 - **Abrasives**
 
-* Cutting Tools:
+-   Cutting Tools:
 
-\-\- For grinding glass, tungsten,
+\-- For grinding glass, tungsten,
 
 carbide, ceramics
 
-\-\- For cutting Si wafers
+\-- For cutting Si wafers
 
-\-\- For oil drilling
+\-- For oil drilling
 
 blades
 
 oil drill bits
 
-Single crystal
-diamonds
+Single crystal diamonds
 
 polycrystalline
 
@@ -433,21 +426,19 @@ GE Superabrasives, Worthington,
 
 OH. Used with permission.
 
-* Materials used:
+-   Materials used:
 
-\-\- Manufactured single crystal
-or polycrystalline diamonds
+\-- Manufactured single crystal or polycrystalline diamonds
 
 in a metal or resin matrix.
 
-\-\- Polycrystalline diamonds
+\-- Polycrystalline diamonds
 
 sharpen by microfracturing
 
 along cleavage planes.
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img9.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img9.png)
 
 # Slide 11 - **Die Blanks**
 
@@ -455,25 +446,25 @@ tensile
 
 force
 
-_A_
+*A*
 
-_o_
+*o*
 
-_A_
+*A*
 
-_d_
-
-die
+*d*
 
 die
 
-* Die blanks:
+die
 
-\-\- Need **wear resistant** properties!
+-   Die blanks:
 
-* Die surface:
+\-- Need **wear resistant** properties!
 
-\-\- 4 mm polycrystalline diamond
+-   Die surface:
+
+\-- 4 mm polycrystalline diamond
 
 particles that are sintered onto a
 
@@ -481,30 +472,34 @@ cemented tungsten carbide
 
 substrate.
 
-\-\- Polycrystalline diamond gives uniform
+\-- Polycrystalline diamond gives uniform
 
-hardness in all directions to reduce
-wear.
+hardness in all directions to reduce wear.
 
-Adapted from Fig. 11.8(d), _Callister & Rethwisch 8e._
+Adapted from Fig. 11.8(d), *Callister & Rethwisch 8e.*
 
-Courtesy Martin Deakins, GE Superabrasives, Worthington, OH. Used with permission.
+Courtesy Martin Deakins, GE Superabrasives, Worthington, OH. Used with
+permission.
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img10.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img10.png)
 
 # Slide 12 - **Refractories**
 
-* High temperature materials with low thermal conductivity/thermal expansion (e.g., in high temperature furnaces)
+-   High temperature materials with low thermal conductivity/thermal
+    expansion (e.g., in high temperature furnaces)
 
-* Consider the Silica (SiO2) - Alumina (Al2O3) system
+-   Consider the Silica (SiO2) - Alumina (Al2O3) system
 
-- Fireclay refractories (alumina rich): insulate furnaces ( **non-structural**—some liquid is tolerable)
--  Silica refractories (silica rich): high temp, **load bearing** applications
+-   Fireclay refractories (alumina rich): insulate furnaces (
+    **non-structural**---some liquid is tolerable)
 
-(< 1 wt% alumina to minimize liquid in brick)
+-   Silica refractories (silica rich): high temp, **load bearing**
+    applications
 
-Fig. 12.27, _Callister & Rethwisch 8e._ (Fig. 12.27 adapted from F.J. Klug and R.H. Doremus, _J. Am. Cer. Soc._ **70**(10), p. 758, 1987.)
+(\< 1 wt% alumina to minimize liquid in brick)
+
+Fig. 12.27, *Callister & Rethwisch 8e.* (Fig. 12.27 adapted from F.J.
+Klug and R.H. Doremus, *J. Am. Cer. Soc.* **70**(10), p. 758, 1987.)
 
 Composition (wt% alumina)
 
@@ -540,13 +535,13 @@ mullite
 
 mullite
 
-\+ _L_
+\+ *L*
 
 mullite
 
 Liquid
 
-( _L_)
+( *L*)
 
 mullite
 
@@ -556,22 +551,20 @@ crystobalite
 
 crystobalite
 
-\+ _L_
+\+ *L*
 
-alumina + _L_
+alumina + *L*
 
 3Al2O3-2SiO2
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img11.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img11.png)
 
 # Slide 13 - **Sensors**
 
-* Example: ZrO2 as an oxygen sensor
+-   Example: ZrO2 as an oxygen sensor
 
-* Principle: Increase diffusion rate of oxygen
-to produce rapid response of sensor signal to
-change in oxygen concentration
+-   Principle: Increase diffusion rate of oxygen to produce rapid
+    response of sensor signal to change in oxygen concentration
 
 A substituting Ca2+ ion
 
@@ -583,13 +576,13 @@ Ca
 
 2+
 
-* Approach:
+-   Approach:
 
 Add Ca impurity to ZrO2:
 
-\-\- Increases O2- vacancies
+\-- Increases O2- vacancies
 
-\-\- Increases O2- diffusion rate
+\-- Increases O2- diffusion rate
 
 reference
 
@@ -609,82 +602,79 @@ unknown, higher
 
 oxygen content
 
--
-
-+
+-   
+-   
 
 voltage difference produced!
 
 sensor
 
-* Operation:
+-   Operation:
 
-\-\- Voltage difference produced when
-O2- ions diffuse from the external
-surface through the sensor to the
-reference gas surface.
-\-\- Magnitude of voltage difference
- partial pressure of oxygen at the
-external surface
+\-- Voltage difference produced when O2- ions diffuse from the external
+surface through the sensor to the reference gas surface. \-- Magnitude
+of voltage difference  partial pressure of oxygen at the external
+surface
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img12.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img12.png)
 
 # Slide 14 - **Parts for Automobile Engines**
 
 ## Advantages:
 
-- Operate at high temperatures - high efficiencies
-- Low frictional losses
-- Operate without a cooling system
-- Lower weights than current engines
+-   Operate at high temperatures - high efficiencies
+-   Low frictional losses
+-   Operate without a cooling system
+-   Lower weights than current engines
 
 Disadvantages:
 
-- Ceramic materials are brittle
-- Difficult to remove internal voids (that weaken structures)
-- Ceramic parts are difficult to form and machine
+-   Ceramic materials are brittle
 
-- Potential candidate materials: Si3N4, SiC, & ZrO2
-- Possible engine parts: engine block & piston coatings
+-   Difficult to remove internal voids (that weaken structures)
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img13.png)
+-   Ceramic parts are difficult to form and machine
 
+-   Potential candidate materials: Si3N4, SiC, & ZrO2
 
-# Slide 15 - **Advanced Ceramics:  Materials for Ceramic Armor**
+-   Possible engine parts: engine block & piston coatings
+
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img13.png)
+
+# Slide 15 - **Advanced Ceramics: Materials for Ceramic Armor**
 
 Components:
 
-\-\- Outer facing plates
+\-- Outer facing plates
 
-\-\- Backing sheet
+\-- Backing sheet
 
 Properties/Materials:
 
-\-\- Facing plates -- hard and brittle
+\-- Facing plates -- hard and brittle
 
-— Al2O3, B4C, SiC, TiB2
+--- Al2O3, B4C, SiC, TiB2
 
-— fracture high-velocity projectile
+--- fracture high-velocity projectile
 
+\-- Backing sheets -- soft and ductile --- aluminum, synthetic fiber
+laminates
 
-\-\- Backing sheets -- soft and ductile
-— aluminum, synthetic fiber laminates
+--- deform and absorb remaining energy
 
-— deform and absorb remaining energy
-
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img14.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img14.png)
 
 # Slide 16 - **Ceramic Fabrication Methods**
 
-* Blowing of Glass Bottles:
+-   Blowing of Glass Bottles:
 
 GLASS
 
 FORMING
 
-Adapted from Fig. 13.8, _Callister & Rethwisch 8e_. (Fig. 13.8 is adapted from C.J. Phillips, _Glass: The Miracle Maker_, Pittman Publishing Ltd., London.)
+Adapted from Fig. 13.8, *Callister & Rethwisch 8e*. (Fig. 13.8 is
+adapted from C.J. Phillips, *Glass: The Miracle Maker*, Pittman
+Publishing Ltd., London.)
 
 Gob
 
@@ -708,30 +698,26 @@ Compressed
 
 air
 
-* Fiber drawing: For long pieces with constant cross section
+-   Fiber drawing: For long pieces with constant cross section
 
 wind up
 
-PARTICULATE
-FORMING
+PARTICULATE FORMING
 
 CEMENTATION
 
-\-\- Glass formed by application of
-pressure
-\-\- Mold is steel with graphite
-lining
+\-- Glass formed by application of pressure \-- Mold is steel with
+graphite lining
 
-* Pressing:
+-   Pressing:
 
 plates, cheap glasses
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img15.png)
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img15.png)
 
+# Slide 17 - **Glass Viscosity vs. Temperature**
 
-# Slide 17 - **Glass Viscosity vs. Temperature**
-
-Viscosity [Pa-s]
+Viscosity \[Pa-s\]
 
 1
 
@@ -761,32 +747,31 @@ Viscosity [Pa-s]
 
 1800
 
-_T_(ºC)
+*T*(ºC)
 
-Working range:
-glass-forming carried out
+Working range: glass-forming carried out
 
 annealing point
 
-_T_ melt
+*T* melt
 
 strain point
 
-* Viscosity decreases with _T_
+-   Viscosity decreases with *T*
 
-_(no definite solidification temp)_
+*(no definite solidification temp)*
 
-Adapted from Fig. 13.7, _Callister & Rethwisch 8e_. (Fig. 13.7 is from E.B. Shand, _Engineering Glass_, Modern Materials, Vol. 6, Academic Press, New York, 1968, p. 262.)
+Adapted from Fig. 13.7, *Callister & Rethwisch 8e*. (Fig. 13.7 is from
+E.B. Shand, *Engineering Glass*, Modern Materials, Vol. 6, Academic
+Press, New York, 1968, p. 262.)
 
--  Fused silica: > 99.5 wt% SiO2
+-   Fused silica: \> 99.5 wt% SiO2
 
--  Soda-lime glass: 70% SiO2
-     balance Na2O (soda) & CaO (lime)
+-   Soda-lime glass: 70% SiO2 balance Na2O (soda) & CaO (lime)
 
--  Vycor: 96% SiO2, 4% B2O3
+-   Vycor: 96% SiO2, 4% B2O3
 
--  Borosilicate (Pyrex):
-     13% B2O3, 3.5% Na2O, 2.5% Al2O3
+-   Borosilicate (Pyrex): 13% B2O3, 3.5% Na2O, 2.5% Al2O3
 
 **soda-lime**
 
@@ -798,20 +783,19 @@ Adapted from Fig. 13.7, _Callister & Rethwisch 8e_. (Fig. 13.7 is from E.B. Shan
 
 **Pyrex**
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img16.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img16.png)
 
 # Slide 18 - **Heat Treating Glass**
 
-* Annealing:
+-   Annealing:
 
-\-\- Removes internal stresses caused by uneven cooling.
+\-- Removes internal stresses caused by uneven cooling.
 
-* Tempering:
+-   Tempering:
 
-\-\- Puts surface of glass part into compression
+\-- Puts surface of glass part into compression
 
-\-\- Suppresses growth of cracks from surface scratches.
+\-- Suppresses growth of cracks from surface scratches.
 
 at room temp.
 
@@ -833,46 +817,44 @@ cooler
 
 cooler
 
-\-\- Result: Surface crack growth is suppressed (applied stress must overcome compressive surface stress before crack will form/grow).
+\-- Result: Surface crack growth is suppressed (applied stress must
+overcome compressive surface stress before crack will form/grow).
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img17.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img17.png)
 
 # Slide 19 - **Sheet Glass Forming**
 
-- Sheet forming - continuous casting
+-   Sheet forming - continuous casting
 
-- sheets are formed by floating the molten glass on a pool of molten tin
+-   sheets are formed by floating the molten glass on a pool of molten
+    tin
 
-Adapted from Fig. 13.9, _Callister & Rethwisch 8e_.
+Adapted from Fig. 13.9, *Callister & Rethwisch 8e*.
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img18.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img18.png)
 
 # Slide 20 - **Glass Properties**
 
-* Specific volume (1/r) vs Temperature ( _T_):
+-   Specific volume (1/r) vs Temperature ( *T*):
 
-* Glasses:
+-   Glasses:
 
-\-\- do not crystallize
+\-- do not crystallize
 
-\-\- change in slope in spec. vol. curve at
-glass transition temperature, _Tg_
-\-\- transparent - no grain boundaries to
-scatter light
+\-- change in slope in spec. vol. curve at glass transition temperature,
+*Tg* \-- transparent - no grain boundaries to scatter light
 
-* Crystalline materials:
+-   Crystalline materials:
 
-\-\- crystallize at melting temp, _Tm_
+\-- crystallize at melting temp, *Tm*
 
-\-\- have abrupt change in spec.
+\-- have abrupt change in spec.
 
-vol. at _Tm_
+vol. at *Tm*
 
-Adapted from Fig. 13.6, _Callister & Rethwisch 8e_.
+Adapted from Fig. 13.6, *Callister & Rethwisch 8e*.
 
-_T_
+*T*
 
 Specific volume
 
@@ -882,7 +864,7 @@ Liquid
 
 solid
 
-_Tm_
+*Tm*
 
 Liquid
 
@@ -892,28 +874,27 @@ Crystalline
 
 (i.e., ordered)
 
-_Tg_
+*Tg*
 
 Glass
 
 (amorphous solid)
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img19.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img19.png)
 
 # Slide 21 - **Glass Properties: Viscosity**
 
-* Viscosity, h:
+-   Viscosity, h:
 
-\-\- relates shear stress () and velocity gradient _(dv/dy):_
+\-- relates shear stress () and velocity gradient *(dv/dy):*
 
 h has units of (Pa-s)
 
 velocity gradient
 
-d _v_
+d *v*
 
-d _y_
+d *y*
 
 t
 
@@ -921,20 +902,20 @@ t
 
 glass
 
-d _v_
+d *v*
 
-d _y_
+d *y*
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img20.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img20.png)
 
 # Slide 22 - **Ceramic Fabrication Methods**
 
-* Mill (grind) and screen constituents: desired particle size
+-   Mill (grind) and screen constituents: desired particle size
 
-* Extrude this mass (e.g., into a brick)
+-   Extrude this mass (e.g., into a brick)
 
-* Dry and fire the formed piece (reduce porosity; increase density/strength)
+-   Dry and fire the formed piece (reduce porosity; increase
+    density/strength)
 
 ram
 
@@ -950,20 +931,19 @@ die holder
 
 die
 
-_A_
+*A*
 
-_o_
+*o*
 
-_A_
+*A*
 
-_d_
+*d*
 
 extrusion
 
-Adapted from Fig. 12.8(c), _Callister & Rethwisch 8e_.
+Adapted from Fig. 12.8(c), *Callister & Rethwisch 8e*.
 
-GLASS
-FORMING
+GLASS FORMING
 
 PARTICULATE
 
@@ -973,17 +953,19 @@ CEMENTATION
 
 Hydroplastic forming (clays):
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img21.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img21.png)
 
 # Slide 23 - **Drying and Firing**
 
-* Drying: as water is removed - interparticle spacings decrease
-- shrinkage
+-   Drying: as water is removed - interparticle spacings decrease
+-   shrinkage
 
-Adapted from Fig. 13.13, _Callister & Rethwisch 8e_. (Fig. 13.13 is from W.D. Kingery, _Introduction to Ceramics_, John Wiley and Sons, Inc., 1960.)
+Adapted from Fig. 13.13, *Callister & Rethwisch 8e*. (Fig. 13.13 is from
+W.D. Kingery, *Introduction to Ceramics*, John Wiley and Sons, Inc.,
+1960.)
 
-Drying too fast causes sample to warp or crack due to non-uniform shrinkage
+Drying too fast causes sample to warp or crack due to non-uniform
+shrinkage
 
 wet body
 
@@ -991,16 +973,16 @@ partially dry
 
 completely dry
 
-* Firing:
+-   Firing:
 
-\-\- Heat treatment between
-900-1400ºC
+\-- Heat treatment between 900-1400ºC
 
-\-\- Vitrification: liquid glass forms
-from clay and flux - flows
-between and bonds SiO2 particles. (Flux lowers melting temperature).
+\-- Vitrification: liquid glass forms from clay and flux - flows between
+and bonds SiO2 particles. (Flux lowers melting temperature).
 
-Adapted from Fig. 13.14, _Callister & Rethwisch 8e_. (Fig. 13.14 is courtesy H.G. Brinkies, Swinburne University of Technology, Hawthorn Campus, Hawthorn, Victoria, Australia.)
+Adapted from Fig. 13.14, *Callister & Rethwisch 8e*. (Fig. 13.14 is
+courtesy H.G. Brinkies, Swinburne University of Technology, Hawthorn
+Campus, Hawthorn, Victoria, Australia.)
 
 Si02 particle
 
@@ -1016,20 +998,21 @@ micrograph of porcelain
 
 70 mm
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img22.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img22.png)
 
 # Slide 24 - **Ceramic Fabrication Methods**
 
-* Mill (grind) and screen constituents: desired particle size
+-   Mill (grind) and screen constituents: desired particle size
 
-* Slip casting operation
+-   Slip casting operation
 
-* Dry and fire the cast piece
+-   Dry and fire the cast piece
 
 solid component
 
-Adapted from Fig. 13.12, _Callister & Rethwisch 8e_. (Fig. 13.12 is from W.D. Kingery, _Introduction to Ceramics_, John Wiley and Sons, Inc., 1960.)
+Adapted from Fig. 13.12, *Callister & Rethwisch 8e*. (Fig. 13.12 is from
+W.D. Kingery, *Introduction to Ceramics*, John Wiley and Sons, Inc.,
+1960.)
 
 hollow component
 
@@ -1041,9 +1024,9 @@ drain
 
 mold
 
-“green
+"green
 
-ceramic”
+ceramic"
 
 pour slip
 
@@ -1053,12 +1036,11 @@ absorb water
 
 into mold
 
-“green
+"green
 
-ceramic”
+ceramic"
 
-GLASS
-FORMING
+GLASS FORMING
 
 PARTICULATE
 
@@ -1068,45 +1050,42 @@ CEMENTATION
 
 Slip casting (clays):
 
-* Mix with water and other constituents to form slip
+-   Mix with water and other constituents to form slip
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img23.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img23.png)
 
 # Slide 25 - **Typical Porcelain Composition**
 
 ## (50%) 1. Clay
 
-## (25%) 2. Filler - e.g. quartz (finely ground)
+## (25%) 2. Filler - e.g. quartz (finely ground)
 
-## (25%) 3. Fluxing agent (Feldspar)  \-\- aluminosilicates plus K+, Na+, Ca+
+## (25%) 3. Fluxing agent (Feldspar) \-- aluminosilicates plus K+, Na+, Ca+
 
-## \-\- upon firing - forms low-melting-temp. glass
+## \-- upon firing - forms low-melting-temp. glass
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img24.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img24.png)
 
 # Slide 26 - **Hydroplasticity of Clay**
 
-* Clay is inexpensive
+-   Clay is inexpensive
 
-* When water is added to clay
+-   When water is added to clay
 
-\-\- water molecules fit in between
-layered sheets
+\-- water molecules fit in between layered sheets
 
-\-\- reduces degree of van der Waals
-bonding
+\-- reduces degree of van der Waals bonding
 
-\-\- when external forces applied - clay
-particles free to move past one
+\-- when external forces applied - clay particles free to move past one
 another - becomes hydroplastic
 
-* Structure of
+-   Structure of
 
 Kaolinite Clay:
 
-Adapted from Fig. 12.14, _Callister & Rethwisch 8e_. (Fig. 12.14 is adapted from W.E. Hauth, "Crystal Chemistry of Ceramics", _American Ceramic Society Bulletin_, Vol. 30 (4), 1951, p. 140.)
+Adapted from Fig. 12.14, *Callister & Rethwisch 8e*. (Fig. 12.14 is
+adapted from W.E. Hauth, "Crystal Chemistry of Ceramics", *American
+Ceramic Society Bulletin*, Vol. 30 (4), 1951, p. 140.)
 
 weak van
 
@@ -1130,9 +1109,8 @@ Al
 
 3
 
-+
-
--
+-   
+-   
 
 OH
 
@@ -1144,24 +1122,23 @@ Shear
 
 Shear
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img25.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img25.png)
 
 # Slide 27 - **Ceramic Fabrication Methods**
 
-Powder Pressing: used for both clay and non-clay compositions (analogous to powder metallurgy).
+Powder Pressing: used for both clay and non-clay compositions (analogous
+to powder metallurgy).
 
-* Powder (plus binder) compacted by pressure in a mold
+-   Powder (plus binder) compacted by pressure in a mold
 
-\-\- Uniaxial compression - compacted in single direction
+\-- Uniaxial compression - compacted in single direction
 
-\-\- Isostatic (hydrostatic) compression - pressure applied by
-fluid - powder in rubber envelope
+\-- Isostatic (hydrostatic) compression - pressure applied by fluid -
+powder in rubber envelope
 
-\-\- Hot pressing - pressure + heat
+\-- Hot pressing - pressure + heat
 
-GLASS
-FORMING
+GLASS FORMING
 
 PARTICULATE
 
@@ -1169,20 +1146,21 @@ FORMING
 
 CEMENTATION
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img26.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img26.png)
 
 # Slide 28 - **Sintering**
 
-Adapted from Fig. 13.16, _Callister & Rethwisch 8e_.
+Adapted from Fig. 13.16, *Callister & Rethwisch 8e*.
 
 Aluminum oxide powder:
 
-\-\- Sintered at 1700ºC
+\-- Sintered at 1700ºC
 
 for 6 minutes.
 
-Adapted from Fig. 13.17, _Callister & Rethwisch 8e_. (Fig. 13.17 is from W.D. Kingery, H.K. Bowen, and D.R. Uhlmann, _Introduction to Ceramics_, 2nd ed., John Wiley and Sons, Inc., 1976, p. 483.)
+Adapted from Fig. 13.17, *Callister & Rethwisch 8e*. (Fig. 13.17 is from
+W.D. Kingery, H.K. Bowen, and D.R. Uhlmann, *Introduction to Ceramics*,
+2nd ed., John Wiley and Sons, Inc., 1976, p. 483.)
 
 **15 m**
 
@@ -1190,36 +1168,33 @@ Sintering occurs during firing of a piece that has
 
 been powder pressed (uniaxial & isostatic)
 
-\-\- Powder particles coalesce/bond via diffusion and reduction of pore size
+\-- Powder particles coalesce/bond via diffusion and reduction of pore
+size
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img27.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img27.png)
 
 # Slide 29 - **Tape Casting**
 
-- Thin sheets of ceramic cast as flexible tape
-- Slip = suspended ceramic particles + organic liquid
-     (contains binders, plasticizers for strength and flexibility)
-- Used for integrated circuits and capacitors
+-   Thin sheets of ceramic cast as flexible tape
+-   Slip = suspended ceramic particles + organic liquid (contains
+    binders, plasticizers for strength and flexibility)
+-   Used for integrated circuits and capacitors
 
-Fig. 13.18, _Callister & Rethwisch 8e_.
+Fig. 13.18, *Callister & Rethwisch 8e*.
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img28.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img28.png)
 
 # Slide 30 - **Ceramic Fabrication Methods**
 
-* Hardening of a paste - paste formed by mixing cement
-material with water
+-   Hardening of a paste - paste formed by mixing cement material with
+    water
 
-* Formation of rigid structures having varied and complex
-shapes
+-   Formation of rigid structures having varied and complex shapes
 
-* Hardening process - hydration (complex chemical
-reactions involving water and cement particles)
+-   Hardening process - hydration (complex chemical reactions involving
+    water and cement particles)
 
-GLASS
-FORMING
+GLASS FORMING
 
 PARTICULATE
 
@@ -1227,15 +1202,14 @@ FORMING
 
 CEMENTATION
 
-* Portland cement - production of:
+-   Portland cement - production of:
 
-\-\- Mix clay and lime-bearing minerals
+\-- Mix clay and lime-bearing minerals
 
-\-\- Calcine (heat to 1400ºC)
+\-- Calcine (heat to 1400ºC)
 
-\-\- Grind into fine powder
+\-- Grind into fine powder
 
-\-\- When combined with sand/gravel, considered a composite
+\-- When combined with sand/gravel, considered a composite
 
-![](./Lessons\ 25\ Applications\ &\ Processing\ of\ Ceramics/img29.png)
-
+![](./Lessons%2025%20Applications%20&%20Processing%20of%20Ceramics/img29.png)

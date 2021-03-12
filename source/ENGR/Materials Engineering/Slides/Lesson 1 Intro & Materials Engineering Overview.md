@@ -1,18 +1,19 @@
 # Slide 1
 
-_**Claiming every workplace in every nation as our**_
+***Claiming every workplace in every nation as our***
 
-_**mission field**_
+***mission field***
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img0.png)
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img0.png)
 
 # Slide 2
 
-_**Largest**_
+***Largest***
 
-_**Freshman Class!!**_
+***Freshman Class!!***
 
-_**Rejoice Always, Pray Continually, Give Thanks In All Circumstances! 1 Thes 5:16-18**_
+***Rejoice Always, Pray Continually, Give Thanks In All Circumstances! 1
+Thes 5:16-18***
 
 **COVID19 Guidelines**
 
@@ -26,9 +27,9 @@ _**Rejoice Always, Pray Continually, Give Thanks In All Circumstances! 1 Thes 5:
 
 **Fake News**
 
-_**Armor Up LeTourneau! Eph 6:13-18**_
+***Armor Up LeTourneau! Eph 6:13-18***
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img1.png)
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img1.png)
 
 # Slide 3
 
@@ -38,7 +39,7 @@ _**Armor Up LeTourneau! Eph 6:13-18**_
 
 **Helpful (and cool) Stuff**
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img2.png)
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img2.png)
 
 # Slide 4
 
@@ -46,54 +47,57 @@ _**Armor Up LeTourneau! Eph 6:13-18**_
 
 **Throughout History**
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img3.png)
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img3.png)
 
 # Slide 5
 
 **Noah**
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img4.png)
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img4.png)
 
 # Slide 6
 
 **Leonardo da Vinci**
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img5.png)
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img5.png)
 
 # Slide 7
 
 **Wilbur & Orville Wright**
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img6.png)
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img6.png)
 
 # Slide 8
 
 **R.G. LeTourneau**
 
-_**Claiming every workplace in every nation as our mission field, LeTourneau University graduates are professionals of ingenuity and Christ-like character who see life’s work as a holy calling with eternal impact.**_
+***Claiming every workplace in every nation as our mission field,
+LeTourneau University graduates are professionals of ingenuity and
+Christ-like character who see life's work as a holy calling with eternal
+impact.***
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img7.png)
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img7.png)
 
 # Slide 9
 
 **The Greatest?**
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img8.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img8.png)
 
 # Slide 10 - **Devo/Prayer - The Greatest Engineer!**
 
-_**By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible.**_
+***By faith we understand that the universe was formed at God's command,
+so that what is seen was not made out of what was visible.***
 
-_**Hebrews 11:3**_
+***Hebrews 11:3***
 
-_**He is before all things, and in him all things hold together.**_
+***He is before all things, and in him all things hold together.***
 
-_**Colossians 1:17**_
+***Colossians 1:17***
 
-[https://micro.magnet.fsu.edu/primer/java/scienceopticsu/powersof10/](https://micro.magnet.fsu.edu/primer/java/scienceopticsu/powersof10/)
+<https://micro.magnet.fsu.edu/primer/java/scienceopticsu/powersof10/>
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img9.png)
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img9.png)
 
 # Slide 11
 
@@ -107,7 +111,7 @@ Make the World More Like God Designed it to Be
 
 and Benefit People Along the Way!
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img10.png)
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img10.png)
 
 # Slide 12
 
@@ -117,166 +121,201 @@ and Benefit People Along the Way!
 
 **Chapters!**
 
-**God is Writing a Story…**
+**God is Writing a Story...**
 
-_**Sharing the Journey**_
+***Sharing the Journey***
 
 **F = ma**
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img11.png)
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img11.png)
 
 # Slide 13
 
-**The Result…**
+**The Result...**
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img12.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img12.png)
 
 # Slide 14 - **Tell Me Your Story**
 
-- 5 Questions (+1)
+-   5 Questions (+1)
 
-- Where are you at in your relationship with God?
-- How you were “called” to LeTourneau?
-- What would you like to see God do during your LeTourneau journey?
-- What direction do you feel God calling you after LeTourneau?
-- What is something unique about yourself (hobby, special relationship, passionate area of interest)?
-- Where are you at with COVID19?
+-   Where are you at in your relationship with God?
 
-- Complete by responding to my upcoming email (by Friday, Aug 21)
-- Purpose is to get to know you and have basis for prayer & support
+-   How you were "called" to LeTourneau?
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img13.png)
+-   What would you like to see God do during your LeTourneau journey?
 
+-   What direction do you feel God calling you after LeTourneau?
 
-# Slide 15 - **Expectations/Guidelines for Honoring God  in Classroom & in Engineering Profession**
+-   What is something unique about yourself (hobby, special
+    relationship, passionate area of interest)?
 
-- Purpose, passion, and humility in learning
+-   Where are you at with COVID19?
 
-- “Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.” Col 3:23
-- “If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.” James 1:5
+-   Complete by responding to my upcoming email (by Friday, Aug 21)
 
-- Integrate faith and work
+-   Purpose is to get to know you and have basis for prayer & support
 
-- Pray hard, work hard, and commit that work to God
-- Integrity, responsibility, and accountability in everything we do
-- Increase our faith by discovering God through study of engineering
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img13.png)
 
-- Mutual respect
+# Slide 15 - **Expectations/Guidelines for Honoring God in Classroom & in Engineering Profession**
 
-- Prayer for each other & listen to each other
+-   Purpose, passion, and humility in learning
 
-- Device free, listen intently, ask questions, take notes, stand up if nec
+-   "Whatever you do, work at it with all your heart, as working for the
+    Lord, not for human masters." Col 3:23
 
-- Let me know ahead of time if you will miss class or a test
-- COVID19 guidelines
+-   "If any of you lacks wisdom, you should ask God, who gives
+    generously to all without finding fault, and it will be given to
+    you." James 1:5
 
-- All above is captured in “Engagement/LETU Mission” grade
+-   Integrate faith and work
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img14.png)
+-   Pray hard, work hard, and commit that work to God
 
+-   Integrity, responsibility, and accountability in everything we do
 
-# Slide 16 - **Expectations/Guidelines for Honoring God  in Classroom & in Engineering Profession**
+-   Increase our faith by discovering God through study of engineering
 
-- My Role as Professor/Mentor/Fellow Pilgrim
+-   Mutual respect
 
-- Goals:
+-   Prayer for each other & listen to each other
 
-- Keep course interesting, relevant, and enjoyable!
-- Communicate effectively
-- Teach how to think critically
+-   Device free, listen intently, ask questions, take notes, stand up if
+    nec
 
-- “Think like an engineer” (analysis vs memorizing facts)
-- Repeatable & reliable problem solving skills
+-   Let me know ahead of time if you will miss class or a test
 
-- Share in your journey of learning and becoming more like Christ
+-   COVID19 guidelines
 
-- I will seek feedback from you throughout semester on how it’s going
+-   All above is captured in "Engagement/LETU Mission" grade
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img15.png)
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img14.png)
 
+# Slide 16 - **Expectations/Guidelines for Honoring God in Classroom & in Engineering Profession**
 
-# Slide 17 - _**ENGR 2313 Materials Engineering**_
+-   My Role as Professor/Mentor/Fellow Pilgrim
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img16.png)
+-   Goals:
+
+-   Keep course interesting, relevant, and enjoyable!
+
+-   Communicate effectively
+
+-   Teach how to think critically
+
+-   "Think like an engineer" (analysis vs memorizing facts)
+
+-   Repeatable & reliable problem solving skills
+
+-   Share in your journey of learning and becoming more like Christ
+
+-   I will seek feedback from you throughout semester on how it's going
+
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img15.png)
+
+# Slide 17 - ***ENGR 2313 Materials Engineering***
+
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img16.png)
 
 # Slide 18
 
-_**Discerning**_
+***Discerning***
 
-_**God’s Call Along the Way**_
+***God's Call Along the Way***
 
-_**Honoring Him as an**_
+***Honoring Him as an***
 
-_**Engineer in Your**_
+***Engineer in Your***
 
-_**Mission Field**_
+***Mission Field***
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img17.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img17.png)
 
 # Slide 19 - **Syllabus**
 
-- Text: Materials Science & Engineering, 10th Ed, Callister & Rethwisch
-- Office Hours:
+-   Text: Materials Science & Engineering, 10th Ed, Callister &
+    Rethwisch
 
-- M/W/F 2:00-3:00 pm; T/R 10:00-11:00 pm or send an email requesting different time
-- I’ll probably want to hear something about your story and pray together
-- Take advantage of all LETU opportunities to improve learning (pray, study, SI/tutor, fellow students)
+-   Office Hours:
 
-- Lesson slides and homework as learning tools
+-   M/W/F 2:00-3:00 pm; T/R 10:00-11:00 pm or send an email requesting
+    different time
 
-- Use slides as outline for note taking and building study sheets
-- Homework solutions provided in Canvas to optimize efficiency in learning
-- Late policy (1 class period = -30%; > 1 class period = -50%)
+-   I'll probably want to hear something about your story and pray
+    together
 
-- Quizzes to assess progress
-- Extra Credit
+-   Take advantage of all LETU opportunities to improve learning (pray,
+    study, SI/tutor, fellow students)
 
-- Oral or written materials topic presentation
-- Work an approved problem for class
-- Present daily class devo
-- Attendance (and eating pizza) at relevant seminars
+-   Lesson slides and homework as learning tools
 
-- Additional learning opportunities
+-   Use slides as outline for note taking and building study sheets
 
-- Tutoring through Achievement Center
+-   Homework solutions provided in Canvas to optimize efficiency in
+    learning
+
+-   Late policy (1 class period = -30%; \> 1 class period = -50%)
+
+-   Quizzes to assess progress
+
+-   Extra Credit
+
+-   Oral or written materials topic presentation
+
+-   Work an approved problem for class
+
+-   Present daily class devo
+
+-   Attendance (and eating pizza) at relevant seminars
+
+-   Additional learning opportunities
+
+-   Tutoring through Achievement Center
 
 3 total opportunities
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img18.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img18.png)
 
 # Slide 20 - **HOMEWORK HELPS YOU LEARN!!!**
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img19.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img19.png)
 
 # Slide 21 - **HOMEWORK HELPS YOU LEARN!!!**
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img20.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img20.png)
 
 # Slide 22 - **HOMEWORK HELPS YOU LEARN!!!**
 
-- Engineering learning comes in large part from repetition
-- Reasonable workload of ~ 4 problems per class (~ 2 hours prep)
-- Making homework work for you…
+-   Engineering learning comes in large part from repetition
 
-- Pray!
-- Read appropriate section in text (including example problems)
-- Attempt homework problems on your own (final answer is in back of text)
-- If you reach a log jam (10-15 min), check text and examples again
-- Seek one of the additional learning opportunities (office hours, SI, fellow student)
-- Cycle through the above steps
-- As absolute LAST resort, copy online solution
+-   Reasonable workload of \~ 4 problems per class (\~ 2 hours prep)
 
-- Solutions provided in Canvas after homework graded & returned
-- Late policy (1 class period = -30%; > 1 class period = -50%)
+-   Making homework work for you...
 
-- Still worth doing for the learning value!
+-   Pray!
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img21.png)
+-   Read appropriate section in text (including example problems)
+
+-   Attempt homework problems on your own (final answer is in back of
+    text)
+
+-   If you reach a log jam (10-15 min), check text and examples again
+
+-   Seek one of the additional learning opportunities (office hours, SI,
+    fellow student)
+
+-   Cycle through the above steps
+
+-   As absolute LAST resort, copy online solution
+
+-   Solutions provided in Canvas after homework graded & returned
+
+-   Late policy (1 class period = -30%; \> 1 class period = -50%)
+
+-   Still worth doing for the learning value!
+
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img21.png)
 
 # Slide 23
 
@@ -288,13 +327,13 @@ _**Mission Field**_
 
 **Topics/Activity**
 
-_**1**_
+***1***
 
-_**T**_
+***T***
 
-_**18 Aug**_
+***18 Aug***
 
-_**Course Introduction**_
+***Course Introduction***
 
 **2**
 
@@ -500,9 +539,10 @@ _**Course Introduction**_
 
 **Final Exam**
 
-_**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
+***Rejoice always, pray continually, give thanks in all circumstances 1
+Thes 5:16-18***
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img22.png)
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img22.png)
 
 # Slide 24
 
@@ -514,13 +554,13 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **Topics/Activity**
 
-_**1**_
+***1***
 
-_**T**_
+***T***
 
-_**14 Jan**_
+***14 Jan***
 
-_**Course Introduction**_
+***Course Introduction***
 
 **2**
 
@@ -762,117 +802,138 @@ _**Course Introduction**_
 
 **Final Exam**
 
-_**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
+***Rejoice always, pray continually, give thanks in all circumstances 1
+Thes 5:16-18***
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img23.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img23.png)
 
 # Slide 25 - **Materials Engineering Overview**
 
 **Course Objective...**
 
-- Introduce fundamental concepts in Materials
+-   Introduce fundamental concepts in Materials
 
 Science & Engineering
 
 **You will learn about:**
 
-* Material structure
+-   Material structure
 
-* How structure dictates properties
+-   How structure dictates properties
 
-* How processing can change structure
+-   How processing can change structure
 
 **This course will help you to:**
 
-* Make sound material choices based on design requirements
+-   Make sound material choices based on design requirements
 
-* Realize new design opportunities based on material
+-   Realize new design opportunities based on material
 
 technology advancements
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img24.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img24.png)
 
 # Slide 26 - **Lesson 1 - Introduction**
 
-- Materials drive our society
+-   Materials drive our society
 
-- Stone Age
-- Bronze Age
-- Iron Age
-- Now and future…
+-   Stone Age
 
-- Space Age?
-- Information Age?
-- Polymer Age?
-- Nano Age?
+-   Bronze Age
 
-- Material properties & the materials selection process
-- What is materials science vs materials engineering?
+-   Iron Age
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img25.png)
+-   Now and future...
 
+-   Space Age?
+
+-   Information Age?
+
+-   Polymer Age?
+
+-   Nano Age?
+
+-   Material properties & the materials selection process
+
+-   What is materials science vs materials engineering?
+
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img25.png)
 
 # Slide 27 - **What does a Materials Scientist need to know and what do I need to know?**
 
-- Materials Scientist
+-   Materials Scientist
 
-- Detailed understanding of atomic & subatomic structure
-- Assimilate/own the Periodic Table
-- Know enough to advance material technology
+-   Detailed understanding of atomic & subatomic structure
 
-- Materials Engineer (and ENGR2313 student)
+-   Assimilate/own the Periodic Table
 
-- Amazing stuff happens at the atomic level
-- Practical understanding of periodic table
-- How bonding types and fabrication processes impact material properties
-- How to strengthen materials
-- How to choose optimum materials for various applications
+-   Know enough to advance material technology
 
-- Everyone…
+-   Materials Engineer (and ENGR2313 student)
 
-- God makes it all work!
+-   Amazing stuff happens at the atomic level
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img26.png)
+-   Practical understanding of periodic table
 
+-   How bonding types and fabrication processes impact material
+    properties
+
+-   How to strengthen materials
+
+-   How to choose optimum materials for various applications
+
+-   Everyone...
+
+-   God makes it all work!
+
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img26.png)
 
 # Slide 28 - **Types of Materials**
 
-- Metals: Metallic bonding - sea of electrons
+-   Metals: Metallic bonding - sea of electrons
 
-- Strong/stiff, ductile, usually crystalline
-- High thermal & electrical conductivity
-- Opaque, reflective
+-   Strong/stiff, ductile, usually crystalline
 
-- Polymers/plastics: Covalent bonding - sharing of electrons
+-   High thermal & electrical conductivity
 
-- Soft, ductile, usually non-crystalline, low strength, low density, lower melting temps, high coefficients of thermal expansion
-- Thermal & electrical insulators
-- Optically translucent or transparent
+-   Opaque, reflective
 
-- Ceramics: Ionic bonding - transfer of electrons
+-   Polymers/plastics: Covalent bonding - sharing of electrons
 
-- Compounds of metallic & non-metallic elements (oxides, carbides, nitrides, sulfides)
-- Brittle, glassy
-- Non-conducting (insulators)
+-   Soft, ductile, usually non-crystalline, low strength, low density,
+    lower melting temps, high coefficients of thermal expansion
 
-- Composites: combination of two or more individual materials/phases to obtain a more desirable combination of properties than can be obtained with each individual material (e.g., low density and high strength)
+-   Thermal & electrical insulators
+
+-   Optically translucent or transparent
+
+-   Ceramics: Ionic bonding - transfer of electrons
+
+-   Compounds of metallic & non-metallic elements (oxides, carbides,
+    nitrides, sulfides)
+
+-   Brittle, glassy
+
+-   Non-conducting (insulators)
+
+-   Composites: combination of two or more individual materials/phases
+    to obtain a more desirable combination of properties than can be
+    obtained with each individual material (e.g., low density and high
+    strength)
 
 SMART MATERIALS??
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img27.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img27.png)
 
 # Slide 29 - **The Materials Selection Process**
 
-1.
+1.  
 
 Pick Application
 
 Determine required Properties
 
-Processing/fabrication: changes _structure_ and overall _shape_
+Processing/fabrication: changes *structure* and overall *shape*
 
 ex: casting, sintering, vapor deposition, doping
 
@@ -886,30 +947,34 @@ magnetic, optical, deteriorative.
 
 Material: structure, composition.
 
-2.
+2.  
 
 Properties
 
 Identify candidate Material(s)
 
-3.
+3.  
 
 Material
 
 Identify required Processing
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img28.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img28.png)
 
 # Slide 30 - **Structure, Processing, & Properties**
 
-* Strength/Hardness of steel depends on structure
+-   Strength/Hardness of steel depends on structure
 
-Data obtained from Figs. 10.31(a) and 10.32 with 4 wt% C composition, and from Fig. 11.15, _Callister & Rethwisch 9e_. Micrographs adapted from (a) Fig. 10.19; (b) Fig. 9.30; (c) Fig. 10.33; and (d) Fig. 10.21, _Callister & Rethwisch 9e_. (Figures 10.19, 10.21, & 10.33 copyright 1971 by United States Steel Corporation. Figure 9.30 courtesy of Republic Steel Corporation.)
+Data obtained from Figs. 10.31(a) and 10.32 with 4 wt% C composition,
+and from Fig. 11.15, *Callister & Rethwisch 9e*. Micrographs adapted
+from (a) Fig. 10.19; (b) Fig. 9.30; (c) Fig. 10.33; and (d) Fig. 10.21,
+*Callister & Rethwisch 9e*. (Figures 10.19, 10.21, & 10.33 copyright
+1971 by United States Steel Corporation. Figure 9.30 courtesy of
+Republic Steel Corporation.)
 
 ex: structure vs cooling rate of steel
 
-* Processing can change structure which changes properties
+-   Processing can change structure which changes properties
 
 Hardness (BHN)
 
@@ -949,36 +1014,37 @@ Cooling Rate (ºC/s)
 
 1000
 
-(d)
+(d) 
 
 30 μm
 
-(c)
+(c) 
 
 4 μm
 
-(b)
+(b) 
 
 30 μm
 
-(a)
+(a) 
 
 30 μm
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img29.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img29.png)
 
 # Slide 31 - **Material Properties: Electrical**
 
-* Electrical Resistivity of Copper:
+-   Electrical Resistivity of Copper:
 
-* Adding “impurity” (alloying) atoms to Cu increases resistivity
+-   Adding "impurity" (alloying) atoms to Cu increases resistivity
 
-* Deforming Cu increases resistivity
+-   Deforming Cu increases resistivity
 
-Fig. 18.8, _Callister & Rethwisch 9e._[Adapted from: J.O. Linde, _Ann Physik_ **5**, 219 (1932); and C.A. Wert and R.M. Thomson, _Physics of Solids_, 2nd edition, McGraw-Hill Company, New York, 1970.]
+Fig. 18.8, *Callister & Rethwisch 9e.*\[Adapted from: J.O. Linde, *Ann
+Physik* **5**, 219 (1932); and C.A. Wert and R.M. Thomson, *Physics of
+Solids*, 2nd edition, McGraw-Hill Company, New York, 1970.\]
 
-_T_ (°C)
+*T* (°C)
 
 -200
 
@@ -1004,7 +1070,7 @@ deformed Cu + 1.12 at%Ni
 
 6
 
-Resistivity, _ρ_
+Resistivity, *ρ*
 
 (10-8 Ohm-m)
 
@@ -1012,32 +1078,34 @@ Resistivity, _ρ_
 
 Cu + 1.12 at%Ni
 
-“Pure” Cu
+"Pure" Cu
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img30.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img30.png)
 
 # Slide 32 - **Material Properties: Thermal**
 
-* Space Shuttle Tiles:
+-   Space Shuttle Tiles:
 
-\-\- Silica fiber insulation
+\-- Silica fiber insulation
 
 offers low heat conduction.
 
-* Thermal Conductivity
+-   Thermal Conductivity
 
 of Copper:
 
-\-\- It decreases when
+\-- It decreases when
 
 you add zinc (more alloying)!
 
-Fig. 19.4W, _Callister 6e._(Courtesy of Lockheed Aerospace Ceramics Systems, Sunnyvale, CA)
+Fig. 19.4W, *Callister 6e.*(Courtesy of Lockheed Aerospace Ceramics
+Systems, Sunnyvale, CA)
 
-(Note: "W" denotes fig. is on CD-ROM.)
+(Note: "W" denotes fig. is on CD-ROM.)
 
-Fig. 19.4, _Callister & Rethwisch 9e._[Adapted from _Metals Handbook: Properties and Selection: Nonferrous alloys and Pure Metals_, Vol. 2, 9th ed., H. Baker, (Managing Editor), ASM International, 1979, p. 315.]
+Fig. 19.4, *Callister & Rethwisch 9e.*\[Adapted from *Metals Handbook:
+Properties and Selection: Nonferrous alloys and Pure Metals*, Vol. 2,
+9th ed., H. Baker, (Managing Editor), ASM International, 1979, p. 315.\]
 
 Composition (wt% Zinc)
 
@@ -1067,22 +1135,22 @@ Thermal Conductivity
 
 100 μm
 
-Chapter-opening photograph, Chapter 17, _Callister & Rethwisch 3e._(Courtesy of Lockheed
+Chapter-opening photograph, Chapter 17, *Callister & Rethwisch
+3e.*(Courtesy of Lockheed
 
 Missiles and Space
 
 Company, Inc.)
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img31.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img31.png)
 
 # Slide 33 - **Material Properties: Magnetic**
 
-* Magnetic Permeability
+-   Magnetic Permeability
 
-vs. Composition
+vs. Composition
 
-\-\- Adding 3 atomic % Si
+\-- Adding 3 atomic % Si
 
 makes Fe a better
 
@@ -1090,18 +1158,19 @@ recording medium!
 
 Adapted from C.R. Barrett, W.D. Nix, and
 
-A.S. Tetelman, _The Principles of Engineering_
+A.S. Tetelman, *The Principles of Engineering*
 
-_Materials_, Fig. 1-7(a), p. 9, 1973.
+*Materials*, Fig. 1-7(a), p. 9, 1973.
 
-Electronically reproduced by permission of Pearson Education, Inc., Upper Saddle River, New Jersey.
+Electronically reproduced by permission of Pearson Education, Inc.,
+Upper Saddle River, New Jersey.
 
-Fig. 20.23, _Callister & Rethwisch 9e._
-(Courtesy of HGST, a Western Digital Company.)
+Fig. 20.23, *Callister & Rethwisch 9e.* (Courtesy of HGST, a Western
+Digital Company.)
 
-* Magnetic Storage
+-   Magnetic Storage
 
-\-\- Recording medium
+\-- Recording medium
 
 is magnetized by
 
@@ -1115,18 +1184,18 @@ Fe+3%Si
 
 Fe
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img32.png)
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img32.png)
 
 # Slide 34
 
-* Transmittance:
+-   Transmittance:
 
-\-\- Aluminum oxide may be transparent, translucent, or
+\-- Aluminum oxide may be transparent, translucent, or
 
-opaque depending on the material’s structure (i.e.,
-single crystal vs. polycrystal, and degree of porosity).
+opaque depending on the material's structure (i.e., single crystal
+vs. polycrystal, and degree of porosity).
 
-Fig. 1.2, _Callister & Rethwisch 9e._
+Fig. 1.2, *Callister & Rethwisch 9e.*
 
 (Specimen preparation,
 
@@ -1144,34 +1213,36 @@ some porosity
 
 **Material Properties: Optical**
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img33.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img33.png)
 
 # Slide 35 - **Material Properties: Deteriorative**
 
-* Stress & Saltwater...
+-   Stress & Saltwater...
 
-\-\- causes cracks!
+\-- causes cracks!
 
-Fig. 17.21, _Callister & Rethwisch 9e._(from _Marine Corrosion, Causes, and Prevention_, John Wiley and Sons, Inc., 1975.)
+Fig. 17.21, *Callister & Rethwisch 9e.*(from *Marine Corrosion, Causes,
+and Prevention*, John Wiley and Sons, Inc., 1975.)
 
-* Heat treatment: slows
+-   Heat treatment: slows
 
 crack propagation in salt water!
 
-Adapted from Fig. 11.20(b), R.W. Hertzberg, "Deformation and Fracture Mechanics of Engineering Materials" (4th ed.), p. 505, John Wiley and Sons, 1996. (Original source: Markus O. Speidel, Brown Boveri Co.)
+Adapted from Fig. 11.20(b), R.W. Hertzberg, "Deformation and Fracture
+Mechanics of Engineering Materials" (4th ed.), p. 505, John Wiley and
+Sons, 1996. (Original source: Markus O. Speidel, Brown Boveri Co.)
 
-“held at
+"held at
 
 160°C for 1 hr
 
-before testing”
+before testing"
 
 increasing load
 
 crack speed (m/s)
 
-“as-is”
+"as-is"
 
 10-10
 
@@ -1183,48 +1254,50 @@ saturated aqueous NaCl
 
 solution at 23°C
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img34.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img34.png)
 
 # Slide 36 - **Example - Hip Implant**
 
-- With age or certain illnesses joints deteriorate Particularly those with large loads (such as hip)
+-   With age or certain illnesses joints deteriorate Particularly those
+    with large loads (such as hip)
 
-Adapted from Fig. 22.25, _Callister 7e._
+Adapted from Fig. 22.25, *Callister 7e.*
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img35.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img35.png)
 
 # Slide 37 - **Example - Hip Implant**
 
-- Requirements
+-   Requirements
 
-- Mechanical strength (many cycles)
-- Low friction
-- Biocompatibility
-- Wear resistant
+-   Mechanical strength (many cycles)
 
-Adapted from Fig. 22.24, _Callister 7e._
+-   Low friction
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img36.png)
+-   Biocompatibility
 
+-   Wear resistant
+
+Adapted from Fig. 22.24, *Callister 7e.*
+
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img36.png)
 
 # Slide 38 - **Example - Hip Implant**
 
-Adapted from Fig. 22.26, _Callister 7e._
+Adapted from Fig. 22.26, *Callister 7e.*
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img37.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img37.png)
 
 # Slide 39 - **Hip Implant**
 
-- Key problems to overcome
+-   Key problems to overcome
 
-- fixation agent to hold
-    acetabular cup
-- cup lubrication material
-- femoral stem - fixing agent
-- must avoid any debris in cup
+-   fixation agent to hold acetabular cup
+
+-   cup lubrication material
+
+-   femoral stem - fixing agent
+
+-   must avoid any debris in cup
 
 Femoral
 
@@ -1236,35 +1309,33 @@ Acetabular
 
 Cup and Liner
 
-Adapted from chapter-opening photograph, Chapter 22, _Callister 7e._(Photograph courtesy of Zimmer, Inc., Warsaw, IN, USA.)
+Adapted from chapter-opening photograph, Chapter 22, *Callister
+7e.*(Photograph courtesy of Zimmer, Inc., Warsaw, IN, USA.)
 
-_**Mix of Metals, Polymers, and Ceramics!**_
+***Mix of Metals, Polymers, and Ceramics!***
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img38.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img38.png)
 
 # Slide 40 - **Summary**
 
-* Bottom line…choose the right material for the job
+-   Bottom line...choose the right material for the job
 
-* Understand the relation between stucture, properties,
+-   Understand the relation between stucture, properties,
 
 and processing
 
-* Recognize new design opportunities offered
+-   Recognize new design opportunities offered
 
 by materials selection
 
 Course Goals:
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img39.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img39.png)
 
 # Slide 41 - **Wrap up**
 
-- Questions
-- Homework
-- Introduce Next Lesson
+-   Questions
+-   Homework
+-   Introduce Next Lesson
 
-![](./Lesson\ 1\ Intro\ &\ Materials\ Engineering\ Overview/img40.png)
-
+![](./Lesson%201%20Intro%20&%20Materials%20Engineering%20Overview/img40.png)

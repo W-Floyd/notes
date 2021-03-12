@@ -1,7 +1,14 @@
 ---
 header-includes:
-- \usepackage{cancel}
+- |
+  ```{=tex}
+  \usepackage{cancel}
+  ```
 ---
+
+```{=tex}
+\usepackage{cancel}
+```
 
 # Efficiency
 
@@ -61,8 +68,7 @@ $$
 
 ### Compressor and Pump
 
-Minimum work input:
-$$
+Minimum work input: $$
 \left(-\frac{\dot{W}_{\mathrm{cv}}}{\dot{m}}\right)_{\mathrm{s}}=h_{2 \mathrm{s}}-h_{1}
 $$
 

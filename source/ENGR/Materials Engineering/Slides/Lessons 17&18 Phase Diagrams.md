@@ -1,11 +1,10 @@
 # Slide 1
 
-_**Claiming every workplace in every nation as our**_
+***Claiming every workplace in every nation as our***
 
-_**mission field**_
+***mission field***
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img0.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img0.png)
 
 # Slide 2 - **Devo/Prayer**
 
@@ -29,59 +28,55 @@ _**mission field**_
 
 ## **Colossians 3:23**
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img1.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img1.png)
 
 # Slide 3 - **Devo/Prayer**
 
-## **Rejoice always, pray continually, give thanks in all circumstances; for this is God’s will for you in Christ Jesus.**
+## **Rejoice always, pray continually, give thanks in all circumstances; for this is God's will for you in Christ Jesus.**
 
 ## **1 Thes 5:16-18**
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img2.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img2.png)
 
 # Slide 4 - **Devo/Prayer**
 
-## **God put EVERYTHING on the line for us, so He clearly has great things He wants to do through us…**
+## **God put EVERYTHING on the line for us, so He clearly has great things He wants to do through us...**
 
 ## For God so loved the world that he gave his one and only Son, that whoever believes in Him shall not perish but have eternal life.
 
-## _John 3:16_
+## *John 3:16*
 
 ## Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything.
 
-## _James 1:2-4_
+## *James 1:2-4*
 
 ## For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future.
 
-## _Jeremiah 29:11_
+## *Jeremiah 29:11*
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img3.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img3.png)
 
 # Slide 5 - **Lesson 17/18 Outline - Phase Diagrams**
 
-- Devotional/Prayer
-- Terminology
-- Temperature & Composition Effects
-- Determining Component & Phase Composition
-- Phase Microstructure
-- Eutectic, Eutectoid, Peritectic, Hypo/Hypereutectoid
-- Iron - Carbon System
-- Summary/Wrap up
+-   Devotional/Prayer
+-   Terminology
+-   Temperature & Composition Effects
+-   Determining Component & Phase Composition
+-   Phase Microstructure
+-   Eutectic, Eutectoid, Peritectic, Hypo/Hypereutectoid
+-   Iron - Carbon System
+-   Summary/Wrap up
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img4.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img4.png)
 
 # Slide 6 - **Devo/Prayer**
 
-_**Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.**_
+***Whatever you do, work at it with all your heart, as working for the
+Lord, not for human masters.***
 
-_**Colossians 3:23**_
+***Colossians 3:23***
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img5.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img5.png)
 
 # Slide 7 - **Devo/Prayer - Jesus Walks With Us**
 
@@ -97,10 +92,9 @@ _**Colossians 3:23**_
 
 ## **1 Corinthians 2:9**
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img6.png)
+![](./Lessons%2017&18%20Phase%20Diagrams/img6.png)
 
-
-# Slide 8 - **Devo/Prayer - Seeking God’s Call**
+# Slide 8 - **Devo/Prayer - Seeking God's Call**
 
 **Gifts**
 
@@ -120,147 +114,167 @@ _**Colossians 3:23**_
 
 **1 Th 5:16-18**
 
-_**When you feel unqualified…**_
+***When you feel unqualified...***
 
-_**Now may the God of peace, who through the blood of the eternal covenant brought back from the dead our Lord Jesus, that great Shepherd of the sheep, equip you with everything good for doing his will, and may he work in us what is pleasing to him, through Jesus Christ, to whom be glory for ever and ever. Amen.**_
+***Now may the God of peace, who through the blood of the eternal
+covenant brought back from the dead our Lord Jesus, that great Shepherd
+of the sheep, equip you with everything good for doing his will, and may
+he work in us what is pleasing to him, through Jesus Christ, to whom be
+glory for ever and ever. Amen.***
 
-_**Hebrews 13:20-21**_
+***Hebrews 13:20-21***
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img7.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img7.png)
 
 # Slide 9 - **Future Extra Credit Opportunities**
 
-- Provide a 10-15 min materials engineering related pitch (15 points)
-- Work a problem for the class (5 pts)
-- Give a devotion (5 pts)
+-   Provide a 10-15 min materials engineering related pitch (15 points)
+-   Work a problem for the class (5 pts)
+-   Give a devotion (5 pts)
 
-## \- Points added to test grades (3 opportunities max per student)
+## - Points added to test grades (3 opportunities max per student)
 
-## \- Let me know if you are interested in either and I’ll set it up
+## - Let me know if you are interested in either and I'll set it up
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img8.png)
+![](./Lessons%2017&18%20Phase%20Diagrams/img8.png)
 
+# Slide 10 - **Rejoice Always, Pray Continually, Give Thanks in all Circumstances...**
 
-# Slide 10 - **Rejoice Always, Pray Continually, Give Thanks in all Circumstances…**
+-   Salvation of Dr Sasaki's mom and sister
+-   Tixier wedding
+-   My brother ("don't hoard; don't hide")
+-   Parents & In laws
+-   Our sons
+-   Churches and small groups online
+-   Unity in nation towards care for people
+-   Teamwork within LETU & SEET focused towards STUDENTS!!!
 
-- Salvation of Dr Sasaki’s mom and sister
-- Tixier wedding
-- My brother (“don’t hoard; don’t hide”)
-- Parents & In laws
-- Our sons
-- Churches and small groups online
-- Unity in nation towards care for people
-- Teamwork within LETU & SEET focused towards STUDENTS!!!
+***A Great Time To Shine His Light & Grow Our Faith!***
 
-_**A Great Time To Shine His Light & Grow Our Faith!**_
-
-![](./Lessons\ 17&18\ Phase\ Diagrams/img9.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img9.png)
 
 # Slide 11 - **Welcome Back Roll Call / Howgozit**
 
-- Are You Settled?
-- Equipment Check
+-   Are You Settled?
 
-- Computer w/mike and camera
-- MS Teams and Canvas Conversations
-- Smartphone
-- Scanner
+-   Equipment Check
 
-- Prayer Requests
+-   Computer w/mike and camera
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img10.png)
+-   MS Teams and Canvas Conversations
 
+-   Smartphone
+
+-   Scanner
+
+-   Prayer Requests
+
+![](./Lessons%2017&18%20Phase%20Diagrams/img10.png)
 
 # Slide 12 - **Online Learning - Philosophy**
 
-- Create Same Environment Online We Had In Class
+-   Create Same Environment Online We Had In Class
 
-- Purpose, Passion, Faith in our learning journey
-- Pray, laugh, be serious, cry, etc, as the Spirit leads
+-   Purpose, Passion, Faith in our learning journey
 
-- Understand and Respect Environment Y’all Are In
-- Reduced Subject Content
+-   Pray, laugh, be serious, cry, etc, as the Spirit leads
 
-- Focusing on material most important to follow-on courses and future jobs
-- Suboptimized learning environment (homework solutions provided; open book tests)
+-   Understand and Respect Environment Y'all Are In
 
-- Steadfast in our Love, Patience, and Perseverance
+-   Reduced Subject Content
 
-**The steadfast love of the Lord never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness.**
+-   Focusing on material most important to follow-on courses and future
+    jobs
+
+-   Suboptimized learning environment (homework solutions provided; open
+    book tests)
+
+-   Steadfast in our Love, Patience, and Perseverance
+
+**The steadfast love of the Lord never ceases; his mercies never come to
+an end; they are new every morning; great is your faithfulness.**
 
 **Lamentations 3:22-23**
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img11.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img11.png)
 
 # Slide 13 - **Online Learning - Preparation / Attendance**
 
-- Preparation (check Canvas Module for appropriate day)
+-   Preparation (check Canvas Module for appropriate day)
 
-- Pray!
-- Read sections in text and review slides
-- Complete HW assignment due that day (upload on Canvas by 11:59 pm)
+-   Pray!
 
-- Attendance (T/R, 3:00-4:20 am CST)
+-   Read sections in text and review slides
 
-- Log on 5 min prior
-- Devo / Howgozit / Prayer
-- Go through slides and work example problems (similar to in residence)
+-   Complete HW assignment due that day (upload on Canvas by 11:59 pm)
 
-- Tests
+-   Attendance (T/R, 3:00-4:20 am CST)
 
-- Same format as in residence, but online with open book
+-   Log on 5 min prior
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img12.png)
+-   Devo / Howgozit / Prayer
 
+-   Go through slides and work example problems (similar to in
+    residence)
+
+-   Tests
+
+-   Same format as in residence, but online with open book
+
+![](./Lessons%2017&18%20Phase%20Diagrams/img12.png)
 
 # Slide 14 - **Online Phase - HELP Still Available!!!**
 
-- Office Hours
+-   Office Hours
 
-- I’ll be up on MS Teams during normal times
-- Send me an email with requested times if you can’t meet during office hours
+-   I'll be up on MS Teams during normal times
 
-- SI
+-   Send me an email with requested times if you can't meet during
+    office hours
 
-- Taylor Johnson will be in touch
+-   SI
 
-- Tutoring
+-   Taylor Johnson will be in touch
 
-- Schedule online through TutorTrac
+-   Tutoring
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img13.png)
+-   Schedule online through TutorTrac
 
+![](./Lessons%2017&18%20Phase%20Diagrams/img13.png)
 
 # Slide 15 - **Devo/Prayer - COVID-19 vs God**
 
-- **Enemy Strategy (the loser):**
+-   **Enemy Strategy (the loser):**
 
-- “The god of this age has blinded the minds of unbelievers, so that they cannot see the light of the gospel that displays the glory of Christ, who is the image of God.” 2 Cor 4:4
-- “The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full.” Jn 10:10
+-   "The god of this age has blinded the minds of unbelievers, so that
+    they cannot see the light of the gospel that displays the glory of
+    Christ, who is the image of God." 2 Cor 4:4
 
-- **God’s Strategy (the winner):**
+-   "The thief comes only to steal and kill and destroy; I have come
+    that they may have life, and have it to the full." Jn 10:10
 
-- “You intended to harm me, but God intended it for good to accomplish what is now being done, the saving of many lives.” Gen 50:20
+-   **God's Strategy (the winner):**
 
-- **Our Role (be the winner’s hands and feet):**
+-   "You intended to harm me, but God intended it for good to accomplish
+    what is now being done, the saving of many lives." Gen 50:20
 
-- Put on the Armor of God (Eph 6:12-18)…PRAY!!!!!
-- “By this everyone will know that you are my disciples, if you **love one another**.” Jn 13:35
+-   **Our Role (be the winner's hands and feet):**
 
-_**In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven. Matthew 5:16**_
+-   Put on the Armor of God (Eph 6:12-18)...PRAY!!!!!
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img14.png)
+-   "By this everyone will know that you are my disciples, if you **love
+    one another**." Jn 13:35
 
+***In the same way, let your light shine before others, that they may
+see your good deeds and glorify your Father in heaven. Matthew 5:16***
 
-# Slide 16 - **Devo/Prayer - Jesus Calm’s the COVID-19 Storm**
+![](./Lessons%2017&18%20Phase%20Diagrams/img14.png)
 
-## A furious squall came up, and the waves broke over the boat, so that it was nearly swamped. _**Jesus was in the stern, sleeping on a cushion**_. The disciples woke him and said to him, "Teacher, don't you care if we drown?" _**He got up, rebuked the wind and said to the waves, "Quiet! Be still!"**_ Then the wind died down and it was completely calm. He said to his disciples, "Why are you so afraid? Do you still have no faith?" They were terrified and asked each other, _**"Who is this? Even the wind and the waves obey him!“**_ Mark 4:37-41
+# Slide 16 - **Devo/Prayer - Jesus Calm's the COVID-19 Storm**
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img15.png)
+## A furious squall came up, and the waves broke over the boat, so that it was nearly swamped. ***Jesus was in the stern, sleeping on a cushion***. The disciples woke him and said to him, "Teacher, don't you care if we drown?" ***He got up, rebuked the wind and said to the waves, "Quiet! Be still!"*** Then the wind died down and it was completely calm. He said to his disciples, "Why are you so afraid? Do you still have no faith?" They were terrified and asked each other, ***\"Who is this? Even the wind and the waves obey him!"*** Mark 4:37-41
 
+![](./Lessons%2017&18%20Phase%20Diagrams/img15.png)
 
 # Slide 17 - **Strength Through Storms Part 1 (Removing Idols)**
 
@@ -268,22 +282,25 @@ _**In the same way, let your light shine before others, that they may see your g
 
 ## Philippians 4:12
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img16.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img16.png)
 
 # Slide 18 - **Howgozit**
 
-- Are You Settled?
-- Equipment Check
+-   Are You Settled?
 
-- Computer w/mike and camera
-- MS Teams and Canvas Conversations
-- Smartphone
-- Scanner
+-   Equipment Check
 
-- Prayer Requests
+-   Computer w/mike and camera
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img17.png)
+-   MS Teams and Canvas Conversations
+
+-   Smartphone
+
+-   Scanner
+
+-   Prayer Requests
+
+![](./Lessons%2017&18%20Phase%20Diagrams/img17.png)
 
 # Slide 19
 
@@ -391,21 +408,21 @@ _**In the same way, let your light shine before others, that they may see your g
 
 **Dislocations and Strengthening Mechanisms**
 
-_**13**_
+***13***
 
-_**T**_
+***T***
 
-_**25 Feb**_
+***25 Feb***
 
-_**Failure**_
+***Failure***
 
-_**14**_
+***14***
 
-_**R**_
+***R***
 
-_**27 Feb**_
+***27 Feb***
 
-_**Failure**_
+***Failure***
 
 **15**
 
@@ -543,9 +560,10 @@ _**Failure**_
 
 **Final Exam**
 
-_**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
+***Rejoice always, pray continually, give thanks in all circumstances 1
+Thes 5:16-18***
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img18.png)
+![](./Lessons%2017&18%20Phase%20Diagrams/img18.png)
 
 # Slide 20
 
@@ -653,21 +671,21 @@ _**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5
 
 **Dislocations and Strengthening Mechanisms**
 
-_**13**_
+***13***
 
-_**T**_
+***T***
 
-_**25 Feb**_
+***25 Feb***
 
-_**Failure**_
+***Failure***
 
-_**14**_
+***14***
 
-_**R**_
+***R***
 
-_**27 Feb**_
+***27 Feb***
 
-_**Failure**_
+***Failure***
 
 **15**
 
@@ -689,17 +707,17 @@ _**Failure**_
 
 **Materials Engineering Journey (Online Phase)**
 
-_**R**_
+***R***
 
-_**26 Mar**_
+***26 Mar***
 
-_**Phase Diagrams**_
+***Phase Diagrams***
 
-_**T**_
+***T***
 
-_**31 Mar**_
+***31 Mar***
 
-_**Phase Diagrams**_
+***Phase Diagrams***
 
 **R**
 
@@ -757,56 +775,75 @@ _**Phase Diagrams**_
 
 **Final Exam**
 
-_**Rejoice always, pray continually, give thanks in all circumstances 1 Thes 5:16-18**_
+***Rejoice always, pray continually, give thanks in all circumstances 1
+Thes 5:16-18***
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img19.png)
+![](./Lessons%2017&18%20Phase%20Diagrams/img19.png)
 
 # Slide 21
 
 **ENGR2313 Materials Engineering Exam 3 Topics**
 
-**Three double sided 8.5X11” sheets of notes (Exam 1 sheet & Exam 2 sheets, plus one new sheet) - no prior exam problems**
+**Three double sided 8.5X11" sheets of notes (Exam 1 sheet & Exam 2
+sheets, plus one new sheet) - no prior exam problems**
 
-- **Chapter 9: Phase Diagrams**
-- Know meaning (describe in words) and appearance on phase diagram of
+-   **Chapter 9: Phase Diagrams**
 
-- Eutectic
-- Eutectoid
-- Peritectic
-- Hypoeutectic/hypereutectic
-- Hypoeutectoid/hypereutectoid
+-   Know meaning (describe in words) and appearance on phase diagram of
 
-- Predict and recognize phase structure micrographs based on component concentration and temperature (eg., hypoeutectic and hypereutectic)
-- Given a point on a phase diagram
+-   Eutectic
 
-- Identify the phases present
-- Identify the concentration of elements in each phase present
-- Calculate the WT% or WT fraction of each phase present
-- Recognize what proeutectic alpha (AKA primary alpha) is - I will not ask you to calculate it
-- Recognize the solubility limit of solvent alpha at various temperatures
+-   Eutectoid
 
-- **Chapter 10: Phase Transformations**
-- Phase Transformations
+-   Peritectic
 
-- Given a temperature and hold time, predict the amounts of each phase present (may be a multistep temper process)
-- Know which phase is preferred for qualitative ranges of hardness and ductility (spheroidite, course pearlite, fine perlite, bainite, temperered martensite, martensite)
+-   Hypoeutectic/hypereutectic
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img20.png)
+-   Hypoeutectoid/hypereutectoid
 
+-   Predict and recognize phase structure micrographs based on component
+    concentration and temperature (eg., hypoeutectic and hypereutectic)
+
+-   Given a point on a phase diagram
+
+-   Identify the phases present
+
+-   Identify the concentration of elements in each phase present
+
+-   Calculate the WT% or WT fraction of each phase present
+
+-   Recognize what proeutectic alpha (AKA primary alpha) is - I will not
+    ask you to calculate it
+
+-   Recognize the solubility limit of solvent alpha at various
+    temperatures
+
+-   **Chapter 10: Phase Transformations**
+
+-   Phase Transformations
+
+-   Given a temperature and hold time, predict the amounts of each phase
+    present (may be a multistep temper process)
+
+-   Know which phase is preferred for qualitative ranges of hardness and
+    ductility (spheroidite, course pearlite, fine perlite, bainite,
+    temperered martensite, martensite)
+
+![](./Lessons%2017&18%20Phase%20Diagrams/img20.png)
 
 # Slide 22 - **Phase Diagrams**
 
 **Why do they matter?**
 
-* When we combine two metal elements...
+-   When we combine two metal elements...
 
 what is the resulting equilibrium state?
 
-* In particular, if we specify...
+-   In particular, if we specify...
 
-\-\- the composition (e.g., wt% Cu - wt% Ni), and
+\-- the composition (e.g., wt% Cu - wt% Ni), and
 
-\-\- the temperature (T )
+\-- the temperature (T )
 
 then...
 
@@ -824,12 +861,11 @@ Nickel atom
 
 Copper atom
 
-_**What Material Properties Result?**_
+***What Material Properties Result?***
 
-- [**https://www.youtube.com/watch?v=qe6wc-jxOaM**](https://www.youtube.com/watch?v=qe6wc-jxOaM)
+-   [**https://www.youtube.com/watch?v=qe6wc-jxOaM**](https://www.youtube.com/watch?v=qe6wc-jxOaM)
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img21.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img21.png)
 
 # Slide 23 - **Phase Terminology**
 
@@ -841,20 +877,20 @@ water at 20ºC?
 
 Answer: 65 wt% sugar.
 
-At 20ºC, if C < 65 wt% sugar: syrup
+At 20ºC, if C \< 65 wt% sugar: syrup
 
-At 20ºC, if C > 65 wt% sugar:
+At 20ºC, if C \> 65 wt% sugar:
 
 syrup + sugar
 
 **65**
 
-* Solubility Limit:
+-   Solubility Limit:
 
 Maximum concentration for
 
-which only a single phase
-solution exists (how much **solute** can **solvent** hold?)
+which only a single phase solution exists (how much **solute** can
+**solvent** hold?)
 
 Sugar/Water Phase Diagram
 
@@ -892,7 +928,7 @@ Sugar/Water Phase Diagram
 
 **(liquid)**
 
-**\+**
+**+**
 
 **S**
 
@@ -924,12 +960,11 @@ Adapted from Fig. 9.1,
 
 Callister & Rethwisch 8e.
 
-* Solution - solid, liquid, or gas solutions, single phase
+-   Solution - solid, liquid, or gas solutions, single phase
 
-* Mixture - more than one phase
+-   Mixture - more than one phase
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img22.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img22.png)
 
 # Slide 24 - **Effect of Temperature & Composition**
 
@@ -985,9 +1020,9 @@ S
 
 sugar)
 
-* Altering T can change # of phases:
+-   Altering T can change \# of phases:
 
--  Altering C can change # of phases:
+-   Altering C can change \# of phases:
 
 water-
 
@@ -1015,18 +1050,17 @@ A (20ºC,C = 70)
 
 2 phases
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img23.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img23.png)
 
 # Slide 25 - **Components and Phases**
 
-* Components:
+-   Components:
 
 The elements or compounds which are present in the alloy
 
 (e.g., Al and Cu)
 
-* Phases:
+-   Phases:
 
 The physically and chemically distinct material regions
 
@@ -1054,10 +1088,10 @@ Phase - in
 
 this case)
 
-Adapted from chapter-opening photograph, Chapter 9, Callister, Materials Science & Engineering: An Introduction, 3e.
+Adapted from chapter-opening photograph, Chapter 9, Callister, Materials
+Science & Engineering: An Introduction, 3e.
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img24.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img24.png)
 
 # Slide 26 - **Criteria for Solid Solubility (vs intermetallic compound)**
 
@@ -1067,7 +1101,7 @@ Structure
 
 electroneg
 
-_r_ (nm)
+*r* (nm)
 
 Ni
 
@@ -1085,30 +1119,32 @@ FCC
 
 0.1278
 
--  Both have the same crystal structure (FCC) and have
-     similar electronegativities and atomic radii (W. Hume -
-     Rothery rules) suggesting high mutual solubility.
+-   Both have the same crystal structure (FCC) and have similar
+    electronegativities and atomic radii (W. Hume - Rothery rules)
+    suggesting high mutual solubility.
 
 Simple system (e.g., Ni-Cu solution)
 
--  Ni and Cu are totally soluble in one another for all proportions.
+-   Ni and Cu are totally soluble in one another for all proportions.
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img25.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img25.png)
 
 # Slide 27 - **Phase Diagrams**
 
-* Indicate phases as a function of T, C, and P.
+-   Indicate phases as a function of T, C, and P.
 
-* For this course:
+-   For this course:
 
 \- binary systems: just 2 components.
 
-\- independent variables: T and C ( **P = 1 atm is almost always used**).
+\- independent variables: T and C ( **P = 1 atm is almost always
+used**).
 
-Adapted from Fig. 9.3(a), Callister & Rethwisch 8e. (Fig. 9.3(a) is adapted from Phase Diagrams of Binary Nickel Alloys, P. Nash (Ed.), ASM International, Materials Park, OH (1991).
+Adapted from Fig. 9.3(a), Callister & Rethwisch 8e. (Fig. 9.3(a) is
+adapted from Phase Diagrams of Binary Nickel Alloys, P. Nash (Ed.), ASM
+International, Materials Park, OH (1991).
 
-* 2 phases:
+-   2 phases:
 
 L
 
@@ -1118,7 +1154,7 @@ a
 
 (solid solution)
 
-* 3 different phase fields:
+-   3 different phase fields:
 
 L
 
@@ -1176,8 +1212,7 @@ liquidus
 
 solidus
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img26.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img26.png)
 
 # Slide 28 - **Isomorphous Binary Phase Diagram**
 
@@ -1187,21 +1222,23 @@ phase
 
 diagram
 
-* Phase diagram:
+-   Phase diagram:
 
 Cu-Ni system.
 
-* System is:
+-   System is:
 
-Adapted from Fig. 9.3(a), Callister & Rethwisch 8e. (Fig. 9.3(a) is adapted from Phase Diagrams of Binary Nickel Alloys, P. Nash (Ed.), ASM International, Materials Park, OH (1991).
+Adapted from Fig. 9.3(a), Callister & Rethwisch 8e. (Fig. 9.3(a) is
+adapted from Phase Diagrams of Binary Nickel Alloys, P. Nash (Ed.), ASM
+International, Materials Park, OH (1991).
 
-\-\- binary
+\-- binary
 
 i.e., 2 components:
 
 Cu and Ni.
 
-\-\- isomorphous
+\-- isomorphous
 
 i.e., complete
 
@@ -1263,8 +1300,7 @@ liquidus
 
 solidus
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img27.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img27.png)
 
 # Slide 29 - **Phase Diagrams: Determination of phase(s) present**
 
@@ -1302,8 +1338,7 @@ L (liquid)
 
 a
 
-(FCC solid
-solution)
+(FCC solid solution)
 
 L
 
@@ -1321,11 +1356,11 @@ phase
 
 diagram
 
-* Rule 1: If we know T and Co, then we know:
+-   Rule 1: If we know T and Co, then we know:
 
-\-\- which phase(s) is (are) present.
+\-- which phase(s) is (are) present.
 
-* Examples:
+-   Examples:
 
 A(1100ºC, 60 wt% Ni):
 
@@ -1343,10 +1378,11 @@ B
 
 **A(1100ºC,60)**
 
-Adapted from Fig. 9.3(a), Callister & Rethwisch 8e. (Fig. 9.3(a) is adapted from Phase Diagrams of Binary Nickel Alloys, P. Nash (Ed.), ASM International, Materials Park, OH (1991).
+Adapted from Fig. 9.3(a), Callister & Rethwisch 8e. (Fig. 9.3(a) is
+adapted from Phase Diagrams of Binary Nickel Alloys, P. Nash (Ed.), ASM
+International, Materials Park, OH (1991).
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img28.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img28.png)
 
 # Slide 30 - **Phase Diagrams: Determination of phase compositions**
 
@@ -1390,11 +1426,11 @@ a
 
 Cu-Ni system
 
-* Rule 2: If we know T and C0, then we can determine:
+-   Rule 2: If we know T and C0, then we can determine:
 
-\-\- the composition of each phase.
+\-- the composition of each phase.
 
-* Examples:
+-   Examples:
 
 TA
 
@@ -1468,21 +1504,22 @@ C
 
 3
 
-Adapted from Fig. 9.3(a), Callister & Rethwisch 8e. (Fig. 9.3(a) is adapted from Phase Diagrams of Binary Nickel Alloys, P. Nash (Ed.), ASM International, Materials Park, OH (1991).
+Adapted from Fig. 9.3(a), Callister & Rethwisch 8e. (Fig. 9.3(a) is
+adapted from Phase Diagrams of Binary Nickel Alloys, P. Nash (Ed.), ASM
+International, Materials Park, OH (1991).
 
 B
 
 TB
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img29.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img29.png)
 
 # Slide 31 - **The Lever Rule**
 
-- Tie line - connects the phases in equilibrium with each other - also sometimes called an isotherm
+-   Tie line - connects the phases in equilibrium with each other - also
+    sometimes called an isotherm
 
-What fraction of each phase?
-Think of the tie line as a lever
+What fraction of each phase? Think of the tie line as a lever
 
 (teeter-totter)
 
@@ -1558,20 +1595,19 @@ C
 
 Adapted from Fig. 9.3(b), Callister & Rethwisch 8e.
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img30.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img30.png)
 
 # Slide 32 - **Phase Diagrams: Determination of phase weight fractions using Lever Rule**
 
-* Rule 3: If we know T and C0, then can determine:
+-   Rule 3: If we know T and C0, then can determine:
 
-\-\- the weight fraction of each phase.
+\-- the weight fraction of each phase.
 
-* Examples:
+-   Examples:
 
 At TA
 
-: Only Liquid (L) present
+:   Only Liquid (L) present
 
 WL = 1.00, Wa = 0
 
@@ -1691,7 +1727,7 @@ S
 
 R
 
-+
+-   
 
 S
 
@@ -1703,24 +1739,25 @@ R
 
 R
 
-+
+-   
 
 S
 
 Consider C0 = 35 wt% Ni
 
-Adapted from Fig. 9.3(a), Callister & Rethwisch 8e. (Fig. 9.3(a) is adapted from Phase Diagrams of Binary Nickel Alloys, P. Nash (Ed.), ASM International, Materials Park, OH (1991).
+Adapted from Fig. 9.3(a), Callister & Rethwisch 8e. (Fig. 9.3(a) is
+adapted from Phase Diagrams of Binary Nickel Alloys, P. Nash (Ed.), ASM
+International, Materials Park, OH (1991).
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img31.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img31.png)
 
 # Slide 33 - **Cored vs Equilibrium Structures**
 
-* Slow rate of cooling:
+-   Slow rate of cooling:
 
 Equilibrium structure
 
-* Fast rate of cooling:
+-   Fast rate of cooling:
 
 Cored structure
 
@@ -1730,11 +1767,11 @@ First a to solidify:
 
 Last a to solidify:
 
-< 35 wt% Ni
+\< 35 wt% Ni
 
-* Ca changes as we solidify.
+-   Ca changes as we solidify.
 
-* Cu-Ni case:
+-   Cu-Ni case:
 
 First a to solidify has Ca = 46 wt% Ni.
 
@@ -1744,8 +1781,7 @@ Uniform Ca:
 
 35 wt% Ni
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img32.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img32.png)
 
 # Slide 34 - **Example: Cooling of a Cu-Ni Alloy**
 
@@ -1809,13 +1845,13 @@ Cu-Ni
 
 system
 
-* Phase diagram:
+-   Phase diagram:
 
 Cu-Ni system.
 
 Adapted from Fig. 9.4, Callister & Rethwisch 8e.
 
-* Consider
+-   Consider
 
 microstuctural
 
@@ -1861,16 +1897,15 @@ E
 
 a: 35 wt% Ni
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img33.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img33.png)
 
 # Slide 35 - **Mechanical Properties: Cu-Ni System**
 
-* Effect of solid solution strengthening on:
+-   Effect of solid solution strengthening on:
 
-\-\- Tensile strength (TS)
+\-- Tensile strength (TS)
 
-\-\- Ductility (%EL)
+\-- Ductility (%EL)
 
 Adapted from Fig. 9.6(a), Callister & Rethwisch 8e.
 
@@ -1948,8 +1983,7 @@ for pure Cu
 
 Adapted from Fig. 9.6(b), Callister & Rethwisch 8e.
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img34.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img34.png)
 
 # Slide 36 - **Binary-Eutectic Systems**
 
@@ -1961,25 +1995,25 @@ with a min. melting T.
 
 Adapted from Fig. 9.7, Callister & Rethwisch 8e.
 
-* 3 single phase regions
+-   3 single phase regions
 
 (L, a, b)
 
-* Limited solubility:
+-   Limited solubility:
 
 a: mostly Cu
 
 b: mostly Ag
 
-* TE
+-   TE
 
 : No liquid below TE
 
-: Composition at
+:   Composition at
 
 temperature TE
 
-* CE
+-   CE
 
 Ex.: Cu-Ag system
 
@@ -1999,7 +2033,7 @@ a
 
 L
 
-+
+-   
 
 b
 
@@ -2059,22 +2093,21 @@ cooling
 
 heating
 
-* **Eutectic reaction**
+-   **Eutectic reaction**
 
 L(CE) (CE) + (CE)
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img35.png)
+![](./Lessons%2017&18%20Phase%20Diagrams/img35.png)
 
+# Slide 37 - **Microstructural Developments in Eutectic Systems - Case 1**
 
-# Slide 37 - **Microstructural Developments  in Eutectic Systems - Case 1**
+-   For alloys for which
 
-* For alloys for which
+C0 \< 2 wt% Sn
 
-C0 < 2 wt% Sn
+-   Result: at room temperature
 
-* Result: at room temperature
-
-\-\- polycrystalline with grains of
+\-- polycrystalline with grains of
 
 a phase having
 
@@ -2084,7 +2117,7 @@ composition C0
 
 L
 
-+
+-   
 
 a
 
@@ -2118,7 +2151,7 @@ a
 
 a
 
-+
+-   
 
 b
 
@@ -2142,20 +2175,19 @@ a: C0 wt% Sn
 
 Adapted from Fig. 9.11, Callister & Rethwisch 8e.
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img36.png)
+![](./Lessons%2017&18%20Phase%20Diagrams/img36.png)
 
+# Slide 38 - **Microstructural Developments in Eutectic Systems - Case 2**
 
-# Slide 38 - **Microstructural Developments  in Eutectic Systems - Case 2**
+-   For alloys for which
 
-* For alloys for which
+2 wt% Sn \< C0 \< 18.3 wt% Sn
 
-2 wt% Sn < C0 < 18.3 wt% Sn
-
-* Result:
+-   Result:
 
 at temperatures in a + b range
 
-\-\- polycrystalline with a grains
+\-- polycrystalline with a grains
 
 and small b-phase particles
 
@@ -2203,7 +2235,7 @@ a
 
 a
 
-+
+-   
 
 b
 
@@ -2229,21 +2261,19 @@ b
 
 a: C0 wt% Sn
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img37.png)
+![](./Lessons%2017&18%20Phase%20Diagrams/img37.png)
 
+# Slide 39 - **Microstructural Developments in Eutectic Systems - Case 3**
 
-# Slide 39 - **Microstructural Developments  in Eutectic Systems - Case 3**
+-   For alloy of composition C0 = CE
 
-* For alloy of composition C0 = CE
+-   Result: Eutectic microstructure (lamellar structure)
 
-* Result: Eutectic microstructure (lamellar structure)
-
-\-\- alternating layers (lamellae) of a and b phases (“pearlite”)
+\-- alternating layers (lamellae) of a and b phases ("pearlite")
 
 Adapted from Fig. 9.13, Callister & Rethwisch 8e.
 
-Adapted from Fig. 9.14,
-Callister & Rethwisch 8e.
+Adapted from Fig. 9.14, Callister & Rethwisch 8e.
 
 160 m
 
@@ -2313,21 +2343,19 @@ CE
 
 L: C0 wt% Sn
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img38.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img38.png)
 
 # Slide 40 - **Lamellar Eutectic Structure (Pearlite)**
 
 Adapted from Figs. 9.14 & 9.15, Callister & Rethwisch 8e.
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img39.png)
+![](./Lessons%2017&18%20Phase%20Diagrams/img39.png)
 
+# Slide 41 - **Microstructural Developments in Eutectic Systems - Case 4**
 
-# Slide 41 - **Microstructural Developments  in Eutectic Systems - Case 4**
+-   For alloys for which 18.3 wt% Sn \< C0 \< 61.9 wt% Sn
 
-* For alloys for which 18.3 wt% Sn < C0 < 61.9 wt% Sn
-
-* Result: a phase particles and a eutectic microconstituent
+-   Result: a phase particles and a eutectic microconstituent
 
 18.3
 
@@ -2389,9 +2417,9 @@ Wa
 
 = 0.50
 
-* Just above TE :
+-   Just above TE :
 
-* Just below TE :
+-   Just below TE :
 
 C
 
@@ -2435,7 +2463,7 @@ system
 
 L
 
-+
+-   
 
 
 
@@ -2467,7 +2495,7 @@ b
 
 L
 
-+
+-   
 
 
 
@@ -2475,7 +2503,7 @@ L
 
 
 
-+
+-   
 
 
 
@@ -2493,16 +2521,15 @@ L
 
 
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img40.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img40.png)
 
 # Slide 42 - **Eutectic, Eutectoid, & Peritectic (all transformations occur upon cooling)**
 
-- Eutectoid - one solid phase transforms to two other solid phases
+-   Eutectoid - one solid phase transforms to two other solid phases
 
 S2 S1+S3
 
-  \+ Fe3C (For Fe-C, 727ºC, 0.76 wt% C)
+  + Fe3C (For Fe-C, 727ºC, 0.76 wt% C)
 
 intermetallic compound - cementite
 
@@ -2510,26 +2537,26 @@ cool
 
 heat
 
-- Eutectic - liquid transforms to two solid phases
+-   Eutectic - liquid transforms to two solid phases
 
-## _L_  \+  (For Pb-Sn, 183ºC, 61.9 wt% Sn)
-
-cool
-
-heat
+## *L*  +  (For Pb-Sn, 183ºC, 61.9 wt% Sn)
 
 cool
 
 heat
 
-- Peritectic - liquid and one solid phase transform to a single solid phase
+cool
+
+heat
+
+-   Peritectic - liquid and one solid phase transform to a single solid
+    phase
 
 S1 + L S2
 
- \+ L  (For Fe-C, 1493ºC, 0.16 wt% C)
+ + L  (For Fe-C, 1493ºC, 0.16 wt% C)
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img41.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img41.png)
 
 # Slide 43 - **Eutectoid & Peritectic**
 
@@ -2541,25 +2568,24 @@ Eutectoid transformation   + 
 
 Peritectic transformation  + L 
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img42.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img42.png)
 
 # Slide 44 - **Intermetallic Compounds**
 
 **Mg2Pb**
 
-Note: intermetallic compound exists as a line on the diagram (distinct chemical formula rather than solid solution)
+Note: intermetallic compound exists as a line on the diagram (distinct
+chemical formula rather than solid solution)
 
 Adapted from
 
 Fig. 9.20, Callister & Rethwisch 8e.
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img43.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img43.png)
 
 # Slide 45 - **Iron-Carbon (Fe-C) Phase Diagram (steel & cast iron)**
 
-* 2 important
+-   2 important
 
 points
 
@@ -2571,7 +2597,7 @@ g
 
 a
 
-+
+-   
 
 Fe3C
 
@@ -2583,12 +2609,11 @@ L
 
 g
 
-+
+-   
 
 Fe3C
 
-Adapted from Fig. 9.24,
-Callister & Rethwisch 8e.
+Adapted from Fig. 9.24, Callister & Rethwisch 8e.
 
 Fe3C (cementite)
 
@@ -2642,7 +2667,7 @@ a
 
 a
 
-+
+-   
 
 g
 
@@ -2674,8 +2699,7 @@ and Fe3C phases
 
 120 mm
 
-(Adapted from Fig. 9.27,
-Callister & Rethwisch 8e.)
+(Adapted from Fig. 9.27, Callister & Rethwisch 8e.)
 
 0.76
 
@@ -2701,8 +2725,7 @@ a
 
 Intermetallic Compound
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img44.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img44.png)
 
 # Slide 46 - **Hypoeutectoid Steel**
 
@@ -2782,7 +2805,9 @@ C0
 
 Adapted from Figs. 9.24 and 9.29,Callister & Rethwisch 8e.
 
-(Fig. 9.24 adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1, T.B. Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 1990.)
+(Fig. 9.24 adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1,
+T.B. Massalski (Ed.-in-Chief), ASM International, Materials Park, OH,
+1990.)
 
 Adapted from Fig. 9.30, Callister & Rethwisch 8e.
 
@@ -2832,8 +2857,7 @@ g
 
 +
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img45.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img45.png)
 
 # Slide 47 - **Hypoeutectoid Steel**
 
@@ -2943,15 +2967,17 @@ pearlite
 
 Wpearlite = Wg
 
-Wa’ = S/(R + S)
+Wa' = S/(R + S)
 
-W =(1 - Wa’)
+W =(1 - Wa')
 
 Fe3C
 
 Adapted from Figs. 9.24 and 9.29,Callister & Rethwisch 8e.
 
-(Fig. 9.24 adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1, T.B. Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 1990.)
+(Fig. 9.24 adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1,
+T.B. Massalski (Ed.-in-Chief), ASM International, Materials Park, OH,
+1990.)
 
 Adapted from Fig. 9.30, Callister & Rethwisch 8e.
 
@@ -2965,8 +2991,7 @@ Hypoeutectoid
 
 steel
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img46.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img46.png)
 
 # Slide 48 - **Hypereutectoid Steel**
 
@@ -3034,7 +3059,9 @@ T(ºC)
 
 a
 
-Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24 adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1, T.B. Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 1990.)
+Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24
+adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1, T.B.
+Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 1990.)
 
 (Fe-C
 
@@ -3086,8 +3113,7 @@ pearlite
 
 +
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img47.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img47.png)
 
 # Slide 49 - **Hypereutectoid Steel**
 
@@ -3189,7 +3215,7 @@ Wa = X/(V + X)
 
 W =(1 - Wa)
 
-Fe3C’
+Fe3C'
 
 W =(1-Wg)
 
@@ -3209,30 +3235,30 @@ steel
 
 **pearlite**
 
-Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24 adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1, T.B. Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 1990.)
+Adapted from Figs. 9.24 and 9.32,Callister & Rethwisch 8e. (Fig. 9.24
+adapted from Binary Alloy Phase Diagrams, 2nd ed., Vol. 1, T.B.
+Massalski (Ed.-in-Chief), ASM International, Materials Park, OH, 1990.)
 
 +
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img48.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img48.png)
 
 # Slide 50 - **Example Problem**
 
 ## For a 99.6 wt% Fe-0.40 wt% C steel at a temperature just below the eutectoid, determine the following:
 
-- The compositions of Fe3C and ferrite ().
-- The amount of cementite (in grams) that forms in 100 g of steel.
-- The amounts of pearlite () and proeutectoid ferrite () in the 100 g.
+-   The compositions of Fe3C and ferrite ().
+-   The amount of cementite (in grams) that forms in 100 g of steel.
+-   The amounts of pearlite () and proeutectoid ferrite () in the
+    100 g.
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img49.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img49.png)
 
 # Slide 51 - **Solution to Example Problem**
 
-- Using the lever rule with
-    the tie line shown
+-   Using the lever rule with the tie line shown
 
-a) Using the _RS_ tie line just below the eutectoid
+a)  Using the *RS* tie line just below the eutectoid
 
 Fe3C (cementite)
 
@@ -3298,8 +3324,7 @@ T(ºC)
 
 C0 = 0.4 wt% C
 
-Ca = 0.022 wt% C
-C **Fe3C** = 6.70 wt% C
+Ca = 0.022 wt% C C **Fe3C** = 6.70 wt% C
 
 **C0**
 
@@ -3321,16 +3346,13 @@ Amount of Fe3C in 100 g
 
 +
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img50.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img50.png)
 
 # Slide 52 - **Solution to Example Problem (cont.)**
 
-## c) Using the _VX_ tie line just above the eutectoid and realizing that
+## c) Using the *VX* tie line just above the eutectoid and realizing that
 
-C0 = 0.40 wt% C
-Ca = 0.022 wt% C
-Cpearlite = C = 0.76 wt% C
+C0 = 0.40 wt% C Ca = 0.022 wt% C Cpearlite = C = 0.76 wt% C
 
 Fe3C (cementite)
 
@@ -3412,14 +3434,15 @@ Amount of pearlite in 100 g
 
 +
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img51.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img51.png)
 
 # Slide 53 - **Alloying with Other Elements**
 
-* Teutectoid changes:
+-   Teutectoid changes:
 
-Adapted from Fig. 9.34,Callister & Rethwisch 8e. (Fig. 9.34 from Edgar C. Bain, Functions of the Alloying Elements in Steel, American Society for Metals, 1939, p. 127.)
+Adapted from Fig. 9.34,Callister & Rethwisch 8e. (Fig. 9.34 from Edgar
+C. Bain, Functions of the Alloying Elements in Steel, American Society
+for Metals, 1939, p. 127.)
 
 T
 
@@ -3443,11 +3466,13 @@ Cr
 
 Mn
 
-* Ceutectoid changes (rel amt of
+-   Ceutectoid changes (rel amt of
 
 pearlite/proeutectoid):
 
-Adapted from Fig. 9.35,Callister & Rethwisch 8e. (Fig. 9.35 from Edgar C. Bain, Functions of the Alloying Elements in Steel, American Society for Metals, 1939, p. 127.)
+Adapted from Fig. 9.35,Callister & Rethwisch 8e. (Fig. 9.35 from Edgar
+C. Bain, Functions of the Alloying Elements in Steel, American Society
+for Metals, 1939, p. 127.)
 
 wt. % of alloying elements
 
@@ -3471,47 +3496,44 @@ W
 
 Mo
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img52.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img52.png)
 
 # Slide 54 - **Modern Solder Alloys**
 
-- Lead Free SMT (Surface Mount Technology)
+-   Lead Free SMT (Surface Mount Technology)
 
-96.5Sn/3.0Ag/0.05Cu “SAC305”
+96.5Sn/3.0Ag/0.05Cu "SAC305"
 
 TLiquidus=217⁰C, TSolidus=220⁰C
 
--  Lead Free Wave Solder (Through Hole Technology)
+-   Lead Free Wave Solder (Through Hole Technology)
 
 99.3Sn/0.7Cu TEutectic= 227⁰C
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img53.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img53.png)
 
 # Slide 55 - **Summary**
 
-* Phase diagrams are useful tools to determine:
+-   Phase diagrams are useful tools to determine:
 
-\-\- Number and types of phases present,
+\-- Number and types of phases present,
 
-\-\- Composition of each phase,
+\-- Composition of each phase,
 
-\-\- Weight fraction of each phase
+\-- Weight fraction of each phase
 
 given the temperature and composition of the system.
 
-* The microstructure of an alloy depends on
+-   The microstructure of an alloy depends on
 
-\-\- Its composition
+\-- Its composition
 
-\-\- Whether or not cooling rate allows for maintenance of
-equilibrium
+\-- Whether or not cooling rate allows for maintenance of equilibrium
 
-* Important phase diagram phase transformations include
-eutectic, eutectoid, and peritectic.
+-   Important phase diagram phase transformations include eutectic,
+    eutectoid, and peritectic.
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img54.png)
+![](./Lessons%2017&18%20Phase%20Diagrams/img54.png)
 
 # Slide 56
 
@@ -3523,30 +3545,29 @@ eutectic, eutectoid, and peritectic.
 
 **Optical Image Cold Worked with Partial Recrystallization**
 
-~100X
+\~100X
 
-~300X
+\~300X
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img55.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img55.png)
 
 # Slide 57 - **EX 1: Pb-Sn Eutectic System**
 
 L
 
-+
+-   
 
 a
 
 L
 
-+
+-   
 
 b
 
 a
 
-+
+-   
 
 b
 
@@ -3584,9 +3605,9 @@ a
 
 b
 
-* For a 40 wt% Sn-60 wt% Pb alloy at 150ºC, determine:
+-   For a 40 wt% Sn-60 wt% Pb alloy at 150ºC, determine:
 
-\-\- the phases present
+\-- the phases present
 
 Pb-Sn
 
@@ -3594,10 +3615,9 @@ system
 
 **Answer:** a + b
 
-\-\- the phase compositions
+\-- the phase compositions
 
-\-\- the relative amount
-of each phase
+\-- the relative amount of each phase
 
 150
 
@@ -3685,24 +3705,23 @@ R+S
 
 Adapted from Fig. 9.8, Callister & Rethwisch 8e.
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img56.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img56.png)
 
 # Slide 58 - **EX 2: Pb-Sn Eutectic System**
 
 **Answer:** Ca = 17 wt% Sn
 
-\-\- the phase compositions
+\-- the phase compositions
 
 L
 
-+
+-   
 
 b
 
 a
 
-+
+-   
 
 b
 
@@ -3740,16 +3759,15 @@ a
 
 183ºC
 
-* For a 40 wt% Sn-60 wt% Pb alloy at 220ºC, determine:
+-   For a 40 wt% Sn-60 wt% Pb alloy at 220ºC, determine:
 
-\-\- the phases present:
+\-- the phases present:
 
 Pb-Sn
 
 system
 
-\-\- the relative amount
-of each phase
+\-- the relative amount of each phase
 
 W
 
@@ -3817,5 +3835,4 @@ CL = 46 wt% Sn
 
 Adapted from Fig. 9.8, Callister & Rethwisch 8e.
 
-![](./Lessons\ 17&18\ Phase\ Diagrams/img57.png)
-
+![](./Lessons%2017&18%20Phase%20Diagrams/img57.png)

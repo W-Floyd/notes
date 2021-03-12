@@ -1,18 +1,17 @@
 # Specific Heat
 
-Specific heat is the heat energy required to raise the temperature of a substance (per unit mass) by one degree Celsius.
+Specific heat is the heat energy required to raise the temperature of a
+substance (per unit mass) by one degree Celsius.
 
-$c_p$ is specific heat at a constant pressure.
-$c_v$ is specific heat at a constant volume.
-$$
+$c_p$ is specific heat at a constant pressure. $c_v$ is specific heat at
+a constant volume. $$
 \begin{aligned}
 c_{v} &=\left(\frac{\partial u}{\partial T}\right)_{v} \\
 c_{p} &=\left(\frac{\partial h}{\partial T}\right)_{p}
 \end{aligned}
 $$
 
-For an ideal gas:
-$$
+For an ideal gas: $$
 c_{p}(T)=c_{v}(T)+R
 $$
 
@@ -35,8 +34,8 @@ h\left(T_{2}\right)-h\left(T_{1}\right)=c_{p}\left(T_{2}-T_{1}\right)
 $$
 
 ## Specific Heat Ratio
-For an ideal gas
-$$
+
+For an ideal gas $$
 k=\frac{c_{p}(T)}{c_{v}(T)}
 $$
 

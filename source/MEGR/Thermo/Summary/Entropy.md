@@ -36,5 +36,5 @@ $$
 
 ## Turbine
 
-Max power from turbine can be found assuming it is reversible, which means that $s_1=s_2$.
-Match across to find $h_{2s}$.
+Max power from turbine can be found assuming it is reversible, which
+means that $s_1=s_2$. Match across to find $h_{2s}$.

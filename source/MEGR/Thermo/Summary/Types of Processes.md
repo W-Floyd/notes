@@ -1,22 +1,22 @@
 # Types of Processes
 
-## Iso- 
+## Iso-
 
-Constant 
+Constant
 
-### -thermal 
+### -thermal
 
-Temperature 
+Temperature
 
-### -baric 
+### -baric
 
-Pressure 
+Pressure
 
-### -tropic 
+### -tropic
 
-Direction 
+Direction
 
-### -choric (-volumetric, -metric) 
+### -choric (-volumetric, -metric)
 
 Volume
 
@@ -30,18 +30,24 @@ $$
 \frac{p_{2}}{p_{1}}=\frac{p_{\mathrm{r} 2}}{p_{\mathrm{r} 1}}
 $$
 
-where $p_{\mathrm{r} 1}=p_{\mathrm{r}}\left(T_{1}\right)$ and $p_{\mathrm{r} 2}=p_{\mathrm{r}}\left(T_{2}\right) .$ The function $p_{\mathrm{r}}$ is sometimes called the relative pressure. Observe that $p_{\mathrm{r}}$ is not truly a pressure, so the name relative pressure has no physical significance. Also, be careful not to confuse $p_{\mathrm{r}}$ with the reduced pressure of the compressibility diagram.
+where $p_{\mathrm{r} 1}=p_{\mathrm{r}}\left(T_{1}\right)$ and
+$p_{\mathrm{r} 2}=p_{\mathrm{r}}\left(T_{2}\right) .$ The function
+$p_{\mathrm{r}}$ is sometimes called the relative pressure. Observe that
+$p_{\mathrm{r}}$ is not truly a pressure, so the name relative pressure
+has no physical significance. Also, be careful not to confuse
+$p_{\mathrm{r}}$ with the reduced pressure of the compressibility
+diagram.
 
 Find $p_{\mathrm{r}}$ in Table A-22.
 
-## Adiabatic 
+## Adiabatic
 
-No heat transfer 
+No heat transfer
 
-## Aergonic (cannot find online) 
+## Aergonic (cannot find online)
 
 No work transfer
 
-## Throttling 
+## Throttling
 
 No change in enthalpy, so match values for change in pressure.
