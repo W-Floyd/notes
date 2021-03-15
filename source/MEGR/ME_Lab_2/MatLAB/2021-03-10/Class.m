@@ -10,5 +10,4 @@ tspan=[0:0.1:20];
 figure()
 plot(t,x(:,1))
 
-exceldata=[]
 
