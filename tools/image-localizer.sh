@@ -13,8 +13,14 @@ grep -rEl '!\[[^]]*\]\([http|https][^)]*\)' | while read -r __file; do
         __output="${__img_dir}/${__hash}.${__link/*./}"
         sed -e "s|${__link}|!imgdir/${__hash}.${__link/*./}|g" -i "${__file}"
         curl "${__link}" -o "${__output}"
+        echo "${__link} ${__output}" >> "${__img_dir}/.links"
     done
 done
+
+__tmp_file="$(mktemp)"
+sort "${__img_dir}/.links" | uniq > "${__tmp_file}"
+rm "${__img_dir}/.links"
+mv "${__tmp_file}" "${__img_dir}/.links"
 
 find "${__img_dir}" -type f -not -iname '\.*' |
     sed -e 's|.*/||' |

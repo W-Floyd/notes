@@ -1,9 +1,8 @@
 ---
 author: William Floyd
-date: 2021-02-22
+date: "2021-02-22"
 fontsize: 11pt
 header-includes: |
-  ```{=tex}
   \usepackage{helvet}
   \renewcommand{\familydefault}{\sfdefault}
   \usepackage[margin=1in]{geometry}
@@ -18,36 +17,12 @@ header-includes: |
   \fancyhead[CE,CO]{}
   \usepackage{setspace}
   \doublespacing
-  ```
 include-before: |
-  ```{=tex}
   \newpage
-  ```
 subtitle: "A Christian Approach to Engineering Leadership
-  (ENGR6103)`\\linebreak `{=tex}Dr. Anson`\\linebreak`{=tex}"
+  (ENGR6103)\\linebreak Dr. Anson\\linebreak"
 title: The 17 Essential Qualities of a Team Player
 ---
-
-```{=tex}
-\usepackage{helvet}
-\renewcommand{\familydefault}{\sfdefault}
-\usepackage[margin=1in]{geometry}
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\renewcommand{\headrulewidth}{0pt}
-\fancyfoot[LO,LE]{William Floyd}
-\fancyfoot[RE,RO]{Pg. \thepage}
-\fancyfoot[CE,CO]{}
-\fancyhead[RE,RO]{}
-\fancyhead[LE,LO]{}
-\fancyhead[CE,CO]{}
-\usepackage{setspace}
-\doublespacing
-```
-
-```{=tex}
-\newpage
-```
 
 #### Adaptable
 
