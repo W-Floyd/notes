@@ -1,5 +1,7 @@
 #!/bin/bash
 
+export IGNORE_SUMMARY='true'
+
 __date() {
     date '+%Y-%m-%d %k:%M:%S'
 }

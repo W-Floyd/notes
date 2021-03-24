@@ -77,9 +77,13 @@ else
 fi
 
 readarray -t __source_files < <(
-    find "${__source_dir}" -iname '*.md' -not -iname '\.*' | while read -r __file; do
-        echo "${__file}"
-    done
+    find "${__source_dir}" -iname '*.md' -not -iname '\.*' | (
+        if [ "${IGNORE_SUMMARY}" == 'true' ]; then
+            grep -v 'Summary'
+        else
+            cat
+        fi
+    )
 )
 
 readarray -t __target_files < <(
