@@ -332,6 +332,7 @@ $endif$
 \NiceMatrixOptions{transparent}
 \DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
 \let\scr\mathpzc
+\usepackage{booktabs}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 $for(header-includes)$
