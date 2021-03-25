@@ -33,7 +33,6 @@ coeff1=polyfit(fan_freq,velocity_mph,1)
 f2=figure()
 
 plot(fan_freq,velocity_mph)
-plot(fan_freq,coeff1)
 xlabel('Fan Frequency (Hz)')
 ylabel("Velocity (mph)")
 title('Fan Frequency vs. Air Velocity')
