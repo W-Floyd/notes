@@ -1,0 +1,11 @@
+What impact will an unanticipated increase in the money supply have on the real interest rate, real output, and employment in the short run? How will expansionary monetary policy affect these factors in the long run? Explain.
+
+# Answer
+
+<!-- An unanticipated increase in the money supply is due to the Federal Reserve buying more bonds, resulting in increased resources for the banks. This increase in money supply will cause the real interest rates to fall. This promotes more spending and investment by businesses and individuals. Aggregate demand will increase when money supply increases. Because of the unexpected increase in money supply, the rise in aggregate demand will cause a short-run increase in output. Not only will output increase, but employment will rise as well. The lower interest rates will cause financial capital to move abroad and the net exports will grow. This, expectedly, due to the depreciation of the dollar because of increase in asset pricing, will produce inflation. The unanticipated increase in the money supply will have long-run affects as well. Because of the rise in aggregate demand, the long-run aggregate supply will increase, directing the economy to the goal of full-employment. However, if the economy is at full-employment, the rise of money supply will push the aggregate demand and the short-run aggregate supply to the right resulting in higher prices. The higher prices then push the short-run aggregate supply back to equilibrium at full employment.  -->
+
+An unanticipated increase in the money supply will cause the real interest rate to fall, as the federal reserve is buying back more bonds.
+This reduction in interest rate will result in an increase in spending and investment as the opportunity cost of not putting money in bonds or the bank is low.
+This will create a short term increase in output, and employment, with a tendency toward moving funds overseas to more attractive markets that will yield better interest rates.
+The value of the dollar will decrease also, meaning that more goods will be exported as they are cheaper to foreign markets than prior.
+This temporary rise in demand will result in full-employment, which in turn will increase prices and so bring supply and demand back into equilibrium.

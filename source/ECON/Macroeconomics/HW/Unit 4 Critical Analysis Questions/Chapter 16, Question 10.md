@@ -1,0 +1,13 @@
+What impact do natural resources have on economic growth? Will it be possible for a country with few natural resources to grow rapidly? Why or why not?
+
+# Answer
+
+<!-- Natural resources may or may not have a positive impact on the economy. Some natural resources such as oil may greatly help a country’s economy, as in the case of Saudi Arabia. However, some countries with large amounts of natural resources are still considerably poor, such as a Nigeria, Venezuela, and Bolivia. In many cases this is a result of a country not having the technology or factories to take the raw material and make it into a very profitable product, rather they simply export the raw material. This a result of not having sound policies that enable growth and high-income levels. In addition, countries abundant in natural resources often face conflict, as people seek political power through the manipulation and control of these resources. On the other hand, there are some countries such as Japan, South Korea, and Singapore that have very few natural resources but maintain a very strong economy. This is achieved through technological advancements and producing marketable products from the resources that are imported. This a result of a having very good, well established policies that promote growth through the development of marketable products. -->
+
+The availability of natural resources do not necessarily help a country's economy, as the means to effectively utilize them are not always available, or not available to those that most benefit the country.
+This means that the raw materials are often exported instead of utilized in manufacturing in country, which would use local labor to add value to the product.
+Often, a great abundance of natural resources results in a power struggle for those who get to determine the buyer, leading to corruption and under-the-table deals.
+For example, in Papua New Guinea, over [70% of logging exports are illegal](https://wwf.panda.org/discover/knowledge_hub/where_we_work/new_guinea_forests/problems_forests_new_guinea/deforestation_forests_new_guinea/logging_forests_new_guinea/), exported largely by Malaysian logging companies.
+Bribes paid to those in power result in a blind eye turned towards these illegal exploits.
+It is, however, possible for natural resources to play a positive role in an economy, but it must be managed well in order to provide a long term benefit.
+Additionally, countries will poor natural resources may still experience growth - ultimately it will be due to well planned and implemented policies that economies will experience sustained growth and prosperity.

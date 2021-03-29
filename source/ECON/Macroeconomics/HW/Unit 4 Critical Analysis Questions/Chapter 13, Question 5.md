@@ -1,0 +1,13 @@
+Why are banks able to maintain reserves that are only a fraction of the demand and saving deposits of their customers? Is your money safe in a bank? Why or why not?
+
+# Answer
+
+<!-- Banks are not simply a place to house customers money, rather they are savings and loan institutions, credit unions, and commercial banks. Large interest interest-earning loans make up the major class of banking assets. Banks use the deposits entrusted to them from their customers to finance their own investments in stocks and government bonds. However, banks are required to keep some cash reserves in house when people wish to withdraw money from their checking deposits. At the end of the “Roaring 20s” and during the Great Depression thousands of banks failed because the customers lost faith in the bank and everyone attempted to pull their money, resulting in a detrimental “bank run.” Now this is prevented because the customers deposits are now insured by the Federal Deposit Insurance Corporation, that will reimburse the customer up to $250,000 if the bank fails. Therefore, customer, with less than $250,000 in deposits is guaranteed a return on all their money regardless of the failure of the bank. This creates confidence in the banking system and stability in the economy. -->
+
+Banks are able to maintain a reserve that is smaller than the demand and savings by relying on the unlikelihood of all customers withdrawing all funds at the same time.
+Additionally, should this occur, a central bank that does keep large amounts of cash reserves will lend to the bank to allow them to fulfill the withdrawal requests if they are greater than their cash reserves.
+Banks are, however, required to maintain a minimum "Required Reserve" - the required amount of deposited money to be kept on hand.
+Banks runs are when a large number of customers lose confidence in a bank and attempt to withdraw money at the same time, resulting in the failure of the bank.
+This happened often during the 20's and 30's, resulting in the formation of the FDIC (Federal Deposit Insurance Corporation), which insures depositors up to a limit (currently $250,000 per account).
+This helped to stabilize the economy, and bring trust back into the banking system, if not individual banks.
+Money then is not necessarily "safe" in that specific bank, but the guarantees of the FDIC mean that customers can trust that they will be able to withdraw their money eventually.

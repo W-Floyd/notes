@@ -6,6 +6,13 @@ __img_temp='img'
 
 __quiet='true'
 
+if [ "${#}" == 0 ]; then
+    # __output_formats=('pdf' 'html')
+    __output_formats=('pdf')
+else
+    __output_formats=${@}
+fi
+
 __hash() {
     echo -n "${__export_version}"
     cat | md5sum
@@ -67,13 +74,6 @@ find "${__target_dir}" \( -name "*.sh" -or -name "*.md" \) \( -type l -o -type f
 
 if ! [ -d "${__hash_dir}" ]; then
     mkdir "${__hash_dir}"
-fi
-
-if [ "${#}" == 0 ]; then
-    # __output_formats=('pdf' 'html')
-    __output_formats=('pdf' 'md')
-else
-    __output_formats=${@}
 fi
 
 readarray -t __source_files < <(
@@ -193,8 +193,6 @@ for n in $(seq 0 $((${#__source_scripts[@]} - 1))); do
     __hash_file_local="${__top_dir}/${__hash_scripts[${n}]}"
     __old_file_local="${__top_dir}/$(sed -e "s|^${__target_dir}|${__target_temp_dir}|" <<<"${__target_scripts[${n}]}")"
     mkdir -p "${__target_dir_local}"
-
-    ln -s "${__source_file_local}" "${__target_file_local}.sh"
 
     pushd "${__source_dir_local}" &>/dev/null && {
 
