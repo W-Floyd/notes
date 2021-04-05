@@ -1,0 +1,9 @@
+Suppose that a very high tariff was placed on steel imported into the United States. How would that affect employment in the U.S. auto industry? (Hint: Think about how higher steel prices will impact the cost of producing automobiles.)
+
+# Solution
+
+<!-- If a very high tariff was placed on steel imported into the United States, then the U.S. customer would have to purchase the steel for more than the world market price. Because of the elevated price, the purchases of the steel will decrease causing a decrease in the demand. Domestic producers and the government benefit from the tariffs and the domestic output increases because of higher market prices. If the tariffs were not imposed there would be more customer and producer surpluses. This results in producing fewer products in areas where there could have been an advantage. For example, if the steel were to be used to build cars in the United States, higher tariffs on imported steel would cause the market price of steel to rise. Car manufactures would have to raise the price of cars because of the new market value of steel. As a result, fewer cars would be bought at the elevated price. This system may benefit manufactures using domestic steel sold at a lower price. However, if there is a decrease in cars sold then it will have a negative impact on the economy. Due to the need for companies to reallocate funds and the decrease in production, employment will decrease. -->
+
+Employment in the auto industry would fall as a result of increased steel prices, as the price increase would result in higher local steel prices, and as such, increased cost of locally produced vehicles.
+With increased price would come decreased demand, resulting in less employment in order to fulfill this demand.
+Though local steel manufacturers would benefit from the pricing, the car industry would suffer, as would consumers buying locally manufactured cars.

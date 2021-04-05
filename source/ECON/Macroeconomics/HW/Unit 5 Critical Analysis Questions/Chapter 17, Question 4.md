@@ -1,0 +1,9 @@
+What conditions must be present for a country to achieve a high score on the Economic Freedom of the World (EFW) index?
+
+# Answer
+
+<!-- In order for a country to have economic freedom it must have institutions and policies supportive of voluntary exchange, market allocation, the freedom to compete, and the protection of people and their property that in unison create economic growth through trade, entrepreneurial discovery, and investment. Economic freedom allows individuals to choose for themselves how to use or invest the resources that they possess and protect against the theft of private property. The Economic Freedom of the World index measures the consistency of the nation’s institutions and policies with personal choice, freedom of exchange, open markets, and protection of private property. To achieve a high score on the Economic Freedom of the World index a country must provide secure protection of privately owned property, evenhanded enforcement of contracts, and a stable monetary environment, must keep taxes low, refrain from creating barriers to both domestic and international trade, and rely more fully on markets rather than government to allocate goods and resources. To rank in the top-rated countries, a country would have to maintain economic freedom through its institutions and policies.  -->
+
+For a country to have economic freedom, it must have laws and structure that protect, facilitate and encourage free trade, property rights, and fair law enforcment.
+If the safety of trade can be guaranteed, more trade will occur, generating the country more benefit and encouraging investment.
+Allowing markets to allocate goods instead of government control, while still providing a steady market allows business to continue at a greater rate.
