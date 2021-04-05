@@ -18,7 +18,7 @@ pushd "${__dir}" &>/dev/null
 if [ -d "./${__name}" ]; then
     pushd "./${__name}" &>/dev/null
     echo "---
-title: \"$(sed -e 's/\([0-9]\)/ \1/' <<< "${__name}")\"
+title: \"$(sed -e 's/\([0-9]\)/ \1/' <<<"${__name}")\"
 subtitle: \"${subject}\\\\linebreak ${professor}\"
 documentclass: article
 date: \"$(__date)\"
@@ -34,7 +34,15 @@ header-includes: |
 ---
 "
     find . -iname '*.md' | sort -V | while read -r __file; do
-        echo "# Problem $(sed -e 's|^\./||' -e 's|\.md$||' <<<"${__file}")"
+        __prefix_problem='true'
+        if grep -q ',' <<<"${__file}" || grep -qi 'Question' <<<"${__file}" || grep -qi 'Problem' <<<"${__file}"; then
+            __prefix_problem='false'
+        fi
+        if [ "${__prefix_problem}" == 'true' ]; then
+            echo "# Problem $(sed -e 's|^\./||' -e 's|\.md$||' <<<"${__file}")"
+        else
+            echo "# $(sed -e 's|^\./||' -e 's|\.md$||' <<<"${__file}")"
+        fi
         cat "${__file}" | sed 's/^#/##/'
         echo
         echo
