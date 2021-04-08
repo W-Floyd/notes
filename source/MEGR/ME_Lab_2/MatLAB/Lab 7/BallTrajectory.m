@@ -1,14 +1,16 @@
-function zdot = BallTrajectory (t,z,w)
+function zdot = BallTrajectory (t,z)
   
   % Coefficients for a soccer ball
-D = 0.7; %diameter in ft.
-M = 0.029; % mass in slugs
-rho = 0.00234; % density in slugs/ft^3
-g = 32.2; % acceleration due to gravity in ft/s^2
+D = 0.190986; %diameter in m
+M = 0.435; % mass in kg
+V = 0.005482 % Volume in m^3
+rho = M/V; % density in slugs/ft^3
+g = 9.81; % acceleration due to gravity in ft/s^2
 A_p = pi*D^2/4;
+w = 6.4.*0.44704;
 
 % !!!!!!!!!!!!!!!
-C_D = 0.9; % DRAG COEFFICIENT, MODIFY THIS WITH YOUR VALUE!!!!!
+C_D = 0.18; % DRAG COEFFICIENT, MODIFY THIS WITH YOUR VALUE!!!!!
 % !!!!!!!!!!!!!!!
     
   
