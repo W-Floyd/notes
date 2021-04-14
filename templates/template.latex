@@ -333,6 +333,7 @@ $endif$
 \DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
 \let\scr\mathpzc
 \usepackage{booktabs}
+\usepackage{bm}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 $for(header-includes)$
