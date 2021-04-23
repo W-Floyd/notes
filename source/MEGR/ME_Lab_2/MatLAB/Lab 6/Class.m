@@ -6,7 +6,7 @@ set(0,'DefaultFigureVisible','off');
 xx=[0:0.1:50];
 xx2=[-2.5:0.05:0.25];
 
-data=dlmread('data.csv',',',1,0)
+data=dlmread('data_launch.csv',',',1,0)
 
 fan_freq=data(:,1)
 pressure_difference_in_h2o=data(:,2)

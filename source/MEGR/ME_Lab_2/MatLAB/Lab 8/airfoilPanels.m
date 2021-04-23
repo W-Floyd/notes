@@ -12,9 +12,6 @@ lsx = usx;
 usy = [0,0.146,0.203,0.284,0.346,0.395,0.473,0.528,0.565,0.586,0.588,0.551,0.488,0.401,0.293,0.163,0.088,0.000];
 lsy = [0,-0.086,-0.117,-0.149,-0.164,-0.172,-0.173,-0.164,-0.150,-0.136,-0.108,-0.084,-0.060,-0.039,-0.023,-0.013,-0.010,0];
 
-figure()
-plot(usx,usy,lsx,lsy)
-
 % Panel Nodes 16 panels with 16 different pressures
 Panels = [0.075,0.075;
     0.075, 0.225;
@@ -59,12 +56,4 @@ for k = 1:length(Panels)
     
 end
 
-
-% Panels(columns) = [Leading node, trailing node, panel length, lead node y, 
-% trail node y, panel angle]
-hold on
-plot(Panels(:,1),Panels(:,4),'ro',Panels(:,2),Panels(:,5),'bx')
-legend('Top','Bottom','LeadPanel Node','TrailPanel Node')
-title('Note, front port counts as an upper panel.')
-axis([0,6.1,-.2,.6])
-
+save Panels Panels
