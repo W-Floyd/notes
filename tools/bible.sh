@@ -20,20 +20,30 @@ rawurlencode() {
     REPLY="${encoded}" #+or echo the result (EASIER)... or both... :p
 }
 
-__input="$(sed -e 's/ /+/g' <<<"${@}")"
+__translation="ESV"
 
-__api_key='2a8bd246094b42b9a27440056aed74fd9cf6ca47'
+if [ "${1}" == '-t' ]; then
+    shift
+    __translation="${1}"
+    shift
+fi
 
-__response="$(
-    "${__script_dir}/bashcache.sh" curl \
-        -H "Authorization: Token ${__api_key}" \
-        -e '' "https://api.esv.org/v3/passage/text/?include-passage-references=false&include-short-copyright=false&include-verse-numbers=false&include-headings=false&include-footnotes=false&q=${__input}" -s
-)"
+__ESV() {
 
-__parsed="$(
+    __input="$(sed -e 's/ /+/g' <<<"${@}")"
+
+    __api_key='2a8bd246094b42b9a27440056aed74fd9cf6ca47'
+
+    __response="$(
+        "${__script_dir}/bashcache.sh" curl \
+            -H "Authorization: Token ${__api_key}" \
+            -e '' "https://api.esv.org/v3/passage/text/?include-passage-references=false&include-short-copyright=false&include-verse-numbers=false&include-headings=false&include-footnotes=false&q=${__input}" -s
+    )"
+
     echo "${__response}" | jq -r '.passages[]' | sed -e 's/^ *//'
-)"
 
-echo "\"${__parsed}\" **\mbox{(${@} - ESV)}**"
+}
+
+echo "\"$(__${__translation} "${@}")\" **\mbox{(${@} - ${__translation})}**"
 
 exit

@@ -34,11 +34,16 @@ __pp() {
         "-Dimgdir=${__top_dir}/source/img" \
         '-DAnswer=!ifeq(!format)(html)(&\boxed{\bm{!1} \bm{!2} \bm{!3}})(\Aboxed{\bm{!1} &\bm{!2} \bm{!3}})' \
         '-DAboxed=!ifeq(!format)(html)(&\boxed{!1!2!3})(\Aboxed{!1&!2!3})' \
-        '-DLuaRound=tonumber(string.format(\"%.\" .. (!2 or 0) .. \"f\", !1))' \
+        '-DbashLuaRound=tonumber(string.format(\"%.\" .. (!2 or 0) .. \"f\", !1))' \
+        '-DlocalLuaRound=tonumber(string.format("%." .. (!2 or 0) .. "f", !1))' \
         "-Dbashcache=!bash(${__top_dir}/tools/bashcache.sh !pp(!1))" \
-        '-Dbashlua=!bashcache(lua <<< "print(!1)")' \
-        '-Dmathr=!bashlua(!LuaRound{!1}{!2})' \
-        '-Dmath=!bashlua(!1)' \
+        '-Dbashlua=!bashcache(lua <<< "!1")' \
+        '-Dbashmathr=!bashlua(print(!bashLuaRound(!1)(!2)))' \
+        '-Dbashmath=!bashlua(print(!1))' \
+        '-Dlocalmathr=!lua(print(!localLuaRound(!1)(!2)))' \
+        '-Dlocalmath=!lua(print(!1))' \
+        '-Dmathr=!localmathr(!1)(!2)' \
+        '-Dmath=!localmath(!1)' \
         "-Dbible=!bash(${__top_dir}/tools/bible.sh \"!1\")" \
         "-${__format}" \
         -img="${__target_dir_local}/${__img_temp}" \
