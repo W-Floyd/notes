@@ -34,6 +34,9 @@ __pp() {
         "-Dimgdir=${__top_dir}/source/img" \
         '-DAnswer=!ifeq(!format)(html)(&\boxed{\bm{!1} \bm{!2} \bm{!3}})(\Aboxed{\bm{!1} &\bm{!2} \bm{!3}})' \
         '-DAboxed=!ifeq(!format)(html)(&\boxed{!1!2!3})(\Aboxed{!1&!2!3})' \
+        '-DLuaRound=tonumber(string.format("%." .. (!2 or 0) .. "f", !1))' \
+        '-Dluar=!lua(print(!LuaRound{!1}{!2}))' \
+        '-Dluam=!lua(print(!1))' \
         "-${__format}" \
         -img="${__target_dir_local}/${__img_temp}" \
         "${@}"
@@ -226,7 +229,7 @@ for n in $(seq 0 $((${#__source_scripts[@]} - 1))); do
                     }
 
                     __check_file "${__target_file_local}.${f}"
-                    echo "$(__date)  BUILT - ${__output}${__target_scripts[${n}]}.${f}"
+                    echo "$(__date)  BUILT - ${__target_scripts[${n}]}.${f}"
                 else
                     cp "${__old_file_local}.${f}" "${__target_file_local}.${f}"
                     if [ "${__quiet}" != 'true' ]; then
