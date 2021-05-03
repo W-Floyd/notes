@@ -38,21 +38,21 @@ $$
 \begin{aligned}
     \theta &= \frac{2 \cdot T \cdot L}{G \cdot \pi \cdot r^4}\\
     &= \frac{2 \cdot T \cdot !L}{!G \cdot \pi \cdot !R^4}\\
-    &= \frac{ T \cdot !luam(!L*2)}{!luar(!G*math.pi*(!R^4))(5)}\\
-    \theta &= T \cdot !luar((!L*2)/(!G*math.pi*(!R^4)))(5)
+    &= \frac{ T \cdot !math(!L*2)}{!mathr(!G*math.pi*(!R^4))(5)}\\
+    \theta &= T \cdot !mathr((!L*2)/(!G*math.pi*(!R^4)))(5)
 \end{aligned}
 $$
 
 This relates $\mathrm{N}\cdot \mathrm{m}$ to $\mathrm{rad}$.
 Converting to degrees gives:
 
-!define(RatioT)(!luam((180/math.pi)*(!L*2)/(!G*math.pi*(!R^4))))
+!define(RatioT)(!math((180/math.pi)*(!L*2)/(!G*math.pi*(!R^4))))
 
 $$
 \begin{aligned}
-    \theta (\mathrm{rad}) &= T \cdot !luar((!L*2)/(!G*math.pi*(!R^4)))(5)\\
-    \theta (\mathrm{deg}) &= T \cdot !luar((!L*2)/(!G*math.pi*(!R^4)))(5) \cdot \frac{180}{\pi}\\
-    \theta_\text{theo.} (\mathrm{deg}) &= !luar(!RatioT)(5) \cdot T (\mathrm{Nm})
+    \theta (\mathrm{rad}) &= T \cdot !mathr((!L*2)/(!G*math.pi*(!R^4)))(5)\\
+    \theta (\mathrm{deg}) &= T \cdot !mathr((!L*2)/(!G*math.pi*(!R^4)))(5) \cdot \frac{180}{\pi}\\
+    \theta_\text{theo.} (\mathrm{deg}) &= !mathr(!RatioT)(5) \cdot T (\mathrm{Nm})
 \end{aligned}
 $$
 
@@ -61,10 +61,10 @@ $$
 Experimental analysis of the actual bar using static loading yielded a relationship of:
 
 $$
-\theta_\mathrm{exper.} (\mathrm{deg}) = !luar(!RatioE)(5) \cdot T (\mathrm{Nm})
+\theta_\mathrm{exper.} (\mathrm{deg}) = !mathr(!RatioE)(5) \cdot T (\mathrm{Nm})
 $$
 
-The difference between the theoretical and experimental values is $!luar(100*math.abs(!RatioT-!RatioE)/((!RatioE+!RatioT)/2))(2)$%.
+The difference between the theoretical and experimental values is $!mathr(100*math.abs(!RatioT-!RatioE)/((!RatioE+!RatioT)/2))(2)$%.
 This discrepancy likely came about due to human error while taking physical measurements, as well as specific material characteristics of the rod that may differ from literature. 
 The results of the lab (below) are reasonable and within expected ranges.
 The precision with which certain values were measured results in necessarily imprecise results - specifically the timing values from which angular deflection were inferred.
