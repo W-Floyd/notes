@@ -6,6 +6,9 @@ $if(notecard)$
 \usepackage{enumitem}
 \usepackage{times}
 
+\PassOptionsToPackage{unicode$for(hyperrefoptions)$,$hyperrefoptions$$endfor$}{hyperref}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+
 \usepackage[center,dvips,frame]{crop}
 
 \usepackage[fleqn]{amsmath}
@@ -75,6 +78,93 @@ $if(notecard)$
 \setlength{\tabcolsep}{2pt}
 
 \begin{multicols*}{3}
+
+$body$
+
+\end{multicols*}
+
+\end{document}
+
+$elseif(notesheet)$
+
+\documentclass[fontsize=7pt]{scrbook}
+\usepackage[paperheight=11in,paperwidth=8.5in,margin=0.25in, nohead]{geometry}
+\pagestyle{empty}
+\usepackage{enumitem}
+\usepackage{times}
+
+\PassOptionsToPackage{unicode$for(hyperrefoptions)$,$hyperrefoptions$$endfor$}{hyperref}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+
+\usepackage[center,dvips,frame]{crop}
+
+\usepackage[fleqn]{amsmath}
+\usepackage{amssymb}
+\setlength{\mathindent}{0pt}
+\usepackage{etoolbox}
+\newcommand{\zerodisplayskips}{%
+  \setlength{\abovedisplayskip}{0pt}%
+  \setlength{\belowdisplayskip}{0pt}%
+  \setlength{\abovedisplayshortskip}{0pt}%
+  \setlength{\belowdisplayshortskip}{0pt}}
+\appto{\normalsize}{\zerodisplayskips}
+\appto{\small}{\zerodisplayskips}
+\appto{\footnotesize}{\zerodisplayskips}
+\addtolength{\jot}{-0.4em}
+
+\usepackage{mathtools}
+
+\DeclarePairedDelimiterX{\infdivx}[2]{(}{)}{%
+  #1\;\delimsize\|\;#2%
+}
+\newcommand{\infdiv}{D\infdivx}
+\DeclarePairedDelimiter{\norm}{\lVert}{\rVert}
+
+\usepackage{soul}
+
+\setlist[itemize]{noitemsep,nolistsep}
+\setlist[enumerate]{noitemsep,nolistsep}
+
+\linespread{0.9}
+
+\usepackage{parskip}
+
+\setlength{\parindent}{0cm}
+\setlength{\parskip}{0.5mm}
+
+\setuldepth{.}
+
+\usepackage{xcolor}
+
+\usepackage{mathrsfs}
+
+% For small fraction
+\usepackage{xfrac}
+
+\usepackage{multicol}
+% \setlength{\columnseprule}{0.4pt}
+
+
+\usepackage{tabularx}
+
+\def\myraggedright{%
+  \rightskip=0pt plus 1fil
+  \spaceskip .3333em \xspaceskip .5em\relax
+}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\setlength{\parskip}{0mm plus1mm}
+
+\let\oldehrule\hrule
+\renewcommand{\hrule}{\vspace{0.5mm}\oldehrule\vspace{0.5mm}}
+
+\begin{document}
+
+\setlength{\tabcolsep}{2pt}
+
+\begin{multicols*}{5}
 
 $body$
 
