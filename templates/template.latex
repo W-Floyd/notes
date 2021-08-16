@@ -1,10 +1,19 @@
 $if(notecard)$
 
-\documentclass[fontsize=6pt]{scrbook}
+\documentclass[
+  fontsize=
+$if(fontsize)$
+  $fontsize$
+$else$
+  6
+$endif$pt
+]{scrbook}
 \usepackage[paperheight=3in,paperwidth=5in,margin=0.05in, nohead]{geometry}
 \pagestyle{empty}
 \usepackage{enumitem}
 \usepackage{times}
+
+\setlist{topsep=0pt, leftmargin=*}
 
 \PassOptionsToPackage{unicode$for(hyperrefoptions)$,$hyperrefoptions$$endfor$}{hyperref}
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
@@ -77,7 +86,11 @@ $if(notecard)$
 
 \setlength{\tabcolsep}{2pt}
 
+$if(multicols)$
+\begin{multicols*}{$multicols$}
+$else$
 \begin{multicols*}{3}
+$endif$
 
 $body$
 
@@ -87,11 +100,20 @@ $body$
 
 $elseif(notesheet)$
 
-\documentclass[fontsize=7pt]{scrbook}
+\documentclass[
+  fontsize=
+$if(fontsize)$
+  $fontsize$
+$else$
+  7
+$endif$pt
+]{scrbook}
 \usepackage[paperheight=11in,paperwidth=8.5in,margin=0.25in, nohead]{geometry}
 \pagestyle{empty}
 \usepackage{enumitem}
 \usepackage{times}
+
+\setlist{topsep=0pt, leftmargin=*}
 
 \PassOptionsToPackage{unicode$for(hyperrefoptions)$,$hyperrefoptions$$endfor$}{hyperref}
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
@@ -164,7 +186,11 @@ $elseif(notesheet)$
 
 \setlength{\tabcolsep}{2pt}
 
-\begin{multicols*}{5}
+$if(multicols)$
+\begin{multicols*}{$multicols$}
+$else$
+\begin{multicols*}{3}
+$endif$
 
 $body$
 
@@ -504,7 +530,8 @@ $endif$
 \usepackage{mathtools}
 \usepackage{csquotes}
 \usepackage{nicematrix}
-\NiceMatrixOptions{transparent}
+\NiceMatrixOptions{renew-dots}
+\NiceMatrixOptions{renew-matrix}
 \DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
 \let\scr\mathpzc
 \usepackage{booktabs}
