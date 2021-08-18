@@ -12,6 +12,12 @@ __wait() {
 
 ./export.sh "${@}"
 
+if ! [ -d './export_sync/' ]; then
+    mkdir './export_sync/'
+fi
+
+rsync --delete -au './export/' './export_sync/'
+
 __wait
 while inotifywait -e modify -qq -r source; do
     sleep 0.01s
@@ -19,6 +25,7 @@ while inotifywait -e modify -qq -r source; do
         sleep 0.05s
     done
     ./export.sh "${@}"
+    rsync --delete -au './export/' './export_sync/'
     __wait
 done
 
