@@ -235,7 +235,7 @@ for n in $(seq 0 $((${#__source_scripts[@]} - 1))); do
                     }
 
                     __check_file "${__target_file_local}.${f}"
-                    echo "$(__date)  BUILT - ${__target_scripts[${n}]}.${f}"
+                    echo "$(__date)  BUILT    - ${__target_scripts[${n}]}.${f}"
                 else
                     cp "${__old_file_local}.${f}" "${__target_file_local}.${f}"
                     if [ "${__quiet}" != 'true' ]; then
