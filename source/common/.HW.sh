@@ -66,7 +66,7 @@ $$
 
     find . -iname '*.md' | sort -V | while read -r __file; do
         __prefix_problem='true'
-        if grep -q ',' <<<"${__file}" || grep -qi 'Question' <<<"${__file}" || grep -qi 'Problem' <<<"${__file}"; then
+        if grep -q ',' <<<"${__file}" || grep -qi 'Question' <<<"${__file}" || grep -qi 'Problem' <<<"${__file}" || grep -qEv '[0-9]' <<<"${__file}"; then
             __prefix_problem='false'
         fi
         if [ "${__prefix_problem}" == 'true' ]; then
