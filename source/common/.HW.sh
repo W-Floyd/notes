@@ -41,18 +41,21 @@ header-includes: |
 
         find . -iname '*.md' | sort -V | while read -r __file; do
 
-            __name="$(sed -e 's|^\./||' -e 's|\.md$||' <<<"${__file}")"
+            if ! grep -q 'DONTLIST' <"${__file}"; then
 
-            __sos=''
+                __name="$(sed -e 's|^\./||' -e 's|\.md$||' <<<"${__file}")"
 
-            if grep --silent 'SOS' <"${__file}"; then
-                __sos='\textbf{X}'
-            else
-                __sos='   '
+                __sos=''
 
+                if grep --silent 'SOS' <"${__file}"; then
+                    __sos='\textbf{X}'
+                else
+                    __sos='   '
+
+                fi
+
+                echo "\hline ${__name} & ${__sos}"'\\'
             fi
-
-            echo "\hline ${__name} & ${__sos}"'\\'
 
         done
 

@@ -51,16 +51,23 @@ __pp() {
 !define(!2_friendly)(!1)
 !define(!2_unit)(!4)
 ~~~~~~' \
-        '-DGiven=!pp(!!1_friendly) &= !pp(!!1) !pp(!!1_unit)' \
+        '-DAGiven=!pp(!!1_friendly) &= !pp(!!1) !pp(!!1_unit)' \
+        '-DGiven=!pp(!!1_friendly) = !pp(!!1) !pp(!!1_unit)' \
+        '-DADefGiven=!passthrough()
+~~~~~~~
+!EQDefine(!1)(!2)(!3)(!4)
+!AGiven(!2)
+~~~~~~~' \
         '-DDefGiven=!passthrough()
 ~~~~~~~
 !EQDefine(!1)(!2)(!3)(!4)
 !Given(!2)
 ~~~~~~~' \
-        '-Dunt=!pp(!!1_unit)'
-        '-Dfrn=!pp(!!1_friendly)'
+        '-Dunt=!pp(!!1_unit)' \
+        '-Dfrn=!pp(!!1_friendly)' \
         '-DAgiv=!1 &= !2 \text{~!3}' \
         '-Dmpsq=\frac{\mathrm{m}}{\mathrm{s}^2}' \
+        '-Dnpm=\mathrm{~N}/\mathrm{m}' \
         "-Dbible=!bash(${__top_dir}/tools/bible.sh \"!1\")" \
         "-${__format}" \
         -img="${__target_dir_local}/${__img_temp}" \
