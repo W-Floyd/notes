@@ -33,6 +33,37 @@ header-includes: |
     \fancyfoot[RE,RO]{Pg. \thepage}
 ---
 "
+
+    if [ "${sos_cover}" == 'true' ]; then
+        echo '$$
+\begin{array}{|l|l|}
+\hline \multicolumn{2}{|c|} {\text { SOS }} \\'
+
+        find . -iname '*.md' | sort -V | while read -r __file; do
+
+            __name="$(sed -e 's|^\./||' -e 's|\.md$||' <<<"${__file}")"
+
+            __sos=''
+
+            if grep --silent 'SOS' <"${__file}"; then
+                __sos='\textbf{X}'
+            else
+                __sos='   '
+
+            fi
+
+            echo "\hline ${__name} & ${__sos}"'\\'
+
+        done
+
+        echo '\hline
+\end{array}
+$$
+
+\newpage
+'
+    fi
+
     find . -iname '*.md' | sort -V | while read -r __file; do
         __prefix_problem='true'
         if grep -q ',' <<<"${__file}" || grep -qi 'Question' <<<"${__file}" || grep -qi 'Problem' <<<"${__file}"; then
