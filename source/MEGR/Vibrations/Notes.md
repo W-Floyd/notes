@@ -40,6 +40,8 @@ The restoring force is a function only of position of the mass or particle, and 
 The restoring force is often referred to in simple harmonic motion.
 The force which is responsible to restore original size and shape is called restoring force.
 
+**Note:** It is not a "force" in the sensor of Newtons only, rather, it acts in the dimension that the system operates upon ($\mathrm{N}$ in linear, $\mathrm{N}\cdot\mathrm{m}$ for pendulum, etc.)
+
 ## Pendulum
 
 $$

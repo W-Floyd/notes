@@ -58,6 +58,16 @@ __pp() {
 !EQDefine(!1)(!2)(!3)(!4)
 !AGiven(!2)
 ~~~~~~~' \
+        '-DMathRDefine=!passthrough()
+~~~~~~~
+!EQDefine(!1)(!2)(!math(!3))(!4)
+!mathr(!pp(!!2))(!5)
+~~~~~~~' \
+        '-DMathRUDefine=!passthrough()
+~~~~~~~
+!EQDefine(!1)(!2)(!math(!3))(!4)
+!mathr(!pp(!!2))(!5) !pp(!!2_unit)
+~~~~~~~' \
         '-DDefGiven=!passthrough()
 ~~~~~~~
 !EQDefine(!1)(!2)(!3)(!4)
@@ -68,6 +78,10 @@ __pp() {
         '-DAgiv=!1 &= !2 \text{~!3}' \
         '-Dmpsq=\frac{\mathrm{m}}{\mathrm{s}^2}' \
         '-Dnpm=\mathrm{~N}/\mathrm{m}' \
+        '-Dnm=\mathrm{~N}\cdot\mathrm{m}' \
+        '-Dkg=\mathrm{~kg}' \
+        '-Drads=\frac{\mathrm{Rad}}{\mathrm{s}}' \
+        '-Dmpa=\mathrm{~MPa}' \
         "-Dbible=!bash(${__top_dir}/tools/bible.sh \"!1\")" \
         "-${__format}" \
         -img="${__target_dir_local}/${__img_temp}" \
