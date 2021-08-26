@@ -44,6 +44,23 @@ __pp() {
         '-Dlocalmath=!lua(print(!1))' \
         '-Dmathr=!localmathr(!1)(!2)' \
         '-Dmath=!localmath(!1)' \
+        '-Dpassthrough=!2' \
+        '-DEQDefine=!passthrough()
+~~~~~~
+!define(!2)(!3)
+!define(!2_friendly)(!1)
+!define(!2_unit)(!4)
+~~~~~~' \
+        '-DGiven=!pp(!!1_friendly) &= !pp(!!1) !pp(!!1_unit)' \
+        '-DDefGiven=!passthrough()
+~~~~~~~
+!EQDefine(!1)(!2)(!3)(!4)
+!Given(!2)
+~~~~~~~' \
+        '-Dunt=!pp(!!1_unit)'
+        '-Dfrn=!pp(!!1_friendly)'
+        '-DAgiv=!1 &= !2 \text{~!3}' \
+        '-Dmpsq=\frac{\mathrm{m}}{\mathrm{s}^2}' \
         "-Dbible=!bash(${__top_dir}/tools/bible.sh \"!1\")" \
         "-${__format}" \
         -img="${__target_dir_local}/${__img_temp}" \
