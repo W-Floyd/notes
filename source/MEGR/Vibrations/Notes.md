@@ -76,12 +76,6 @@ $$
 
 ![](!imgdir/105b5e4b7291ac46e86599d2f41030cf2bc998bc.png)
 
-Typical Equation of Motion (EoM):
-
-$$
-x(t)=A \sin \left(\omega_{n} t+\phi\right)
-$$
-
 ## Spring Mass
 
 ![](!imgdir/4e0ae10d862993f7ce3fd0fafb1d7e4792df891c.png)
@@ -96,4 +90,16 @@ Summing forces along $x$ gives:
 
 $$
 m \ddot{x}(t)+k x(t)=0
+$$
+
+Typical Equation of Motion (EoM) (also of pendulum):
+
+$$
+x(t)=A \sin \left(\omega_{n} t+\phi\right)
+$$
+
+From pg. 10:
+
+$$
+x(t)=\frac{\sqrt{\omega_{n}^{2} x_{0}^{2}+v_{0}^{2}}}{\omega_{n}} \sin \left(\omega_{n} t+\tan ^{-1} \frac{\omega_{n} x_{0}}{v_{0}}\right)
 $$
