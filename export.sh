@@ -67,9 +67,11 @@ __pp() {
         '-DAGiven=!pp(!!1_f) &= !pp(!!1_v) !pp(!!1_u)' \
         '-DGiven=!pp(!!1_f) = !pp(!!1_v) !pp(!!1_u)' \
         '-Dmpsq=~\frac{\mathrm{m}}{\mathrm{s}^2}' \
-        '-Dnpm=\mathrm{~N}/\mathrm{m}' \
+        '-Dnpm=~\frac{\mathrm{N}}{\mathrm{m}}' \
         '-Dnm=\mathrm{~N}\cdot\mathrm{m}' \
         '-Dkg=\mathrm{~kg}' \
+        '-Dmm=\mathrm{~mm}' \
+        '-Dmps=~\frac{\mathrm{m}}{\mathrm{s}}' \
         '-Drads=~\frac{\mathrm{Rad}}{\mathrm{s}}' \
         '-Dmpa=\mathrm{~MPa}' \
         "-Dbible=!bash(${__top_dir}/tools/bible.sh \"!1\")" \
