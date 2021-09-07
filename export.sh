@@ -65,15 +65,28 @@ __pp() {
 !pp(!!1)
 ~~~~~~' \
         '-DAGiven=!pp(!!1_f) &= !pp(!!1_v) !pp(!!1_u)' \
+        '-DAGivenR=!pp(!!1_f) &= !mathr(!pp(!!1_v))(!2) !pp(!!1_u)' \
         '-DGiven=!pp(!!1_f) = !pp(!!1_v) !pp(!!1_u)' \
-        '-Dmpsq=~\frac{\mathrm{m}}{\mathrm{s}^2}' \
-        '-Dnpm=~\frac{\mathrm{N}}{\mathrm{m}}' \
-        '-Dnm=\mathrm{~N}\cdot\mathrm{m}' \
-        '-Dkg=\mathrm{~kg}' \
-        '-Dmm=\mathrm{~mm}' \
-        '-Dmps=~\frac{\mathrm{m}}{\mathrm{s}}' \
-        '-Drads=~\frac{\mathrm{Rad}}{\mathrm{s}}' \
-        '-Dmpa=\mathrm{~MPa}' \
+        '-DGivenR=!pp(!!1_f) = !mathr(!pp(!!1_v))(!2) !pp(!!1_u)' \
+        '-D_mpsq=~\frac{\mathrm{m}}{\mathrm{s}^2}' \
+        '-D_cmpsq=~\frac{\mathrm{cm}}{\mathrm{s}^2}' \
+        '-D_mmpsq=~\frac{\mathrm{mm}}{\mathrm{s}^2}' \
+        '-D_npm=~\frac{\mathrm{N}}{\mathrm{m}}' \
+        '-D_nm=\mathrm{~N}\cdot\mathrm{m}' \
+        '-D_kg=\mathrm{~kg}' \
+        '-D_kgps=~\frac{\mathrm{kg}}{\mathrm{s}}' \
+        '-D_in=\mathrm{~in}' \
+        '-D_n=\mathrm{~N}' \
+        '-D_m=\mathrm{~m}' \
+        '-D_cm=\mathrm{~cm}' \
+        '-D_mm=\mathrm{~mm}' \
+        '-D_s=\mathrm{~s}' \
+        '-D_hz=\mathrm{~Hz}' \
+        '-D_mps=~\frac{\mathrm{m}}{\mathrm{s}}' \
+        '-D_mmps=~\frac{\mathrm{mm}}{\mathrm{s}}' \
+        '-D_cmps=~\frac{\mathrm{cm}}{\mathrm{s}}' \
+        '-D_rads=~\frac{\mathrm{rad}}{\mathrm{s}}' \
+        '-D_mpa=\mathrm{~MPa}' \
         "-Dbible=!bash(${__top_dir}/tools/bible.sh \"!1\")" \
         "-${__format}" \
         -img="${__target_dir_local}/${__img_temp}" \

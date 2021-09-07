@@ -46,6 +46,257 @@ $$
 s_x=\sqrt{\frac{1}{n-1} \sum_{i=1}^{n}\left(x_{i}-\bar{x}\right)^{2}}
 $$
 
+## Definitions
+
+### Random Variables
+
+**Random variables** (*RV*s) are (loosely) functions that map the results of an experiment to real numbers, e.g.
+
+- The sum of two dice
+- An estimate of Young's modulus from stress-strain data
+
+### Realization
+
+A **realization** of a random variable is a particular value taken on by a random variable,
+
+e.g.
+- 7
+- $205.7 \mathrm{GPa}$
+
+***
+
+- RVs are the concept, realizations are particular values
+- **Discrete random variables** take on finitely many or countably infinitely many values, e.g.
+  - $\{1,2,3,4,5,6\}$
+  - The integers
+  - The rational numbers
+- **Continuous random variables** take on uncountably infinitely many variables over a continuum, e.g.
+  - The interval $[0,1]$
+  - The real numbers
+
+A probability distribution describes the likelihood that a **random variable** takes on values within a given interval or specific value.
+
+Discrete RVs have a **Probability Mass Function** (PMF) that describes the probability that the RV takes on a particular value, denoted:
+
+$$
+f_{X}(x)=P(X=x)
+$$
+
+A **Cumulative Distribution Function** (CDF) is the probability that an RV is less than or equal to a particular value, denoted
+
+$$
+F_{X}(x)=P(X \leq x)
+$$
+
+For complicated mathematical reasons, continuous RVs have **Probability Density Functions** (PDFs)
+
+$$
+f_{X}(x)=\frac{d F_{X}(x)}{d x}
+$$
+
+Continuous RVs only have positive probabilities over intervals.
+
+## Normal (Gaussian) Distribution
+
+Many useful properties:
+
+* fully characterized by mean and variance
+* sums of Guassian variables are also Gaussian variables
+* sums of many independent random variables approach the Gaussian distribution
+  * Central Limit Theorem
+
+All the math is easier
+
+* Can usually get by with Linear Algebra
+
+Sample mean of independent identically distributed (iid) Gaussian RVs
+
+* Let $X_i \sim \mathcal{N}\left( \mu, \sigma^2 \right)$ be iid RVs for $i \in \left\{ 1, \ldots, n \right\}$
+* $\bar{X} = \frac{1}{n} \sum_{i=1}^n X_i$
+* $\bar{X}$ is an RV!
+  * Before the experiment, $\bar{X}$ is itself an unknown, random quantity
+* $E\left[\bar{X}\right] = E\left[ \frac{1}{n} \sum_{i=1}^n X_i \right]$
+* $E\left[\bar{X}\right] = \frac{1}{n} \sum_{i=1}^n E\left[X_i\right] = \mu$
+* $\operatorname{var}\left[\bar{X}\right] = \sum_{i=1}^n \frac{1}{n^2} \sigma^2 = \frac{\sigma^2}{n}$
+
+We write this as $\bar{X} \sim \mathcal{N} \left( \mu, \frac{\sigma^2}{n} \right)$
+
+Proof that result is Gaussian requires more than just the mean and variance (that is, that sums of Gaussian are Gaussian).
+
+### Transformation of Gaussian RVs
+
+A general Gaussian RV can be transformed back into a standard normal RV
+
+* Let $X \sim \mathcal{N} \left( \mu, \sigma^2 \right)$
+* Then $Z = \frac{X-\mu}{\sigma} \sim N(0,1)$
+
+Verify mean and variance
+
+* $E[Z] = E\left[ \frac{1}{\sigma} (X-\mu) \right]$
+* $E[Z] = \frac{1}{\sigma} E[X-\mu]$
+* $E[Z] = \frac{1}{\sigma} (E[X] - \mu) = 0$
+* $\operatorname{var}[Z] = \operatorname{var}\left[ \frac{1}{\sigma} (X-\mu)\right]$
+* $\operatorname{var}[Z] = \frac{1}{\sigma^2} \operatorname{var}[X]=1$
+
+For sample mean
+
+* $Z = \frac{\bar{X} - \mu}{\frac{\sigma}{\sqrt{n}}} \sim \mathcal{N} (0,1)$
+* $\frac{\sigma}{\sqrt{n}}$ called the **standard error of the mean**
+* This fact is used for **hypothesis testing** on the mean when the population standard deviation, $\sigma$ is known.
+
+### Hypothesis Testing
+
+We want to determine if our **hypothesized** model for the data actually matches the data, i.e
+
+* $X_i \sim \mathcal{N}(\mu,\sigma^2)$
+
+If the model is good, then the $Z$ statistic should be a standard normal RV. Then unlikely (large) values of the test statistic indicate that it is unlikely that the model is a good fit.
+
+Formally,
+
+$$
+Z_{\frac{\alpha}{2}} \triangleq \left\{ z \mid P(Z > z) = \frac{\alpha}{2} \right\}
+$$
+
+Sample mean near assumed mean show model fits data, that is, it is "Near" in terms of standard deviation.
+
+Sample means far from assumed mean show data is significantly different from model (shaded).
+
+Interpretation:
+
+There is (or is not) a difference between the model and the true population with probability of $1-\alpha$.
+
+Should the sample mean be just inside the allowed area, you can say there is not enough evidence to reject the hypothesis. This does not mean you accept it.
+
+### Reading Standard Normal Table
+
+For example, if you need the $95%$ confidence interval ($2.5\%$ to right and left each), you would look up a $Z$ for $97.5\%$, which corresponds to $1.9$ on the left and $0.06$ on the top, thus $Z_{0.025}=1.96$
+
+### Confidence Interval
+
+While hypothesis testing determines the goodness-of-fit of a hypothesized model confidence intervals determine a likely **range** of particular parameters
+
+* E.g. the confidence interval on the mean for a sample from a Gaussian distribution
+* Centered on the **sample mean**
+* $+z_{\frac{\alpha}{2}} \sigma$ where $z_{\frac{\alpha}{2}}$ is the same as from hypothesis testing.
+
+Interpretation: The true population mean lies within the interval with probability $1-\alpha$
+
+### Sample Variance
+
+What if model variance is unknwon or uncertain?
+
+Sample variance:
+
+$$
+\begin{aligned}
+    S^2 &= \frac{1}{n-1} \sum_{i=1}^n \left(X_i - \bar{X}\right)^2\\
+    &= \vdots\\
+    S^2 &= \frac{1}{n-1} \sum_{i=1}^{n} \left(X_i^2 - \bar{X}^2\right) = \frac{1}{n-1} \left[ \underbrace{\left(\sum_{i=1}^n X_i^2\right)}_{SS \text{ in textbook}} - n\bar{X}^2 \right]
+\end{aligned}
+$$
+
+Why $n-1$ is complicated (it unbiases it).
+
+In general, for an unbiased estimator, the expectation of $S^2$ should be equal to $\sigma^2$
+
+Mean of $S^2$:
+
+$$
+\begin{array}{l}
+E\left[S^{2}\right]=E\left[\frac{1}{n-1}\left(\sum_{i=1}^{n}\left(X_{i}^{2}-\bar{X}^{2}\right)\right)\right] \\
+E\left[S^{2}\right]=\frac{1}{n-1} \sum_{i=1}^{n}\left(E\left[X_{i}^{2}\right]-E\left[\bar{X}^{2}\right]\right) \\
+E\left[S^{2}\right]=\frac{1}{n-1} \sum_{i=1}^{n}\left(\sigma^{2}+\mu^{2}-\left(\frac{\sigma^{2}}{n}+\mu^{2}\right)\right) \\
+E\left[S^{2}\right]=\frac{1}{n-1} \sum_{i=1}^{n} \frac{(n-1) \sigma^{2}}{n}=\sigma^{2}
+\end{array}
+$$
+
+Test statistic for unknown variance
+
+$$
+T=\frac{\bar{X}-\mu}{\frac{S}{\sqrt{n}}}, \text { where } S=\sqrt{S^{2}}=\sqrt{\frac{1}{n-1} \sum_{i=1}^{n}\left(X_{i}-\bar{X}\right)^{2}}
+$$
+
+### Student's t-Distribution
+
+Compare te $Z$ statistic (which assumes a known variance) with the $T$ statistic (which uses an estimate of an unknown variance)
+
+This is rarely the case.
+
+To refresh the $\bf{Z}$ **statistic**:
+
+$$
+Z = \frac{\bar{X}-\mu}{\frac{\sigma}{\sqrt{n}}} \sim \mathcal{N} (0,1)
+$$
+
+Remember that $\frac{\sigma}{\sqrt{n}}$ is called the standard error of the mean.
+
+$$
+T = \frac{\bar{X}-\mu}{\frac{S}{\sqrt{n}}} \sim t_{n-1}
+$$
+
+The PDF for the $t$-distribution is rather complicated and unnecessary for our purposes.
+Depends on the number of **degrees of freedom** in the data.
+Once the sample mean is estimated, you have one less variable.
+
+* number of measurements minus number of parameters solved for
+* Think number of equations vs. number of unknowns in algebra
+
+The shape of the $t$-distribution is similar to Gaussian.
+For few samples it is a wide distribution (due to uncertainty from few samples).
+At $\approx n > 30$ it begins to approximate a standard normal distribution.
+
+### Reading $t$-table
+
+Quite different from $Z$ table.
+
+You find degrees of freedom on the left, and right tail probability on top.
+
+For example, 11 data-points yield 10 degrees of freedom.
+If we want a $5\%$ two tail risk, we have $\alpha=0.025$.
+Intersecting these on the table finds the value $2.228$
+
+Final row is value for $z$-test, and can be compared to.
+In our example that is $z_\alpha = 1.960$
+
+In fact, $t_\alpha \ge z_\alpha$ **ALWAYS** for the same $\alpha$
+
+That implies the confidence interval tends to be wider, though variance estimate may change this.
+
+### $\chi^2$ (Chi-Squared) Distribution
+
+We stated (unproven) that the sample mean of Gaussian samples is Gaussian distributed and showed that it has mean and variance $\mu$ and $\frac{\sigma^2}{n}$
+
+On the distribution of the sample variance, if $Z_i$ are *iid* standard normal, i.e. $Z_i \sim \mathcal{N}(0,1)$ and $Z_i \perp Z_j$, $\forall i \neq j$, and $Y = \sum_{i=1}^n Z_i^2$, then $Y \sim \chi_n^2$.
+
+This fact can be used to show that:
+
+$$
+\frac{(n-1)S^2}{\sigma^2} \sim \chi_{n-1}^2
+$$
+
+Why $n-1$? We'll prove this later. From a high level, there is one degree of freedom lost because the estimation of the sample mean, $\bar{X}$, introduces linear dependence among the $Y_i = (X_i - \bar{X})$
+
+* $E\left[ \chi_v^2\right]=v$
+* $\operatorname{var}\left[\chi_v^2\right] = 2v$
+
+### Confidence Interval (CI) on Variance
+
+Much as with mean, variance may also have a CI.
+Define $\chi_{\frac{\alpha}{2},n-1}^2$ as the left-tail value $p\left( \chi_{n-1}^2 \leq \chi_{\frac{\alpha}{2},n-1}^2 \right)=\frac{\alpha}{2}$, where $\frac{\alpha}{2}$ is the confidence, and $n-1$ is the degrees of freedom.
+
+Upper bound:
+
+$$
+\frac{(n-1) S^{2}}{\sigma_{U}^{2}} \leq \chi_{\frac{\alpha}{2}, n-1}^{2} \Rightarrow \frac{(n-1) S^{2}}{\chi_{\frac{\alpha}{2}, n-1}^{2}} \leq \sigma_{U}^{2}
+$$
+
+Lower Bound:
+
+$$
+\frac{(n-1) S^{2}}{\sigma_{L}^{2}}>\chi_{1-\frac{a}{2}, n-1}^{2} \Rightarrow \sigma_{L}^{2} \leq \frac{(n-1) S^{2}}{\chi_{1-\frac{\alpha}{2}, n-1}^{2}}
+$$
+
 # Calculus
 
 ## Integration by parts
@@ -307,3 +558,5 @@ Individual causes may directly lead to some design factors being included, or re
 ### 4. Choice of experimental design
 
 Easier if prior steps are done correctly.
+
+TODO - Finish me!
