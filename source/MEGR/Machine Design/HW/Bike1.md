@@ -31,7 +31,7 @@ Assuming that the total force of a rider will be the sum of the force on the ped
 !EQDefine(H)(ph)(!ch mg)(\mathrm{~N})
 !EQDefine(F)(pf)(!cf mg)(\mathrm{~N})
 !EQDefine(B)(pb)(!cb mg)(\mathrm{~N})
-!EQDefine(g)(g)(9.81)(!mpsq)
+!EQDefine(g)(g)(9.81)(!_mpsq)
 
 For the sake of this problem, we shall assume that $!math(!ch*100)\%$ of the rider's weight goes through the handlebars ($H$), $!math(!cf*100)\%$ through the pedals ($F$), and $!math(!cb*100)\%$ through the seat ($B$).
 We shall also assume that the force through the pedals is equally balanced and so may be taken to pass through the center of the chain ring.
@@ -62,10 +62,10 @@ The bike may be roughly drawn as shown below.
 
 Taking the point about the chain ring ($F$) as a datum, the horizontal displacements of the other four forces were measured to be as follows:
 
-!EQDefine(x_R)(xr)(-17)(!in)
-!EQDefine(x_S)(xs)(25.5)(!in)
-!EQDefine(x_B)(xb)(-10)(!in)
-!EQDefine(x_H)(xh)(19)(!in)
+!EQDefine(x_R)(xr)(-17)(!_in)
+!EQDefine(x_S)(xs)(25.5)(!_in)
+!EQDefine(x_B)(xb)(-10)(!_in)
+!EQDefine(x_H)(xh)(19)(!_in)
 
 $$
 \begin{aligned}
@@ -114,7 +114,7 @@ $$
      0 &= 24.1mg - 42.5R\\
      R &= \frac{24.1mg}{42.5}\\
      R &= !mathr(!r_coeff)(3) mg\\
-     !Answer(R)(=)(!mathr(!r_coeff*!g)(3) m !n)
+     !Answer(R)(=)(!mathr(!r_coeff*!g)(3) m !_n)
 \end{aligned}
 $$
 
@@ -128,7 +128,7 @@ $$
     S &= mg - R\\
     S &= mg - !mathr(24.1/42.5)(3)mg\\
     S &= !mathr(1-24.1/42.5)(3)mg\\
-    !Answer(S)(=)(!mathr(!s_coeff*!g)(3) m !n)
+    !Answer(S)(=)(!mathr(!s_coeff*!g)(3) m !_n)
 \end{aligned}
 $$
 
@@ -140,12 +140,12 @@ The rear suspension is shown below.
 
 ![Rear suspention](./Bike1/bike_spring.png)
 
-!EQDefine(x_{AR})(xar)(-2)(!in)
-!EQDefine(y_{AR})(yar)(1.5)(!in)
-!EQDefine(x_{AD})(xad)(18)(!in)
-!EQDefine(y_{AD})(yad)(10)(!in)
-!EQDefine(x_{AC})(xac)(17)(!in)
-!EQDefine(y_{AC})(yac)(0)(!in)
+!EQDefine(x_{AR})(xar)(-2)(!_in)
+!EQDefine(y_{AR})(yar)(1.5)(!_in)
+!EQDefine(x_{AD})(xad)(18)(!_in)
+!EQDefine(y_{AD})(yad)(10)(!_in)
+!EQDefine(x_{AC})(xac)(17)(!_in)
+!EQDefine(y_{AC})(yac)(0)(!_in)
 
 The distances between the points were measured to be as follows:
 
@@ -193,11 +193,11 @@ $$
     A &= \frac{-R \cdot (!yad_f-!yar_f)}{!yad_f}\\
     A &= \frac{!mathr(-24.1/42.5)(3) mg \cdot (!yad_v-!yar_v)}{!yad_v}\\
     A &= !math(-(24.1/42.5)*(!yad-!yar)/!yad) mg \\
-    A &= !mathr(-!g*(24.1/42.5)*(!yad-!yar)/!yad)(3) m !n
+    A &= !mathr(-!g*(24.1/42.5)*(!yad-!yar)/!yad)(3) m !_n
 \end{aligned}
 $$
 
-knowing $A$, we can also say $D_x = !mathr(!g*(24.1/42.5)*(!yad-!yar)/!yad)(3) m !n$.
+knowing $A$, we can also say $D_x = !mathr(!g*(24.1/42.5)*(!yad-!yar)/!yad)(3) m !_n$.
 
 !define(dx_coeff)(!math((24.1/42.5)*(!yad-!yar)/!yad))
 
@@ -236,7 +236,7 @@ $$
     &= \cos(!mathr(!theta_d)(3)-!mathr(!theta_rd)(3)) \cdot \sqrt{m^2 g^2 !mathr(!dx_coeff^2 + !r_coeff^2)(3)}\\
     &= \cos(!mathr(!theta_d-!theta_rd)(3)) \cdot !mathr((!dx_coeff^2 + !r_coeff^2)^0.5)(3) m g\\
     D_{x'} &= !mathr(!dxp_coeff)(3) mg\\
-    !Answer(D_{x'})(=)(!mathr(!g*!dxp_coeff)(3) m !n)\\
+    !Answer(D_{x'})(=)(!mathr(!g*!dxp_coeff)(3) m !_n)\\
 \end{aligned}
 $$
 
@@ -246,7 +246,7 @@ I am unsure as to what this part of the problem is asking for, as this would see
 
 $$
 \begin{aligned}
-    !Answer(F_{\text{Fork}})(=)(!mathr(!s_coeff*!g)(3)m !n)
+    !Answer(F_{\text{Fork}})(=)(!mathr(!s_coeff*!g)(3)m !_n)
 \end{aligned}
 $$
 
@@ -254,7 +254,7 @@ The force will be divided by $2$ as it passes through each side of the fork.
 
 $$
 \begin{aligned}
-    !Answer(F_{\text{Fork, side}})(=)(!mathr(!s_coeff*!g/2)(3)m !n)
+    !Answer(F_{\text{Fork, side}})(=)(!mathr(!s_coeff*!g/2)(3)m !_n)
 \end{aligned}
 $$
 
