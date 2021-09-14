@@ -4,7 +4,7 @@ pkg load image;
 
 global SetSize = 10;
 global DegFree = SetSize-1;
-global Replicates = 10;
+global Replicates = 100;
 global Confidence = 0.95;
 a=1-(1-Confidence)/2;
 

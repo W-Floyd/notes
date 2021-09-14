@@ -75,6 +75,7 @@ __pp() {
         '-D_nm=\mathrm{~N}\cdot\mathrm{m}' \
         '-D_kg=\mathrm{~kg}' \
         '-D_kgps=~\frac{\mathrm{kg}}{\mathrm{s}}' \
+        '-D_psi=~\frac{\mathrm{lb}}{\mathrm{in}^2}' \
         '-D_in=\mathrm{~in}' \
         '-D_n=\mathrm{~N}' \
         '-D_m=\mathrm{~m}' \
@@ -82,11 +83,15 @@ __pp() {
         '-D_mm=\mathrm{~mm}' \
         '-D_s=\mathrm{~s}' \
         '-D_hz=\mathrm{~Hz}' \
+        '-D_deg=\mathrm{~deg}' \
+        '-D_rad=\mathrm{~rad}' \
         '-D_mps=~\frac{\mathrm{m}}{\mathrm{s}}' \
         '-D_mmps=~\frac{\mathrm{mm}}{\mathrm{s}}' \
         '-D_cmps=~\frac{\mathrm{cm}}{\mathrm{s}}' \
         '-D_rads=~\frac{\mathrm{rad}}{\mathrm{s}}' \
+        '-D_pa=\mathrm{~Pa}' \
         '-D_mpa=\mathrm{~MPa}' \
+        '-D_gpa=\mathrm{~GPa}' \
         "-Dbible=!bash(${__top_dir}/tools/bible.sh \"!1\")" \
         "-${__format}" \
         -img="${__target_dir_local}/${__img_temp}" \
