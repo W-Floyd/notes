@@ -1,5 +1,7 @@
 #!/bin/bash
 
+source 'color.sh'
+
 export IGNORE_SUMMARY='true'
 
 __date() {
@@ -7,7 +9,7 @@ __date() {
 }
 
 __wait() {
-    echo "$(__date)  WAITING"
+    echo -e "$(__date)  ${BBlue}WAITING${Color_Off}"
 }
 
 ./export.sh "${@}"

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source '../.env.sh'
+__env_file='../.env.sh'
 
 __dir="$(dirname "${0}")"
 __script_name="$(basename "${0}")"
@@ -14,6 +14,13 @@ __date() {
 }
 
 pushd "${__dir}" &>/dev/null
+
+if ! [ -e "${__env_file}" ]; then
+    echo 'Environment file not found'
+    exit 1
+fi
+
+source "${__env_file}"
 
 if [ -d "./${__name}" ]; then
     pushd "./${__name}" &>/dev/null

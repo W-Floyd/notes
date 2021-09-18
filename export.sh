@@ -6,6 +6,24 @@ __img_temp='img'
 
 __quiet='true'
 
+__only_pp='false'
+__only_pp_files=''
+
+if [ "${1}" == '--pp' ]; then
+    __only_pp='true'
+    shift
+    while [ "${#}" -gt 0 ]; do
+        __only_pp_files="${1}
+${__only_pp_file}"
+        shift
+    done
+    __only_pp_files="$(sed -e '/^$/d' <<<"${__only_pp_files}")"
+    if [ -z "${__only_pp_files}" ]; then
+        echo 'No files listed'
+        exit 1
+    fi
+fi
+
 if [ "${#}" == 0 ]; then
     # __output_formats=('pdf' 'html')
     __output_formats=('pdf')
@@ -114,6 +132,40 @@ __date() {
 
 ################################################################################
 
+source 'color.sh'
+
+################################################################################
+
+if [ "${__only_pp}" == 'true' ]; then
+    while read -r __file; do
+        pushd "$(dirname "${__file}")" &>/dev/null || {
+            echo "Cannot navigate to $(dirname "${__file}")"
+            exit 1
+        }
+        __pp 'pdf' "$(basename "${__file}")"
+        popd &>/dev/null || {
+            echo "Cannot navigate away from $(dirname "${__file}")"
+            exit 1
+        }
+    done <<<"${__only_pp_files}"
+    exit
+fi
+
+__caught_error='false'
+
+while read -r __error; do
+    if grep -qr "${__error}" "./source/"; then
+        echo -e "$(__date)  ${Red}ERROR${Color_Off}    - $(grep -r "${__error}" "./source/" | sed -e 's|^\./source/||' -e 's/:/: /')"
+        __caught_error='true'
+    fi
+done <<<'\\simga'
+
+if [ "${__caught_error}" == 'true' ]; then
+    exit 1
+fi
+
+################################################################################
+
 # __template_map - output formats to use a template for, default will be no template.
 declare -A __template_map
 __template_map['pdf']='true'
@@ -184,7 +236,7 @@ readarray -t __target_scripts < <(
     )
 )
 
-echo "$(__date)  BUILDING"
+echo -e "$(__date)  ${BPurple}BUILDING${Color_Off}"
 
 for n in $(seq 0 $((${#__source_files[@]} - 1))); do
     __source_dir_local="${__top_dir}/$(dirname "${__source_files[${n}]}")"
@@ -215,30 +267,35 @@ for n in $(seq 0 $((${#__source_files[@]} - 1))); do
                 __oldhash="$(cat "${__hash_file_local_format}")"
                 if ! __compare "${__newhash}" "${__oldhash}" || (! [ -e "${__old_file_local}.${f}" ]); then
                     echo "${__newhash}" >"${__hash_file_local_format}"
+                    __local_error='false'
                     __pp "${f}" "$(basename "${__source_file_local}")" | {
                         if [ "${__template_map[${f}]}" == 'true' ]; then
                             pandoc -o "${__target_file_local}.${f}" \
                                 --template="${__top_dir}/templates/template" \
                                 --standalone \
-                                --mathjax
+                                --mathjax || __local_error='true'
                         else
                             pandoc -o "${__target_file_local}.${f}" \
                                 --standalone \
-                                --mathjax
+                                --mathjax || __local_error='true'
                         fi
                     }
                     __check_file "${__target_file_local}.${f}"
-                    echo "$(__date)  BUILT    - ${__target_files[${n}]}.${f}"
+                    if [ "${__local_error}" == 'true' ]; then
+                        "$(__date)  ${Red}ERROR${Color_Off}    - ${__target_files[${n}]}.${f}"
+                    else
+                        echo -e "$(__date)  ${Green}BUILT${Color_Off}    - $(sed -e 's|\./export/||' <<< "${__target_files[${n}]}.${f}")"
+                    fi
                 else
                     cp "${__old_file_local}.${f}" "${__target_file_local}.${f}"
                     if [ "${__quiet}" != 'true' ]; then
-                        echo "$(__date) COPIED - ${__target_files[${n}]}.${f}"
+                        echo "$(__date) ${Blue}COPIED${Color_Off} - ${__target_files[${n}]}.${f}"
                     fi
                 fi
             } &
         done
 
-        popd &>/dev/null || { echo 'Something is very wrong'; }
+        popd &>/dev/null || { echo -e "${Red}Something is very wrong${Color_Off}"; }
 
     }
 done
@@ -269,31 +326,36 @@ for n in $(seq 0 $((${#__source_scripts[@]} - 1))); do
                 __oldhash="$(cat "${__hash_file_local}.${f}")"
                 if ! __compare "${__newhash}" "${__oldhash}" || (! [ -e "${__old_file_local}.${f}" ]); then
                     echo "${__newhash}" >"${__hash_file_local}.${f}"
+                    __local_error='false'
                     __pp "${f}" <("./$(basename "${__source_file_local}")") | {
                         if [ "${__template_map[${f}]}" == 'true' ]; then
                             pandoc -o "${__target_file_local}.${f}" \
                                 --template="${__top_dir}/templates/template" \
                                 --standalone \
-                                --mathjax
+                                --mathjax || __local_error='true'
                         else
                             pandoc -o "${__target_file_local}.${f}" \
                                 --standalone \
-                                --mathjax
+                                --mathjax || __local_error='true'
                         fi
                     }
 
                     __check_file "${__target_file_local}.${f}"
-                    echo "$(__date)  BUILT    - ${__target_scripts[${n}]}.${f}"
+                    if [ "${__local_error}" == 'true' ]; then
+                        "$(__date)  ${Red}ERROR${Color_Off}    - ${__target_scripts[${n}]}.${f}"
+                    else
+                        echo -e "$(__date)  ${Green}BUILT${Color_Off}    - $(sed -e 's|\./export/||' <<< "${__target_scripts[${n}]}.${f}")"
+                    fi
                 else
                     cp "${__old_file_local}.${f}" "${__target_file_local}.${f}"
                     if [ "${__quiet}" != 'true' ]; then
-                        echo "$(__date) COPIED - ${__target_scripts[${n}]}.${f}"
+                        echo -e "$(__date) ${Blue}COPIED${Color_Off} - ${__target_scripts[${n}]}.${f}"
                     fi
                 fi
             } &
         done
 
-        popd &>/dev/null || { echo 'Something is very wrong'; }
+        popd &>/dev/null || { echo -e "${Red}Something is very wrong${Color_Off}"; }
 
     }
 done
