@@ -94,6 +94,8 @@ __pp() {
         '-D_kg=\mathrm{~kg}' \
         '-D_kgps=~\frac{\mathrm{kg}}{\mathrm{s}}' \
         '-D_psi=~\frac{\mathrm{lb}}{\mathrm{in}^2}' \
+        '-D_ksi=!_kpsi' \
+        '-D_kpsi=~\mathrm{kpsi}' \
         '-D_in=\mathrm{~in}' \
         '-D_n=\mathrm{~N}' \
         '-D_m=\mathrm{~m}' \
