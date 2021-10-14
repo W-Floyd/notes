@@ -90,7 +90,9 @@ __pp() {
         '-D_cmpsq=~\frac{\mathrm{cm}}{\mathrm{s}^2}' \
         '-D_mmpsq=~\frac{\mathrm{mm}}{\mathrm{s}^2}' \
         '-D_npm=~\frac{\mathrm{N}}{\mathrm{m}}' \
+        '-D_npmsq=~\frac{\mathrm{N}}{\mathrm{m}^2}' \
         '-D_nm=\mathrm{~N}\cdot\mathrm{m}' \
+        '-D_nmprad=~\frac{\mathrm{N}\mathrm{m}}{\mathrm{rad}}' \
         '-D_kg=\mathrm{~kg}' \
         '-D_kgps=~\frac{\mathrm{kg}}{\mathrm{s}}' \
         '-D_psi=~\frac{\mathrm{lb}}{\mathrm{in}^2}' \
@@ -108,7 +110,8 @@ __pp() {
         '-D_mps=~\frac{\mathrm{m}}{\mathrm{s}}' \
         '-D_mmps=~\frac{\mathrm{mm}}{\mathrm{s}}' \
         '-D_cmps=~\frac{\mathrm{cm}}{\mathrm{s}}' \
-        '-D_rads=~\frac{\mathrm{rad}}{\mathrm{s}}' \
+        '-D_radps=~\frac{\mathrm{rad}}{\mathrm{s}}' \
+        '-D_rads=!radps' \
         '-D_pa=\mathrm{~Pa}' \
         '-D_mpa=\mathrm{~MPa}' \
         '-D_gpa=\mathrm{~GPa}' \
