@@ -94,6 +94,8 @@ __pp() {
         '-D_nm=\mathrm{~N}\cdot\mathrm{m}' \
         '-D_nmprad=~\frac{\mathrm{N}\mathrm{m}}{\mathrm{rad}}' \
         '-D_kg=\mathrm{~kg}' \
+        '-D_lb=\mathrm{~lb}' \
+        '-D_lbf=\mathrm{~lbf}' \
         '-D_kgps=~\frac{\mathrm{kg}}{\mathrm{s}}' \
         '-D_psi=~\frac{\mathrm{lb}}{\mathrm{in}^2}' \
         '-D_ksi=!_kpsi' \
@@ -289,7 +291,7 @@ for n in $(seq 0 $((${#__source_files[@]} - 1))); do
                     if [ "${__local_error}" == 'true' ]; then
                         "$(__date)  ${Red}ERROR${Color_Off}    - ${__target_files[${n}]}.${f}"
                     else
-                        echo -e "$(__date)  ${Green}BUILT${Color_Off}    - $(sed -e 's|\./export/||' <<< "${__target_files[${n}]}.${f}")"
+                        echo -e "$(__date)  ${Green}BUILT${Color_Off}    - $(sed -e 's|\./export/||' <<<"${__target_files[${n}]}.${f}")"
                     fi
                 else
                     cp "${__old_file_local}.${f}" "${__target_file_local}.${f}"
@@ -349,7 +351,7 @@ for n in $(seq 0 $((${#__source_scripts[@]} - 1))); do
                     if [ "${__local_error}" == 'true' ]; then
                         "$(__date)  ${Red}ERROR${Color_Off}    - ${__target_scripts[${n}]}.${f}"
                     else
-                        echo -e "$(__date)  ${Green}BUILT${Color_Off}    - $(sed -e 's|\./export/||' <<< "${__target_scripts[${n}]}.${f}")"
+                        echo -e "$(__date)  ${Green}BUILT${Color_Off}    - $(sed -e 's|\./export/||' <<<"${__target_scripts[${n}]}.${f}")"
                     fi
                 else
                     cp "${__old_file_local}.${f}" "${__target_file_local}.${f}"

@@ -536,6 +536,7 @@ $endif$
 \let\scr\mathpzc
 \usepackage{booktabs}
 \usepackage{bm}
+\usepackage{gensymb}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 $for(header-includes)$
