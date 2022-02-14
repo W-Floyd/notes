@@ -117,6 +117,10 @@ __pp() {
         '-D_pa=\mathrm{~Pa}' \
         '-D_mpa=\mathrm{~MPa}' \
         '-D_gpa=\mathrm{~GPa}' \
+        '-Dwrt=with respect to' \
+        '-DWrt=With respect to' \
+        '-DSt=Such that' \
+        '-Dst=such that' \
         "-Dbible=!bash(${__top_dir}/tools/bible.sh \"!1\")" \
         "-${__format}" \
         -img="${__target_dir_local}/${__img_temp}" \
